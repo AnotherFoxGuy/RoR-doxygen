@@ -1,0 +1,28 @@
+<map id="Hydrax::CfgFileManager::_getComponentsCfgString" name="Hydrax::CfgFileManager::_getComponentsCfgString">
+<area shape="rect" id="node2" href="$dd/d65/class_hydrax_1_1_hydrax.html#a69e3ff9c4de804dec54156453837df95" title="Hydrax::Hydrax::isComponent" alt="" coords="261,5,457,32"/>
+<area shape="rect" id="node3" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a020c0d58713f7ecbd396101247bcab1b" title="Hydrax::CfgFileManager\l::_getCfgString" alt="" coords="279,57,440,98"/>
+<area shape="rect" id="node4" href="$dd/d65/class_hydrax_1_1_hydrax.html#a987d33873d0d9a1a7ef2dea72c9cf4a3" title="Hydrax::Hydrax::getSunPosition" alt="" coords="255,123,463,149"/>
+<area shape="rect" id="node5" href="$dd/d65/class_hydrax_1_1_hydrax.html#ae841c3882909f074f2fa1455705079b2" title="Hydrax::Hydrax::getSunStrength" alt="" coords="254,173,465,200"/>
+<area shape="rect" id="node6" href="$dd/d65/class_hydrax_1_1_hydrax.html#ac56c251f193c10de861bc3a401d3ce0c" title="Hydrax::Hydrax::getSunArea" alt="" coords="265,224,453,251"/>
+<area shape="rect" id="node7" href="$dd/d65/class_hydrax_1_1_hydrax.html#acf7a138c6149083431bcaa1500c29f4a" title="Hydrax::Hydrax::getSunColor" alt="" coords="264,275,455,301"/>
+<area shape="rect" id="node8" href="$dd/d65/class_hydrax_1_1_hydrax.html#a5ae2609d700fb700d0506bb4bc29b0e2" title="Hydrax::Hydrax::getFoamMax\lDistance" alt="" coords="261,326,457,367"/>
+<area shape="rect" id="node9" href="$dd/d65/class_hydrax_1_1_hydrax.html#a05aad081be52a7b7c9919198a0304768" title="Hydrax::Hydrax::getFoamScale" alt="" coords="257,392,461,419"/>
+<area shape="rect" id="node10" href="$dd/d65/class_hydrax_1_1_hydrax.html#ad6ff93ec70a151f9057b8b5be2b4b39a" title="Hydrax::Hydrax::getFoamStart" alt="" coords="260,443,459,469"/>
+<area shape="rect" id="node11" href="$dd/d65/class_hydrax_1_1_hydrax.html#a45c42ee4514481b25d14ea21d49219fd" title="Hydrax::Hydrax::getFoamTransparency" alt="" coords="235,493,484,520"/>
+<area shape="rect" id="node12" href="$dd/d65/class_hydrax_1_1_hydrax.html#a56b4d0a75c352223e57e488db378cce2" title="Hydrax::Hydrax::getDepth\lLimit" alt="" coords="273,545,445,586"/>
+<area shape="rect" id="node13" href="$dd/d65/class_hydrax_1_1_hydrax.html#a71c118301683c880ca9a7985d560f7f6" title="Hydrax::Hydrax::getSmooth\lPower" alt="" coords="268,610,451,651"/>
+<area shape="rect" id="node14" href="$dd/d65/class_hydrax_1_1_hydrax.html#a180831cf2c673ff586f7def148170cd3" title="Hydrax::Hydrax::getCaustics\lScale" alt="" coords="265,675,454,717"/>
+<area shape="rect" id="node15" href="$dd/d65/class_hydrax_1_1_hydrax.html#a1925e17762ef3f877273bce23a42acab" title="Hydrax::Hydrax::getCaustics\lPower" alt="" coords="265,741,454,782"/>
+<area shape="rect" id="node16" href="$dd/d65/class_hydrax_1_1_hydrax.html#a8746142d93ed72a95d454dfeff6e7a27" title="Hydrax::Hydrax::getCausticsEnd" alt="" coords="253,807,465,833"/>
+<area shape="rect" id="node17" href="$dd/d65/class_hydrax_1_1_hydrax.html#a69272a08df84f181790b34acdf6bca54" title="Hydrax::Hydrax::getGodRays\lExposure" alt="" coords="263,858,455,899"/>
+<area shape="rect" id="node18" href="$dd/d65/class_hydrax_1_1_hydrax.html#af7004333bbefabcdf683515813cd9d94" title="Hydrax::Hydrax::getGodRays\lIntensity" alt="" coords="263,923,455,965"/>
+<area shape="rect" id="node19" href="$dd/d65/class_hydrax_1_1_hydrax.html#a50fd9a0cdeb608f8048713dffffe9c55" title="Hydrax::Hydrax::getGodRays\lManager" alt="" coords="263,989,455,1030"/>
+<area shape="rect" id="node20" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#ab8fe1d4cdd470694be25c2ae26e4f552" title="Hydrax::GodRaysManager\l::getSimulationSpeed" alt="" coords="272,1054,447,1095"/>
+<area shape="rect" id="node25" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#a328e44632de9e1693f51e81f0bb165b7" title="Hydrax::GodRaysManager\l::getNumberOfRays" alt="" coords="272,1119,447,1161"/>
+<area shape="rect" id="node26" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#a0d863555e67f4aa93ed5b257d20547a4" title="Hydrax::GodRaysManager\l::getRaysSize" alt="" coords="272,1185,447,1226"/>
+<area shape="rect" id="node27" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#af8b2634a44cca2b88596265e19f7218d" title="Hydrax::GodRaysManager\l::areObjectsIntersectionsEnabled" alt="" coords="252,1250,467,1291"/>
+<area shape="rect" id="node21" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#aed0d897dae3ae6c585a616d071f02c71" title="Hydrax::GodRaysManager\l::setNumberOfRays" alt="" coords="532,1054,707,1095"/>
+<area shape="rect" id="node22" href="$dd/d65/class_hydrax_1_1_hydrax.html#a4f6dfef270938f04d0430eaf8e1fa88f" title="Hydrax::Hydrax::getScene\lManager" alt="" coords="979,1025,1154,1066"/>
+<area shape="rect" id="node23" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#ab60cb054a3c4948b82c0b1c3736d17b3" title="Hydrax::GodRaysManager\l::_createGodRays" alt="" coords="755,1083,929,1125"/>
+<area shape="rect" id="node24" href="$dd/d65/class_hydrax_1_1_hydrax.html#aa2e090a9b1b0847b6017c8893e86dc3a" title="Hydrax::Hydrax::_isCurrent\lFrameUnderwater" alt="" coords="977,1090,1156,1131"/>
+</map>

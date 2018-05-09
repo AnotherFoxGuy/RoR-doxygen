@@ -1,0 +1,21 @@
+<map id="source/main/gameplay/ChatSystem.cpp" name="source/main/gameplay/ChatSystem.cpp">
+<area shape="rect" id="node2" href="$d4/dab/_chat_system_8h.html" title="ChatSystem.h" alt="" coords="2596,95,2701,121"/>
+<area shape="rect" id="node22" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="3357,95,3455,121"/>
+<area shape="rect" id="node26" href="$d2/de5/_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="2129,95,2235,121"/>
+<area shape="rect" id="node48" href="$dc/d4b/_language_8h.html" title="Language.h" alt="" coords="2785,95,2875,121"/>
+<area shape="rect" id="node52" href="$d9/dc1/_utils_8h.html" title="Utils.h" alt="" coords="3838,95,3897,121"/>
+<area shape="rect" id="node3" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="2504,244,2639,271"/>
+<area shape="rect" id="node21" href="$db/d9e/_network_8h.html" title="Network.h" alt="" coords="2531,169,2611,196"/>
+<area shape="rect" id="node15" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="2887,393,3037,420"/>
+<area shape="rect" id="node16" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2410,319,2551,345"/>
+<area shape="rect" id="node17" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2575,319,2746,345"/>
+<area shape="rect" id="node18" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2304,319,2385,345"/>
+<area shape="rect" id="node27" href="$d2/df0/_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="2115,169,2249,196"/>
+<area shape="rect" id="node30" href="$d3/d6b/_ogre_im_gui_8h.html" title="OgreImGui.h" alt="" coords="681,169,776,196"/>
+<area shape="rect" id="node31" href="$db/d19/imgui_8h.html" title="imgui.h" alt="" coords="1070,244,1134,271"/>
+<area shape="rect" id="node32" href="$dc/dad/imconfig_8h.html" title="imconfig.h" alt="" coords="833,319,915,345"/>
+<area shape="rect" id="node49" href="$de/dec/_singleton_8h.html" title="Singleton.h" alt="" coords="2737,169,2824,196"/>
+<area shape="rect" id="node54" href="$d0/d03/checked_8h.html" title="utf8/checked.h" alt="" coords="4138,169,4245,196"/>
+<area shape="rect" id="node58" href="$d8/d61/unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="3992,169,4113,196"/>
+<area shape="rect" id="node55" href="$d5/dc4/core_8h.html" title="core.h" alt="" coords="4046,244,4105,271"/>
+</map>

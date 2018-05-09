@@ -1,0 +1,33 @@
+<map id="Hydrax::Hydrax::getMaterialManager" name="Hydrax::Hydrax::getMaterialManager">
+<area shape="rect" id="node2" href="$d6/dbe/class_hydrax_1_1_decals_manager.html#a4006596e38bbdaa941d5d963104a8016" title="Hydrax::DecalsManager\l::update" alt="" coords="264,5,425,47"/>
+<area shape="rect" id="node3" href="$d6/dbe/class_hydrax_1_1_decals_manager.html#a63cc52fdd0109f34e1c40b9cfb33f9ab" title="Hydrax::DecalsManager::add" alt="" coords="249,71,440,98"/>
+<area shape="rect" id="node4" href="$d6/dbe/class_hydrax_1_1_decals_manager.html#aa96b53445a99ef4eb3741532e4a05935" title="Hydrax::DecalsManager\l::registerAll" alt="" coords="264,123,425,164"/>
+<area shape="rect" id="node6" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#aa8e2b9d2b8307c07be2d2cd9cf115560" title="Hydrax::Noise::FFT\l::createGPUNormalMapResources" alt="" coords="500,187,723,228"/>
+<area shape="rect" id="node10" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#ad8e21289bddd02ed9a62b3a2db1ff54f" title="Hydrax::GodRaysManager\l::_createMaterials" alt="" coords="257,357,432,399"/>
+<area shape="rect" id="node16" href="$da/d5f/class_hydrax_1_1_g_p_u_normal_map_manager.html#a7398a504e11ea902839868d69bcf956b" title="Hydrax::GPUNormalMapManager\l::create" alt="" coords="237,240,452,281"/>
+<area shape="rect" id="node17" href="$db/d29/class_hydrax_1_1_noise_1_1_perlin.html#adb347b98692bd7ce6ad7ce76c605d15a" title="Hydrax::Noise::Perlin\l::createGPUNormalMapResources" alt="" coords="500,271,723,312"/>
+<area shape="rect" id="node19" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#abf7d8e05771b9f904efa09fe94ab0907" title="Hydrax::RttManager\l::setTextureSize" alt="" coords="275,423,414,464"/>
+<area shape="rect" id="node24" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#ad54dd87efa7baa4a5037faa2e5241738" title="Hydrax::RttManager\l::setTexturesSize" alt="" coords="275,488,414,529"/>
+<area shape="rect" id="node25" href="$d5/daf/class_hydrax_1_1_texture_manager.html#a30bfb59332540e897c43193474b4aa19" title="Hydrax::TextureManager\l::create" alt="" coords="263,553,427,595"/>
+<area shape="rect" id="node26" href="$d3/d16/class_terrain_manager.html#aa7c9434ece63d1313c840b632a3b0430" title="TerrainManager::initWater" alt="" coords="259,619,430,646"/>
+<area shape="rect" id="node5" href="$da/d12/class_hydrax_1_1_material_manager.html#a6aa7b0a92b824348577d506f7bcf581b" title="Hydrax::MaterialManager\l::createMaterials" alt="" coords="528,121,695,163"/>
+<area shape="rect" id="node7" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a1d7ec06eb11cda608cc8f73256c35be5" title="Hydrax::Noise::FFT\l::setOptions" alt="" coords="807,187,941,228"/>
+<area shape="rect" id="node9" href="$d3/db5/struct_hydrax_1_1_noise_1_1_f_f_t_1_1_options.html#adfe9c5cc180b233f7ef6ba50fec06563" title="Hydrax::Noise::FFT\l::Options::Options" alt="" coords="1357,176,1491,217"/>
+<area shape="rect" id="node8" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a64245b9e56eeb8627ac3f5260dc203dd" title="Hydrax::Noise::FFT\l::loadCfg" alt="" coords="1087,235,1222,276"/>
+<area shape="rect" id="node11" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#ad6e8cfa4b9bde36b668d04ae3cfe8d00" title="Hydrax::GodRaysManager\l::create" alt="" coords="524,357,699,399"/>
+<area shape="rect" id="node12" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#a4a85152f7e71a50c473ae65b299f3465" title="Hydrax::GodRaysManager\l::setObjectIntersectionsEnabled" alt="" coords="771,357,977,399"/>
+<area shape="rect" id="node13" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#aa814b728a2c0cd30f3e2851398bacb6b" title="Hydrax::CfgFileManager\l::_loadComponentsSettings" alt="" coords="1063,300,1246,341"/>
+<area shape="rect" id="node15" href="$d2/dd3/class_hydrax_1_1_god_rays_manager.html#ab2c13437ed508bbc27ef2dbbbe480dff" title="Hydrax::GodRaysManager\l::isVisible" alt="" coords="1067,365,1242,407"/>
+<area shape="rect" id="node14" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a0e050d2bf65e31ee39c0e28c481702f8" title="Hydrax::CfgFileManager\l::load" alt="" coords="1343,363,1505,404"/>
+<area shape="rect" id="node18" href="$d5/d28/struct_hydrax_1_1_noise_1_1_perlin_1_1_options.html#a25b331fdb0c7c67b12b865ff081af5e2" title="Hydrax::Noise::Perlin\l::Options::Options" alt="" coords="801,271,947,312"/>
+<area shape="rect" id="node20" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a3971753dfe7ad0b217844419c2b3d1fb" title="Hydrax::CfgFileManager\l::_loadRttSettings" alt="" coords="793,423,955,464"/>
+<area shape="rect" id="node21" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#a7a555bfe00cebdc0628f9b535db500ff" title="Hydrax::RttManager\l::getTextureSize" alt="" coords="542,488,681,529"/>
+<area shape="rect" id="node22" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a7836862e6b5d435d19f9ff62cf5ffca6" title="Hydrax::CfgFileManager\l::_getRttCfgString" alt="" coords="793,488,955,529"/>
+<area shape="rect" id="node23" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a7bb4d0c2124c8c68e49f8fcc26e1add7" title="Hydrax::CfgFileManager\l::save" alt="" coords="1074,488,1235,529"/>
+<area shape="rect" id="node27" href="$d3/d16/class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="520,619,703,646"/>
+<area shape="rect" id="node28" href="$dd/dbe/class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="771,619,977,646"/>
+<area shape="rect" id="node29" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1025,645,1284,671"/>
+<area shape="rect" id="node30" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1332,594,1516,621"/>
+<area shape="rect" id="node31" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1399,645,1449,671"/>
+<area shape="rect" id="node32" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1564,645,1637,671"/>
+</map>

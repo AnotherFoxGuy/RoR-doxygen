@@ -1,0 +1,5 @@
+<map id="RigDef::Serializer::ProcessHydros" name="RigDef::Serializer::ProcessHydros">
+<area shape="rect" id="node2" href="$db/d08/class_rig_def_1_1_serializer.html#a519f37109858367465b34df585a91ed1" title="RigDef::Serializer\l::ProcessBeamDefaults" alt="" coords="176,5,335,47"/>
+<area shape="rect" id="node3" href="$db/d08/class_rig_def_1_1_serializer.html#a672033385d68bad5c89eb1cc719cb4fa" title="RigDef::Serializer\l::ProcessHydro" alt="" coords="194,71,317,112"/>
+<area shape="rect" id="node4" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a84b62d4c0f12249e81d684e880432cf3" title="RigDef::Node::Ref::\lToString" alt="" coords="383,71,516,112"/>
+</map>

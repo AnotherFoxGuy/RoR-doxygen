@@ -1,0 +1,5 @@
+<map id="DashBoardManager::update" name="DashBoardManager::update">
+<area shape="rect" id="node2" href="$d4/d1e/class_dash_board.html#a910b9f299864a9df38aac7911fefecc3" title="DashBoard::update" alt="" coords="236,31,369,57"/>
+<area shape="rect" id="node3" href="$d9/d86/class_dash_board_manager.html#ae494723452dce7445890989fd9f788ae" title="DashBoardManager::getNumeric" alt="" coords="417,5,628,32"/>
+<area shape="rect" id="node4" href="$d9/d86/class_dash_board_manager.html#ae02643729857cf9e6f670a0c0b4fdb7d" title="DashBoardManager::getChar" alt="" coords="428,56,617,83"/>
+</map>

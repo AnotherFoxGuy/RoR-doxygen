@@ -1,0 +1,25 @@
+<map id="intraTruckCollisions" name="intraTruckCollisions">
+<area shape="rect" id="node2" href="$dd/de8/namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="435,209,535,235"/>
+<area shape="rect" id="node14" href="$d5/d9b/class_point_col_detector.html#a04bcd0ac2d9c492f94f446766fb2a749" title="PointColDetector::query" alt="" coords="188,291,348,318"/>
+<area shape="rect" id="node18" href="$d6/d55/_dynamic_collisions_8cpp.html#a33342fa9139afaa4ffbe69d08e3e66b1" title="Test if a point given in triangle local coordinates lies within the triangle itself. " alt="" coords="205,241,331,267"/>
+<area shape="rect" id="node19" href="$d2/d28/class_triangle.html#af90d9120d46267768edfd4ef5133e1fe" title="Triangle::normal" alt="" coords="211,342,325,369"/>
+<area shape="rect" id="node20" href="$d6/d55/_dynamic_collisions_8cpp.html#a4bdbf1c122bd5a10b8768a44aaf2b698" title="Calculate collision forces and apply them to the collision node and the three vertex nodes of the col..." alt="" coords="190,394,346,421"/>
+<area shape="rect" id="node3" href="$dd/de8/namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="662,209,738,235"/>
+<area shape="rect" id="node4" href="$d0/d96/namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="827,209,1003,235"/>
+<area shape="rect" id="node5" href="$d0/d96/namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="1053,5,1211,47"/>
+<area shape="rect" id="node7" href="$d0/d96/namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="1073,71,1191,112"/>
+<area shape="rect" id="node8" href="$d0/d96/namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="1073,136,1191,177"/>
+<area shape="rect" id="node9" href="$d0/d96/namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="1073,201,1191,243"/>
+<area shape="rect" id="node10" href="$d0/d96/namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="1073,267,1191,308"/>
+<area shape="rect" id="node11" href="$d0/d96/namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="1070,332,1194,373"/>
+<area shape="rect" id="node13" href="$d0/d96/namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="1063,397,1201,439"/>
+<area shape="rect" id="node6" href="$d0/d96/namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1259,143,1399,170"/>
+<area shape="rect" id="node12" href="$d0/d96/namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="1273,332,1384,373"/>
+<area shape="rect" id="node15" href="$d5/d9b/class_point_col_detector.html#a527315532789859ce268f76a1002be69" title="PointColDetector::queryrec" alt="" coords="396,287,575,314"/>
+<area shape="rect" id="node16" href="$d5/d9b/class_point_col_detector.html#afd90680dea847b2ed9fca4f246302389" title="PointColDetector::build\l_kdtree_incr" alt="" coords="623,279,777,320"/>
+<area shape="rect" id="node17" href="$d5/d9b/class_point_col_detector.html#a4aead4359a31a59472d6eb55109fa578" title="PointColDetector::partintwo" alt="" coords="825,286,1005,313"/>
+<area shape="rect" id="node21" href="$d2/d8c/_collisions_8cpp.html#a9933836f15db1958d035f7d773aefd06" title="primitiveCollision" alt="" coords="426,395,545,422"/>
+<area shape="rect" id="node22" href="$df/d52/_approx_math_8h.html#aa827078e74a2a2b87a97a834d2359e88" title="approx_pow" alt="" coords="655,345,745,371"/>
+<area shape="rect" id="node23" href="$df/d52/_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="655,395,745,422"/>
+<area shape="rect" id="node24" href="$df/d52/_approx_math_8h.html#a9f32a288dbece202a4eaa1808aad5506" title="approx_exp" alt="" coords="655,446,745,473"/>
+</map>

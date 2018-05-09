@@ -1,0 +1,7 @@
+<map id="BeamEngine::getType" name="BeamEngine::getType">
+<area shape="rect" id="node2" href="$d6/de4/class_beam_engine.html#ab44a19bd64049dcd338fcf6994e27f1d" title="BeamEngine::getAccToHoldRPM" alt="" coords="204,5,419,32"/>
+<area shape="rect" id="node3" href="$d6/de4/class_beam_engine.html#a8dd9a69eaf18df6ed1cc51491719e2d2" title="BeamEngine::getEnginePower" alt="" coords="467,56,665,83"/>
+<area shape="rect" id="node5" href="$d6/de4/class_beam_engine.html#afa110a2bacf71a91bb89775c3f3a1605" title="BeamEngine::getTurboPower" alt="" coords="717,107,908,133"/>
+<area shape="rect" id="node4" href="$d8/d12/class_torque_curve.html#ac086875124a09f29072f016ae3c99642" title="TorqueCurve::getEngineTorque" alt="" coords="713,56,912,83"/>
+<area shape="rect" id="node6" href="$d6/de4/class_beam_engine.html#a97f9e8ae65b27a623c9aefaba01b5a3b" title="BeamEngine::getTurboPSI" alt="" coords="960,107,1135,133"/>
+</map>

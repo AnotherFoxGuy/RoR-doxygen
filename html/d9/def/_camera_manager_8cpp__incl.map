@@ -1,0 +1,46 @@
+<map id="source/main/gfx/camera/CameraManager.cpp" name="source/main/gfx/camera/CameraManager.cpp">
+<area shape="rect" id="node2" href="$db/d24/_camera_manager_8h.html" title="CameraManager.h" alt="" coords="435,333,563,360"/>
+<area shape="rect" id="node23" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="4627,483,4724,509"/>
+<area shape="rect" id="node27" href="$da/d19/_beam_factory_8h.html" title="BeamFactory.h" alt="" coords="1412,102,1523,129"/>
+<area shape="rect" id="node44" href="$d5/d7a/_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="3918,259,4105,285"/>
+<area shape="rect" id="node51" href="$d9/d2b/_depth_of_field_effect_8h.html" title="DepthOfFieldEffect.h" alt="" coords="2839,333,2981,360"/>
+<area shape="rect" id="node56" href="$d1/d83/_input_engine_8h.html" title="Input logic. " alt="" coords="3977,333,4078,360"/>
+<area shape="rect" id="node65" href="$d4/d4a/_settings_8h.html" title="Settings.h" alt="" coords="1595,184,1676,211"/>
+<area shape="rect" id="node66" href="$d2/de5/_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="4443,333,4548,360"/>
+<area shape="rect" id="node81" href="$df/d97/_camera_behavior_orbit_8h.html" title="CameraBehaviorOrbit.h" alt="" coords="673,259,827,285"/>
+<area shape="rect" id="node82" href="$d6/dcf/_camera_behavior_character_8h.html" title="CameraBehaviorCharacter.h" alt="" coords="695,184,877,211"/>
+<area shape="rect" id="node83" href="$d8/d0f/_camera_behavior_fixed_8h.html" title="CameraBehaviorFixed.h" alt="" coords="209,259,368,285"/>
+<area shape="rect" id="node84" href="$dd/df2/_camera_behavior_free_8h.html" title="CameraBehaviorFree.h" alt="" coords="495,259,648,285"/>
+<area shape="rect" id="node85" href="$d0/d30/_camera_behavior_static_8h.html" title="CameraBehaviorStatic.h" alt="" coords="1004,259,1165,285"/>
+<area shape="rect" id="node87" href="$dc/d0e/_camera_behavior_vehicle_8h.html" title="CameraBehaviorVehicle.h" alt="" coords="953,184,1123,211"/>
+<area shape="rect" id="node88" href="$d0/dc7/_camera_behavior_vehicle_cine_cam_8h.html" title="CameraBehaviorVehicleCine\lCam.h" alt="" coords="809,95,995,136"/>
+<area shape="rect" id="node89" href="$da/dc7/_camera_behavior_vehicle_spline_8h.html" title="CameraBehaviorVehicleSpline.h" alt="" coords="1071,102,1277,129"/>
+<area shape="rect" id="node90" href="$d6/d48/_camera_behavior_isometric_8h.html" title="CameraBehaviorIsometric.h" alt="" coords="5,259,185,285"/>
+<area shape="rect" id="node3" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1440,483,1575,509"/>
+<area shape="rect" id="node21" href="$d1/d5d/_i_behavior_8h.html" title="IBehavior.h" alt="" coords="507,408,593,435"/>
+<area shape="rect" id="node15" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="3211,632,3361,659"/>
+<area shape="rect" id="node16" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2089,557,2230,584"/>
+<area shape="rect" id="node17" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1737,557,1907,584"/>
+<area shape="rect" id="node18" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="1932,557,2013,584"/>
+<area shape="rect" id="node28" href="$db/df2/_beam_8h.html" title="Beam.h" alt="" coords="2074,184,2141,211"/>
+<area shape="rect" id="node48" href="$d1/d9d/_dust_manager_8h.html" title="DustManager.h" alt="" coords="1253,184,1364,211"/>
+<area shape="rect" id="node49" href="$de/dec/_singleton_8h.html" title="Singleton.h" alt="" coords="1292,259,1379,285"/>
+<area shape="rect" id="node50" href="$db/d9e/_network_8h.html" title="Network.h" alt="" coords="1389,184,1469,211"/>
+<area shape="rect" id="node29" href="$dd/d50/_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="2060,259,2155,285"/>
+<area shape="rect" id="node41" href="$d5/d00/_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="4519,483,4603,509"/>
+<area shape="rect" id="node45" href="$d5/d1c/_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="1505,259,1659,285"/>
+<area shape="rect" id="node30" href="$dc/d74/_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="2032,333,2108,360"/>
+<area shape="rect" id="node32" href="$de/dec/_slide_node_8h.html" title="SlideNode.h" alt="" coords="1601,333,1693,360"/>
+<area shape="rect" id="node34" href="$d9/d1e/_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="1717,333,1844,360"/>
+<area shape="rect" id="node35" href="$de/d00/node__t_8h.html" title="datatypes/node_t.h" alt="" coords="2291,408,2425,435"/>
+<area shape="rect" id="node36" href="$d4/d78/shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="1868,333,2008,360"/>
+<area shape="rect" id="node37" href="$da/d84/beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="1967,408,2104,435"/>
+<area shape="rect" id="node38" href="$d0/d7b/wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="2129,408,2267,435"/>
+<area shape="rect" id="node39" href="$d7/ddc/rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="4731,408,4849,435"/>
+<area shape="rect" id="node33" href="$df/d52/_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1596,408,1699,435"/>
+<area shape="rect" id="node57" href="$d4/dd4/_ro_r_window_event_utilities_8h.html" title="RoRWindowEventUtilities.h" alt="" coords="3550,408,3729,435"/>
+<area shape="rect" id="node67" href="$d2/df0/_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="3393,408,3526,435"/>
+<area shape="rect" id="node68" href="$d3/d6b/_ogre_im_gui_8h.html" title="OgreImGui.h" alt="" coords="4976,408,5071,435"/>
+<area shape="rect" id="node69" href="$db/d19/imgui_8h.html" title="imgui.h" alt="" coords="5345,483,5409,509"/>
+<area shape="rect" id="node70" href="$dc/dad/imconfig_8h.html" title="imconfig.h" alt="" coords="5108,557,5189,584"/>
+</map>

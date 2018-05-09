@@ -1,0 +1,68 @@
+<map id="RoR::LandVehicleSimulation::UpdateVehicle" name="RoR::LandVehicleSimulation::UpdateVehicle">
+<area shape="rect" id="node2" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="544,310,719,337"/>
+<area shape="rect" id="node3" href="$d3/d7b/class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="802,99,983,126"/>
+<area shape="rect" id="node8" href="$d6/de4/class_beam_engine.html#a598609b97724e5ed0e4adbc22d3f37ff" title="BeamEngine::getAutoMode" alt="" coords="264,994,445,1021"/>
+<area shape="rect" id="node9" href="$d6/de4/class_beam_engine.html#a03100b0e01ef921e210733044cdb71a6" title="BeamEngine::autoSetAcc" alt="" coords="545,411,717,438"/>
+<area shape="rect" id="node11" href="$d6/de4/class_beam_engine.html#acb984f668e093b13ca9fad182831763e" title="BeamEngine::hasContact" alt="" coords="546,766,717,793"/>
+<area shape="rect" id="node12" href="$d6/de4/class_beam_engine.html#abb3f5e80a52e013b8510d4ff4bc171f5" title="BeamEngine::isRunning" alt="" coords="551,817,712,843"/>
+<area shape="rect" id="node13" href="$d6/de4/class_beam_engine.html#ae9e67ae5371b9cb2e1fc12167d3b8979" title="BeamEngine::start" alt="" coords="289,1045,420,1071"/>
+<area shape="rect" id="node15" href="$d6/de4/class_beam_engine.html#ae5f87426f9dc96c4f4bf377b53e9936a" title="BeamEngine::getGear" alt="" coords="556,209,707,235"/>
+<area shape="rect" id="node16" href="$df/df9/class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="288,1095,421,1122"/>
+<area shape="rect" id="node17" href="$d6/de4/class_beam_engine.html#af424a6752492c01a4912a871b036d09a" title="BeamEngine::autoShiftSet" alt="" coords="267,1247,442,1274"/>
+<area shape="rect" id="node19" href="$d6/de4/class_beam_engine.html#a4dcdf826508a8427c7396b14cd818b5f" title="BeamEngine::setGear" alt="" coords="279,1298,430,1325"/>
+<area shape="rect" id="node20" href="$d3/d7b/class_input_engine.html#af2b4c31bf4b64b4b78815142511ab343" title="InputEngine::getEventBool\lValueBounce" alt="" coords="267,147,442,188"/>
+<area shape="rect" id="node21" href="$d3/d7b/class_input_engine.html#a72145988ab99faec6f618c2a4011d236" title="InputEngine::getEventBool\lValue" alt="" coords="544,92,719,133"/>
+<area shape="rect" id="node22" href="$d6/de4/class_beam_engine.html#a975fb76ba9f8ba31c092b6317de26b4b" title="BeamEngine::autoShiftUp" alt="" coords="269,1146,440,1173"/>
+<area shape="rect" id="node23" href="$d6/de4/class_beam_engine.html#a97e90e5d479da49939cb4b097fc77ebc" title="BeamEngine::autoShiftDown" alt="" coords="261,1197,448,1223"/>
+<area shape="rect" id="node24" href="$d6/de4/class_beam_engine.html#a50e695745a780c625bdeaa64dd4c093d" title="BeamEngine::toggleContact" alt="" coords="263,1349,447,1375"/>
+<area shape="rect" id="node25" href="$d6/de4/class_beam_engine.html#a87bbe4383e26c13a8297866c97e2db18" title="BeamEngine::setstarter" alt="" coords="275,1399,434,1426"/>
+<area shape="rect" id="node26" href="$d6/de4/class_beam_engine.html#a20e1c2547eb61781a8f577c050153b4a" title="BeamEngine::toggleAutoMode" alt="" coords="255,1450,454,1477"/>
+<area shape="rect" id="node27" href="$df/df9/class_beam.html#a6ea067b9bf0335a2b51dc59d95585697" title="Beam::triggerGUIFeatures\lChanged" alt="" coords="268,1501,441,1543"/>
+<area shape="rect" id="node28" href="$df/d86/namespace_ro_r_1_1_app.html#aa04ed1e7b697aa1f33f1bb1297cb3e48" title="RoR::App::GetConsole" alt="" coords="277,1567,432,1594"/>
+<area shape="rect" id="node30" href="$d0/d9f/class_ro_r_1_1_console.html#a6883dfc6a1d760581a917e101b6357c5" title="RoR::Console::putMessage" alt="" coords="264,1618,445,1645"/>
+<area shape="rect" id="node32" href="$df/d86/namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="266,1669,443,1695"/>
+<area shape="rect" id="node33" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a534a8e82d1b92384767ab1c555126bba" title="RoR::GUIManager::PushNotification" alt="" coords="240,1719,469,1746"/>
+<area shape="rect" id="node35" href="$d6/de4/class_beam_engine.html#ab8b3324f6ba347f0fc60c34a2d28c7d6" title="BeamEngine::setManualClutch" alt="" coords="254,1770,455,1797"/>
+<area shape="rect" id="node36" href="$d6/de4/class_beam_engine.html#a4a1f822856aacd574f37d13a5ee11589" title="BeamEngine::shift" alt="" coords="567,1871,695,1898"/>
+<area shape="rect" id="node38" href="$d6/de4/class_beam_engine.html#a52ad34ee5fa555966eda7d9d0deaf5a4" title="BeamEngine::shiftTo" alt="" coords="283,1871,426,1898"/>
+<area shape="rect" id="node39" href="$d6/de4/class_beam_engine.html#a3b7fd2508023a6e8b41366fdc28ef7f3" title="BeamEngine::getGearRange" alt="" coords="261,1973,448,1999"/>
+<area shape="rect" id="node40" href="$d6/de4/class_beam_engine.html#a057c26837136ee3627cfdd0be91d5b0e" title="BeamEngine::setGearRange" alt="" coords="261,2023,448,2050"/>
+<area shape="rect" id="node41" href="$d6/de4/class_beam_engine.html#a6d1f4d70c287f90e63cbc2d3a36b44d7" title="BeamEngine::getNumGearsRanges" alt="" coords="517,1922,745,1949"/>
+<area shape="rect" id="node42" href="$d6/de4/class_beam_engine.html#afc790a312867e2f3072905f5c6a47f71" title="BeamEngine::getAutoShift" alt="" coords="805,842,980,869"/>
+<area shape="rect" id="node43" href="$df/df9/class_beam.html#a0f3e32834815ae635f01fcf68e078b87" title="Beam::getTotalMass" alt="" coords="560,867,703,894"/>
+<area shape="rect" id="node44" href="$d6/de4/class_beam_engine.html#aa12106771455b3e4f9c33d558976df4c" title="BeamEngine::getTorque" alt="" coords="274,2074,435,2101"/>
+<area shape="rect" id="node45" href="$df/df9/class_beam.html#a8157e3bb4ef95832b14ad9f9bd37534a" title="get the name of the current differential model " alt="" coords="269,2125,440,2151"/>
+<area shape="rect" id="node46" href="$df/df9/class_beam.html#a2b8b1950566f8c23fe8185b57c6cd9d0" title="Beam::toggleAxleLock" alt="" coords="278,2175,431,2202"/>
+<area shape="rect" id="node47" href="$df/df9/class_beam.html#aeeae11c22474547cd401fc630240b17a" title="Beam::getAxleLockName" alt="" coords="269,2226,440,2253"/>
+<area shape="rect" id="node48" href="$df/df9/class_beam.html#a6ed36647ce357654c04703737db3463f" title="diff lock on or off " alt="" coords="267,2277,443,2303"/>
+<area shape="rect" id="node49" href="$df/df9/class_beam.html#afbdd0b96525784cab48567eadd67b3ca" title="Beam::antilockbrakeToggle" alt="" coords="265,2327,444,2354"/>
+<area shape="rect" id="node50" href="$df/df9/class_beam.html#a8ca770dc2b4dc743022279897701a659" title="Beam::tractioncontrolToggle" alt="" coords="263,2378,447,2405"/>
+<area shape="rect" id="node51" href="$df/df9/class_beam.html#aa436790ce4151954491218752b325a1d" title="Beam::cruisecontrolToggle" alt="" coords="543,918,719,945"/>
+<area shape="rect" id="node52" href="$da/dba/struct_ro_r_1_1_land_vehicle_simulation.html#a20e0e3bfb3deaa213ffb06d283ae81c8" title="RoR::LandVehicleSimulation\l::UpdateCruiseControl" alt="" coords="261,556,448,597"/>
+<area shape="rect" id="node67" href="$da/dba/struct_ro_r_1_1_land_vehicle_simulation.html#aeb311b9e9cb93cb4a55f58af0cf8c8a8" title="RoR::LandVehicleSimulation\l::CheckSpeedLimit" alt="" coords="261,264,448,305"/>
+<area shape="rect" id="node4" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="1123,150,1172,177"/>
+<area shape="rect" id="node6" href="$d3/d7b/class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="1062,49,1233,75"/>
+<area shape="rect" id="node7" href="$d3/d7b/class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="1070,99,1225,126"/>
+<area shape="rect" id="node5" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="1364,150,1440,177"/>
+<area shape="rect" id="node10" href="$d6/de4/class_beam_engine.html#a74010b85a774cb7e3bd4c494bd29e315" title="BeamEngine::setAcc" alt="" coords="820,285,965,311"/>
+<area shape="rect" id="node14" href="$d6/de4/class_beam_engine.html#aa607acaf680170927f6aa5aee55e6aa0" title="BeamEngine::offstart" alt="" coords="560,1045,703,1071"/>
+<area shape="rect" id="node18" href="$d6/de4/class_beam_engine.html#a933aae8be7297f02a47db86e36abb5f8" title="BeamEngine::updateShifts" alt="" coords="543,1197,719,1223"/>
+<area shape="rect" id="node29" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a982bc848eb4330aa9e57a54bfc60d975" title="RoR::GUIManager::GetConsole" alt="" coords="530,1563,733,1590"/>
+<area shape="rect" id="node31" href="$dd/df6/class_inter_thread_store_vector.html#a88d3f7e3e3ce109e13af1c46a12a50b0" title="InterThreadStoreVector\l\&lt; ConsoleMessage \&gt;::push" alt="" coords="540,1615,723,1656"/>
+<area shape="rect" id="node34" href="$db/d12/class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ac18f8c423994b93276f5f33b22e53d41" title="RoR::GUI::SimUtils\l::PushNotification" alt="" coords="564,1712,699,1753"/>
+<area shape="rect" id="node37" href="$d6/de4/class_beam_engine.html#a7231a53b2dd66a597463fd00cbeabb1f" title="BeamEngine::getNumGears" alt="" coords="801,1897,985,1923"/>
+<area shape="rect" id="node53" href="$d6/de4/class_beam_engine.html#ab44a19bd64049dcd338fcf6994e27f1d" title="BeamEngine::getAccToHoldRPM" alt="" coords="1040,589,1255,615"/>
+<area shape="rect" id="node58" href="$d6/de4/class_beam_engine.html#a871214fce37bde9b73e59494e2dc2bca" title="BeamEngine::getRPM" alt="" coords="556,715,707,742"/>
+<area shape="rect" id="node59" href="$d6/de4/class_beam_engine.html#aeffa6a560fba720ac6af0a33f3ba1d1e" title="BeamEngine::getEngineTorque" alt="" coords="531,462,732,489"/>
+<area shape="rect" id="node60" href="$d6/de4/class_beam_engine.html#abc2a45e43ee553e818feb2f505d6f309" title="BeamEngine::getBrakingTorque" alt="" coords="529,614,734,641"/>
+<area shape="rect" id="node62" href="$d6/de4/class_beam_engine.html#a0da07abab36323b70d48fe5e9efe01fc" title="BeamEngine::getMaxRPM" alt="" coords="543,513,719,539"/>
+<area shape="rect" id="node63" href="$d6/de4/class_beam_engine.html#a46fac8fa7e732ae12edd43017a3e5fc8" title="BeamEngine::getMinRPM" alt="" coords="545,665,717,691"/>
+<area shape="rect" id="node66" href="$d6/de4/class_beam_engine.html#a2a9f0148195ac8b87fd92456743f2c01" title="BeamEngine::getAcc" alt="" coords="559,259,704,286"/>
+<area shape="rect" id="node54" href="$d6/de4/class_beam_engine.html#a8dd9a69eaf18df6ed1cc51491719e2d2" title="BeamEngine::getEnginePower" alt="" coords="1303,589,1501,615"/>
+<area shape="rect" id="node55" href="$d8/d12/class_torque_curve.html#ac086875124a09f29072f016ae3c99642" title="TorqueCurve::getEngineTorque" alt="" coords="1549,563,1748,590"/>
+<area shape="rect" id="node56" href="$d6/de4/class_beam_engine.html#afa110a2bacf71a91bb89775c3f3a1605" title="BeamEngine::getTurboPower" alt="" coords="1553,614,1744,641"/>
+<area shape="rect" id="node57" href="$d6/de4/class_beam_engine.html#a97f9e8ae65b27a623c9aefaba01b5a3b" title="BeamEngine::getTurboPSI" alt="" coords="1796,614,1971,641"/>
+<area shape="rect" id="node61" href="$d6/de4/class_beam_engine.html#abdc4379a7db428debfe14d05972d808e" title="BeamEngine::getIdleMixture" alt="" coords="800,614,985,641"/>
+<area shape="rect" id="node64" href="$d6/de4/class_beam_engine.html#af3571459f6ea5650b38ced1a5ea148b4" title="BeamEngine::getPrimeMixture" alt="" coords="793,665,992,691"/>
+<area shape="rect" id="node65" href="$d6/de4/class_beam_engine.html#a19e5f9230ce7bfe6cfd001af50be3c10" title="BeamEngine::getCrankFactor" alt="" coords="1051,665,1244,691"/>
+</map>

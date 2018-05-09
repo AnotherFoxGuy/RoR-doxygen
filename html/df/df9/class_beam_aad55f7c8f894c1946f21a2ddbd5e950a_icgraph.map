@@ -1,0 +1,6 @@
+<map id="Beam::StopAllSounds" name="Beam::StopAllSounds">
+<area shape="rect" id="node2" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a19c3b3a03f33efbed7a031aa94d81d73" title="Call this after simulation loop finishes. " alt="" coords="204,5,389,47"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="932,34,1144,61"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5703b053d2b40e3dae66a063ded34578" title="RoR::BeamFactory::getSimulation\lSpeed" alt="" coords="437,35,657,76"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="705,85,884,127"/>
+</map>

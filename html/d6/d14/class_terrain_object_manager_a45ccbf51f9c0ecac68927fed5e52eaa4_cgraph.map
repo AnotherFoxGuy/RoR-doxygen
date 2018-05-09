@@ -1,0 +1,77 @@
+<map id="TerrainObjectManager::loadObjectConfigFile" name="TerrainObjectManager::loadObjectConfigFile">
+<area shape="rect" id="node2" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="1281,166,1331,193"/>
+<area shape="rect" id="node4" href="$d3/d16/class_terrain_manager.html#a9cc5df74a16657c867b60c2095ae67e6" title="TerrainManager::getGeometry\lManager" alt="" coords="209,1615,403,1656"/>
+<area shape="rect" id="node5" href="$d2/d9a/class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="732,1688,900,1729"/>
+<area shape="rect" id="node6" href="$df/d86/namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="217,1797,395,1823"/>
+<area shape="rect" id="node7" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#acd7e141e9a6cb9cef2f8a7c4a6822a58" title="RoR::GUIManager::GetLoading\lWindow" alt="" coords="205,1848,407,1889"/>
+<area shape="rect" id="node8" href="$d1/d7c/class_ro_r_1_1_g_u_i_1_1_loading_window.html#acc087e971e8347f14011eaa787c8fc5e" title="RoR::GUI::LoadingWindow\l::setProgress" alt="" coords="218,1913,394,1955"/>
+<area shape="rect" id="node12" href="$d3/d16/class_terrain_manager.html#a5127b1e8d4cc3d44f710c37bc5ed89a6" title="TerrainManager::getPagedMode" alt="" coords="203,1979,409,2006"/>
+<area shape="rect" id="node13" href="$d0/d28/class_ro_r_1_1_str.html#a11656f4feb8913e45b15ae8b1d474f29" title="RoR::Str::GetBuffer" alt="" coords="239,2030,373,2057"/>
+<area shape="rect" id="node14" href="$d3/d16/class_terrain_manager.html#a32555537cf4734e2d910df8ab0dee6a9" title="TerrainManager::getPaged\lDetailFactor" alt="" coords="219,1680,393,1721"/>
+<area shape="rect" id="node17" href="$d2/d0a/_terrain_object_manager_8cpp.html#a0a08827b22251b1de728e093119084b6" title="getTerrainHeight" alt="" coords="1248,1513,1364,1539"/>
+<area shape="rect" id="node18" href="$d3/d16/class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="1454,1379,1629,1420"/>
+<area shape="rect" id="node19" href="$d9/d44/class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="1454,1487,1629,1514"/>
+<area shape="rect" id="node20" href="$d9/d39/class_collisions.html#a285399f2b679c1d0b649b71aa805d5f3" title="Collisions::addCollisionMesh" alt="" coords="959,899,1147,926"/>
+<area shape="rect" id="node33" href="$d8/d78/class_procedural_manager.html#a2512968cf40ccdd75b82aa830bcafe17" title="ProceduralManager::\laddObject" alt="" coords="235,1335,377,1376"/>
+<area shape="rect" id="node44" href="$d3/d16/class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="220,2081,392,2107"/>
+<area shape="rect" id="node45" href="$df/d86/namespace_ro_r_1_1_app.html#ab3a56a250de7f20045e9aaa8f090e70f" title="RoR::App::GetCacheSystem" alt="" coords="959,1061,1148,1087"/>
+<area shape="rect" id="node46" href="$d6/d14/class_terrain_object_manager.html#a62a108ad201e16585ab3115befedae60" title="TerrainObjectManager\l::loadObject" alt="" coords="741,549,891,591"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="1503,125,1579,151"/>
+<area shape="rect" id="node9" href="$d9/dc1/_utils_8h.html#a23744b3f0e07a907bc9993afbcf37c2d" title="convertToMyGUIString" alt="" coords="495,1950,646,1977"/>
+<area shape="rect" id="node11" href="$d1/d7c/class_ro_r_1_1_g_u_i_1_1_loading_window.html#a7e766d284e97fe928222c35ec5b1a573" title="RoR::GUI::LoadingWindow\l::renderOneFrame" alt="" coords="483,1884,659,1925"/>
+<area shape="rect" id="node10" href="$d9/dc1/_utils_8h.html#abe6f6cf9ad4e672e6f4db9fe552b6bcf" title="ANSI_TO_WCHAR" alt="" coords="750,1950,882,1977"/>
+<area shape="rect" id="node15" href="$d3/d16/class_terrain_manager.html#adea47279469bd537112ac0913c3a4bdf" title="TerrainManager::GetAuthors" alt="" coords="478,1695,663,1722"/>
+<area shape="rect" id="node16" href="$d3/d16/class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="457,1645,684,1671"/>
+<area shape="rect" id="node21" href="$d9/d39/class_collisions.html#a7840c7d5b2b56b4cc8f41778c0edb7a7" title="Collisions::getGroundModel\lByString" alt="" coords="1215,1143,1397,1184"/>
+<area shape="rect" id="node22" href="$d9/d39/class_collisions.html#a2ef942fa770bd57c5638465d58bed210" title="Collisions::getMeshInformation" alt="" coords="1207,990,1405,1017"/>
+<area shape="rect" id="node23" href="$d9/d39/class_collisions.html#a44e7f403a680e597a54209b2873b6e28" title="Collisions::addCollisionTri" alt="" coords="1456,1041,1627,1067"/>
+<area shape="rect" id="node24" href="$d9/d39/class_collisions.html#a0f6b7005dc87f64650ced8786bba0a08" title="Collisions::GetNumCollisionTris" alt="" coords="1677,1066,1881,1093"/>
+<area shape="rect" id="node27" href="$dc/dc3/class_ogre_1_1_movable_text.html#aed27a49ecadb3905afb7b5de4409d799" title="Ogre::MovableText::\lsetFontName" alt="" coords="1237,597,1375,639"/>
+<area shape="rect" id="node28" href="$dc/dc3/class_ogre_1_1_movable_text.html#a8fc0b2d13ba89695e53152ad1c435306" title="Ogre::MovableText::\lsetTextAlignment" alt="" coords="1237,663,1375,704"/>
+<area shape="rect" id="node29" href="$dc/dc3/class_ogre_1_1_movable_text.html#a0e4f2340efd854e591e07fb4bebcbeaa" title="Ogre::MovableText::\lsetAdditionalHeight" alt="" coords="1237,728,1375,769"/>
+<area shape="rect" id="node30" href="$dc/dc3/class_ogre_1_1_movable_text.html#a88bb2321dd352795dfeff306928e48bc" title="Ogre::MovableText::\lshowOnTop" alt="" coords="1237,793,1375,835"/>
+<area shape="rect" id="node31" href="$dc/dc3/class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::\lsetCharacterHeight" alt="" coords="1237,859,1375,900"/>
+<area shape="rect" id="node32" href="$dc/dc3/class_ogre_1_1_movable_text.html#a7ed5e440d32fee6180e6eaa7094b3f5c" title="Ogre::MovableText::\lsetColor" alt="" coords="1237,924,1375,965"/>
+<area shape="rect" id="node25" href="$d9/d39/class_collisions.html#ab8dc3b86fee4e2aa47927bfeabe2ddfe" title="Collisions::hash_add" alt="" coords="1708,802,1851,829"/>
+<area shape="rect" id="node26" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="1930,802,2069,829"/>
+<area shape="rect" id="node34" href="$d8/d78/class_procedural_manager.html#a63f800c4fe54872d67b0a3e3b1361927" title="ProceduralManager::\lupdateObject" alt="" coords="499,1324,642,1365"/>
+<area shape="rect" id="node35" href="$d8/d78/class_procedural_manager.html#a4789de044c9c0ecf55a0b8d8270137da" title="ProceduralManager::\ldeleteObject" alt="" coords="745,1229,887,1271"/>
+<area shape="rect" id="node36" href="$d0/d42/class_road2.html#af1ed3f3e7283f49faad7101f0908ad19" title="Road2::addBlock" alt="" coords="755,1346,877,1373"/>
+<area shape="rect" id="node42" href="$d0/d42/class_road2.html#a9a8d8af3d830d58c09b2cea742e42832" title="Road2::finish" alt="" coords="767,1295,865,1322"/>
+<area shape="rect" id="node37" href="$d0/d42/class_road2.html#a9d8724ad4d80b364282df601d120e32d" title="Road2::computePoints" alt="" coords="976,1361,1131,1387"/>
+<area shape="rect" id="node39" href="$d0/d42/class_road2.html#a27a9cf5803361dbd84862a241ac2b9bb" title="Road2::addQuad" alt="" coords="994,1259,1113,1286"/>
+<area shape="rect" id="node38" href="$d0/d42/class_road2.html#aef616e475fae2504b50ad65a1ba3b3cb" title="Road2::baseOf" alt="" coords="1252,1411,1360,1438"/>
+<area shape="rect" id="node40" href="$d0/d42/class_road2.html#aa511f1f1ee168547950f505271f10f3b" title="Road2::textureFit" alt="" coords="1245,1259,1367,1286"/>
+<area shape="rect" id="node41" href="$d0/d42/class_road2.html#ade752b3c6e9e9251bbea2833eb6e4731" title="Road2::addCollisionQuad" alt="" coords="1222,1209,1390,1235"/>
+<area shape="rect" id="node43" href="$d0/d42/class_road2.html#a19a04c18574f9543104b7a874b68fe90" title="Road2::createMesh" alt="" coords="986,1209,1121,1235"/>
+<area shape="rect" id="node47" href="$da/d4c/namespace_ro_r_1_1_utils.html#ac62ee4a4a513a67cba1bdc7d9eb9c7a4" title="RoR::Utils::SanitizeUtf8\lString" alt="" coords="974,324,1133,365"/>
+<area shape="rect" id="node61" href="$dc/d69/class_mesh_object.html#ab5d7575b61e5751d3e6dd6bb476c3d89" title="MeshObject::getEntity" alt="" coords="977,273,1129,299"/>
+<area shape="rect" id="node62" href="$d9/d39/class_collisions.html#a3f2acd0249632458dd92a551210f83a1" title="Collisions::loadGroundModels\lConfigFile" alt="" coords="956,659,1151,700"/>
+<area shape="rect" id="node69" href="$d9/d39/class_collisions.html#a50cf1fc86be3b7e69b687256f6d5d1f3" title="Collisions::addCollisionBox" alt="" coords="964,725,1143,751"/>
+<area shape="rect" id="node71" href="$d7/d35/_write_text_to_texture_8cpp.html#a0f8e8600c38836cb142eb06efd10a397" title="WriteToTexture" alt="" coords="998,171,1109,198"/>
+<area shape="rect" id="node72" href="$db/dd2/class_survey_map_manager.html#a7af7a8d747001ee3749c4c0b97a32375" title="SurveyMapManager::create\lMapEntity" alt="" coords="963,389,1143,431"/>
+<area shape="rect" id="node73" href="$df/d13/class_survey_map_entity.html#ad3cc1cb8f1e71f876290abb0eb004c05" title="SurveyMapEntity::setVisibility" alt="" coords="956,455,1151,482"/>
+<area shape="rect" id="node74" href="$df/d13/class_survey_map_entity.html#a781ecb998f41521324088cd3ce66d9ce" title="SurveyMapEntity::setPosition" alt="" coords="957,506,1150,533"/>
+<area shape="rect" id="node75" href="$df/d13/class_survey_map_entity.html#a23640d7a462102b43b62b44204a99a2d" title="SurveyMapEntity::setRotation" alt="" coords="956,557,1151,583"/>
+<area shape="rect" id="node76" href="$df/d13/class_survey_map_entity.html#a5515fd4276cea4c35f2a1e33c2f7c2a8" title="SurveyMapEntity::setDescription" alt="" coords="948,607,1159,634"/>
+<area shape="rect" id="node48" href="$dd/de8/namespaceutf8.html#a07dcd36a2185e5c9f0b19dd88859cd6c" title="utf8::replace_invalid" alt="" coords="1239,242,1373,269"/>
+<area shape="rect" id="node49" href="$d0/d96/namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="1453,226,1629,253"/>
+<area shape="rect" id="node59" href="$dd/de8/namespaceutf8.html#a3827e78596fc38cfdebd721e9c45c901" title="The library API &#45; functions intended to be called by the users. " alt="" coords="1495,175,1588,202"/>
+<area shape="rect" id="node60" href="$d0/d96/namespaceutf8_1_1internal.html#ab4820484159ba613b4901476ceb24516" title="utf8::internal::is\l_trail" alt="" coords="1486,277,1597,319"/>
+<area shape="rect" id="node50" href="$d0/d96/namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="1701,267,1858,308"/>
+<area shape="rect" id="node52" href="$d0/d96/namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="1720,332,1839,373"/>
+<area shape="rect" id="node53" href="$d0/d96/namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="1720,71,1839,112"/>
+<area shape="rect" id="node54" href="$d0/d96/namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="1720,136,1839,177"/>
+<area shape="rect" id="node55" href="$d0/d96/namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="1720,201,1839,243"/>
+<area shape="rect" id="node56" href="$d0/d96/namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="1717,5,1841,47"/>
+<area shape="rect" id="node58" href="$d0/d96/namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="1710,397,1849,439"/>
+<area shape="rect" id="node51" href="$d0/d96/namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1929,242,2069,269"/>
+<area shape="rect" id="node57" href="$d0/d96/namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="1944,5,2055,47"/>
+<area shape="rect" id="node63" href="$d9/de9/struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="1234,327,1378,354"/>
+<area shape="rect" id="node65" href="$d9/d39/class_collisions.html#aaa893c509f9b9b77459d50e3bef2c6ff" title="Collisions::parseGroundConfig" alt="" coords="1208,378,1404,405"/>
+<area shape="rect" id="node68" href="$d8/d18/namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="1261,429,1351,455"/>
+<area shape="rect" id="node64" href="$d9/de9/struct_error_utils.html#a3250a36825c8b55b26d1565addb7e922" title="ErrorUtils::ShowMsgBox" alt="" coords="1459,343,1623,370"/>
+<area shape="rect" id="node66" href="$df/d8c/scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="1507,437,1575,463"/>
+<area shape="rect" id="node67" href="$df/d52/_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="1756,514,1803,541"/>
+<area shape="rect" id="node70" href="$d9/d39/class_collisions.html#a61d99b847d6d48f94c5332848543172d" title="Collisions::GetNumCollision\lBoxes" alt="" coords="1215,480,1397,521"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="RoR::Skidmark::updatePoint" name="RoR::Skidmark::updatePoint">
+<area shape="rect" id="node2" href="$dd/de8/namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="279,209,379,235"/>
+<area shape="rect" id="node14" href="$d3/d1a/class_ro_r_1_1_skidmark_config.html#a883865fc5ee765bf2a62ea4aafa07a83" title="RoR::SkidmarkConfig\l::getTexture" alt="" coords="256,260,403,301"/>
+<area shape="rect" id="node15" href="$d5/d70/class_ro_r_1_1_skidmark.html#a428dbae8dfb9b2c4a45062d1ed322fd0" title="RoR::Skidmark::AddObject" alt="" coords="240,326,419,353"/>
+<area shape="rect" id="node18" href="$d5/d70/class_ro_r_1_1_skidmark.html#a31706c951dfa2b0771e19171af050acc" title="RoR::Skidmark::AddPoint" alt="" coords="244,377,415,403"/>
+<area shape="rect" id="node3" href="$dd/de8/namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="524,209,600,235"/>
+<area shape="rect" id="node4" href="$d0/d96/namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="714,209,890,235"/>
+<area shape="rect" id="node5" href="$d0/d96/namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="947,5,1104,47"/>
+<area shape="rect" id="node7" href="$d0/d96/namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="966,71,1085,112"/>
+<area shape="rect" id="node8" href="$d0/d96/namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="966,136,1085,177"/>
+<area shape="rect" id="node9" href="$d0/d96/namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="966,201,1085,243"/>
+<area shape="rect" id="node10" href="$d0/d96/namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="966,267,1085,308"/>
+<area shape="rect" id="node11" href="$d0/d96/namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="963,332,1087,373"/>
+<area shape="rect" id="node13" href="$d0/d96/namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="956,397,1095,439"/>
+<area shape="rect" id="node6" href="$d0/d96/namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1152,143,1292,170"/>
+<area shape="rect" id="node12" href="$d0/d96/namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="1167,332,1277,373"/>
+<area shape="rect" id="node16" href="$d5/d70/class_ro_r_1_1_skidmark.html#ab2308d6f43a832a78e7a696fb27b54dd" title="RoR::Skidmark::LimitObjects" alt="" coords="467,326,657,353"/>
+<area shape="rect" id="node17" href="$d5/d70/class_ro_r_1_1_skidmark.html#ae2aeef7c29e941a076939e06145972b8" title="RoR::Skidmark::PopSegment" alt="" coords="705,326,899,353"/>
+<area shape="rect" id="node19" href="$d5/d70/class_ro_r_1_1_skidmark.html#a7055150a295e4e1ed1a94dafa4566196" title="RoR::Skidmark::SetPointInt" alt="" coords="471,377,653,403"/>
+</map>

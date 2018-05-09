@@ -1,0 +1,14 @@
+<map id="RoRFrameListener::RemovePlayerActor" name="RoRFrameListener::RemovePlayerActor">
+<area shape="rect" id="node2" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="473,5,651,47"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#a65f2dfb4f70e20076cc0dbc041f96bb0" title="RoRFrameListener::Reload\lPlayerActor" alt="" coords="237,59,416,100"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#a627bc038df63cfa463e0ad24ab9c0b38" title="RoRFrameListener::GetPlayer\lActor" alt="" coords="464,75,660,116"/>
+<area shape="rect" id="node6" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="484,149,640,191"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="708,13,920,39"/>
+<area shape="rect" id="node7" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="736,181,892,223"/>
+<area shape="rect" id="node8" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a1a4c2b4a27eb2a018b6b8ea49528f22a" title="RoR::GUI::TopMenubar\l::SetSimController" alt="" coords="736,116,892,157"/>
+<area shape="rect" id="node9" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a875185e93587aeb2ab73220c1d2d4fc8" title="RoR::GUIManager::SetSimController" alt="" coords="968,123,1201,150"/>
+<area shape="rect" id="node10" href="$dd/dbe/class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="1249,123,1505,150"/>
+<area shape="rect" id="node11" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1553,98,1737,125"/>
+<area shape="rect" id="node12" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1620,149,1671,175"/>
+<area shape="rect" id="node13" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1785,149,1859,175"/>
+</map>

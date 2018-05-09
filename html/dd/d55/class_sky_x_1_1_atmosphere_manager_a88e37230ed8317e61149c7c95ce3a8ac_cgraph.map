@@ -1,0 +1,6 @@
+<map id="SkyX::AtmosphereManager::getColorAt" name="SkyX::AtmosphereManager::getColorAt">
+<area shape="rect" id="node2" href="$de/db3/class_sky_x_1_1_sky_x.html#aa964a6849d5e2b76b0a595c8712f3761" title="SkyX::SkyX::getController" alt="" coords="245,5,415,32"/>
+<area shape="rect" id="node3" href="$d8/d1d/class_sky_x_1_1_controller.html#abf428f96335598656d118e15bea54489" title="SkyX::Controller::getSun\lDirection" alt="" coords="248,57,412,98"/>
+<area shape="rect" id="node4" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#a5d88ab140a0dda2b19c28e662179037b" title="SkyX::AtmosphereManager\l::_scale" alt="" coords="240,122,420,163"/>
+<area shape="rect" id="node5" href="$de/db3/class_sky_x_1_1_sky_x.html#a3f20af6ba71e7a5a177d10533944179a" title="SkyX::SkyX::getLightingMode" alt="" coords="233,188,427,215"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AddWindowSettings" name="AddWindowSettings">
+<area shape="rect" id="node2" href="$d9/de0/class_im_vector.html#ac371dd62e56ae486b1a5038cf07eee56" title="ImVector::resize" alt="" coords="192,5,309,32"/>
+<area shape="rect" id="node3" href="$d9/de0/class_im_vector.html#a3e4424d3fca190894598a6575f9d2401" title="ImVector::back" alt="" coords="195,56,306,83"/>
+<area shape="rect" id="node4" href="$da/d72/imgui_8cpp.html#a079f29569de5779052f1fbf3dd283e0f" title="ImStrdup" alt="" coords="213,107,288,133"/>
+<area shape="rect" id="node6" href="$da/d72/imgui_8cpp.html#aa55e55e944172fc87494a342da489970" title="ImHash" alt="" coords="217,157,284,184"/>
+<area shape="rect" id="node5" href="$df/d13/namespace_im_gui.html#a15efb2cac4a54b35489c5984ba1b661a" title="ImGui::MemAlloc" alt="" coords="357,107,480,133"/>
+</map>

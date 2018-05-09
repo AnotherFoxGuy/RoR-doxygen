@@ -1,0 +1,7 @@
+<map id="InputEngine::GetOisKeyboard" name="InputEngine::GetOisKeyboard">
+<area shape="rect" id="node2" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a19dfcebef9a9cbb45429c6cc218a8759" title="RoR::GUIManager::NewImGui\lFrame" alt="" coords="248,27,443,69"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="491,5,703,32"/>
+<area shape="rect" id="node4" href="$d4/d14/class_ro_r_1_1_main_menu.html#a582e508f1bb1578d1124260de49e438b" title="RoR::MainMenu::EnterMain\lMenuLoop" alt="" coords="505,57,688,98"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="751,64,801,91"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="849,64,923,91"/>
+</map>

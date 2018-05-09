@@ -1,0 +1,4 @@
+<map id="Autopilot::GetVerticalApproachDeviation" name="Autopilot::GetVerticalApproachDeviation">
+<area shape="rect" id="node2" href="$df/d47/class_overlay_wrapper.html#a0932f42417c63edc77c8ed486efa66c1" title="OverlayWrapper::UpdateAerialHUD" alt="" coords="255,13,477,39"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="525,13,737,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RoR::GfxActor::GetVideoCamState" name="RoR::GfxActor::GetVideoCamState">
+<area shape="rect" id="node2" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#a685843a3b391b9d76381a8947d6bfe03" title="RoR::GfxActor::UpdateVideo\lCameras" alt="" coords="248,23,436,65"/>
+<area shape="rect" id="node3" href="$d3/d16/class_terrain_manager.html#a0bb96107715bd022c13c86ed2b76b7ad" title="TerrainManager::getSkyManager" alt="" coords="484,5,695,32"/>
+<area shape="rect" id="node4" href="$df/df9/class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="523,56,656,83"/>
+</map>

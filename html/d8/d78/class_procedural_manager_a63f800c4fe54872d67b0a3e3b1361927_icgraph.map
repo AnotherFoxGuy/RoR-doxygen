@@ -1,0 +1,12 @@
+<map id="ProceduralManager::updateObject" name="ProceduralManager::updateObject">
+<area shape="rect" id="node2" href="$d8/d78/class_procedural_manager.html#afa1f48ec20e08e76dc41f68a0a8dd5b5" title="ProceduralManager::\lupdateAllObjects" alt="" coords="196,5,339,47"/>
+<area shape="rect" id="node3" href="$d8/d78/class_procedural_manager.html#a2512968cf40ccdd75b82aa830bcafe17" title="ProceduralManager::\laddObject" alt="" coords="196,71,339,112"/>
+<area shape="rect" id="node4" href="$d6/d14/class_terrain_object_manager.html#a45ccbf51f9c0ecac68927fed5e52eaa4" title="TerrainObjectManager\l::loadObjectConfigFile" alt="" coords="387,71,536,112"/>
+<area shape="rect" id="node5" href="$d3/d16/class_terrain_manager.html#a4ad87b973cb6af52daaf530a5feff167" title="TerrainManager::loadTerrain\lObjects" alt="" coords="584,71,767,112"/>
+<area shape="rect" id="node6" href="$d3/d16/class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="815,78,997,105"/>
+<area shape="rect" id="node7" href="$dd/dbe/class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="1045,78,1251,105"/>
+<area shape="rect" id="node8" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1299,103,1557,130"/>
+<area shape="rect" id="node9" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1605,53,1789,79"/>
+<area shape="rect" id="node10" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1672,103,1723,130"/>
+<area shape="rect" id="node11" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1837,103,1911,130"/>
+</map>

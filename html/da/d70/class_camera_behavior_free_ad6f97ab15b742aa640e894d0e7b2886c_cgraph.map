@@ -1,0 +1,6 @@
+<map id="CameraBehaviorFree::mouseMoved" name="CameraBehaviorFree::mouseMoved">
+<area shape="rect" id="node2" href="$df/d86/namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="205,5,382,32"/>
+<area shape="rect" id="node3" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a02cfc7275f30a09ee27ccda53b48cf13" title="RoR::GUIManager::SetMouse\lCursorVisibility" alt="" coords="196,57,391,98"/>
+<area shape="rect" id="node4" href="$df/d13/namespace_im_gui.html#a3179e560812f878f3961ce803a5d9302" title="ImGui::GetIO" alt="" coords="479,35,577,61"/>
+<area shape="rect" id="node5" href="$db/df1/class_g_u_i_input_manager.html#a9ca9e7863ca969e2b40c1e4a05e6e501" title="GUIInputManager::Supress\lCursor" alt="" coords="439,86,617,127"/>
+</map>

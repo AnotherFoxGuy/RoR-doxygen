@@ -1,0 +1,9 @@
+<map id="RoR::BeamFactory::FindTruckInsideBox" name="RoR::BeamFactory::FindTruckInsideBox">
+<area shape="rect" id="node2" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a508cb7a834236ed7786f780bbe6f84f6" title="RoR::BeamFactory::repair\lTruck" alt="" coords="259,60,432,101"/>
+<area shape="rect" id="node6" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a1be7bc1ff7491b12fb410193c0023c8a" title="Only for scripting. " alt="" coords="252,125,439,167"/>
+<area shape="rect" id="node3" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5703b053d2b40e3dae66a063ded34578" title="RoR::BeamFactory::getSimulation\lSpeed" alt="" coords="487,60,707,101"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="763,5,942,47"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="999,42,1211,69"/>
+<area shape="rect" id="node7" href="$dd/dbe/class_ro_r_frame_listener.html#affe7f80c8d8ec34a1fc831a17950e0e2" title="Scripting utility. TODO: Does anybody use it? ~ only_a_ptr, 08/2017. " alt="" coords="505,125,689,167"/>
+<area shape="rect" id="node8" href="$dd/dbe/class_ro_r_frame_listener.html#a627bc038df63cfa463e0ad24ab9c0b38" title="RoRFrameListener::GetPlayer\lActor" alt="" coords="755,125,951,167"/>
+</map>

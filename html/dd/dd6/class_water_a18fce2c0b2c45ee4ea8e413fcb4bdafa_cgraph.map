@@ -1,0 +1,6 @@
+<map id="Water::update" name="Water::update">
+<area shape="rect" id="node2" href="$dd/dd6/class_water.html#a633f92602bfc1703ef295e9b74da8720" title="Water::showWave" alt="" coords="189,5,315,32"/>
+<area shape="rect" id="node5" href="$dd/dd6/class_water.html#ae34d81740dfa630804c1285fdd6bc25b" title="Water::isCameraUnderWater" alt="" coords="157,56,347,83"/>
+<area shape="rect" id="node3" href="$dd/dd6/class_water.html#ae0ff5f204633423eb3d8f825940b0c94" title="Water::getHeightWaves" alt="" coords="395,31,553,57"/>
+<area shape="rect" id="node4" href="$dd/dd6/class_water.html#a0e898659c77fb2358402d0cd669301c0" title="Water::getWaveHeight" alt="" coords="601,31,753,57"/>
+</map>

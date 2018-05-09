@@ -1,0 +1,8 @@
+<map id="Beam::setupDefaultSoundSources" name="Beam::setupDefaultSoundSources">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#aabe018af621de69910d145fe2967ad11" title="Beam::IsNodeIdValid" alt="" coords="275,42,417,69"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#a46c793a3229156a678a3829a6fe59be6" title="RoRFrameListener::Update\lForceFeedback" alt="" coords="465,5,644,47"/>
+<area shape="rect" id="node5" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="493,71,617,98"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="692,13,904,39"/>
+<area shape="rect" id="node6" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="749,67,847,94"/>
+<area shape="rect" id="node7" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="733,118,863,145"/>
+</map>

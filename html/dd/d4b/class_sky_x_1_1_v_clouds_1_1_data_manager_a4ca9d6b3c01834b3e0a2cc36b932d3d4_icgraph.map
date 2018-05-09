@@ -1,0 +1,22 @@
+<map id="SkyX::VClouds::DataManager::_getLightAbsorcionAt" name="SkyX::VClouds::DataManager::_getLightAbsorcionAt">
+<area shape="rect" id="node2" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#ae8e39e54096d75b0af7da9498c4183c1" title="SkyX::VClouds::DataManager\l::_performCalculations" alt="" coords="248,212,443,253"/>
+<area shape="rect" id="node7" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a0a64efe48371a6b94e6e966e9d890fd3" title="SkyX::VClouds::DataManager\l::_getInterpolation" alt="" coords="733,241,928,283"/>
+<area shape="rect" id="node3" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#af4ac63d3dabfc812dbabf82e7b5eef43" title="SkyX::VClouds::DataManager\l::update" alt="" coords="733,176,928,217"/>
+<area shape="rect" id="node6" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#abc1bab189eb591d5c23064cd80ee2b03" title="SkyX::VClouds::DataManager\l::forceToUpdateData" alt="" coords="491,212,685,253"/>
+<area shape="rect" id="node8" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a4f167b2a9517f6098b61d8e8a9dad4ce" title="SkyX::VClouds::DataManager\l::setWheater" alt="" coords="491,147,685,188"/>
+<area shape="rect" id="node4" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#acf68c63f12d3688b6adc295ca887a438" title="SkyX::VClouds::VClouds\l::update" alt="" coords="976,241,1143,283"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a7c25472c85244e6889b371384b5aff70" title="SkyX::VCloudsManager\l::update" alt="" coords="1215,241,1373,283"/>
+<area shape="rect" id="node9" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#aa6ac12481422e7771b0e04e1cbc2dc28" title="SkyX::VClouds::VClouds\l::setWheater" alt="" coords="747,111,914,152"/>
+<area shape="rect" id="node10" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="1473,5,1624,47"/>
+<area shape="rect" id="node11" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a3c5adca159dc371b8624e055f260009b" title="SkyX::VClouds::VClouds\l::create" alt="" coords="976,111,1143,152"/>
+<area shape="rect" id="node14" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a2f21ac89a85582095de6b1a44c8530f7" title="SkyX::VClouds::VClouds\l::getNoiseScale" alt="" coords="976,176,1143,217"/>
+<area shape="rect" id="node12" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ab859795b0c4a32358b726c9e1eef35c6" title="SkyX::VClouds::VClouds\l::create" alt="" coords="1211,45,1377,87"/>
+<area shape="rect" id="node13" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6931df17a25e8691796aa4d9c68467cb" title="SkyX::VCloudsManager\l::create" alt="" coords="1215,111,1373,152"/>
+<area shape="rect" id="node15" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#acf52579de6b080f63399b0025279f3e2" title="SkyX::VClouds::GeometryBlock\l::_setVertexData" alt="" coords="1191,176,1397,217"/>
+<area shape="rect" id="node16" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#afcaf3a79b96aeaca53c27f7180ed4949" title="SkyX::VClouds::GeometryBlock\l::_updateZoneCSlice" alt="" coords="1445,159,1652,200"/>
+<area shape="rect" id="node19" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#ab28afaa96535fa9c568422be1f44baec" title="SkyX::VClouds::GeometryBlock\l::setWorldOffset" alt="" coords="1955,197,2161,239"/>
+<area shape="rect" id="node20" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#aab5a7e7576713c869d555d31a041717f" title="SkyX::VClouds::GeometryBlock\l::_updateZoneBSlice" alt="" coords="1445,289,1652,331"/>
+<area shape="rect" id="node21" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#a965f4571b72848d4998abf566daf38fd" title="SkyX::VClouds::GeometryBlock\l::_updateZoneASlice" alt="" coords="1445,224,1652,265"/>
+<area shape="rect" id="node17" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#af8e402fd695a5cf9e801f2b42c4cdcbb" title="SkyX::VClouds::GeometryBlock\l::_updateGeometry" alt="" coords="1700,260,1907,301"/>
+<area shape="rect" id="node18" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#a8a9184545973028914c267dee8412c6b" title="SkyX::VClouds::GeometryBlock\l::updateGeometry" alt="" coords="1955,263,2161,304"/>
+</map>

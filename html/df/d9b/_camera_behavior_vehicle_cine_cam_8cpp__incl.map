@@ -1,0 +1,28 @@
+<map id="source/main/gfx/camera/CameraBehaviorVehicleCineCam.cpp" name="source/main/gfx/camera/CameraBehaviorVehicleCineCam.cpp">
+<area shape="rect" id="node2" href="$d0/dc7/_camera_behavior_vehicle_cine_cam_8h.html" title="CameraBehaviorVehicleCine\lCam.h" alt="" coords="939,95,1124,136"/>
+<area shape="rect" id="node26" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="2361,483,2459,509"/>
+<area shape="rect" id="node30" href="$db/df2/_beam_8h.html" title="Beam.h" alt="" coords="2326,184,2393,211"/>
+<area shape="rect" id="node46" href="$d5/d7a/_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="2770,259,2957,285"/>
+<area shape="rect" id="node50" href="$d1/d3b/_overlay_wrapper_8h.html" title="OverlayWrapper.h" alt="" coords="618,408,743,435"/>
+<area shape="rect" id="node3" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1192,483,1327,509"/>
+<area shape="rect" id="node21" href="$dc/d0e/_camera_behavior_vehicle_8h.html" title="CameraBehaviorVehicle.h" alt="" coords="885,184,1055,211"/>
+<area shape="rect" id="node23" href="$db/d24/_camera_manager_8h.html" title="CameraManager.h" alt="" coords="762,333,890,360"/>
+<area shape="rect" id="node15" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1807,632,1957,659"/>
+<area shape="rect" id="node16" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1531,557,1673,584"/>
+<area shape="rect" id="node17" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1337,557,1507,584"/>
+<area shape="rect" id="node18" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="5,557,87,584"/>
+<area shape="rect" id="node22" href="$df/d97/_camera_behavior_orbit_8h.html" title="CameraBehaviorOrbit.h" alt="" coords="850,259,1005,285"/>
+<area shape="rect" id="node24" href="$d1/d5d/_i_behavior_8h.html" title="IBehavior.h" alt="" coords="818,408,903,435"/>
+<area shape="rect" id="node31" href="$dd/d50/_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="1719,259,1813,285"/>
+<area shape="rect" id="node43" href="$d5/d00/_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="2615,483,2699,509"/>
+<area shape="rect" id="node47" href="$d5/d1c/_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="2330,259,2485,285"/>
+<area shape="rect" id="node32" href="$dc/d74/_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="1359,333,1435,360"/>
+<area shape="rect" id="node34" href="$de/dec/_slide_node_8h.html" title="SlideNode.h" alt="" coords="1243,333,1335,360"/>
+<area shape="rect" id="node36" href="$d9/d1e/_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="1804,333,1931,360"/>
+<area shape="rect" id="node37" href="$de/d00/node__t_8h.html" title="datatypes/node_t.h" alt="" coords="1602,408,1735,435"/>
+<area shape="rect" id="node38" href="$d4/d78/shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="1955,333,2095,360"/>
+<area shape="rect" id="node39" href="$da/d84/beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="1760,408,1897,435"/>
+<area shape="rect" id="node40" href="$d0/d7b/wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="1922,408,2061,435"/>
+<area shape="rect" id="node41" href="$d7/ddc/rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="2085,408,2204,435"/>
+<area shape="rect" id="node35" href="$df/d52/_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1283,408,1385,435"/>
+</map>

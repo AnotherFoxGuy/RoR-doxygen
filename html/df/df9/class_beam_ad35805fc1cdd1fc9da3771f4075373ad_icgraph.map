@@ -1,0 +1,7 @@
+<map id="Beam::postUpdatePhysics" name="Beam::postUpdatePhysics">
+<area shape="rect" id="node2" href="$d5/d53/class_ro_r_1_1_beam_factory.html#ac25b17e65074996433c472da5028fed1" title="RoR::BeamFactory::Update\lPhysicsSimulation" alt="" coords="231,27,413,69"/>
+<area shape="rect" id="node3" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="729,5,909,32"/>
+<area shape="rect" id="node5" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5703b053d2b40e3dae66a063ded34578" title="RoR::BeamFactory::getSimulation\lSpeed" alt="" coords="461,57,681,98"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="957,56,1169,83"/>
+<area shape="rect" id="node6" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="730,107,909,149"/>
+</map>

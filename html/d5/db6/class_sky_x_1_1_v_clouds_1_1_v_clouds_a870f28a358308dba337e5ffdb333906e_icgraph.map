@@ -1,0 +1,7 @@
+<map id="SkyX::VClouds::VClouds::setAmbientFactors" name="SkyX::VClouds::VClouds::setAmbientFactors">
+<area shape="rect" id="node2" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="649,40,800,81"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a3c5adca159dc371b8624e055f260009b" title="SkyX::VClouds::VClouds\l::create" alt="" coords="220,36,387,77"/>
+<area shape="rect" id="node6" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a71d5398f7a5b9d7521537cd06333b1e3" title="SkyX::VClouds::VClouds\l::getLightResponse" alt="" coords="220,101,387,142"/>
+<area shape="rect" id="node4" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ab859795b0c4a32358b726c9e1eef35c6" title="SkyX::VClouds::VClouds\l::create" alt="" coords="435,36,601,77"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6931df17a25e8691796aa4d9c68467cb" title="SkyX::VCloudsManager\l::create" alt="" coords="439,101,597,142"/>
+</map>

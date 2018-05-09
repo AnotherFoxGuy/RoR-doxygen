@@ -1,0 +1,11 @@
+<map id="SaveIniSettingsToDisk" name="SaveIniSettingsToDisk">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#ab3f1fc018f903b7ad79fd10663375774" title="ImGui::NewFrame" alt="" coords="204,64,331,91"/>
+<area shape="rect" id="node10" href="$df/d13/namespace_im_gui.html#aeba34069558d4fbcf734a9c92ce3b773" title="ImGui::Shutdown" alt="" coords="207,115,328,141"/>
+<area shape="rect" id="node3" href="$d5/d56/class_ogre_im_gui.html#a6c64d0f1f8c3b156e8a5cbe02ccb93eb" title="OgreImGui::NewFrame" alt="" coords="379,64,533,91"/>
+<area shape="rect" id="node4" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a19dfcebef9a9cbb45429c6cc218a8759" title="RoR::GUIManager::NewImGui\lFrame" alt="" coords="581,27,776,69"/>
+<area shape="rect" id="node9" href="$d5/d56/class_ogre_im_gui.html#ad19fd285bb4aaa44039201a20c39a75f" title="OgreImGui::OgreImGui" alt="" coords="601,93,756,120"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="824,5,1036,32"/>
+<area shape="rect" id="node6" href="$d4/d14/class_ro_r_1_1_main_menu.html#a582e508f1bb1578d1124260de49e438b" title="RoR::MainMenu::EnterMain\lMenuLoop" alt="" coords="839,57,1021,98"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1084,64,1135,91"/>
+<area shape="rect" id="node8" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1183,64,1256,91"/>
+</map>

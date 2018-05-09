@@ -1,0 +1,6 @@
+<map id="Road2::addCollisionQuad" name="Road2::addCollisionQuad">
+<area shape="rect" id="node2" href="$d9/d39/class_collisions.html#a44e7f403a680e597a54209b2873b6e28" title="Collisions::addCollisionTri" alt="" coords="221,31,392,57"/>
+<area shape="rect" id="node3" href="$d9/d39/class_collisions.html#a0f6b7005dc87f64650ced8786bba0a08" title="Collisions::GetNumCollisionTris" alt="" coords="440,5,644,32"/>
+<area shape="rect" id="node4" href="$d9/d39/class_collisions.html#ab8dc3b86fee4e2aa47927bfeabe2ddfe" title="Collisions::hash_add" alt="" coords="471,56,613,83"/>
+<area shape="rect" id="node5" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="692,56,831,83"/>
+</map>

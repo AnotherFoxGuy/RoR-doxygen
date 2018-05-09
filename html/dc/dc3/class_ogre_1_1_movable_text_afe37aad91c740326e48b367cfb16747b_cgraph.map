@@ -1,0 +1,7 @@
+<map id="Ogre::MovableText::getMovableType" name="Ogre::MovableText::getMovableType">
+<area shape="rect" id="node2" href="$dc/dc3/class_ogre_1_1_movable_text.html#afad4bd643ebae1b36c31d52a95a08a84" title="Ogre::MovableText::\l_notifyCurrentCamera" alt="" coords="192,5,339,47"/>
+<area shape="rect" id="node3" href="$dc/dc3/class_ogre_1_1_movable_text.html#ab1b1e781e7fc9d01ba159ff785a272b5" title="Ogre::MovableText::\l_updateRenderQueue" alt="" coords="192,71,339,112"/>
+<area shape="rect" id="node6" href="$dc/dc3/class_ogre_1_1_movable_text.html#a36ad18a28b8a65cfd72d9510f395a1bb" title="Ogre::MovableText::\lgetRenderOperation" alt="" coords="196,136,335,177"/>
+<area shape="rect" id="node4" href="$dc/dc3/class_ogre_1_1_movable_text.html#a1414bbe8133feca96a3a425c94e6f063" title="Ogre::MovableText::\l_setupGeometry" alt="" coords="387,103,525,144"/>
+<area shape="rect" id="node5" href="$dc/dc3/class_ogre_1_1_movable_text.html#af39ecbbae96d642b5e4a1a2889d3cb87" title="Ogre::MovableText::\l_updateColors" alt="" coords="573,103,712,144"/>
+</map>

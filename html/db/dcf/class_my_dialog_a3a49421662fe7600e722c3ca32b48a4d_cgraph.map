@@ -1,0 +1,11 @@
+<map id="MyDialog::LoadConfig" name="MyDialog::LoadConfig">
+<area shape="rect" id="node2" href="$d0/d31/conf__file_8cpp.html#a153caa3fe3ddc7deff2c5e14d1dd4f71" title="SanitizeUtf8String" alt="" coords="223,89,350,115"/>
+<area shape="rect" id="node3" href="$db/dcf/class_my_dialog.html#a008219b2fc5f082cc4fbbb46f87ac74f" title="MyDialog::updateSettings\lControls" alt="" coords="201,140,372,181"/>
+<area shape="rect" id="node4" href="$d9/df4/classwx_value_choice.html#a15cefdf22a40c016ae2474430cdde209" title="wxValueChoice::setSelected\lValue" alt="" coords="438,5,626,47"/>
+<area shape="rect" id="node5" href="$df/dd4/wxutils_8h.html#acea10d469893caac689206a073cc165e" title="conv" alt="" coords="508,71,556,98"/>
+<area shape="rect" id="node6" href="$db/dcf/class_my_dialog.html#a06f8e4181518a6c11e84c55e6f59eed8" title="MyDialog::OnScrollForceFeedback" alt="" coords="420,122,644,149"/>
+<area shape="rect" id="node7" href="$db/dcf/class_my_dialog.html#ad9f1ebe0db24ab553e8d54c13912b3b9" title="MyDialog::OnScrollSightRange" alt="" coords="431,173,633,199"/>
+<area shape="rect" id="node8" href="$db/dcf/class_my_dialog.html#ada3c5edc423258c55ac677f3de37cedc" title="MyDialog::OnScrollVolume" alt="" coords="443,223,621,250"/>
+<area shape="rect" id="node9" href="$db/dcf/class_my_dialog.html#aa8a51e501e6db082f2b1d7dc43a96d5e" title="MyDialog::OnScrollFPSLimiter" alt="" coords="433,274,631,301"/>
+<area shape="rect" id="node10" href="$db/dcf/class_my_dialog.html#aad817edc439ea7b4381946a325b0f5e7" title="MyDialog::readVersionInfo" alt="" coords="692,274,865,301"/>
+</map>

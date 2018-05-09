@@ -1,0 +1,6 @@
+<map id="Road2::~Road2" name="Road2::~Road2">
+<area shape="rect" id="node2" href="$d9/d39/class_collisions.html#ac9796300989b7f75868f6b4707f4dec0" title="Collisions::removeCollisionTri" alt="" coords="165,31,356,57"/>
+<area shape="rect" id="node3" href="$d9/d39/class_collisions.html#a0f6b7005dc87f64650ced8786bba0a08" title="Collisions::GetNumCollisionTris" alt="" coords="404,5,608,32"/>
+<area shape="rect" id="node4" href="$d9/d39/class_collisions.html#a5daaefbf4b30949f1d68ba5ae38d9b9b" title="Collisions::hash_free" alt="" coords="435,56,577,83"/>
+<area shape="rect" id="node5" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="656,56,795,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="BeamEngine::updateShifts" name="BeamEngine::updateShifts">
+<area shape="rect" id="node2" href="$d6/de4/class_beam_engine.html#af424a6752492c01a4912a871b036d09a" title="BeamEngine::autoShiftSet" alt="" coords="235,25,410,52"/>
+<area shape="rect" id="node3" href="$d6/de4/class_beam_engine.html#aeb6647883d8e1f5d10be1e07a2054f41" title="BeamEngine::getTorqueCurve" alt="" coords="464,25,657,52"/>
+<area shape="rect" id="node5" href="$d6/de4/class_beam_engine.html#a975fb76ba9f8ba31c092b6317de26b4b" title="BeamEngine::autoShiftUp" alt="" coords="237,76,408,103"/>
+<area shape="rect" id="node6" href="$d6/de4/class_beam_engine.html#a97e90e5d479da49939cb4b097fc77ebc" title="BeamEngine::autoShiftDown" alt="" coords="229,127,416,153"/>
+<area shape="rect" id="node4" href="$da/dba/struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="467,77,654,118"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="SkyX::SkyX::getLightingMode" name="SkyX::SkyX::getLightingMode">
+<area shape="rect" id="node2" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#a88e37230ed8317e61149c7c95ce3a8ac" title="SkyX::AtmosphereManager\l::getColorAt" alt="" coords="266,5,446,47"/>
+<area shape="rect" id="node5" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#add18a961fbd1e2a0f2c700694d4c1069" title="SkyX::CloudLayer::\l_registerCloudLayer" alt="" coords="1067,83,1204,124"/>
+<area shape="rect" id="node9" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#af949460a2e4caace1847cb0b251516a1" title="SkyX::GPUManager::addGroundPass" alt="" coords="773,71,1012,98"/>
+<area shape="rect" id="node10" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ae8b52a74e1c8d447ed7528949bdd1887" title="SkyX::GPUManager::\l_updateFP" alt="" coords="546,341,693,383"/>
+<area shape="rect" id="node13" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ac6327911c4478d527fdf264f0a28ea34" title="SkyX::GPUManager::getSkydome\lMaterialName" alt="" coords="247,224,465,265"/>
+<area shape="rect" id="node3" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#abcdfead934afa273afdeb542ab2633b2" title="SkyX::AtmosphereManager\l::getOptions" alt="" coords="529,5,709,47"/>
+<area shape="rect" id="node4" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#ac21bd19a89d1a9631ede722756a0ffb2" title="SkyX::CloudLayer::\l_updateInternalPassParameters" alt="" coords="789,5,996,47"/>
+<area shape="rect" id="node8" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#ab0033e0fd011bd90fde4bed4e0966ea2" title="SkyX::CloudLayer::getSun\lGradient" alt="" coords="1261,49,1435,91"/>
+<area shape="rect" id="node6" href="$dd/d89/class_sky_x_1_1_clouds_manager.html#a49f0f35194ca5363129f38e4958f26de" title="SkyX::CloudsManager::add" alt="" coords="1259,173,1437,199"/>
+<area shape="rect" id="node7" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="1485,165,1636,207"/>
+<area shape="rect" id="node11" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#aa6e51c4d5104ed7c1d6d1c0a65048c8a" title="SkyX::GPUManager::getMoon\lMaterialName" alt="" coords="795,341,991,383"/>
+<area shape="rect" id="node12" href="$dd/dab/class_sky_x_1_1_moon_manager.html#a34f9344783164b30151bcba1b3ba7ed5" title="SkyX::MoonManager::\lcreate" alt="" coords="1060,341,1211,383"/>
+<area shape="rect" id="node14" href="$dd/d89/class_sky_x_1_1_clouds_manager.html#a4cdc55e24d14b87f2da0f6f5f803600c" title="SkyX::CloudsManager\l::registerAll" alt="" coords="1060,165,1211,207"/>
+<area shape="rect" id="node15" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a1453b1fd20472aa40bdc56896fea3f33" title="SkyX::GPUManager::\l_notifySkydomeMaterialChanged" alt="" coords="513,224,725,265"/>
+<area shape="rect" id="node16" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a545927dd8da0642e8bf68770c6907c75" title="SkyX::GPUManager::GPUManager" alt="" coords="781,231,1005,258"/>
+</map>

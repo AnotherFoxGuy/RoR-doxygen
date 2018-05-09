@@ -1,0 +1,6 @@
+<map id="SkyX::MoonManager::isCreated" name="SkyX::MoonManager::isCreated">
+<area shape="rect" id="node2" href="$dd/dab/class_sky_x_1_1_moon_manager.html#aa6ef3ce76c121a04973fe62de56f7f86" title="SkyX::MoonManager::\l_updateMoonBounds" alt="" coords="204,27,355,69"/>
+<area shape="rect" id="node3" href="$de/db3/class_sky_x_1_1_sky_x.html#a66c1cbd869fdbeaf4bb8950f4d295ea0" title="SkyX::SkyX::getMeshManager" alt="" coords="403,5,601,32"/>
+<area shape="rect" id="node4" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#acec7f28ad8010e5d898fdcac5e49dc3f" title="SkyX::MeshManager::\lgetSkydomeRadius" alt="" coords="427,57,577,98"/>
+<area shape="rect" id="node5" href="$de/db3/class_sky_x_1_1_sky_x.html#a3cc6519853c8f6881da9b67d2c963cbb" title="SkyX::SkyX::getInfiniteCamera\lFarClipDistance" alt="" coords="649,57,848,98"/>
+</map>

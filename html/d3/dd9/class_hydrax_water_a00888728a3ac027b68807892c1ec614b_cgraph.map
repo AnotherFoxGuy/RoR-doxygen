@@ -1,0 +1,7 @@
+<map id="HydraxWater::framestep" name="HydraxWater::framestep">
+<area shape="rect" id="node2" href="$dd/d65/class_hydrax_1_1_hydrax.html#ac584e30a6cbfb5d8884afb182c29d36a" title="Hydrax::Hydrax::update" alt="" coords="216,5,375,32"/>
+<area shape="rect" id="node3" href="$d3/dd9/class_hydrax_water.html#aa179b211992ec42447dc861ece4b3e3e" title="HydraxWater::update" alt="" coords="223,56,368,83"/>
+<area shape="rect" id="node4" href="$d3/d16/class_terrain_manager.html#a0bb96107715bd022c13c86ed2b76b7ad" title="TerrainManager::getSkyManager" alt="" coords="423,5,633,32"/>
+<area shape="rect" id="node5" href="$dd/d65/class_hydrax_1_1_hydrax.html#a86467f51a5b69343a97ff6536c922929" title="Hydrax::Hydrax::setSunPosition" alt="" coords="424,56,632,83"/>
+<area shape="rect" id="node6" href="$dd/d65/class_hydrax_1_1_hydrax.html#adc74459b43cd00a19b60b8391531cb17" title="Hydrax::Hydrax::setSunColor" alt="" coords="433,107,623,133"/>
+</map>

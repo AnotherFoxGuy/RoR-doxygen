@@ -1,0 +1,11 @@
+<map id="Collisions::addCollisionBox" name="Collisions::addCollisionBox">
+<area shape="rect" id="node2" href="$d9/d39/class_collisions.html#a61d99b847d6d48f94c5332848543172d" title="Collisions::GetNumCollision\lBoxes" alt="" coords="232,5,415,47"/>
+<area shape="rect" id="node3" href="$dc/dc3/class_ogre_1_1_movable_text.html#aed27a49ecadb3905afb7b5de4409d799" title="Ogre::MovableText::\lsetFontName" alt="" coords="254,71,393,112"/>
+<area shape="rect" id="node4" href="$dc/dc3/class_ogre_1_1_movable_text.html#a8fc0b2d13ba89695e53152ad1c435306" title="Ogre::MovableText::\lsetTextAlignment" alt="" coords="254,136,393,177"/>
+<area shape="rect" id="node5" href="$dc/dc3/class_ogre_1_1_movable_text.html#a0e4f2340efd854e591e07fb4bebcbeaa" title="Ogre::MovableText::\lsetAdditionalHeight" alt="" coords="254,201,393,243"/>
+<area shape="rect" id="node6" href="$dc/dc3/class_ogre_1_1_movable_text.html#a88bb2321dd352795dfeff306928e48bc" title="Ogre::MovableText::\lshowOnTop" alt="" coords="254,267,393,308"/>
+<area shape="rect" id="node7" href="$dc/dc3/class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::\lsetCharacterHeight" alt="" coords="254,332,393,373"/>
+<area shape="rect" id="node8" href="$dc/dc3/class_ogre_1_1_movable_text.html#a7ed5e440d32fee6180e6eaa7094b3f5c" title="Ogre::MovableText::\lsetColor" alt="" coords="254,397,393,439"/>
+<area shape="rect" id="node9" href="$d9/d39/class_collisions.html#ab8dc3b86fee4e2aa47927bfeabe2ddfe" title="Collisions::hash_add" alt="" coords="252,463,395,490"/>
+<area shape="rect" id="node10" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="463,463,601,490"/>
+</map>

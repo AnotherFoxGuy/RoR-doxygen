@@ -1,0 +1,7 @@
+<map id="RoR::BeamFactory::setTrucksForcedActive" name="RoR::BeamFactory::setTrucksForcedActive">
+<area shape="rect" id="node2" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a8894c65da5b17c25706e9c635cdb318d" title="RoR::BeamFactory::prepare\lShutdown" alt="" coords="252,5,436,47"/>
+<area shape="rect" id="node3" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aab1bcd857ee75e63631b922afd515e67" title="RoR::BeamFactory::SyncWith\lSimThread" alt="" coords="484,32,683,73"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#af0ad39b32251a4fb8a6faf26317799fc" title="RoR::BeamFactory::window\lResized" alt="" coords="253,123,435,164"/>
+<area shape="rect" id="node5" href="$d9/d86/class_dash_board_manager.html#a95b7258d2dda7b85719af98ff001c928" title="DashBoardManager::window\lResized" alt="" coords="490,123,677,164"/>
+<area shape="rect" id="node6" href="$d4/d1e/class_dash_board.html#a69868007bdcc8aac2c1f2f02d9a0f383" title="DashBoard::windowResized" alt="" coords="731,130,913,157"/>
+</map>

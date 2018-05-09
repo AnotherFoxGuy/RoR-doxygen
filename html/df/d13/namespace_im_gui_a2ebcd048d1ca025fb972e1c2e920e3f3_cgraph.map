@@ -1,0 +1,12 @@
+<map id="ImGui::LogFinish" name="ImGui::LogFinish">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a64ed35f1ee0903215f91073cf7acfc70" title="ImGui::LogText" alt="" coords="199,5,310,32"/>
+<area shape="rect" id="node5" href="$da/d7d/struct_im_gui_text_buffer.html#a2811fcd43e0224eb3bd0f3464b634289" title="ImGuiTextBuffer::size" alt="" coords="181,56,328,83"/>
+<area shape="rect" id="node6" href="$df/d13/namespace_im_gui.html#aa4824a1b351c063b4aff9b9f4fb5fd4d" title="ImGui::SetClipboardText" alt="" coords="173,107,336,133"/>
+<area shape="rect" id="node7" href="$da/d7d/struct_im_gui_text_buffer.html#aab6d83c6b9a8061287a4cb6135c1cab4" title="ImGuiTextBuffer::begin" alt="" coords="178,157,331,184"/>
+<area shape="rect" id="node9" href="$da/d7d/struct_im_gui_text_buffer.html#a9e4edc9f950bc9e35d5c3b3071dbc0df" title="ImGuiTextBuffer::clear" alt="" coords="179,208,330,235"/>
+<area shape="rect" id="node3" href="$da/d7d/struct_im_gui_text_buffer.html#aeb9702dcb536ffc5919954e0f45a4c30" title="ImGuiTextBuffer::appendv" alt="" coords="384,5,553,32"/>
+<area shape="rect" id="node4" href="$da/d72/imgui_8cpp.html#a1c61ee979ec8d777ba415296e12950a3" title="ImFormatStringV" alt="" coords="601,5,721,32"/>
+<area shape="rect" id="node8" href="$d9/de0/class_im_vector.html#a5b0108d6b1a4a11609723f8305fb9011" title="ImVector::front" alt="" coords="415,157,522,184"/>
+<area shape="rect" id="node10" href="$d9/de0/class_im_vector.html#ae2d401b4ec5f1113cdb8edb5a61a38f7" title="ImVector::clear" alt="" coords="413,208,524,235"/>
+<area shape="rect" id="node11" href="$d9/de0/class_im_vector.html#a68387993f2a5f5c3b2a7139d9ab778b8" title="ImVector::push_back" alt="" coords="396,259,541,285"/>
+</map>

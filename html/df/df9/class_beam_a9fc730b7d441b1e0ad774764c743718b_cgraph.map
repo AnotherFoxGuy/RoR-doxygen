@@ -1,0 +1,9 @@
+<map id="Beam::setDebugOverlayState" name="Beam::setDebugOverlayState">
+<area shape="rect" id="node2" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="291,5,341,32"/>
+<area shape="rect" id="node4" href="$dc/dc3/class_ogre_1_1_movable_text.html#aed27a49ecadb3905afb7b5de4409d799" title="Ogre::MovableText::\lsetFontName" alt="" coords="247,57,385,98"/>
+<area shape="rect" id="node5" href="$dc/dc3/class_ogre_1_1_movable_text.html#a8fc0b2d13ba89695e53152ad1c435306" title="Ogre::MovableText::\lsetTextAlignment" alt="" coords="247,122,385,163"/>
+<area shape="rect" id="node6" href="$dc/dc3/class_ogre_1_1_movable_text.html#a88bb2321dd352795dfeff306928e48bc" title="Ogre::MovableText::\lshowOnTop" alt="" coords="247,187,385,229"/>
+<area shape="rect" id="node7" href="$dc/dc3/class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::\lsetCharacterHeight" alt="" coords="247,253,385,294"/>
+<area shape="rect" id="node8" href="$dc/dc3/class_ogre_1_1_movable_text.html#a7ed5e440d32fee6180e6eaa7094b3f5c" title="Ogre::MovableText::\lsetColor" alt="" coords="247,318,385,359"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="433,5,509,32"/>
+</map>

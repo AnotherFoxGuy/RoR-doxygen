@@ -1,0 +1,23 @@
+<map id="RoR::GUI::MainSelector::GetVehicleConfigs" name="RoR::GUI::MainSelector::GetVehicleConfigs">
+<area shape="rect" id="node2" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a0ea8de91081a16abc484946a122f8bc1" title="RoR::GUI::MainSelector\l::NotifyWindowButtonPressed" alt="" coords="239,5,434,47"/>
+<area shape="rect" id="node3" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a861fd5378f92acb4e30f8ddb24bc5dd3" title="RoR::GUI::MainSelector\l::EventComboAcceptConfigComboBox" alt="" coords="215,71,459,112"/>
+<area shape="rect" id="node4" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#ac1b8578e3d04e6cd208a09f9fccff618" title="RoR::GUI::MainSelector\l::EventComboChangePositionType\lComboBox" alt="" coords="225,137,448,193"/>
+<area shape="rect" id="node5" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a29828161b7661d2eec6acfa41a362699" title="RoR::GUI::MainSelector\l::EventKeyButtonPressed_Main" alt="" coords="233,217,440,259"/>
+<area shape="rect" id="node6" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a94a72c82b31210317bc98984e85a471d" title="RoR::GUI::MainSelector\l::EventListChangePositionModelList" alt="" coords="221,283,452,324"/>
+<area shape="rect" id="node7" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a5232941f6b4c12b0d16d7a7e2e0ce917" title="RoR::GUI::MainSelector\l::EventListChangePositionModel\lListAccept" alt="" coords="232,349,441,405"/>
+<area shape="rect" id="node8" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#af977c96cc00d85b8f3a503c79319df19" title="RoR::GUI::MainSelector\l::EventMouseButtonClickCancel\lButton" alt="" coords="233,429,441,485"/>
+<area shape="rect" id="node9" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#ad1fe2ec79862c79be7af4683cfb3865c" title="RoR::GUI::MainSelector\l::EventMouseButtonClickOkButton" alt="" coords="225,509,448,551"/>
+<area shape="rect" id="node10" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#afac8e585b29e59c68b38fc8a14ce21ea" title="RoR::GUI::MainSelector\l::EventSearchTextChange" alt="" coords="251,575,423,616"/>
+<area shape="rect" id="node11" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a6e90b561cc17c4958bb29c1c40b8a488" title="RoR::GUI::MainSelector\l::EventSearchTextGotFocus" alt="" coords="244,640,429,681"/>
+<area shape="rect" id="node12" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#ae67ba7e31304b46cf88a214a2a9cc796" title="RoR::GUI::MainSelector\l::NotifyWindowChangeCoord" alt="" coords="243,705,430,747"/>
+<area shape="rect" id="node13" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#ae38c48d9d64c864f12ce9438c383a62a" title="RoR::GUI::MainSelector\l::ResizePreviewImage" alt="" coords="256,771,417,812"/>
+<area shape="rect" id="node14" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a463ee61d3925cece5e6ecb7112aadc8f" title="RoR::GUI::MainSelector\l::BindKeys" alt="" coords="256,836,417,877"/>
+<area shape="rect" id="node15" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a1feca296cdc791ca826fc9abd6e81f21" title="RoR::GUI::MainSelector\l::UpdateGuiData" alt="" coords="256,901,417,943"/>
+<area shape="rect" id="node16" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a5e85e8c1aa3443e90c81343db7f8226b" title="RoR::GUI::MainSelector\l::OnCategorySelected" alt="" coords="256,967,417,1008"/>
+<area shape="rect" id="node17" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a533e0c3c62987d6e87c31e9124722ac5" title="RoR::GUI::MainSelector\l::OnEntrySelected" alt="" coords="256,1032,417,1073"/>
+<area shape="rect" id="node18" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#aef03a83308570e5f32afceaf262b2ced" title="RoR::GUI::MainSelector\l::OnSelectionDone" alt="" coords="256,1097,417,1139"/>
+<area shape="rect" id="node19" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#ace4e77dba65423ff18613e78414469c8" title="RoR::GUI::MainSelector\l::SearchCompare" alt="" coords="256,1163,417,1204"/>
+<area shape="rect" id="node20" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a75cec178ea2c947798a3e7c2a0bc9c49" title="RoR::GUI::MainSelector\l::UpdateControls" alt="" coords="256,1228,417,1269"/>
+<area shape="rect" id="node21" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a49f812d80e27921625416a7de7171b19" title="RoR::GUI::MainSelector\l::SetPreviewImage" alt="" coords="256,1293,417,1335"/>
+<area shape="rect" id="node22" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#ad25fc87c5114e160b5ecddc567011445" title="RoR::GUI::MainSelector\l::FrameEntered" alt="" coords="256,1359,417,1400"/>
+</map>

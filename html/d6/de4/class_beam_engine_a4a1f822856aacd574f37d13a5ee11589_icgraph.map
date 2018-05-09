@@ -1,0 +1,14 @@
+<map id="BeamEngine::shift" name="BeamEngine::shift">
+<area shape="rect" id="node2" href="$d6/de4/class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="430,5,573,32"/>
+<area shape="rect" id="node3" href="$d6/de4/class_beam_engine.html#aeb6647883d8e1f5d10be1e07a2054f41" title="BeamEngine::getTorqueCurve" alt="" coords="643,56,836,83"/>
+<area shape="rect" id="node6" href="$d6/de4/class_beam_engine.html#a52ad34ee5fa555966eda7d9d0deaf5a4" title="BeamEngine::shiftTo" alt="" coords="199,107,342,133"/>
+<area shape="rect" id="node7" href="$da/dba/struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="408,158,595,199"/>
+<area shape="rect" id="node8" href="$df/df9/class_beam.html#ac8926380f87cb393b321eb342fb5b2a7" title="Beam::engineTriggerHelper" alt="" coords="181,220,360,247"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="649,5,829,32"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="884,69,1096,96"/>
+<area shape="rect" id="node9" href="$df/df9/class_beam.html#aabe018af621de69910d145fe2967ad11" title="Beam::IsNodeIdValid" alt="" coords="430,224,573,251"/>
+<area shape="rect" id="node10" href="$dd/dbe/class_ro_r_frame_listener.html#a46c793a3229156a678a3829a6fe59be6" title="RoRFrameListener::Update\lForceFeedback" alt="" coords="650,137,829,178"/>
+<area shape="rect" id="node11" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="677,224,801,251"/>
+<area shape="rect" id="node12" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="941,235,1039,261"/>
+<area shape="rect" id="node13" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="925,184,1055,211"/>
+</map>

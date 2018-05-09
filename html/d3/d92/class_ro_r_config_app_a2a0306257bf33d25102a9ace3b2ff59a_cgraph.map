@@ -1,0 +1,26 @@
+<map id="RoRConfigApp::OnInit" name="RoRConfigApp::OnInit">
+<area shape="rect" id="node2" href="$df/d51/_configurator_8cpp.html#a7f043c024c49dd695741e4dc6aacc575" title="initLanguage" alt="" coords="223,81,318,108"/>
+<area shape="rect" id="node6" href="$db/dcf/class_my_dialog.html#ac878405673c6177b80014e3ea1db6af7" title="MyDialog::MyDialog" alt="" coords="201,411,340,437"/>
+<area shape="rect" id="node3" href="$df/d51/_configurator_8cpp.html#a56911597b48bc8261a158496612cb7f0" title="getAvLang" alt="" coords="432,5,515,32"/>
+<area shape="rect" id="node4" href="$df/dd4/wxutils_8h.html#acea10d469893caac689206a073cc165e" title="conv" alt="" coords="957,196,1005,223"/>
+<area shape="rect" id="node5" href="$d0/d31/conf__file_8cpp.html#a90c833708cf01165349a2dc66bed99f1" title="FileExists" alt="" coords="433,107,513,133"/>
+<area shape="rect" id="node7" href="$d9/df4/classwx_value_choice.html#a11c538b33449b38e2b78d0356a178dab" title="wxValueChoice::AppendValueItem" alt="" coords="871,364,1092,391"/>
+<area shape="rect" id="node8" href="$db/dcf/class_my_dialog.html#a9a5c67128193b0be680fcafeb2aa5e80" title="MyDialog::addAboutTitle" alt="" coords="392,512,555,539"/>
+<area shape="rect" id="node9" href="$db/dcf/class_my_dialog.html#a729c3806e34abac1fa38302f554866c6" title="MyDialog::addAboutEntry" alt="" coords="388,563,559,589"/>
+<area shape="rect" id="node10" href="$db/dcf/class_my_dialog.html#a06f8e4181518a6c11e84c55e6f59eed8" title="MyDialog::OnScrollForceFeedback" alt="" coords="869,633,1093,660"/>
+<area shape="rect" id="node11" href="$db/dcf/class_my_dialog.html#a30829bbf050a53f6d5c0e1d6abcd29e8" title="MyDialog::SetDefaults" alt="" coords="398,360,549,387"/>
+<area shape="rect" id="node15" href="$db/dcf/class_my_dialog.html#a3a49421662fe7600e722c3ca32b48a4d" title="MyDialog::LoadConfig" alt="" coords="399,461,547,488"/>
+<area shape="rect" id="node23" href="$db/dcf/class_my_dialog.html#acd3952b4ebf8cc601045d3ba2f2946f1" title="MyDialog::loadOgre" alt="" coords="405,284,541,311"/>
+<area shape="rect" id="node12" href="$db/dcf/class_my_dialog.html#a9dda5ceed397209fea3b86bf17b183d1" title="MyDialog::getSettingsControls" alt="" coords="615,309,813,336"/>
+<area shape="rect" id="node13" href="$d9/df4/classwx_value_choice.html#a929749fefe92945893e8fc62107c770f" title="wxValueChoice::getSelected\lValueAsSTDString" alt="" coords="887,298,1075,339"/>
+<area shape="rect" id="node14" href="$d9/df4/classwx_value_choice.html#a9193f92274299f15adefdb340ad58abe" title="wxValueChoice::getSelected\lValue" alt="" coords="1141,269,1329,310"/>
+<area shape="rect" id="node16" href="$d0/d31/conf__file_8cpp.html#a153caa3fe3ddc7deff2c5e14d1dd4f71" title="SanitizeUtf8String" alt="" coords="651,579,777,605"/>
+<area shape="rect" id="node17" href="$db/dcf/class_my_dialog.html#a008219b2fc5f082cc4fbbb46f87ac74f" title="MyDialog::updateSettings\lControls" alt="" coords="629,462,799,503"/>
+<area shape="rect" id="node18" href="$d9/df4/classwx_value_choice.html#a15cefdf22a40c016ae2474430cdde209" title="wxValueChoice::setSelected\lValue" alt="" coords="887,415,1075,457"/>
+<area shape="rect" id="node19" href="$db/dcf/class_my_dialog.html#ad9f1ebe0db24ab553e8d54c13912b3b9" title="MyDialog::OnScrollSightRange" alt="" coords="881,481,1082,508"/>
+<area shape="rect" id="node20" href="$db/dcf/class_my_dialog.html#ada3c5edc423258c55ac677f3de37cedc" title="MyDialog::OnScrollVolume" alt="" coords="892,532,1071,559"/>
+<area shape="rect" id="node21" href="$db/dcf/class_my_dialog.html#aa8a51e501e6db082f2b1d7dc43a96d5e" title="MyDialog::OnScrollFPSLimiter" alt="" coords="882,583,1081,609"/>
+<area shape="rect" id="node22" href="$db/dcf/class_my_dialog.html#aad817edc439ea7b4381946a325b0f5e7" title="MyDialog::readVersionInfo" alt="" coords="1149,583,1322,609"/>
+<area shape="rect" id="node24" href="$db/dcf/class_my_dialog.html#aba6a7daf42cb713a175d666da8fb24ea" title="MyDialog::loadOgrePlugins" alt="" coords="625,259,803,285"/>
+<area shape="rect" id="node25" href="$db/dcf/class_my_dialog.html#a2db16bbab43a0aaf98ac4cf0787814be" title="MyDialog::updateRendersystems" alt="" coords="607,360,821,387"/>
+</map>

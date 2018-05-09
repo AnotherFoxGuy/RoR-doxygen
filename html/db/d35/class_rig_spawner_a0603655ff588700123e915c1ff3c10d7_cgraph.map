@@ -1,0 +1,5 @@
+<map id="RigSpawner::CreateVideoCamera" name="RigSpawner::CreateVideoCamera">
+<area shape="rect" id="node2" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a38923aee8dad0a3146012009fb2e109d" title="RigDef::Node::Ref::\lIsValidAnyState" alt="" coords="304,5,437,47"/>
+<area shape="rect" id="node3" href="$d6/dad/_utils_8cpp.html#a6219796a02effcab384e7c356aa6bc3d" title="fixRenderWindowIcon" alt="" coords="297,71,444,98"/>
+<area shape="rect" id="node4" href="$df/df5/_rig_spawner_8cpp.html#aa302bedd058792000e7d273c8d3ce466" title="CreateVideocameraDebugMesh" alt="" coords="268,122,473,149"/>
+</map>

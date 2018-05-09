@@ -1,0 +1,38 @@
+<map id="Collisions::getGroundModelByString" name="Collisions::getGroundModelByString">
+<area shape="rect" id="node2" href="$da/dea/class_landusemap.html#a15032fdc9b8480990b2d102d91c50122" title="Landusemap::loadConfig" alt="" coords="247,31,411,57"/>
+<area shape="rect" id="node4" href="$d0/d42/class_road2.html#a27a9cf5803361dbd84862a241ac2b9bb" title="Road2::addQuad" alt="" coords="269,107,388,133"/>
+<area shape="rect" id="node18" href="$df/d32/class_ro_r_1_1_g_u_i_1_1_friction_settings.html#af4e99e9b8a4f883ecb08028ac0f4bf5a" title="RoR::GUI::FrictionSettings\l::SetVisible" alt="" coords="983,359,1159,401"/>
+<area shape="rect" id="node28" href="$df/d32/class_ro_r_1_1_g_u_i_1_1_friction_settings.html#aba794ec888e0b38781df6d43843daedb" title="RoR::GUI::FrictionSettings\l::event_combo_grounds_eventCombo\lAccept" alt="" coords="697,452,935,508"/>
+<area shape="rect" id="node29" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="267,477,391,504"/>
+<area shape="rect" id="node32" href="$d9/d39/class_collisions.html#a25e934bf8896b7707b5b005403dd67a9" title="Collisions::Collisions" alt="" coords="257,528,400,555"/>
+<area shape="rect" id="node33" href="$d9/d39/class_collisions.html#a285399f2b679c1d0b649b71aa805d5f3" title="Collisions::addCollisionMesh" alt="" coords="235,271,423,297"/>
+<area shape="rect" id="node34" href="$d6/d14/class_terrain_object_manager.html#a62a108ad201e16585ab3115befedae60" title="TerrainObjectManager\l::loadObject" alt="" coords="485,263,635,305"/>
+<area shape="rect" id="node3" href="$da/dea/class_landusemap.html#ac804af3e0f5a61516c7de9e4eb8165f5" title="Landusemap::Landusemap" alt="" coords="471,5,649,32"/>
+<area shape="rect" id="node5" href="$d0/d42/class_road2.html#a9a8d8af3d830d58c09b2cea742e42832" title="Road2::finish" alt="" coords="511,107,609,133"/>
+<area shape="rect" id="node17" href="$d0/d42/class_road2.html#af1ed3f3e7283f49faad7101f0908ad19" title="Road2::addBlock" alt="" coords="499,56,621,83"/>
+<area shape="rect" id="node6" href="$d8/d78/class_procedural_manager.html#a63f800c4fe54872d67b0a3e3b1361927" title="ProceduralManager::\lupdateObject" alt="" coords="745,70,887,111"/>
+<area shape="rect" id="node7" href="$d8/d78/class_procedural_manager.html#afa1f48ec20e08e76dc41f68a0a8dd5b5" title="ProceduralManager::\lupdateAllObjects" alt="" coords="999,26,1142,67"/>
+<area shape="rect" id="node8" href="$d8/d78/class_procedural_manager.html#a2512968cf40ccdd75b82aa830bcafe17" title="ProceduralManager::\laddObject" alt="" coords="999,91,1142,133"/>
+<area shape="rect" id="node9" href="$d6/d14/class_terrain_object_manager.html#a45ccbf51f9c0ecac68927fed5e52eaa4" title="TerrainObjectManager\l::loadObjectConfigFile" alt="" coords="1229,150,1379,191"/>
+<area shape="rect" id="node10" href="$d3/d16/class_terrain_manager.html#a4ad87b973cb6af52daaf530a5feff167" title="TerrainManager::loadTerrain\lObjects" alt="" coords="1449,150,1632,191"/>
+<area shape="rect" id="node11" href="$d3/d16/class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="1680,157,1863,184"/>
+<area shape="rect" id="node12" href="$dd/dbe/class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="1925,157,2130,184"/>
+<area shape="rect" id="node13" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="2192,195,2451,221"/>
+<area shape="rect" id="node14" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="2499,195,2683,221"/>
+<area shape="rect" id="node15" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2565,245,2616,272"/>
+<area shape="rect" id="node16" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="2731,245,2804,272"/>
+<area shape="rect" id="node19" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#ae89d3a59ef05cca75790e75ff6afea37" title="RoR::GUIManager::SetVisible\l_FrictionSettings" alt="" coords="1207,291,1401,333"/>
+<area shape="rect" id="node25" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="1940,297,2115,338"/>
+<area shape="rect" id="node26" href="$df/d32/class_ro_r_1_1_g_u_i_1_1_friction_settings.html#ace2a240c0a4a7e86efb1b60d471e9cee" title="RoR::GUI::FrictionSettings\l::notifyWindowButtonPressed" alt="" coords="1207,409,1401,450"/>
+<area shape="rect" id="node20" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="1463,291,1619,333"/>
+<area shape="rect" id="node21" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="1693,291,1849,333"/>
+<area shape="rect" id="node22" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a1a4c2b4a27eb2a018b6b8ea49528f22a" title="RoR::GUI::TopMenubar\l::SetSimController" alt="" coords="1693,226,1849,267"/>
+<area shape="rect" id="node23" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a875185e93587aeb2ab73220c1d2d4fc8" title="RoR::GUIManager::SetSimController" alt="" coords="1911,241,2144,268"/>
+<area shape="rect" id="node24" href="$dd/dbe/class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="2193,245,2449,272"/>
+<area shape="rect" id="node27" href="$df/d32/class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a30be992e44b908881ce9e5ccbe691bf9" title="RoR::GUI::FrictionSettings\l::FrictionSettings" alt="" coords="1453,438,1629,479"/>
+<area shape="rect" id="node30" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="511,528,609,555"/>
+<area shape="rect" id="node31" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="495,477,625,504"/>
+<area shape="rect" id="node35" href="$d0/d9f/class_ro_r_1_1_console.html#a39381023fb19b10edfad9592ce2e1554" title="RoR::Console::eventCommand\lAccept" alt="" coords="717,259,915,301"/>
+<area shape="rect" id="node37" href="$d5/de5/class_game_script.html#adc155d46516906fb9bfddde649c02ee6" title="GameScript::spawnObject" alt="" coords="729,325,903,352"/>
+<area shape="rect" id="node36" href="$d0/d9f/class_ro_r_1_1_console.html#aba16cfd9f0894eb1312b1bc1155b6646" title="RoR::Console::Console" alt="" coords="992,267,1149,293"/>
+</map>

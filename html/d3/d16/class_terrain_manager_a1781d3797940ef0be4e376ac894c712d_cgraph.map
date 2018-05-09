@@ -1,0 +1,4 @@
+<map id="TerrainManager::GetMinimapTextureName" name="TerrainManager::GetMinimapTextureName">
+<area shape="rect" id="node2" href="$db/dd2/class_survey_map_manager.html#ae18637420216c1f41f99710fc9f3f1dc" title="SurveyMapManager::GetMinimap\lTextureName" alt="" coords="243,5,457,47"/>
+<area shape="rect" id="node3" href="$d2/dd0/class_survey_map_texture_creator.html#afbd68bc7e89f4d8ff26a1d40d184f4c7" title="SurveyMapTextureCreator\l::getTextureName" alt="" coords="505,5,676,47"/>
+</map>

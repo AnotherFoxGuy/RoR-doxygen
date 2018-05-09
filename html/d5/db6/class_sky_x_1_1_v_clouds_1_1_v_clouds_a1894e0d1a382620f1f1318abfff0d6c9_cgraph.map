@@ -1,0 +1,4 @@
+<map id="SkyX::VClouds::VClouds::setVisible" name="SkyX::VClouds::VClouds::setVisible">
+<area shape="rect" id="node2" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a2b6b9f4660a9b4d24bb85a19cca10f9d" title="SkyX::VClouds::GeometryManager\l::getSceneNode" alt="" coords="220,5,444,47"/>
+<area shape="rect" id="node3" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#ac9fb59970388ecfcdb5d7da322cd446b" title="SkyX::VClouds::Lightning\lManager::_setVisible" alt="" coords="247,71,417,112"/>
+</map>

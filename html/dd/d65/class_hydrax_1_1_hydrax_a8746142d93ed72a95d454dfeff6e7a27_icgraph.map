@@ -1,0 +1,32 @@
+<map id="Hydrax::Hydrax::getCausticsEnd" name="Hydrax::Hydrax::getCausticsEnd">
+<area shape="rect" id="node2" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a9dee3c1dd306504d642e31140214e2b4" title="Hydrax::CfgFileManager\l::_getComponentsCfgString" alt="" coords="265,42,447,84"/>
+<area shape="rect" id="node4" href="$da/d12/class_hydrax_1_1_material_manager.html#adb84a2034180ce0434b02d8f1b4aac85" title="Hydrax::MaterialManager\l::_createDepthMaterial" alt="" coords="273,358,439,400"/>
+<area shape="rect" id="node6" href="$da/d12/class_hydrax_1_1_material_manager.html#ab70527e20f62a739a738773173c7966f" title="Hydrax::MaterialManager\l::addDepthTechnique" alt="" coords="519,417,685,458"/>
+<area shape="rect" id="node16" href="$da/d12/class_hydrax_1_1_material_manager.html#a2961836553f7a30a8baffb9e82f7216e" title="Hydrax::MaterialManager\l::reload" alt="" coords="273,169,439,210"/>
+<area shape="rect" id="node31" href="$da/d12/class_hydrax_1_1_material_manager.html#a0ee548c5ba041a7e26a1561dbac28ae4" title="Hydrax::MaterialManager\l::addDepthTextureTechnique" alt="" coords="509,482,695,524"/>
+<area shape="rect" id="node3" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a7bb4d0c2124c8c68e49f8fcc26e1add7" title="Hydrax::CfgFileManager\l::save" alt="" coords="1281,18,1442,60"/>
+<area shape="rect" id="node5" href="$da/d12/class_hydrax_1_1_material_manager.html#a6aa7b0a92b824348577d506f7bcf581b" title="Hydrax::MaterialManager\l::createMaterials" alt="" coords="785,365,952,406"/>
+<area shape="rect" id="node15" href="$da/d12/class_hydrax_1_1_material_manager.html#a964a29c17a27037791f2b1c76bdf2aea" title="Hydrax::MaterialManager\l::getDepthTechniques" alt="" coords="519,300,685,341"/>
+<area shape="rect" id="node7" href="$da/d12/class_hydrax_1_1_material_manager.html#af2cdac2ad510d1c62d52916dbb95977c" title="Hydrax::MaterialManager\l::getLastOptions" alt="" coords="785,482,952,524"/>
+<area shape="rect" id="node8" href="$d3/d16/class_terrain_manager.html#aa7c9434ece63d1313c840b632a3b0430" title="TerrainManager::initWater" alt="" coords="783,431,954,458"/>
+<area shape="rect" id="node9" href="$d3/d16/class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="1028,431,1211,458"/>
+<area shape="rect" id="node10" href="$dd/dbe/class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="1259,431,1464,458"/>
+<area shape="rect" id="node11" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1512,406,1771,432"/>
+<area shape="rect" id="node12" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1819,456,2003,483"/>
+<area shape="rect" id="node13" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1885,406,1936,432"/>
+<area shape="rect" id="node14" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="2051,406,2124,432"/>
+<area shape="rect" id="node17" href="$da/d5f/class_hydrax_1_1_g_p_u_normal_map_manager.html#a7398a504e11ea902839868d69bcf956b" title="Hydrax::GPUNormalMapManager\l::create" alt="" coords="495,234,709,276"/>
+<area shape="rect" id="node24" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#abf7d8e05771b9f904efa09fe94ab0907" title="Hydrax::RttManager\l::setTextureSize" alt="" coords="533,169,671,210"/>
+<area shape="rect" id="node29" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#ad54dd87efa7baa4a5037faa2e5241738" title="Hydrax::RttManager\l::setTexturesSize" alt="" coords="533,104,671,145"/>
+<area shape="rect" id="node30" href="$d5/daf/class_hydrax_1_1_texture_manager.html#a30bfb59332540e897c43193474b4aa19" title="Hydrax::TextureManager\l::create" alt="" coords="520,38,684,80"/>
+<area shape="rect" id="node18" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#aa8e2b9d2b8307c07be2d2cd9cf115560" title="Hydrax::Noise::FFT\l::createGPUNormalMapResources" alt="" coords="757,234,980,276"/>
+<area shape="rect" id="node22" href="$db/d29/class_hydrax_1_1_noise_1_1_perlin.html#adb347b98692bd7ce6ad7ce76c605d15a" title="Hydrax::Noise::Perlin\l::createGPUNormalMapResources" alt="" coords="757,300,980,341"/>
+<area shape="rect" id="node19" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a1d7ec06eb11cda608cc8f73256c35be5" title="Hydrax::Noise::FFT\l::setOptions" alt="" coords="1052,218,1187,260"/>
+<area shape="rect" id="node21" href="$d3/db5/struct_hydrax_1_1_noise_1_1_f_f_t_1_1_options.html#adfe9c5cc180b233f7ef6ba50fec06563" title="Hydrax::Noise::FFT\l::Options::Options" alt="" coords="1574,226,1709,268"/>
+<area shape="rect" id="node20" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a64245b9e56eeb8627ac3f5260dc203dd" title="Hydrax::Noise::FFT\l::loadCfg" alt="" coords="1294,168,1429,209"/>
+<area shape="rect" id="node23" href="$d5/d28/struct_hydrax_1_1_noise_1_1_perlin_1_1_options.html#a25b331fdb0c7c67b12b865ff081af5e2" title="Hydrax::Noise::Perlin\l::Options::Options" alt="" coords="1047,336,1192,377"/>
+<area shape="rect" id="node25" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a3971753dfe7ad0b217844419c2b3d1fb" title="Hydrax::CfgFileManager\l::_loadRttSettings" alt="" coords="788,169,949,210"/>
+<area shape="rect" id="node27" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#a7a555bfe00cebdc0628f9b535db500ff" title="Hydrax::RttManager\l::getTextureSize" alt="" coords="799,104,938,145"/>
+<area shape="rect" id="node26" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a0e050d2bf65e31ee39c0e28c481702f8" title="Hydrax::CfgFileManager\l::load" alt="" coords="1039,153,1200,194"/>
+<area shape="rect" id="node28" href="$d6/de1/class_hydrax_1_1_cfg_file_manager.html#a7836862e6b5d435d19f9ff62cf5ffca6" title="Hydrax::CfgFileManager\l::_getRttCfgString" alt="" coords="1039,56,1200,97"/>
+</map>

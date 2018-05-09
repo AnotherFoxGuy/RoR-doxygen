@@ -1,0 +1,10 @@
+<map id="TerrainManager::hasPreloadedTrucks" name="TerrainManager::hasPreloadedTrucks">
+<area shape="rect" id="node2" href="$dd/dbe/class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="717,5,923,32"/>
+<area shape="rect" id="node7" href="$d3/d16/class_terrain_manager.html#a7c0eff44d224bbca740dc2ab171fd7bf" title="TerrainManager::GetSimController" alt="" coords="252,64,471,91"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="971,56,1229,83"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1277,5,1461,32"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1344,56,1395,83"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1509,56,1583,83"/>
+<area shape="rect" id="node8" href="$d6/d14/class_terrain_object_manager.html#a202d577cb222f42c46e5b6600c9626a4" title="TerrainObjectManager\l::loadPreloadedTrucks" alt="" coords="519,57,669,98"/>
+<area shape="rect" id="node9" href="$d3/d16/class_terrain_manager.html#ac666fc0221c16001186b83cd6df66691" title="TerrainManager::loadPreloaded\lTrucks" alt="" coords="719,57,921,98"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Collisions::getGroundModels" name="Collisions::getGroundModels">
+<area shape="rect" id="node2" href="$df/d32/class_ro_r_1_1_g_u_i_1_1_friction_settings.html#af4e99e9b8a4f883ecb08028ac0f4bf5a" title="RoR::GUI::FrictionSettings\l::SetVisible" alt="" coords="241,129,417,171"/>
+<area shape="rect" id="node3" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#ae89d3a59ef05cca75790e75ff6afea37" title="RoR::GUIManager::SetVisible\l_FrictionSettings" alt="" coords="465,71,660,112"/>
+<area shape="rect" id="node12" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="1165,129,1340,171"/>
+<area shape="rect" id="node13" href="$df/d32/class_ro_r_1_1_g_u_i_1_1_friction_settings.html#ace2a240c0a4a7e86efb1b60d471e9cee" title="RoR::GUI::FrictionSettings\l::notifyWindowButtonPressed" alt="" coords="466,188,659,229"/>
+<area shape="rect" id="node4" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="718,71,874,112"/>
+<area shape="rect" id="node5" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="932,5,1088,47"/>
+<area shape="rect" id="node6" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a1a4c2b4a27eb2a018b6b8ea49528f22a" title="RoR::GUI::TopMenubar\l::SetSimController" alt="" coords="932,71,1088,112"/>
+<area shape="rect" id="node7" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a875185e93587aeb2ab73220c1d2d4fc8" title="RoR::GUIManager::SetSimController" alt="" coords="1136,78,1369,105"/>
+<area shape="rect" id="node8" href="$dd/dbe/class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="1417,79,1673,106"/>
+<area shape="rect" id="node9" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1721,79,1905,106"/>
+<area shape="rect" id="node10" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1788,131,1839,158"/>
+<area shape="rect" id="node11" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1953,131,2027,158"/>
+<area shape="rect" id="node14" href="$df/d32/class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a30be992e44b908881ce9e5ccbe691bf9" title="RoR::GUI::FrictionSettings\l::FrictionSettings" alt="" coords="708,188,884,229"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="Settings::SaveSettings" name="Settings::SaveSettings">
+<area shape="rect" id="node2" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="259,5,308,32"/>
+<area shape="rect" id="node4" href="$d6/dcd/_settings_8cpp.html#a6540982d3047b6fd6b637e071d00f544" title="WriteYN" alt="" coords="248,56,319,83"/>
+<area shape="rect" id="node5" href="$d6/dcd/_settings_8cpp.html#af940e9976960bdd2d16215536308dc5f" title="WriteStr" alt="" coords="248,107,319,133"/>
+<area shape="rect" id="node6" href="$d6/dcd/_settings_8cpp.html#afd3e661d4cbdcc53a2d67b45228a0ead" title="WritePod" alt="" coords="245,157,321,184"/>
+<area shape="rect" id="node8" href="$d6/dcd/_settings_8cpp.html#afc5428c0b274c36de19d06f4bd1a6587" title="WriteAny" alt="" coords="245,208,321,235"/>
+<area shape="rect" id="node9" href="$d6/dcd/_settings_8cpp.html#a29189a6ecaeb064c3242f8dd43ee9bc7" title="SimGearboxToStr" alt="" coords="221,259,346,285"/>
+<area shape="rect" id="node10" href="$d6/dcd/_settings_8cpp.html#ab1a34bef1acd8699b08caeabb8aef92e" title="IoInputGrabToStr" alt="" coords="224,309,343,336"/>
+<area shape="rect" id="node11" href="$d6/dcd/_settings_8cpp.html#a477a7536ede0ac24d4bf8b78773fd2ee" title="GfxShadowTechToStr" alt="" coords="210,360,357,387"/>
+<area shape="rect" id="node12" href="$d6/dcd/_settings_8cpp.html#a113bc2d966b430ed6ec70f74665c1db2" title="GfxExtcamModeToStr" alt="" coords="208,411,359,437"/>
+<area shape="rect" id="node13" href="$d6/dcd/_settings_8cpp.html#ae3423a26502fc2db977b1a608da34448" title="GfxTexFilterToStr" alt="" coords="222,461,345,488"/>
+<area shape="rect" id="node14" href="$d6/dcd/_settings_8cpp.html#ad04ff5b6ae3a9fed12ed0cf022880e96" title="GfxVegetationToStr" alt="" coords="216,512,351,539"/>
+<area shape="rect" id="node15" href="$d6/dcd/_settings_8cpp.html#ae9c13bafe5476e418f92ec419b580a42" title="GfxFlaresToStr" alt="" coords="229,563,338,589"/>
+<area shape="rect" id="node16" href="$d6/dcd/_settings_8cpp.html#ab2d8cd1700ef0a199f6760c422bbae06" title="GfxWaterToStr" alt="" coords="229,613,337,640"/>
+<area shape="rect" id="node17" href="$d6/dcd/_settings_8cpp.html#abfd70faada1bc92a52864dd8b9f65e3a" title="GfxSkyToStr" alt="" coords="235,664,331,691"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="463,5,539,32"/>
+<area shape="rect" id="node7" href="$d3/d93/class_ro_r_1_1_g_var_pod___a.html#a4da2fd35ebe0b4e616ccffee5a5a7bc4" title="RoR::GVarPod_A::GetActive" alt="" coords="407,157,595,184"/>
+</map>

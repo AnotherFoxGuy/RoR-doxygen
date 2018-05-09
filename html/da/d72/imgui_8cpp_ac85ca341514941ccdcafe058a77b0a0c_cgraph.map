@@ -1,0 +1,9 @@
+<map id="FindBestPopupWindowPos" name="FindBestPopupWindowPos">
+<area shape="rect" id="node2" href="$da/d72/imgui_8cpp.html#a3ff47d9813f8f830c735d3c7de442760" title="GetVisibleRect" alt="" coords="243,5,353,32"/>
+<area shape="rect" id="node3" href="$df/d8d/struct_im_rect.html#a0904de81ac85f4d5d380dcdb4f1b68e0" title="ImRect::Reduce" alt="" coords="241,56,355,83"/>
+<area shape="rect" id="node4" href="$df/d8d/struct_im_rect.html#afa75cb8491f20901c96166d17dcddac4" title="ImRect::GetWidth" alt="" coords="235,107,361,133"/>
+<area shape="rect" id="node5" href="$df/d8d/struct_im_rect.html#a748d8ae9cb26508951ec6e2f2df0625b" title="ImRect::GetHeight" alt="" coords="233,157,363,184"/>
+<area shape="rect" id="node6" href="$d1/da2/imgui__internal_8h.html#a0025e40e8a0c14fa07c9081cc70b857a" title="ImClamp" alt="" coords="261,208,335,235"/>
+<area shape="rect" id="node7" href="$d1/da2/imgui__internal_8h.html#a6fb8dd1bd2fa0e1c6065dc7123cb7f3e" title="ImMax" alt="" coords="267,259,329,285"/>
+<area shape="rect" id="node8" href="$d1/da2/imgui__internal_8h.html#ac3ad7e7626cd6b46456b3f4c35025d74" title="ImMin" alt="" coords="269,309,327,336"/>
+</map>

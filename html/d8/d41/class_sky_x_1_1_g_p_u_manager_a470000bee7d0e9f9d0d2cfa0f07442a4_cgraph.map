@@ -1,0 +1,9 @@
+<map id="SkyX::GPUManager::setGpuProgramParameter" name="SkyX::GPUManager::setGpuProgramParameter">
+<area shape="rect" id="node2" href="$de/db3/class_sky_x_1_1_sky_x.html#a66c1cbd869fdbeaf4bb8950f4d295ea0" title="SkyX::SkyX::getMeshManager" alt="" coords="241,13,440,39"/>
+<area shape="rect" id="node3" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a1c0fd1d7b6d3ad0810d095ea41b664b9" title="SkyX::MeshManager::\lisCreated" alt="" coords="265,64,416,105"/>
+<area shape="rect" id="node4" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a9f3b755b92a6fcec4f7d274bf4530769" title="SkyX::MeshManager::\lsetGeometryParameters" alt="" coords="488,64,652,105"/>
+<area shape="rect" id="node5" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a6f83e79605385575af31185a92a2db7d" title="SkyX::MeshManager::\lcreate" alt="" coords="700,64,851,105"/>
+<area shape="rect" id="node6" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a4d9a39e8f56eed532f777e6b9c5a7046" title="SkyX::MeshManager::\l_createGeometry" alt="" coords="925,5,1075,47"/>
+<area shape="rect" id="node7" href="$de/db3/class_sky_x_1_1_sky_x.html#ac0cff17e4fac3749f9a36e1b76ebe189" title="SkyX::SkyX::getSceneManager" alt="" coords="899,71,1101,98"/>
+<area shape="rect" id="node8" href="$de/db3/class_sky_x_1_1_sky_x.html#a628b7c569b922b64d0964f43d611f1e3" title="SkyX::SkyX::getRenderQueue\lGroups" alt="" coords="903,123,1097,164"/>
+</map>

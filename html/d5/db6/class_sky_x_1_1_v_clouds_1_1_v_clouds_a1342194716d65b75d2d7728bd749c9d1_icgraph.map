@@ -1,0 +1,10 @@
+<map id="SkyX::VClouds::VClouds::setAmbientColor" name="SkyX::VClouds::VClouds::setAmbientColor">
+<area shape="rect" id="node2" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="649,120,800,161"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a3c5adca159dc371b8624e055f260009b" title="SkyX::VClouds::VClouds\l::create" alt="" coords="220,55,387,96"/>
+<area shape="rect" id="node6" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a42ee1a1e85277b7eb45e2a1d56f6a878" title="SkyX::VClouds::VClouds\l::getSunColor" alt="" coords="220,120,387,161"/>
+<area shape="rect" id="node7" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#ae18e2c8203f4ce46607677c6171e12c2" title="SkyX::VCloudsManager\l::_setLightParameters" alt="" coords="224,185,383,227"/>
+<area shape="rect" id="node4" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ab859795b0c4a32358b726c9e1eef35c6" title="SkyX::VClouds::VClouds\l::create" alt="" coords="435,55,601,96"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6931df17a25e8691796aa4d9c68467cb" title="SkyX::VCloudsManager\l::create" alt="" coords="439,120,597,161"/>
+<area shape="rect" id="node8" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a7c25472c85244e6889b371384b5aff70" title="SkyX::VCloudsManager\l::update" alt="" coords="439,185,597,227"/>
+<area shape="rect" id="node9" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#afd62d929ffeb8de654a30af55ddf490c" title="SkyX::VCloudsManager\l::isCreated" alt="" coords="439,251,597,292"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="RigDef::Parser::ParseOptionalInertia" name="RigDef::Parser::ParseOptionalInertia">
+<area shape="rect" id="node2" href="$d1/da8/class_rig_def_1_1_parser.html#ab0e468bb368d063d7326a10206217c98" title="RigDef::Parser::ParseCommands\lUnified" alt="" coords="249,7,464,48"/>
+<area shape="rect" id="node12" href="$d1/da8/class_rig_def_1_1_parser.html#a17f151a41aad3d44521f30bcb1af4767" title="RigDef::Parser::ParseRotators\lUnified" alt="" coords="258,124,455,165"/>
+<area shape="rect" id="node13" href="$d1/da8/class_rig_def_1_1_parser.html#afd4b1a410e4258172447bd5112aa4b6d" title="RigDef::Parser::ParseHydros" alt="" coords="262,73,451,99"/>
+<area shape="rect" id="node14" href="$d1/da8/class_rig_def_1_1_parser.html#ad099ca842651c769e8ebaea2ae0fbc20" title="RigDef::Parser::AddMessage" alt="" coords="261,190,452,217"/>
+<area shape="rect" id="node3" href="$d1/da8/class_rig_def_1_1_parser.html#a99a49d75798b1fa5dfbd00873455fbeb" title="RigDef::Parser::ProcessCurrentLine" alt="" coords="512,47,740,74"/>
+<area shape="rect" id="node11" href="$d1/da8/class_rig_def_1_1_parser.html#a5ab95d1e21230f5477cc7c6cfca95c0e" title="RigDef::Parser::GetMessages\lNumOther" alt="" coords="796,91,991,132"/>
+<area shape="rect" id="node4" href="$d1/da8/class_rig_def_1_1_parser.html#ad1920ba0a8dc23ac5043b2c270ef5f47" title="RigDef::Parser::ProcessRawLine" alt="" coords="788,39,999,66"/>
+<area shape="rect" id="node5" href="$d1/da8/class_rig_def_1_1_parser.html#ab08d0ba4ffb90b72cb351014bb7861bd" title="RigDef::Parser::ProcessOgre\lStream" alt="" coords="1047,32,1237,73"/>
+<area shape="rect" id="node6" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="1328,97,1452,123"/>
+<area shape="rect" id="node9" href="$d7/d35/class_cache_system.html#ad640fd28c3075eb6310d8d8f3475cefb" title="CacheSystem::fillTruckDetailInfo" alt="" coords="1285,39,1495,66"/>
+<area shape="rect" id="node7" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="1599,94,1697,121"/>
+<area shape="rect" id="node8" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="1583,145,1713,171"/>
+<area shape="rect" id="node10" href="$d7/d35/class_cache_system.html#a20bd63ee907dd205ccef715db6dc9b5c" title="CacheSystem::getUIDfromString" alt="" coords="1543,39,1753,66"/>
+</map>

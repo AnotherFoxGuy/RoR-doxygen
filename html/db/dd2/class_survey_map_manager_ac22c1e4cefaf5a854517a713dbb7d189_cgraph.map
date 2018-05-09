@@ -1,0 +1,47 @@
+<map id="SurveyMapManager::UpdateVehicles" name="SurveyMapManager::UpdateVehicles">
+<area shape="rect" id="node2" href="$db/dd2/class_survey_map_manager.html#a17809f36c8b9291270ced418f222faab" title="SurveyMapManager::getMap\lEntityByName" alt="" coords="243,180,429,221"/>
+<area shape="rect" id="node3" href="$df/d13/class_survey_map_entity.html#a24cc0fef7d3f1f296e7e8ccf94413fa5" title="SurveyMapEntity::setState" alt="" coords="247,246,425,273"/>
+<area shape="rect" id="node44" href="$df/d13/class_survey_map_entity.html#ad3cc1cb8f1e71f876290abb0eb004c05" title="SurveyMapEntity::setVisibility" alt="" coords="239,297,433,323"/>
+<area shape="rect" id="node45" href="$df/d13/class_survey_map_entity.html#a781ecb998f41521324088cd3ce66d9ce" title="SurveyMapEntity::setPosition" alt="" coords="239,347,433,374"/>
+<area shape="rect" id="node46" href="$df/d13/class_survey_map_entity.html#a23640d7a462102b43b62b44204a99a2d" title="SurveyMapEntity::setRotation" alt="" coords="239,398,433,425"/>
+<area shape="rect" id="node4" href="$df/d13/class_survey_map_entity.html#ad83a9d2fd4ab8d3a3841f9e1b0eae729" title="SurveyMapEntity::updateIcon" alt="" coords="481,221,672,247"/>
+<area shape="rect" id="node5" href="$df/d13/class_survey_map_entity.html#af393a262b4094ca586036e08943b6d72" title="SurveyMapEntity::update" alt="" coords="493,271,660,298"/>
+<area shape="rect" id="node6" href="$db/dd2/class_survey_map_manager.html#a959f28a84f3b54803983c734bcc849e1" title="SurveyMapManager::getMap\lEntitiesVisible" alt="" coords="744,235,931,276"/>
+<area shape="rect" id="node8" href="$d3/d16/class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="724,158,951,185"/>
+<area shape="rect" id="node10" href="$db/dd2/class_survey_map_manager.html#afdabdbdf87d39f253ecd17af1770a516" title="SurveyMapManager::getWindowSize" alt="" coords="720,301,955,327"/>
+<area shape="rect" id="node24" href="$db/dd2/class_survey_map_manager.html#aec8d2ee435b736ae628d3924a6d2b29d" title="SurveyMapManager::getMapSize" alt="" coords="2497,878,2711,905"/>
+<area shape="rect" id="node7" href="$db/dd2/class_survey_map_manager.html#a2a4a152b8fa45aeffcf759a0a0fa5f8c" title="SurveyMapManager::setAlpha" alt="" coords="1501,275,1696,302"/>
+<area shape="rect" id="node9" href="$d2/d9a/class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="1014,125,1182,167"/>
+<area shape="rect" id="node11" href="$db/dd2/class_survey_map_manager.html#a51d80954d8fac255b9c88a60a120cbc3" title="SurveyMapManager::toggle\lMapView" alt="" coords="1255,125,1433,167"/>
+<area shape="rect" id="node19" href="$db/dd2/class_survey_map_manager.html#a171c5f8b946065add28edeb53aa62842" title="SurveyMapManager::toggle\lMapAlpha" alt="" coords="1255,293,1433,335"/>
+<area shape="rect" id="node37" href="$db/dd2/class_survey_map_manager.html#a49258bae8179a976b3c96b4b8daee682" title="SurveyMapManager::Update" alt="" coords="1005,461,1191,487"/>
+<area shape="rect" id="node43" href="$db/dd2/class_survey_map_manager.html#a8be6c4d34c32d4f65f55f60da29ed1a6" title="SurveyMapManager::getType\lByDriveable" alt="" coords="1003,293,1193,335"/>
+<area shape="rect" id="node12" href="$d2/d23/class_camera_manager.html#ad07471d660e56e45c7c612e7312da666" title="CameraManager::hasActive\lBehavior" alt="" coords="1508,5,1689,47"/>
+<area shape="rect" id="node13" href="$d2/d23/class_camera_manager.html#a213c263271f91e4eca01182f034e8a04" title="CameraManager::getCurrent\lBehavior" alt="" coords="1506,188,1691,229"/>
+<area shape="rect" id="node14" href="$db/dd2/class_survey_map_manager.html#aeebd7d253cbe08237389c73ee4100e21" title="SurveyMapManager::setVisibility" alt="" coords="1751,274,1961,301"/>
+<area shape="rect" id="node15" href="$db/dd2/class_survey_map_manager.html#ae268bea2d7e20939b37a4e0e75b55865" title="SurveyMapManager::setWindow\lPosition" alt="" coords="1495,71,1703,112"/>
+<area shape="rect" id="node16" href="$db/dd2/class_survey_map_manager.html#a7ed376ba39519e19a1c2f9f1cd324b31" title="SurveyMapManager::update\lRenderMetrics" alt="" coords="1765,71,1947,112"/>
+<area shape="rect" id="node17" href="$df/d86/namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="2018,107,2219,134"/>
+<area shape="rect" id="node18" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="2044,41,2193,83"/>
+<area shape="rect" id="node20" href="$db/dd2/class_survey_map_manager.html#a406a7445a656a72a84f0a63c5f97eb16" title="SurveyMapManager::getAlpha" alt="" coords="1501,461,1696,487"/>
+<area shape="rect" id="node21" href="$db/dd2/class_survey_map_manager.html#a366febef1cda1389030d1d1d8271ab13" title="SurveyMapManager::getVisibility" alt="" coords="1751,461,1961,487"/>
+<area shape="rect" id="node22" href="$db/dd2/class_survey_map_manager.html#ac7fddea7dd7050147998b735d3157718" title="SurveyMapManager::setMapZoom" alt="" coords="2009,698,2228,725"/>
+<area shape="rect" id="node36" href="$db/dd2/class_survey_map_manager.html#ab0273b7367d936f9458d69a89de88e2d" title="SurveyMapManager::setMap\lZoomRelative" alt="" coords="1763,784,1949,825"/>
+<area shape="rect" id="node23" href="$d2/dd0/class_survey_map_texture_creator.html#a889f0dd0655063c8cb78116cee9e6b1d" title="SurveyMapTextureCreator\l::update" alt="" coords="2276,691,2447,732"/>
+<area shape="rect" id="node25" href="$db/dd2/class_survey_map_manager.html#aa11b4ff9fe6e40c5b75e7fcc7a0ea704" title="SurveyMapManager::getMap\lCenter" alt="" coords="2511,516,2697,557"/>
+<area shape="rect" id="node27" href="$db/dd2/class_survey_map_manager.html#a52d4394a3be9430d483e3ae058077019" title="SurveyMapManager::getMapZoom" alt="" coords="2495,753,2713,779"/>
+<area shape="rect" id="node29" href="$d2/dd0/class_survey_map_texture_creator.html#aeeb03c9272b7b29ff6d346a9f4611dc5" title="SurveyMapTextureCreator\l::preRenderTargetUpdate" alt="" coords="2519,621,2689,663"/>
+<area shape="rect" id="node35" href="$d2/dd0/class_survey_map_texture_creator.html#aeee3a35731188515be6a257bab889a84" title="SurveyMapTextureCreator\l::postRenderTargetUpdate" alt="" coords="2517,687,2691,728"/>
+<area shape="rect" id="node26" href="$db/dd2/class_survey_map_manager.html#a780715983d5ad1c19af5ec448f416dee" title="SurveyMapManager::setMap\lTexture" alt="" coords="2765,495,2952,536"/>
+<area shape="rect" id="node28" href="$db/dd2/class_survey_map_manager.html#a61db6a2c4c30c2ed0cd18b50ea02f479" title="SurveyMapManager::setMap\lCenter" alt="" coords="2765,815,2952,856"/>
+<area shape="rect" id="node30" href="$d3/d16/class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="2773,561,2945,587"/>
+<area shape="rect" id="node31" href="$d1/dd9/class_i_water.html#a7d7819f7cf473aa8a99ddca7cbdec0bc" title="IWater::setCamera" alt="" coords="2793,611,2924,638"/>
+<area shape="rect" id="node32" href="$d1/dd9/class_i_water.html#aafd64d3659a952b2667c9124b9c41572" title="IWater::moveTo" alt="" coords="2803,662,2915,689"/>
+<area shape="rect" id="node33" href="$d1/dd9/class_i_water.html#a1c85ea2684f75ada32395e8497b67ead" title="Returns static water level configured in &#39;terrn2&#39;. " alt="" coords="2761,713,2956,739"/>
+<area shape="rect" id="node34" href="$d1/dd9/class_i_water.html#a2fb52c8272f9e090a8a59e5a13f5ef91" title="IWater::update" alt="" coords="2805,763,2912,790"/>
+<area shape="rect" id="node38" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="1257,410,1431,437"/>
+<area shape="rect" id="node39" href="$df/df9/class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="1279,511,1409,538"/>
+<area shape="rect" id="node40" href="$d7/da7/class_character.html#a2c056adebe0e35330a3eae862667f1d4" title="Character::getPosition" alt="" coords="1269,562,1419,589"/>
+<area shape="rect" id="node41" href="$d2/d23/class_camera_manager.html#a8cbcaac61bff564ad37ebfdeef25acab" title="CameraManager::gameControls\lLocked" alt="" coords="1241,613,1447,655"/>
+<area shape="rect" id="node42" href="$db/dd2/class_survey_map_manager.html#ab509b07168884c0cc346306fec8a0cd7" title="SurveyMapManager::update\lMapEntityPositions" alt="" coords="1253,679,1435,720"/>
+</map>

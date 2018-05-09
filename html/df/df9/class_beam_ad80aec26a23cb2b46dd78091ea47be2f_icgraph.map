@@ -1,0 +1,9 @@
+<map id="Beam::disconnectAutopilot" name="Beam::disconnectAutopilot">
+<area shape="rect" id="node2" href="$dd/d19/struct_ro_r_1_1_aircraft_simulation.html#a3db164bd65ba10630912b8a76537f69f" title="RoR::AircraftSimulation\l::UpdateVehicle" alt="" coords="232,5,389,47"/>
+<area shape="rect" id="node3" href="$df/df9/class_beam.html#aabe018af621de69910d145fe2967ad11" title="Beam::IsNodeIdValid" alt="" coords="239,71,382,98"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#a46c793a3229156a678a3829a6fe59be6" title="RoRFrameListener::Update\lForceFeedback" alt="" coords="437,35,616,76"/>
+<area shape="rect" id="node6" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="465,101,589,127"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="664,42,876,69"/>
+<area shape="rect" id="node7" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="721,97,819,123"/>
+<area shape="rect" id="node8" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="705,147,835,174"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SkyX::VCloudsManager::VCloudsManager" name="SkyX::VCloudsManager::VCloudsManager">
+<area shape="rect" id="node2" href="$de/db3/class_sky_x_1_1_sky_x.html#ac0cff17e4fac3749f9a36e1b76ebe189" title="SkyX::SkyX::getSceneManager" alt="" coords="212,5,415,32"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a2ad502f0a4e4f3abfca677029d38ef24" title="SkyX::VClouds::VClouds\l::setRenderQueueGroups" alt="" coords="229,57,398,98"/>
+<area shape="rect" id="node5" href="$de/db3/class_sky_x_1_1_sky_x.html#a628b7c569b922b64d0964f43d611f1e3" title="SkyX::SkyX::getRenderQueue\lGroups" alt="" coords="216,122,411,163"/>
+<area shape="rect" id="node6" href="$db/d2c/class_sky_x_1_1_color_gradient.html#aa705843fc08794fad01e14117c2ea9d9" title="SkyX::ColorGradient\l::addCFrame" alt="" coords="244,187,383,229"/>
+<area shape="rect" id="node4" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#aae6a88597f3c7a1a17429b6b72cd9c3f" title="SkyX::VClouds::GeometryManager\l::_updateRenderQueueGroup" alt="" coords="463,57,687,98"/>
+<area shape="rect" id="node7" href="$db/d2c/class_sky_x_1_1_color_gradient.html#acd49760fd3d996b871082bddd0760d12" title="SkyX::ColorGradient\l::_checkBounds" alt="" coords="505,187,644,229"/>
+</map>

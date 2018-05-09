@@ -1,0 +1,18 @@
+<map id="Beam::resetPosition" name="Beam::resetPosition">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="205,5,377,32"/>
+<area shape="rect" id="node3" href="$d1/dd9/class_i_water.html#a1c85ea2684f75ada32395e8497b67ead" title="Returns static water level configured in &#39;terrn2&#39;. " alt="" coords="193,56,388,83"/>
+<area shape="rect" id="node4" href="$d3/d16/class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="203,107,378,149"/>
+<area shape="rect" id="node5" href="$d9/d44/class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="203,173,378,200"/>
+<area shape="rect" id="node6" href="$d9/d39/class_collisions.html#a265e80a2a5e77dd57ce94ae62c2a11ab" title="Collisions::collisionCorrect" alt="" coords="203,224,378,251"/>
+<area shape="rect" id="node7" href="$d3/d16/class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="436,85,663,112"/>
+<area shape="rect" id="node9" href="$d9/d39/class_collisions.html#a2fdc842e0f848af88b965e66b0296b79" title="Collisions::hash_find" alt="" coords="479,140,620,167"/>
+<area shape="rect" id="node11" href="$d9/d39/class_collisions.html#a169c711864e32721fb5daab7d7d01df4" title="Collisions::permitEvent" alt="" coords="472,195,627,221"/>
+<area shape="rect" id="node15" href="$d9/d39/class_collisions.html#afab554d00436aa9157c93a4eaecf8d74" title="Collisions::envokeScript\lCallback" alt="" coords="469,246,629,287"/>
+<area shape="rect" id="node16" href="$d9/d39/class_collisions.html#accb10540c3aa849f57b7fd3b9da2e1c6" title="Collisions::calcCollidedSide" alt="" coords="458,312,641,339"/>
+<area shape="rect" id="node17" href="$d9/d39/class_collisions.html#ad12c4976773ee3a8034b02fe1cd0212d" title="Collisions::clearEventCache" alt="" coords="458,363,641,389"/>
+<area shape="rect" id="node8" href="$d2/d9a/class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="727,73,895,114"/>
+<area shape="rect" id="node10" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="742,139,881,165"/>
+<area shape="rect" id="node12" href="$dd/dbe/class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="715,190,908,231"/>
+<area shape="rect" id="node13" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="711,255,912,297"/>
+<area shape="rect" id="node14" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="960,263,1151,289"/>
+</map>

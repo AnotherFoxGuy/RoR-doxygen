@@ -1,0 +1,7 @@
+<map id="RigDef::Node::Ref::Num" name="RigDef::Node::Ref::Num">
+<area shape="rect" id="node2" href="$db/d35/class_rig_spawner.html#a432b93e5b4d3ce715fa3e0739a907b1c" title="RigSpawner::GetNodeIndex" alt="" coords="213,5,395,32"/>
+<area shape="rect" id="node3" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a97bec71f6d710c1c6804d9b1e03977a5" title="RigDef::SequentialImporter\l::ResolveNode" alt="" coords="216,107,392,149"/>
+<area shape="rect" id="node4" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a3b5fe4ea5c9ab72bab2c88845cbe144a" title="RigDef::SequentialImporter\l::ResolveNodeRanges" alt="" coords="443,49,619,90"/>
+<area shape="rect" id="node6" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a6029705326e0cfa1d42e06ff8a3937de" title="RigDef::SequentialImporter\l::ResolveFlexbodyForset" alt="" coords="443,166,619,207"/>
+<area shape="rect" id="node5" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a2a913a50fa126bf8f9bdc6f4485fb5f9" title="RigDef::SequentialImporter\l::GetMessagesNumOther" alt="" coords="667,107,843,149"/>
+</map>

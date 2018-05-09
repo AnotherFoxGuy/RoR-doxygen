@@ -1,0 +1,19 @@
+<map id="RoR::GUI::TopMenubar::getUserString" name="RoR::GUI::TopMenubar::getUserString">
+<area shape="rect" id="node2" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#addbf2f7c7b987d76109c9ed95f966437" title="RoR::GUI::TopMenubar\l::addUserToMenu" alt="" coords="209,191,365,233"/>
+<area shape="rect" id="node13" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a1a4c2b4a27eb2a018b6b8ea49528f22a" title="RoR::GUI::TopMenubar\l::SetSimController" alt="" coords="655,225,811,266"/>
+<area shape="rect" id="node3" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a70583f192ad3c430862d4e17afac2a2f" title="RoR::GUI::TopMenubar\l::vehiclesListUpdate" alt="" coords="413,141,569,182"/>
+<area shape="rect" id="node4" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a85cdceff2c0f1196726097bc04953567" title="RoR::GUI::TopMenubar\l::updatePositionUponMousePosition" alt="" coords="617,107,849,149"/>
+<area shape="rect" id="node5" href="$db/df1/class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="911,5,1117,32"/>
+<area shape="rect" id="node10" href="$db/df1/class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="905,56,1123,83"/>
+<area shape="rect" id="node11" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="936,107,1092,149"/>
+<area shape="rect" id="node12" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a180dd47d14be5a44450e0569c5dd8522" title="RoR::GUI::TopMenubar\l::getMenuHeight" alt="" coords="936,173,1092,214"/>
+<area shape="rect" id="node6" href="$db/df1/class_g_u_i_input_manager.html#ab59361b8e1a9e31e53b5e5523f2b4801" title="GUIInputManager::getLast\lMouseMoveTime" alt="" coords="1220,23,1393,65"/>
+<area shape="rect" id="node7" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#aae1570a62049085aa74ce274ac9a70ad" title="RoR::GUIManager::frameStarted" alt="" coords="1483,31,1692,57"/>
+<area shape="rect" id="node8" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a4ab273bd0538649818c84b38e8a06100" title="RoR::GUIManager::GetTheme" alt="" coords="1740,31,1935,57"/>
+<area shape="rect" id="node9" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a8c98e9ba03c8afb1d1a26ec06192862e" title="RoR::GUI::MultiplayerSelector\l::~MultiplayerSelector" alt="" coords="1983,23,2179,65"/>
+<area shape="rect" id="node14" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a875185e93587aeb2ab73220c1d2d4fc8" title="RoR::GUIManager::SetSimController" alt="" coords="897,239,1131,265"/>
+<area shape="rect" id="node15" href="$dd/dbe/class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="1179,239,1435,265"/>
+<area shape="rect" id="node16" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1495,213,1679,240"/>
+<area shape="rect" id="node17" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1562,264,1613,291"/>
+<area shape="rect" id="node18" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1801,264,1874,291"/>
+</map>

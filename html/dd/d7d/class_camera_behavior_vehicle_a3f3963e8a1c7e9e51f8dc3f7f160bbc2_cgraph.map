@@ -1,0 +1,6 @@
+<map id="CameraBehaviorVehicle::switchBehavior" name="CameraBehaviorVehicle::switchBehavior">
+<area shape="rect" id="node2" href="$dd/d7d/class_camera_behavior_vehicle.html#ad2ebe4719b6825c11719b5361e88780a" title="CameraBehaviorVehicle\l::mousePressed" alt="" coords="212,49,371,90"/>
+<area shape="rect" id="node3" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="419,5,593,32"/>
+<area shape="rect" id="node4" href="$d3/d7b/class_input_engine.html#a31083a87d361611caf4ded6955565d18" title="InputEngine::isKeyDown" alt="" coords="425,56,587,83"/>
+<area shape="rect" id="node5" href="$df/df9/class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="439,107,573,133"/>
+</map>

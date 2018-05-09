@@ -1,0 +1,7 @@
+<map id="RigDef::Node::Id::Num" name="RigDef::Node::Id::Num">
+<area shape="rect" id="node2" href="$db/d35/class_rig_spawner.html#a6518929c282a78ec26de9cf88a3c2032" title="RigSpawner::ProcessNode" alt="" coords="204,5,381,32"/>
+<area shape="rect" id="node5" href="$db/d08/class_rig_def_1_1_serializer.html#a8c9186f75ca10d02b4557395a8076f02" title="RigDef::Serializer\l::ProcessNodes" alt="" coords="231,57,354,98"/>
+<area shape="rect" id="node3" href="$db/d35/class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="429,5,587,32"/>
+<area shape="rect" id="node4" href="$db/d35/class_rig_spawner.html#ac7a7f5955b466a52eb2507f435083b0b" title="RigSpawner::RigSpawner" alt="" coords="635,5,803,32"/>
+<area shape="rect" id="node6" href="$db/d08/class_rig_def_1_1_serializer.html#a0d25ba7124bac77109b3251d0d5014ec" title="RigDef::Serializer\l::Serialize" alt="" coords="447,57,569,98"/>
+</map>

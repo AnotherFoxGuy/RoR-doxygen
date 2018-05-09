@@ -1,0 +1,9 @@
+<map id="ImDrawList::AddText" name="ImDrawList::AddText">
+<area shape="rect" id="node2" href="$d1/da2/imgui__internal_8h.html#a6fb8dd1bd2fa0e1c6065dc7123cb7f3e" title="ImMax" alt="" coords="233,5,295,32"/>
+<area shape="rect" id="node3" href="$d1/da2/imgui__internal_8h.html#ac3ad7e7626cd6b46456b3f4c35025d74" title="ImMin" alt="" coords="235,56,293,83"/>
+<area shape="rect" id="node4" href="$d7/dc9/struct_im_font.html#a2877acf1cfcd964bc2e7fe600a08849e" title="ImFont::RenderText" alt="" coords="196,107,332,133"/>
+<area shape="rect" id="node5" href="$dd/d30/struct_im_draw_list.html#a879aa38dbfb0344e3e023d65c002c7d7" title="ImDrawList::PrimReserve" alt="" coords="380,31,547,57"/>
+<area shape="rect" id="node6" href="$d1/da2/imgui__internal_8h.html#ac516ac436e58254050198c3e77de1f05" title="ImCharIsSpace" alt="" coords="408,81,519,108"/>
+<area shape="rect" id="node7" href="$da/d72/imgui_8cpp.html#a036b9dd7f0942fd34e385cc115f36631" title="ImTextCharFromUtf8" alt="" coords="393,132,534,159"/>
+<area shape="rect" id="node8" href="$d9/de0/class_im_vector.html#ac371dd62e56ae486b1a5038cf07eee56" title="ImVector::resize" alt="" coords="405,183,522,209"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="SkyX::VClouds::VClouds::create" name="SkyX::VClouds::VClouds::create">
+<area shape="rect" id="node2" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a3c5adca159dc371b8624e055f260009b" title="SkyX::VClouds::VClouds\l::create" alt="" coords="220,449,387,491"/>
+<area shape="rect" id="node3" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a649811819ea3ee0ede803e5cac4ec7b9" title="SkyX::VClouds::DataManager\l::create" alt="" coords="449,93,644,135"/>
+<area shape="rect" id="node8" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a4f42a65f944d7131cd6457b0efb08a48" title="SkyX::VClouds::GeometryManager\l::create" alt="" coords="435,253,659,295"/>
+<area shape="rect" id="node11" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a2b6b9f4660a9b4d24bb85a19cca10f9d" title="SkyX::VClouds::GeometryManager\l::getSceneNode" alt="" coords="435,319,659,360"/>
+<area shape="rect" id="node12" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#a5909071373392aff5e1a01cb088d6576" title="SkyX::VClouds::Lightning\lManager::create" alt="" coords="462,384,631,425"/>
+<area shape="rect" id="node16" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ad61914b822477e7a2f9502d68ffed256" title="SkyX::VClouds::VClouds\l::setSunColor" alt="" coords="1516,593,1683,635"/>
+<area shape="rect" id="node17" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a1342194716d65b75d2d7728bd749c9d1" title="SkyX::VClouds::VClouds\l::setAmbientColor" alt="" coords="463,515,630,556"/>
+<area shape="rect" id="node18" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a697e2e87f0c1d1264afa7816170ad4af" title="SkyX::VClouds::VClouds\l::setLightResponse" alt="" coords="463,580,630,621"/>
+<area shape="rect" id="node19" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a870f28a358308dba337e5ffdb333906e" title="SkyX::VClouds::VClouds\l::setAmbientFactors" alt="" coords="463,645,630,687"/>
+<area shape="rect" id="node20" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#aa6ac12481422e7771b0e04e1cbc2dc28" title="SkyX::VClouds::VClouds\l::setWheater" alt="" coords="463,449,630,491"/>
+<area shape="rect" id="node4" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a8c5982826edf65ed175ec501be8e9f9f" title="SkyX::VClouds::DataManager\l::_initData" alt="" coords="721,5,916,47"/>
+<area shape="rect" id="node6" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#ae65d52228aa26f3a33511fc16b7ec784" title="SkyX::VClouds::DataManager\l::_createVolTexture" alt="" coords="721,123,916,164"/>
+<area shape="rect" id="node7" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a6ecc0fe2005d507b1fe3ceb892693afb" title="SkyX::VClouds::DataManager\l::_updateVolTextureData" alt="" coords="979,168,1173,209"/>
+<area shape="rect" id="node5" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#acaae3b3147c18886bba18ffe9b1610a0" title="SkyX::VClouds::DataManager\l::_create3DCellArray" alt="" coords="979,5,1173,47"/>
+<area shape="rect" id="node9" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#aee8b0ecfb2bdd63cb589833f1894cc7d" title="SkyX::VClouds::VClouds\l::getSceneManager" alt="" coords="735,188,902,229"/>
+<area shape="rect" id="node10" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#ae3f173af9fbb49e0742f696bc1b5f94b" title="SkyX::VClouds::GeometryManager\l::_createGeometry" alt="" coords="707,253,931,295"/>
+<area shape="rect" id="node13" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a2eb8770370ced63145348fc25c42f5cf" title="SkyX::VClouds::VClouds\l::getGeometryManager" alt="" coords="735,384,902,425"/>
+<area shape="rect" id="node14" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a7b449e8730a64aedefd735a1fa07f862" title="SkyX::VClouds::GeometryManager\l::_setMaterialName" alt="" coords="707,449,931,491"/>
+<area shape="rect" id="node15" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#a408559df0183f5d9cfd7a29cc5b31cc0" title="SkyX::VClouds::Lightning\lManager::setLightningColor" alt="" coords="729,319,909,360"/>
+<area shape="rect" id="node21" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a4f167b2a9517f6098b61d8e8a9dad4ce" title="SkyX::VClouds::DataManager\l::setWheater" alt="" coords="721,515,916,556"/>
+<area shape="rect" id="node22" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a5c9098523dacb817567a973ca4fc6638" title="SkyX::VClouds::DataManager\l::addEllipsoid" alt="" coords="979,375,1173,416"/>
+<area shape="rect" id="node25" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a2a97e5361a5d3aff48818a9a0f877cdf" title="SkyX::VClouds::DataManager\l::_updateProbabilities" alt="" coords="979,472,1173,513"/>
+<area shape="rect" id="node27" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#ae8e39e54096d75b0af7da9498c4183c1" title="SkyX::VClouds::DataManager\l::_performCalculations" alt="" coords="979,564,1173,605"/>
+<area shape="rect" id="node23" href="$da/dcf/class_sky_x_1_1_v_clouds_1_1_ellipsoid.html#adbcf70c0af4ff83b7de291113e1a9154" title="SkyX::VClouds::Ellipsoid\l::updateProbabilities" alt="" coords="1261,309,1428,351"/>
+<area shape="rect" id="node24" href="$da/dcf/class_sky_x_1_1_v_clouds_1_1_ellipsoid.html#ac582b6d55864fd94852edceb5d261980" title="SkyX::VClouds::Ellipsoid\l::_getLength" alt="" coords="1516,309,1683,351"/>
+<area shape="rect" id="node26" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#ae60b2c2ca491e9ff062c0daa6e6e82cd" title="SkyX::VClouds::DataManager\l::_clearProbabilities" alt="" coords="1247,375,1442,416"/>
+<area shape="rect" id="node28" href="$d9/dcd/class_sky_x_1_1_v_clouds_1_1_fast_fake_random.html#aa452b0f2d0511e0913c3e367279ac630" title="SkyX::VClouds::FastFakeRandom::get" alt="" coords="1221,637,1468,663"/>
+<area shape="rect" id="node29" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#abd110de3d9abb1bb8d1c0f4ee1d6656a" title="SkyX::VClouds::DataManager\l::_fact" alt="" coords="1247,688,1442,729"/>
+<area shape="rect" id="node30" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a924caf7fd74797ed47dd910dbc736baf" title="SkyX::VClouds::DataManager\l::_getDensityAt" alt="" coords="1247,505,1442,547"/>
+<area shape="rect" id="node31" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a1fdbb73c54070573ef6a1044bfe74d4e" title="SkyX::VClouds::VClouds\l::getSunDirection" alt="" coords="1261,440,1428,481"/>
+<area shape="rect" id="node32" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a4ca9d6b3c01834b3e0a2cc36b932d3d4" title="SkyX::VClouds::DataManager\l::_getLightAbsorcionAt" alt="" coords="1247,571,1442,612"/>
+</map>

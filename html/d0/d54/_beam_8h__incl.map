@@ -1,0 +1,21 @@
+<map id="source/main/physics/Beam.h" name="source/main/physics/Beam.h">
+<area shape="rect" id="node2" href="$dd/d50/_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="1029,95,1124,121"/>
+<area shape="rect" id="node3" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1124,319,1259,345"/>
+<area shape="rect" id="node36" href="$d5/d00/_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="2512,319,2596,345"/>
+<area shape="rect" id="node39" href="$d5/d7a/_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="1703,95,1890,121"/>
+<area shape="rect" id="node40" href="$d5/d1c/_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="1914,95,2069,121"/>
+<area shape="rect" id="node21" href="$dc/d74/_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="1453,169,1529,196"/>
+<area shape="rect" id="node23" href="$de/dec/_slide_node_8h.html" title="SlideNode.h" alt="" coords="1187,169,1279,196"/>
+<area shape="rect" id="node25" href="$d9/d1e/_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="1303,169,1429,196"/>
+<area shape="rect" id="node26" href="$de/d00/node__t_8h.html" title="datatypes/node_t.h" alt="" coords="851,244,985,271"/>
+<area shape="rect" id="node27" href="$d4/d78/shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="735,169,875,196"/>
+<area shape="rect" id="node28" href="$da/d84/beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="527,244,664,271"/>
+<area shape="rect" id="node29" href="$d0/d7b/wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="689,244,827,271"/>
+<area shape="rect" id="node30" href="$d7/ddc/rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="1009,244,1128,271"/>
+<area shape="rect" id="node15" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1073,468,1224,495"/>
+<area shape="rect" id="node16" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1193,393,1334,420"/>
+<area shape="rect" id="node17" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="659,393,830,420"/>
+<area shape="rect" id="node18" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2104,393,2185,420"/>
+<area shape="rect" id="node24" href="$df/d52/_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1255,244,1357,271"/>
+<area shape="rect" id="node31" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="315,319,412,345"/>
+</map>

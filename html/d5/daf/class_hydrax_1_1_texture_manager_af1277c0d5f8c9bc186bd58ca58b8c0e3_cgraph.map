@@ -1,0 +1,9 @@
+<map id="Hydrax::TextureManager::_updateNormalMap" name="Hydrax::TextureManager::_updateNormalMap">
+<area shape="rect" id="node2" href="$dc/d56/class_hydrax_1_1_image.html#ada84c566658183bba98655438cd83bd0" title="Hydrax::Image::getType" alt="" coords="220,5,380,32"/>
+<area shape="rect" id="node3" href="$d5/daf/class_hydrax_1_1_texture_manager.html#a7f15f24a8ff1372f6a1840c27aec655f" title="Hydrax::TextureManager\l::getTexture" alt="" coords="218,57,382,98"/>
+<area shape="rect" id="node4" href="$dc/d56/class_hydrax_1_1_image.html#a501f5ea487a159512cd2abc0e4bc72dc" title="Hydrax::Image::getSize" alt="" coords="221,123,379,149"/>
+<area shape="rect" id="node5" href="$d5/daf/class_hydrax_1_1_texture_manager.html#a734792ef5da27e9534bc950460c2c7bc" title="Hydrax::TextureManager\l::getTextureName" alt="" coords="218,174,382,215"/>
+<area shape="rect" id="node8" href="$dc/d56/class_hydrax_1_1_image.html#a8fcfbc35fc120bfba4f785177e22d017" title="Hydrax::Image::getValue" alt="" coords="217,240,383,267"/>
+<area shape="rect" id="node6" href="$d5/daf/class_hydrax_1_1_texture_manager.html#a4a9858adc2b5ebcfdee45a9d28f706a5" title="Hydrax::TextureManager\l::_createTexture" alt="" coords="431,141,595,182"/>
+<area shape="rect" id="node7" href="$d5/daf/class_hydrax_1_1_texture_manager.html#ae1576e62e86d4a51643fcbdb11ba843f" title="Hydrax::TextureManager\l::_getTexture" alt="" coords="431,206,595,247"/>
+</map>

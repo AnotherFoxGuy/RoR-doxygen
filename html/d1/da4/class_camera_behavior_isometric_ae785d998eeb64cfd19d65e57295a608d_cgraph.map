@@ -1,0 +1,11 @@
+<map id="CameraBehaviorIsometric::mouseReleased" name="CameraBehaviorIsometric::mouseReleased">
+<area shape="rect" id="node2" href="$d1/da4/class_camera_behavior_isometric.html#a87263a46cf14697b5aedfa831e5506f7" title="CameraBehaviorIsometric\l::activate" alt="" coords="223,79,392,121"/>
+<area shape="rect" id="node10" href="$d1/da4/class_camera_behavior_isometric.html#a94e19a93af2777f23e7ef8cc033f7860" title="CameraBehaviorIsometric\l::reset" alt="" coords="223,145,392,186"/>
+<area shape="rect" id="node3" href="$df/d86/namespace_ro_r_1_1_app.html#aa04ed1e7b697aa1f33f1bb1297cb3e48" title="RoR::App::GetConsole" alt="" coords="477,7,632,33"/>
+<area shape="rect" id="node5" href="$d0/d9f/class_ro_r_1_1_console.html#a6883dfc6a1d760581a917e101b6357c5" title="RoR::Console::putMessage" alt="" coords="464,61,645,88"/>
+<area shape="rect" id="node7" href="$df/d86/namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="466,112,643,139"/>
+<area shape="rect" id="node8" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a534a8e82d1b92384767ab1c555126bba" title="RoR::GUIManager::PushNotification" alt="" coords="440,163,669,189"/>
+<area shape="rect" id="node4" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a982bc848eb4330aa9e57a54bfc60d975" title="RoR::GUIManager::GetConsole" alt="" coords="717,5,920,32"/>
+<area shape="rect" id="node6" href="$dd/df6/class_inter_thread_store_vector.html#a88d3f7e3e3ce109e13af1c46a12a50b0" title="InterThreadStoreVector\l\&lt; ConsoleMessage \&gt;::push" alt="" coords="727,57,910,98"/>
+<area shape="rect" id="node9" href="$db/d12/class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ac18f8c423994b93276f5f33b22e53d41" title="RoR::GUI::SimUtils\l::PushNotification" alt="" coords="751,155,886,197"/>
+</map>

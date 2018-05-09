@@ -1,0 +1,4 @@
+<map id="Collisions::isTruckInEventBox" name="Collisions::isTruckInEventBox">
+<area shape="rect" id="node2" href="$d9/d39/class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="247,5,377,32"/>
+<area shape="rect" id="node3" href="$d9/d39/class_collisions.html#a0994fca40d7b1d9d2bf81b2dc2dda8f3" title="Collisions::getBox" alt="" coords="249,56,375,83"/>
+</map>

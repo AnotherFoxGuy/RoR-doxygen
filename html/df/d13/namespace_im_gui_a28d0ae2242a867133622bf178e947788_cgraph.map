@@ -1,0 +1,5 @@
+<map id="ImGui::IsRectClipped" name="ImGui::IsRectClipped">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a5aca7e6939e07caaca489aa8c776fd81" title="ImGui::IsRectVisible" alt="" coords="197,31,337,57"/>
+<area shape="rect" id="node3" href="$df/d13/namespace_im_gui.html#a408f9ddac92f8629a7e273ced5f8c3aa" title="ImGui::GetCurrentWindowRead" alt="" coords="385,5,588,32"/>
+<area shape="rect" id="node4" href="$df/d8d/struct_im_rect.html#a0af3bade3781e5e7c6afdf71ccfb0d43" title="ImRect::Overlaps" alt="" coords="426,56,547,83"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="source/main/gui/panels/GUI_GameChatBox.cpp" name="source/main/gui/panels/GUI_GameChatBox.cpp">
+<area shape="rect" id="node2" href="$da/d6b/_g_u_i___game_chat_box_8h.html" title="GUI_GameChatBox.h" alt="" coords="1012,95,1159,121"/>
+<area shape="rect" id="node6" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1269,468,1403,495"/>
+<area shape="rect" id="node29" href="$d4/dab/_chat_system_8h.html" title="ChatSystem.h" alt="" coords="434,95,539,121"/>
+<area shape="rect" id="node31" href="$d9/dc1/_utils_8h.html" title="Utils.h" alt="" coords="329,319,388,345"/>
+<area shape="rect" id="node38" href="$dc/d4b/_language_8h.html" title="Language.h" alt="" coords="1359,319,1449,345"/>
+<area shape="rect" id="node42" href="$d2/de5/_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="1893,319,1998,345"/>
+<area shape="rect" id="node64" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="2201,95,2298,121"/>
+<area shape="rect" id="node68" href="$d4/d55/_ogre_subsystem_8h.html" title="OGRE engine wrapper. " alt="" coords="1183,95,1310,121"/>
+<area shape="rect" id="node70" href="$d4/d4a/_settings_8h.html" title="Settings.h" alt="" coords="1254,319,1335,345"/>
+<area shape="rect" id="node3" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1182,617,1333,644"/>
+<area shape="rect" id="node4" href="$d3/d6a/_g_u_i___game_chat_box_layout_8h.html" title="GUI_GameChatBoxLayout.h" alt="" coords="876,169,1063,196"/>
+<area shape="rect" id="node5" href="$d8/d63/_base_layout_8h.html" title="BaseLayout.h" alt="" coords="918,244,1021,271"/>
+<area shape="rect" id="node24" href="$d9/dfd/_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="909,319,1029,345"/>
+<area shape="rect" id="node18" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1187,543,1328,569"/>
+<area shape="rect" id="node19" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1808,543,1979,569"/>
+<area shape="rect" id="node20" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="433,543,514,569"/>
+<area shape="rect" id="node25" href="$d8/d8c/_attribute_8h.html" title="Attribute.h" alt="" coords="995,393,1077,420"/>
+<area shape="rect" id="node30" href="$db/d9e/_network_8h.html" title="Network.h" alt="" coords="395,169,475,196"/>
+<area shape="rect" id="node33" href="$d0/d03/checked_8h.html" title="utf8/checked.h" alt="" coords="307,393,413,420"/>
+<area shape="rect" id="node37" href="$d8/d61/unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="161,393,282,420"/>
+<area shape="rect" id="node34" href="$d5/dc4/core_8h.html" title="core.h" alt="" coords="215,468,273,495"/>
+<area shape="rect" id="node39" href="$de/dec/_singleton_8h.html" title="Singleton.h" alt="" coords="1254,393,1341,420"/>
+<area shape="rect" id="node43" href="$d2/df0/_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="1696,393,1829,420"/>
+<area shape="rect" id="node46" href="$d3/d6b/_ogre_im_gui_8h.html" title="OgreImGui.h" alt="" coords="3169,393,3263,420"/>
+<area shape="rect" id="node47" href="$db/d19/imgui_8h.html" title="imgui.h" alt="" coords="3127,468,3191,495"/>
+<area shape="rect" id="node48" href="$dc/dad/imconfig_8h.html" title="imconfig.h" alt="" coords="2906,543,2987,569"/>
+</map>

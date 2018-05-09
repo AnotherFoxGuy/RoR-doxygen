@@ -1,0 +1,13 @@
+<map id="CSimpleOptTempl::NextClumped" name="CSimpleOptTempl::NextClumped">
+<area shape="rect" id="node2" href="$d7/dac/class_c_simple_opt_templ.html#a9460ac3071a73d39be1f03a91cb445fc" title="CSimpleOptTempl::LookupOption" alt="" coords="267,56,481,83"/>
+<area shape="rect" id="node3" href="$d7/dac/class_c_simple_opt_templ.html#a524fb9b8413aca06c420681f963f7b5a" title="CSimpleOptTempl::CalcMatch" alt="" coords="529,5,727,32"/>
+<area shape="rect" id="node5" href="$d7/dac/class_c_simple_opt_templ.html#af2b5536c778b99478a2660ac29eeaeca" title="Query if a particular flag is set. " alt="" coords="537,157,719,184"/>
+<area shape="rect" id="node4" href="$d7/dac/class_c_simple_opt_templ.html#a9976327d712873772f4e74534ec17d0c" title="CSimpleOptTempl::IsEqual" alt="" coords="1244,31,1423,57"/>
+<area shape="rect" id="node6" href="$d7/dac/class_c_simple_opt_templ.html#ac0eef4bbcc3097ff36af89be3c0b820f" title="Advance to the next option if available. " alt="" coords="775,107,937,133"/>
+<area shape="rect" id="node12" href="$d7/dac/class_c_simple_opt_templ.html#ae76dab24d97804c34c2f91a63a8ab288" title="CSimpleOptTempl::Stop" alt="" coords="775,157,937,184"/>
+<area shape="rect" id="node7" href="$d7/dac/class_c_simple_opt_templ.html#a0c5c2c54fed926f494165c8a4d9f90cd" title="CSimpleOptTempl::PrepareArg" alt="" coords="1233,208,1433,235"/>
+<area shape="rect" id="node8" href="$d7/dac/class_c_simple_opt_templ.html#abad746a8d35e3fe673407ff266ff7b3c" title="CSimpleOptTempl::FindEquals" alt="" coords="985,56,1185,83"/>
+<area shape="rect" id="node9" href="$d7/dac/class_c_simple_opt_templ.html#ae839959a25abd98b1757d56991536418" title="CSimpleOptTempl::ShuffleArg" alt="" coords="988,157,1183,184"/>
+<area shape="rect" id="node11" href="$d7/dac/class_c_simple_opt_templ.html#ad0ec3543a8272202a107ddbfee19a09d" title="Validate and return the desired number of arguments. " alt="" coords="994,208,1177,235"/>
+<area shape="rect" id="node10" href="$d7/dac/class_c_simple_opt_templ.html#a93e093f0998ea1e0cf514a3b306c9136" title="CSimpleOptTempl::Copy" alt="" coords="1251,157,1416,184"/>
+</map>

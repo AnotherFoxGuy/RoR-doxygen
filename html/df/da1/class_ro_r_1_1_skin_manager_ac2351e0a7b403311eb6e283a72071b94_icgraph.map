@@ -1,0 +1,5 @@
+<map id="RoR::SkinManager::ReplaceMaterialTextures" name="RoR::SkinManager::ReplaceMaterialTextures">
+<area shape="rect" id="node2" href="$df/da1/class_ro_r_1_1_skin_manager.html#afda0b477d9fc031a117148c3653aa672" title="RoR::SkinManager::ApplySkin\lTextureReplacements" alt="" coords="240,5,439,47"/>
+<area shape="rect" id="node3" href="$db/d35/class_rig_spawner.html#ae8c0ff60e0f0fbf75332a37de030b0dd" title="RigSpawner::FindOrCreate\lCustomizedMaterial" alt="" coords="251,71,427,112"/>
+<area shape="rect" id="node4" href="$db/d35/class_rig_spawner.html#ad781548c6a3bba81b5c6a2d7096bef4e" title="RigSpawner::SetCurrentKeyword" alt="" coords="487,78,697,105"/>
+</map>

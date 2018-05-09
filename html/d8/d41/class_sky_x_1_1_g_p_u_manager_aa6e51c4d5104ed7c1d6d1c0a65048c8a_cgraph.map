@@ -1,0 +1,7 @@
+<map id="SkyX::GPUManager::getMoonMaterialName" name="SkyX::GPUManager::getMoonMaterialName">
+<area shape="rect" id="node2" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ae8b52a74e1c8d447ed7528949bdd1887" title="SkyX::GPUManager::\l_updateFP" alt="" coords="249,53,396,94"/>
+<area shape="rect" id="node3" href="$de/db3/class_sky_x_1_1_sky_x.html#a3f20af6ba71e7a5a177d10533944179a" title="SkyX::SkyX::getLightingMode" alt="" coords="715,5,909,32"/>
+<area shape="rect" id="node4" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ac6327911c4478d527fdf264f0a28ea34" title="SkyX::GPUManager::getSkydome\lMaterialName" alt="" coords="444,53,663,94"/>
+<area shape="rect" id="node6" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a9b93fed5c4b58a30cfba0fde4032c6be" title="SkyX::GPUManager::\l_setTextureHWGammaCorrection" alt="" coords="445,118,662,159"/>
+<area shape="rect" id="node5" href="$de/db3/class_sky_x_1_1_sky_x.html#a6d16561c0c0c4d6ebbf9ae3ca4abd963" title="SkyX::SkyX::isStarfieldEnabled" alt="" coords="711,60,913,87"/>
+</map>

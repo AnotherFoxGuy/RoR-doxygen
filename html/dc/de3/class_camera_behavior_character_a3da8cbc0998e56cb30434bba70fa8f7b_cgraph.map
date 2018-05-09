@@ -1,0 +1,12 @@
+<map id="CameraBehaviorCharacter::mouseMoved" name="CameraBehaviorCharacter::mouseMoved">
+<area shape="rect" id="node2" href="$d7/da7/class_character.html#a7e18e6ea7965b2e32946a06256ec8984" title="Character::getRotation" alt="" coords="247,5,399,32"/>
+<area shape="rect" id="node4" href="$d7/da7/class_character.html#a305f94b58e7e8b61cc6829e4aba7a060" title="Character::setRotation" alt="" coords="247,56,399,83"/>
+<area shape="rect" id="node5" href="$df/d86/namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="234,107,411,133"/>
+<area shape="rect" id="node6" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a02cfc7275f30a09ee27ccda53b48cf13" title="RoR::GUIManager::SetMouse\lCursorVisibility" alt="" coords="225,158,420,199"/>
+<area shape="rect" id="node9" href="$db/d5e/class_camera_behavior_orbit.html#ae3a8adebed6a9bc24029c30328d5ecce" title="CameraBehaviorOrbit\l::mouseMoved" alt="" coords="251,223,395,265"/>
+<area shape="rect" id="node3" href="$d7/da7/class_character.html#a2c056adebe0e35330a3eae862667f1d4" title="Character::getPosition" alt="" coords="482,5,633,32"/>
+<area shape="rect" id="node7" href="$df/d13/namespace_im_gui.html#a3179e560812f878f3961ce803a5d9302" title="ImGui::GetIO" alt="" coords="508,109,607,136"/>
+<area shape="rect" id="node8" href="$db/df1/class_g_u_i_input_manager.html#a9ca9e7863ca969e2b40c1e4a05e6e501" title="GUIInputManager::Supress\lCursor" alt="" coords="468,161,647,202"/>
+<area shape="rect" id="node10" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="470,228,645,255"/>
+<area shape="rect" id="node11" href="$d3/d7b/class_input_engine.html#a31083a87d361611caf4ded6955565d18" title="InputEngine::isKeyDown" alt="" coords="476,279,639,305"/>
+</map>

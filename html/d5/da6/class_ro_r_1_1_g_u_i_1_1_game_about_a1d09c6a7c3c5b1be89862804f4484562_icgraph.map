@@ -1,0 +1,4 @@
+<map id="RoR::GUI::GameAbout::SetVisible" name="RoR::GUI::GameAbout::SetVisible">
+<area shape="rect" id="node2" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a384374df801e682d7ab02057b0b59501" title="RoR::GUIManager::SetVisible\l_GameAbout" alt="" coords="208,5,403,47"/>
+<area shape="rect" id="node3" href="$d4/d14/class_ro_r_1_1_main_menu.html#aaf317cb35e15dc7dccc56bdc1c096f41" title="RoR::MainMenu::MainMenuLoop\lUpdateEvents" alt="" coords="451,5,661,47"/>
+</map>

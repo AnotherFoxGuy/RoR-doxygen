@@ -1,0 +1,5 @@
+<map id="SkyX::VClouds::LightningManager::_updateRenderQueueGroup" name="SkyX::VClouds::LightningManager::_updateRenderQueueGroup">
+<area shape="rect" id="node2" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#a353ca4c6aa5674f80c2bd3eeb9a701fb" title="SkyX::VClouds::Lightning\lManager::isCreated" alt="" coords="293,5,463,47"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a897f7d8b8357b460a9b1fbd559772c29" title="SkyX::VClouds::VClouds\l::notifyCameraRender" alt="" coords="295,71,461,112"/>
+<area shape="rect" id="node4" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#aa333a7f4c33035ace1076046d4a5d24e" title="SkyX::VCloudsManager\l::notifyCameraRender" alt="" coords="511,71,669,112"/>
+</map>

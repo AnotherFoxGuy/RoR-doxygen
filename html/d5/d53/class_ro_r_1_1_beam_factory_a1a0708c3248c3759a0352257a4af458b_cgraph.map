@@ -1,0 +1,10 @@
+<map id="RoR::BeamFactory::UpdateSleepingState" name="RoR::BeamFactory::UpdateSleepingState">
+<area shape="rect" id="node2" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="236,5,437,47"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a79720bddfd56a8689f7e60f93e1678cd" title="RoR::BeamFactory::Recursive\lActivation" alt="" coords="238,71,435,112"/>
+<area shape="rect" id="node3" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="509,13,699,39"/>
+<area shape="rect" id="node5" href="$d5/d53/class_ro_r_1_1_beam_factory.html#acab7b0c4b54d1d6c4950882447ed6661" title="Returns whether or not the bounding boxes of truck a and truck b intersect. Based on the truck collis..." alt="" coords="485,67,723,108"/>
+<area shape="rect" id="node8" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aede50015ffb569b00e4afee1a34fa854" title="Returns whether or not the bounding boxes of truck a and truck b might intersect during the next fram..." alt="" coords="514,132,694,173"/>
+<area shape="rect" id="node6" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a65a7adae4e12c91a71eedf77d9b739a9" title="Returns whether or not the bounding boxes of truck a and truck b intersect. Based on the default truc..." alt="" coords="771,30,1044,57"/>
+<area shape="rect" id="node7" href="$d5/d53/class_ro_r_1_1_beam_factory.html#abea20f91f941f569f0b95f32ae2638ec" title="Returns whether or not the two (scaled) bounding boxes intersect. " alt="" coords="1092,106,1336,133"/>
+<area shape="rect" id="node9" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a6e019b56235074247a1c7e058f219f92" title="Returns whether or not the bounding boxes of truck a and truck b might intersect during the next fram..." alt="" coords="817,183,997,224"/>
+</map>

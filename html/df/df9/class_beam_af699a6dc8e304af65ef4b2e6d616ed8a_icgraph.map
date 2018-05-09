@@ -1,0 +1,12 @@
+<map id="Beam::updateFlexbodiesPrepare" name="Beam::updateFlexbodiesPrepare">
+<area shape="rect" id="node2" href="$dd/dbe/class_ro_r_frame_listener.html#abc123f9d1e56e13a72e5f80fdaa5a17e" title="RoRFrameListener::Finalize\lTruckSpawning" alt="" coords="264,89,447,131"/>
+<area shape="rect" id="node5" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="803,261,901,287"/>
+<area shape="rect" id="node6" href="$df/df9/class_beam.html#aabe018af621de69910d145fe2967ad11" title="Beam::IsNodeIdValid" alt="" coords="284,155,427,182"/>
+<area shape="rect" id="node10" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a422abac5067d57e32e2a586062d52742" title="TIGHT&#45;LOOP; Logic: display, particles, sound;. " alt="" coords="265,24,445,65"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="763,85,941,127"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="989,63,1201,90"/>
+<area shape="rect" id="node7" href="$dd/dbe/class_ro_r_frame_listener.html#a46c793a3229156a678a3829a6fe59be6" title="RoRFrameListener::Update\lForceFeedback" alt="" coords="515,144,694,185"/>
+<area shape="rect" id="node8" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="543,210,667,237"/>
+<area shape="rect" id="node9" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="787,210,917,237"/>
+<area shape="rect" id="node11" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5703b053d2b40e3dae66a063ded34578" title="RoR::BeamFactory::getSimulation\lSpeed" alt="" coords="495,27,715,68"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="BeamEngine::hasTurbo" name="BeamEngine::hasTurbo">
+<area shape="rect" id="node2" href="$d3/df4/class_out_protocol.html#ae17e602d236aaeb1cafb79d984f6fadd" title="OutProtocol::Update" alt="" coords="227,5,367,32"/>
+<area shape="rect" id="node4" href="$db/d35/class_rig_spawner.html#a28bf30353b7f207de13fb15917993c1f" title="RigSpawner::SetupDefault\lSoundSources" alt="" coords="211,57,384,98"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="432,5,644,32"/>
+<area shape="rect" id="node5" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="476,60,600,87"/>
+<area shape="rect" id="node8" href="$db/d35/class_rig_spawner.html#a2e5c6d067c56ba916d1dd943b482810c" title="RigSpawner::GetRig" alt="" coords="469,119,607,145"/>
+<area shape="rect" id="node6" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="728,9,827,36"/>
+<area shape="rect" id="node7" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="713,60,842,87"/>
+<area shape="rect" id="node9" href="$d5/d54/class_ro_r_1_1_flex_factory.html#a41b5f9177e83f8769b3b52d75f9fa741" title="RoR::FlexFactory::Create\lFlexBody" alt="" coords="692,111,863,153"/>
+<area shape="rect" id="node10" href="$d5/d54/class_ro_r_1_1_flex_factory.html#af11df4b94b6c1815aaecc6e634416df9" title="RoR::FlexFactory::Create\lFlexMeshWheel" alt="" coords="692,177,863,218"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="RoR::GfxActor::GfxActor" name="RoR::GfxActor::GfxActor">
+<area shape="rect" id="node2" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#a4668d65ddd7078751ca52b9ede9c58d7" title="RoR::GfxActor::~GfxActor" alt="" coords="228,13,401,39"/>
+<area shape="rect" id="node4" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#ae752bd425db1ebd97e9361f134a64bef" title="RoR::GfxActor::AddMaterial\lFlare" alt="" coords="223,64,406,105"/>
+<area shape="rect" id="node5" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#ae7a9a838b1cf7dc09cef18919d66dac5" title="RoR::GfxActor::SetMaterial\lFlareOn" alt="" coords="225,129,405,171"/>
+<area shape="rect" id="node6" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#ad65f27d3475b4e93bc468fcdbffb7972" title="RoR::GfxActor::RegisterCab\lMaterial" alt="" coords="222,195,407,236"/>
+<area shape="rect" id="node7" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#a28365d00cbaa615c7066549e88232ea7" title="RoR::GfxActor::SetCabLights\lActive" alt="" coords="219,260,411,301"/>
+<area shape="rect" id="node3" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#a380125c9102242d296dc6f12b7468412" title="RoR::GfxActor::SetVideoCam\lState" alt="" coords="459,5,653,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ImGui::IsItemClicked" name="ImGui::IsItemClicked">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a22b689cf4cf519590c2e2ad4f5462f29" title="ImGui::IsMouseClicked" alt="" coords="196,5,352,32"/>
+<area shape="rect" id="node3" href="$df/d13/namespace_im_gui.html#a6f3dbb52b4849b95abadad7347aa2ba5" title="ImGui::IsItemHovered" alt="" coords="201,56,347,83"/>
+<area shape="rect" id="node4" href="$df/d13/namespace_im_gui.html#a408f9ddac92f8629a7e273ced5f8c3aa" title="ImGui::GetCurrentWindowRead" alt="" coords="400,56,603,83"/>
+</map>

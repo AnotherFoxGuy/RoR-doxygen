@@ -1,0 +1,4 @@
+<map id="RoR::GfxActor::UpdateVideoCameras" name="RoR::GfxActor::UpdateVideoCameras">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#a0bb96107715bd022c13c86ed2b76b7ad" title="TerrainManager::getSkyManager" alt="" coords="241,5,452,32"/>
+<area shape="rect" id="node3" href="$df/df9/class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="280,56,413,83"/>
+</map>

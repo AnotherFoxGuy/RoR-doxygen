@@ -1,0 +1,9 @@
+<map id="RigSpawner::ProcessSlidenode" name="RigSpawner::ProcessSlidenode">
+<area shape="rect" id="node2" href="$d5/def/class_slide_node.html#adcee5a4e21607e9f5a6ff1fb00603141" title="distance from a beam before corrective forces take effect " alt="" coords="277,5,439,32"/>
+<area shape="rect" id="node3" href="$d5/def/class_slide_node.html#a858bcffba2de9eb8f79a424f852093b6" title="spring force used to calculate corrective forces " alt="" coords="273,56,443,83"/>
+<area shape="rect" id="node4" href="$d5/def/class_slide_node.html#adafe888657c615c57d9a2639a1450136" title="how long it will take for springs to fully attach to the Rail " alt="" coords="257,107,459,133"/>
+<area shape="rect" id="node5" href="$d5/def/class_slide_node.html#aa24c32635f4321d6b2c705e9f68390b3" title="Force required to break the Node from the Rail. " alt="" coords="271,157,445,184"/>
+<area shape="rect" id="node6" href="$d5/def/class_slide_node.html#a7a772c740bf9fe5cb348cf9d7e3bb946" title="maximum distance this spring node is allowed to reach out for a Rail " alt="" coords="271,209,445,250"/>
+<area shape="rect" id="node7" href="$d5/def/class_slide_node.html#a5db88b8bdb7a128da91a18514ceac2d3" title="SlideNode::setAttachRule" alt="" coords="273,275,443,301"/>
+<area shape="rect" id="node8" href="$d5/def/class_slide_node.html#a1e7f3cdbbe2d0ae1085caa1207882355" title="SlideNode::setDefaultRail" alt="" coords="273,325,443,352"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RigDef::Validator::Setup" name="RigDef::Validator::Setup">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="180,31,304,57"/>
+<area shape="rect" id="node3" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="367,5,466,32"/>
+<area shape="rect" id="node4" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="352,56,481,83"/>
+</map>

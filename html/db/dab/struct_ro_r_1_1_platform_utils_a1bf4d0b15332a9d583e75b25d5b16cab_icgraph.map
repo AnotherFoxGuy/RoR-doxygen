@@ -1,0 +1,10 @@
+<map id="RoR::PlatformUtils::FolderExists" name="RoR::PlatformUtils::FolderExists">
+<area shape="rect" id="node2" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="981,27,1032,54"/>
+<area shape="rect" id="node4" href="$da/d05/class_ro_r_1_1_content_manager.html#a7cbddcf40c0f515169de4d4e6bb8fd11" title="Loads resources if not already loaded (currently resources never unload until shutdown) ..." alt="" coords="183,24,333,65"/>
+<area shape="rect" id="node9" href="$db/dab/struct_ro_r_1_1_platform_utils.html#af210b5b3364e3eb438f468372e6f5b00" title="RoR::PlatformUtils\l::FolderExists" alt="" coords="193,89,323,130"/>
+<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1147,27,1220,54"/>
+<area shape="rect" id="node5" href="$da/d05/class_ro_r_1_1_content_manager.html#afd91e67eae97f2a794e77a743b0a26ef" title="RoR::ContentManager\l::OnApplicationStartup" alt="" coords="661,49,814,90"/>
+<area shape="rect" id="node6" href="$da/d05/class_ro_r_1_1_content_manager.html#ae6150028ad80e4349d382256ba399377" title="Checks GVar settings and loads required resources. " alt="" coords="381,106,560,148"/>
+<area shape="rect" id="node7" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="608,115,867,142"/>
+<area shape="rect" id="node8" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="915,115,1099,142"/>
+</map>

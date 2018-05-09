@@ -1,0 +1,12 @@
+<map id="Hydrax::Noise::FFT::getOptions" name="Hydrax::Noise::FFT::getOptions">
+<area shape="rect" id="node2" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a1853cb0b53ecccb1ecc06c5cd8fe65aa" title="Hydrax::Noise::FFT\l::_initNoise" alt="" coords="237,95,371,136"/>
+<area shape="rect" id="node3" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a5b4c2966324d15dbc533c50526a4eaa4" title="Hydrax::Noise::FFT\l::_getPhillipsSpectrum" alt="" coords="499,5,652,47"/>
+<area shape="rect" id="node4" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a8925df574633ba36955c88018fcc42eb" title="Hydrax::Noise::FFT\l::_getGaussianRandomFloat" alt="" coords="482,89,669,131"/>
+<area shape="rect" id="node7" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a151554f29d50a392787763c42df4c7e2" title="Hydrax::Noise::FFT\l::_calculeNoise" alt="" coords="508,209,643,251"/>
+<area shape="rect" id="node8" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a44124ca34d9a04ba0170bae38eee69f3" title="Hydrax::Noise::FFT\l::_executeInverseFFT" alt="" coords="735,164,881,205"/>
+<area shape="rect" id="node9" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#a46f4f290e8ce60d23aa402a2427b82d6" title="Hydrax::Noise::FFT\l::_normalizeFFTData" alt="" coords="737,243,879,284"/>
+<area shape="rect" id="node10" href="$de/d4c/class_hydrax_1_1_noise_1_1_f_f_t.html#abb326736cb1e265555c2503fce850a70" title="Hydrax::Noise::FFT\l::_updateGPUNormalMapResources" alt="" coords="188,327,420,368"/>
+<area shape="rect" id="node5" href="$d3/d6f/namespace_hydrax_1_1_noise.html#a1686d4278255202271a4fa47f33979b7" title="Hydrax::Noise::uniform\l_deviate" alt="" coords="731,39,885,80"/>
+<area shape="rect" id="node6" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="770,105,846,131"/>
+<area shape="rect" id="node11" href="$da/d5f/class_hydrax_1_1_g_p_u_normal_map_manager.html#ab37c3778df109d139c6136fbda3abe80" title="Hydrax::GPUNormalMapManager\l::getTexture" alt="" coords="468,327,683,368"/>
+</map>

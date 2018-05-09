@@ -1,0 +1,30 @@
+<map id="Settings::ParseGlobalVarSetting" name="Settings::ParseGlobalVarSetting">
+<area shape="rect" id="node2" href="$d6/dcd/_settings_8cpp.html#ac007ba2d8f00b7118c0f22de7f58ff0b" title="CheckBool" alt="" coords="439,107,524,133"/>
+<area shape="rect" id="node7" href="$d6/dcd/_settings_8cpp.html#a1774d850a1d32a75b35696da3d0a8c27" title="CheckStr" alt="" coords="268,56,344,83"/>
+<area shape="rect" id="node8" href="$d6/dcd/_settings_8cpp.html#a2f6fa944e198a6e0b648d797727017eb" title="CheckInt" alt="" coords="269,715,343,741"/>
+<area shape="rect" id="node11" href="$d6/dcd/_settings_8cpp.html#a029ed6b1451ed885398944f3879ee691" title="CheckScreenshotFormat" alt="" coords="223,157,389,184"/>
+<area shape="rect" id="node12" href="$d6/dcd/_settings_8cpp.html#ac6b82209b5be97918e935d46bda42540" title="CheckFloat" alt="" coords="437,309,525,336"/>
+<area shape="rect" id="node13" href="$d6/dcd/_settings_8cpp.html#a3ccb19dc2591a35b83366093543fcf1a" title="CheckIoInputGrabMode" alt="" coords="227,259,385,285"/>
+<area shape="rect" id="node14" href="$d6/dcd/_settings_8cpp.html#a1e90ba182c9fba422aa23749be71166f" title="CheckEnvmapRate" alt="" coords="240,765,372,792"/>
+<area shape="rect" id="node15" href="$d6/dcd/_settings_8cpp.html#a86b6708f894bdb25eaf8f33dfbdbaec7" title="CheckShadowTech" alt="" coords="239,360,373,387"/>
+<area shape="rect" id="node16" href="$d6/dcd/_settings_8cpp.html#a746070487b03758d0e5d27829bfb37ea" title="CheckExtcamMode" alt="" coords="238,411,374,437"/>
+<area shape="rect" id="node17" href="$d6/dcd/_settings_8cpp.html#a48dc4db4d29553abd87f7f6c85e5a2f5" title="CheckTexFiltering" alt="" coords="243,461,369,488"/>
+<area shape="rect" id="node18" href="$d6/dcd/_settings_8cpp.html#aa486e5ca9be2dab190ea0917abe9c9b1" title="CheckVegetationMode" alt="" coords="229,512,383,539"/>
+<area shape="rect" id="node19" href="$d6/dcd/_settings_8cpp.html#aad7c6b3b37b63881bd96048ad1ded680" title="CheckGfxFlaresMode" alt="" coords="233,563,379,589"/>
+<area shape="rect" id="node20" href="$d6/dcd/_settings_8cpp.html#af9eec9900ed659ccfcc650c6b095abdc" title="CheckGfxWaterMode" alt="" coords="233,613,379,640"/>
+<area shape="rect" id="node21" href="$d6/dcd/_settings_8cpp.html#af2343a08790c8ec8ff545a51aea5ad31" title="CheckGfxSkyMode" alt="" coords="239,664,373,691"/>
+<area shape="rect" id="node22" href="$d6/dcd/_settings_8cpp.html#ace7543788a93c0e817cfcccb579f7b5c" title="CheckSpeedoImperial" alt="" coords="232,5,380,32"/>
+<area shape="rect" id="node23" href="$d6/dcd/_settings_8cpp.html#a7dc32093ee365cf3ad3c7f8808bac7f4" title="CheckB2I" alt="" coords="442,233,521,260"/>
+<area shape="rect" id="node24" href="$d6/dcd/_settings_8cpp.html#ab33c58266f0c1dfac053bfdfc4ae2b84" title="CheckFOV" alt="" coords="438,816,525,843"/>
+<area shape="rect" id="node28" href="$d6/dcd/_settings_8cpp.html#af36ad5be05f599216fbfe4bc00b9c20a" title="CheckStrAS" alt="" coords="259,867,353,893"/>
+<area shape="rect" id="node29" href="$d6/dcd/_settings_8cpp.html#a7aca15c9e1ad7c8c75aa706eff955839" title="CheckSimGearboxMode" alt="" coords="225,917,387,944"/>
+<area shape="rect" id="node3" href="$d3/d93/class_ro_r_1_1_g_var_pod___a.html#a0ee26767138d80c4b9f19a9b9a000935" title="RoR::GVarPod_A::SetActive" alt="" coords="584,309,771,336"/>
+<area shape="rect" id="node4" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#ad62f8ee63f31124d7c51534341128496" title="RoR::GVarBase::LogSetActive" alt="" coords="831,765,1030,792"/>
+<area shape="rect" id="node5" href="$dd/dd2/namespace_ro_r.html#a6523130e147fb219ca2b3a07479e0392" title="Improved logging utility. Uses fixed 2Kb buffer. " alt="" coords="1080,791,1197,817"/>
+<area shape="rect" id="node6" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="1245,791,1321,817"/>
+<area shape="rect" id="node9" href="$df/d8c/scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="447,715,515,741"/>
+<area shape="rect" id="node10" href="$df/d52/_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="654,715,701,741"/>
+<area shape="rect" id="node25" href="$dd/d2c/class_ro_r_1_1_g_var_pod___a_p.html#a922c90a9769ab473ee06aa043bbee126" title="RoR::GVarPod_AP::SetActive" alt="" coords="579,765,775,792"/>
+<area shape="rect" id="node26" href="$de/d72/class_ro_r_1_1_g_var_pod___a_p_s.html#aad105b1ae768d99e1044f36bda0d5fe0" title="RoR::GVarPod_APS::SetStored" alt="" coords="573,816,781,843"/>
+<area shape="rect" id="node27" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#a8188b62f53f3369cd459c8617e22fe7b" title="RoR::GVarBase::LogSetStored" alt="" coords="829,816,1032,843"/>
+</map>

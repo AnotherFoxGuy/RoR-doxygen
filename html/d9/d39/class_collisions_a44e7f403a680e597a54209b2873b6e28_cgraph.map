@@ -1,0 +1,5 @@
+<map id="Collisions::addCollisionTri" name="Collisions::addCollisionTri">
+<area shape="rect" id="node2" href="$d9/d39/class_collisions.html#a0f6b7005dc87f64650ced8786bba0a08" title="Collisions::GetNumCollisionTris" alt="" coords="224,5,428,32"/>
+<area shape="rect" id="node3" href="$d9/d39/class_collisions.html#ab8dc3b86fee4e2aa47927bfeabe2ddfe" title="Collisions::hash_add" alt="" coords="255,56,397,83"/>
+<area shape="rect" id="node4" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="476,56,615,83"/>
+</map>

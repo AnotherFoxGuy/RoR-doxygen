@@ -1,0 +1,8 @@
+<map id="Beam::calcHooks" name="Beam::calcHooks">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#a859ef85440d3f1a3d9d2b16a0b48d8c1" title="Beam::InterPointCD" alt="" coords="179,35,316,61"/>
+<area shape="rect" id="node3" href="$d5/d53/class_ro_r_1_1_beam_factory.html#ac25b17e65074996433c472da5028fed1" title="RoR::BeamFactory::Update\lPhysicsSimulation" alt="" coords="364,27,547,69"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="863,5,1043,32"/>
+<area shape="rect" id="node6" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5703b053d2b40e3dae66a063ded34578" title="RoR::BeamFactory::getSimulation\lSpeed" alt="" coords="595,57,815,98"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="1091,56,1303,83"/>
+<area shape="rect" id="node7" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="863,107,1042,149"/>
+</map>

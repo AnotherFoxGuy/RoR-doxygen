@@ -1,0 +1,5 @@
+<map id="ImGui::IsMouseHoveringRect" name="ImGui::IsMouseHoveringRect">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a408f9ddac92f8629a7e273ced5f8c3aa" title="ImGui::GetCurrentWindowRead" alt="" coords="243,5,445,32"/>
+<area shape="rect" id="node3" href="$df/d8d/struct_im_rect.html#aa154c8af625537106570303d35228ad3" title="ImRect::Clip" alt="" coords="297,56,391,83"/>
+<area shape="rect" id="node4" href="$df/d8d/struct_im_rect.html#ac583156fd0e9306181fff5d120b262ea" title="ImRect::Contains" alt="" coords="283,107,405,133"/>
+</map>

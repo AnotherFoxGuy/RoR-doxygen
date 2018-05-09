@@ -1,0 +1,5 @@
+<map id="RoR::LandVehicleSimulation::CheckSpeedLimit" name="RoR::LandVehicleSimulation::CheckSpeedLimit">
+<area shape="rect" id="node2" href="$d6/de4/class_beam_engine.html#ae5f87426f9dc96c4f4bf377b53e9936a" title="BeamEngine::getGear" alt="" coords="240,5,391,32"/>
+<area shape="rect" id="node3" href="$d6/de4/class_beam_engine.html#a2a9f0148195ac8b87fd92456743f2c01" title="BeamEngine::getAcc" alt="" coords="243,56,388,83"/>
+<area shape="rect" id="node4" href="$d6/de4/class_beam_engine.html#a74010b85a774cb7e3bd4c494bd29e315" title="BeamEngine::setAcc" alt="" coords="243,107,388,133"/>
+</map>

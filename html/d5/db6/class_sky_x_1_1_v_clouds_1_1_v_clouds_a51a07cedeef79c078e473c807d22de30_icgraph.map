@@ -1,0 +1,5 @@
+<map id="SkyX::VClouds::VClouds::getCamera" name="SkyX::VClouds::VClouds::getCamera">
+<area shape="rect" id="node2" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#aa3f64cb1d5c283d2abdb007c28582917" title="SkyX::VClouds::GeometryManager\l::updateGeometry" alt="" coords="220,5,444,47"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a897f7d8b8357b460a9b1fbd559772c29" title="SkyX::VClouds::VClouds\l::notifyCameraRender" alt="" coords="492,5,659,47"/>
+<area shape="rect" id="node4" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#aa333a7f4c33035ace1076046d4a5d24e" title="SkyX::VCloudsManager\l::notifyCameraRender" alt="" coords="707,5,865,47"/>
+</map>

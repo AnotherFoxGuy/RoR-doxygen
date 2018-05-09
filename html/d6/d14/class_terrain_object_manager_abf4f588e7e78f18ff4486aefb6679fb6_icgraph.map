@@ -1,0 +1,16 @@
+<map id="TerrainObjectManager::update" name="TerrainObjectManager::update">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#a5038377a7e0855638b9d8b97e3f5b35d" title="TerrainManager::update" alt="" coords="400,51,559,78"/>
+<area shape="rect" id="node4" href="$d6/d14/class_terrain_object_manager.html#a91b54e4a7a63ccb4c720e9dfe6fa0ec3" title="TerrainObjectManager\l::GetLocalizers" alt="" coords="203,162,352,204"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="1329,259,1541,286"/>
+<area shape="rect" id="node5" href="$df/df9/class_beam.html#a006ef9ec922c3ba72b4e53288779a548" title="Beam::updateVisual" alt="" coords="410,250,549,276"/>
+<area shape="rect" id="node6" href="$dd/dbe/class_ro_r_frame_listener.html#abc123f9d1e56e13a72e5f80fdaa5a17e" title="RoRFrameListener::Finalize\lTruckSpawning" alt="" coords="853,317,1036,358"/>
+<area shape="rect" id="node8" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="1143,208,1241,235"/>
+<area shape="rect" id="node9" href="$df/df9/class_beam.html#aabe018af621de69910d145fe2967ad11" title="Beam::IsNodeIdValid" alt="" coords="625,150,768,176"/>
+<area shape="rect" id="node13" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a508cb7a834236ed7786f780bbe6f84f6" title="RoR::BeamFactory::repair\lTruck" alt="" coords="610,252,783,293"/>
+<area shape="rect" id="node15" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aa51137347e36bdae6315a62534ddc9f1" title="RoR::BeamFactory::update\lVisual" alt="" coords="607,369,787,410"/>
+<area shape="rect" id="node7" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="1103,310,1281,352"/>
+<area shape="rect" id="node10" href="$dd/dbe/class_ro_r_frame_listener.html#a46c793a3229156a678a3829a6fe59be6" title="RoRFrameListener::Update\lForceFeedback" alt="" coords="1103,92,1281,133"/>
+<area shape="rect" id="node11" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="883,150,1007,176"/>
+<area shape="rect" id="node12" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="1127,158,1257,184"/>
+<area shape="rect" id="node14" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5703b053d2b40e3dae66a063ded34578" title="RoR::BeamFactory::getSimulation\lSpeed" alt="" coords="835,252,1055,293"/>
+</map>

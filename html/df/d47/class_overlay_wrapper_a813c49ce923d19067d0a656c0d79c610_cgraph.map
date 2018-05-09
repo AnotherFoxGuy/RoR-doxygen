@@ -1,0 +1,17 @@
+<map id="OverlayWrapper::mouseReleased" name="OverlayWrapper::mouseReleased">
+<area shape="rect" id="node2" href="$df/d47/class_overlay_wrapper.html#a7059a60d3d3e067be79c66247298b56b" title="OverlayWrapper::mouseMoved" alt="" coords="268,339,467,366"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="519,5,712,47"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="515,71,716,112"/>
+<area shape="rect" id="node6" href="$db/db4/class_aero_engine.html#a90099d51230d1a393a298eb13699b536" title="AeroEngine::setThrottle" alt="" coords="536,137,695,163"/>
+<area shape="rect" id="node7" href="$db/db4/class_aero_engine.html#a2b3797238e5475e8f7d97c0fb69929ac" title="AeroEngine::flipStart" alt="" coords="545,187,686,214"/>
+<area shape="rect" id="node8" href="$d3/ddd/class_autopilot.html#a00b1d2ca9518bc352c4062342da50a9b" title="Autopilot::toggleHeading" alt="" coords="534,238,697,265"/>
+<area shape="rect" id="node9" href="$d3/ddd/class_autopilot.html#af1607003da33dd35dad90c347e13538b" title="Autopilot::toggleAlt" alt="" coords="549,289,681,315"/>
+<area shape="rect" id="node10" href="$d3/ddd/class_autopilot.html#a3a42fb5df8a890d4ea80e804a88aaa7b" title="Autopilot::toggleIAS" alt="" coords="547,339,684,366"/>
+<area shape="rect" id="node11" href="$d3/ddd/class_autopilot.html#a8703f1437b71495a93b9a601c4707e84" title="Autopilot::toggleGPWS" alt="" coords="537,390,694,417"/>
+<area shape="rect" id="node12" href="$df/df9/class_beam.html#a6ed36647ce357654c04703737db3463f" title="diff lock on or off " alt="" coords="527,441,703,467"/>
+<area shape="rect" id="node13" href="$d3/ddd/class_autopilot.html#ad9a9a33193dc7b16154902459030dfd5" title="Autopilot::adjHDG" alt="" coords="552,491,679,518"/>
+<area shape="rect" id="node14" href="$d3/ddd/class_autopilot.html#a10647aa3ee6ebd76b41cfbd9511ab19c" title="Autopilot::adjALT" alt="" coords="555,542,676,569"/>
+<area shape="rect" id="node15" href="$d3/ddd/class_autopilot.html#a5a59895f0bb1ffd1ac55d115d36b30b6" title="Autopilot::adjVS" alt="" coords="557,593,673,619"/>
+<area shape="rect" id="node16" href="$d3/ddd/class_autopilot.html#a19c3d3062afa0f1c4739ac80957ef9cf" title="Autopilot::adjIAS" alt="" coords="556,643,675,670"/>
+<area shape="rect" id="node5" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="764,78,955,105"/>
+</map>

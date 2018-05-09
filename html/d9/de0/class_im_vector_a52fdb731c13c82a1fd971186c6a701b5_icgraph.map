@@ -1,0 +1,9 @@
+<map id="ImVector::insert" name="ImVector::insert">
+<area shape="rect" id="node2" href="$df/d15/struct_im_gui_storage.html#a28673fa7839263f3066ccb8e93e748a9" title="ImGuiStorage::GetIntRef" alt="" coords="183,5,345,32"/>
+<area shape="rect" id="node3" href="$df/d15/struct_im_gui_storage.html#a4b51cc8c92c65d4224af65a8ce7752ee" title="ImGuiStorage::GetFloatRef" alt="" coords="175,56,353,83"/>
+<area shape="rect" id="node4" href="$df/d15/struct_im_gui_storage.html#a2b203317f3f488818e9b9f416fe35332" title="ImGuiStorage::GetVoidPtrRef" alt="" coords="168,107,360,133"/>
+<area shape="rect" id="node5" href="$da/d72/imgui_8cpp.html#ab4943d763d83691a98d6e80bb5d586a1" title="CreateNewWindow" alt="" coords="199,157,329,184"/>
+<area shape="rect" id="node6" href="$df/d13/namespace_im_gui.html#a030e4ac6eed5b4b960a3fef538fcbad0" title="ImGui::Begin" alt="" coords="408,157,505,184"/>
+<area shape="rect" id="node7" href="$df/d0a/struct_im_gui_list_clipper.html#a0dc870fa31a56d3ace7625450f42937a" title="ImGuiListClipper::ImGuiList\lClipper" alt="" coords="553,117,733,158"/>
+<area shape="rect" id="node8" href="$df/d0a/struct_im_gui_list_clipper.html#ada915f0ae4446df73c1a2372bde65293" title="ImGuiListClipper::\l~ImGuiListClipper" alt="" coords="581,182,706,223"/>
+</map>

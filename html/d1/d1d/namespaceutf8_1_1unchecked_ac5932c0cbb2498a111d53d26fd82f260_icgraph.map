@@ -1,0 +1,12 @@
+<map id="utf8::unchecked::next" name="utf8::unchecked::next">
+<area shape="rect" id="node2" href="$d1/d1d/namespaceutf8_1_1unchecked.html#aaf5ddbe24f8dbb83390e2d33d75b9ea1" title="utf8::unchecked::peek_next" alt="" coords="200,13,383,40"/>
+<area shape="rect" id="node3" href="$d1/d1d/namespaceutf8_1_1unchecked.html#ad2c0e4b9693713ac18ee543e214b3ef9" title="utf8::unchecked::prior" alt="" coords="218,64,365,91"/>
+<area shape="rect" id="node6" href="$d1/d1d/namespaceutf8_1_1unchecked.html#a66ea3b93a81a8f961e7a1700d13efc57" title="utf8::unchecked::advance" alt="" coords="207,115,376,141"/>
+<area shape="rect" id="node8" href="$d1/d1d/namespaceutf8_1_1unchecked.html#a3796d7a15edc244a872a9ca559ea2693" title="utf8::unchecked::distance" alt="" coords="206,165,377,192"/>
+<area shape="rect" id="node9" href="$d1/d1d/namespaceutf8_1_1unchecked.html#ae323b9faa6a47cb8d0aeaea44c1787eb" title="utf8::unchecked::utf8to16" alt="" coords="207,216,375,243"/>
+<area shape="rect" id="node10" href="$d1/d1d/namespaceutf8_1_1unchecked.html#aa4b554922a06a7487118982ff41da590" title="utf8::unchecked::utf8to32" alt="" coords="207,267,375,293"/>
+<area shape="rect" id="node11" href="$d1/d0e/classutf8_1_1unchecked_1_1iterator.html#a150ab57c3546d067d49214af4d317e97" title="utf8::unchecked::iterator\l::operator*" alt="" coords="210,318,373,359"/>
+<area shape="rect" id="node4" href="$d1/d1d/namespaceutf8_1_1unchecked.html#a454cdd8f6b6771bd0425be1ccd94f788" title="utf8::unchecked::previous" alt="" coords="431,5,600,32"/>
+<area shape="rect" id="node5" href="$d1/d0e/classutf8_1_1unchecked_1_1iterator.html#a8b50b3a0d7b2c2506e135db73a636c7b" title="utf8::unchecked::iterator\l::operator&#45;&#45;" alt="" coords="434,57,597,98"/>
+<area shape="rect" id="node7" href="$d1/d0e/classutf8_1_1unchecked_1_1iterator.html#a0450ee39cf7eeed074d229fb9b6b22bc" title="utf8::unchecked::iterator\l::operator++" alt="" coords="434,122,597,163"/>
+</map>

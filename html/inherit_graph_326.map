@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/dc3/struct_ro_r_1_1_g_var_base.html" title="RoR::GVarBase" alt="" coords="5,56,120,83"/>
+<area shape="rect" id="node2" href="$d8/d8c/class_ro_r_1_1_g_var_enum___a.html" title="_A = Has only &#39;Active&#39; field " alt="" coords="168,5,336,32"/>
+<area shape="rect" id="node5" href="$d3/d93/class_ro_r_1_1_g_var_pod___a.html" title="POD = Plain old data (C++ concept); _A = Has only &#39;Active&#39; field. " alt="" coords="175,56,329,83"/>
+<area shape="rect" id="node8" href="$d9/d52/class_ro_r_1_1_g_var_str___a.html" title="RoR::GVarStr_A\&lt; L \&gt;" alt="" coords="177,107,327,133"/>
+<area shape="rect" id="node3" href="$db/da3/class_ro_r_1_1_g_var_enum___a_p.html" title="_AP = Has &#39;Active&#39; and &#39;Pending&#39; fields " alt="" coords="384,5,561,32"/>
+<area shape="rect" id="node4" href="$d9/ddb/class_ro_r_1_1_g_var_enum___a_p_s.html" title="_APS = Has &#39;Active, Pending, Stored&#39; fields " alt="" coords="609,5,796,32"/>
+<area shape="rect" id="node6" href="$dd/d2c/class_ro_r_1_1_g_var_pod___a_p.html" title="POD = Plain old data (C++ concept); _AP = Has &#39;Active&#39; and &#39;Pending&#39; fields. " alt="" coords="391,56,555,83"/>
+<area shape="rect" id="node7" href="$de/d72/class_ro_r_1_1_g_var_pod___a_p_s.html" title="POD = Plain old data (C++ concept); _APS = Has &#39;Active, Pending, Stored&#39; fields. " alt="" coords="616,56,789,83"/>
+<area shape="rect" id="node9" href="$d0/d80/class_ro_r_1_1_g_var_str___a_p.html" title="_AP = Has &#39;Active&#39; and &#39;Pending&#39; fields " alt="" coords="393,107,552,133"/>
+<area shape="rect" id="node10" href="$d5/ddc/class_ro_r_1_1_g_var_str___a_p_s.html" title="_APS = Has &#39;Active, Pending, Stored&#39; fields " alt="" coords="619,107,786,133"/>
+</map>

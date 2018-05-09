@@ -1,0 +1,10 @@
+<map id="Hydrax::Decal::isVisible" name="Hydrax::Decal::isVisible">
+<area shape="rect" id="node2" href="$d0/d5b/class_hydrax_1_1_decal.html#a53da5b1cb4fc6d8cd470d23255cbcc7a" title="Hydrax::Decal::setPosition" alt="" coords="230,5,407,32"/>
+<area shape="rect" id="node3" href="$d0/d5b/class_hydrax_1_1_decal.html#ae48299846460ba4022683faba3f826be" title="Hydrax::Decal::setSize" alt="" coords="241,56,397,83"/>
+<area shape="rect" id="node4" href="$d0/d5b/class_hydrax_1_1_decal.html#a5dc16dca9688e2bb46f0770a7375902c" title="Hydrax::Decal::setOrientation" alt="" coords="222,107,415,133"/>
+<area shape="rect" id="node5" href="$d0/d5b/class_hydrax_1_1_decal.html#ac1f66263a33a56b806ea08fb05b47951" title="Hydrax::Decal::setTransparency" alt="" coords="215,157,423,184"/>
+<area shape="rect" id="node6" href="$d0/d5b/class_hydrax_1_1_decal.html#a5c51a36fc2d8c6f320db291805b8401a" title="Hydrax::Decal::setVisible" alt="" coords="234,208,403,235"/>
+<area shape="rect" id="node7" href="$d0/d5b/class_hydrax_1_1_decal.html#aa517fc153970df9ccabffda04b27892c" title="Hydrax::Decal::unregister" alt="" coords="475,149,645,176"/>
+<area shape="rect" id="node8" href="$dd/d65/class_hydrax_1_1_hydrax.html#a0ed95597b4ad5e33f2ba7f82f3ac4083" title="Hydrax::Hydrax::getDecals\lManager" alt="" coords="471,201,649,242"/>
+<area shape="rect" id="node9" href="$d6/dbe/class_hydrax_1_1_decals_manager.html#ab3ffe8faa2c0f00ef738d7e7ce493aed" title="Hydrax::DecalsManager\l::_forceToUpdate" alt="" coords="479,266,641,307"/>
+</map>

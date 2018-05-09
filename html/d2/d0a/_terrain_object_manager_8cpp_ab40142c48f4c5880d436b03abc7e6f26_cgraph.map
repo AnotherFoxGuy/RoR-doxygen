@@ -1,0 +1,6 @@
+<map id="removeCollisionBox" name="removeCollisionBox">
+<area shape="rect" id="node2" href="$d9/d39/class_collisions.html#a2b717349889d16df812225582f8ac943" title="Collisions::removeCollisionBox" alt="" coords="188,42,387,69"/>
+<area shape="rect" id="node3" href="$d9/d39/class_collisions.html#a61d99b847d6d48f94c5332848543172d" title="Collisions::GetNumCollision\lBoxes" alt="" coords="435,5,617,47"/>
+<area shape="rect" id="node4" href="$d9/d39/class_collisions.html#a5daaefbf4b30949f1d68ba5ae38d9b9b" title="Collisions::hash_free" alt="" coords="455,71,597,98"/>
+<area shape="rect" id="node5" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="665,71,804,98"/>
+</map>

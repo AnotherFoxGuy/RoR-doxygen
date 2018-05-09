@@ -1,0 +1,9 @@
+<map id="Beam::updateFlares" name="Beam::updateFlares">
+<area shape="rect" id="node2" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="192,5,367,32"/>
+<area shape="rect" id="node3" href="$d3/d7b/class_input_engine.html#a72145988ab99faec6f618c2a4011d236" title="InputEngine::getEventBool\lValue" alt="" coords="192,57,367,98"/>
+<area shape="rect" id="node4" href="$d3/d7b/class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="415,64,596,91"/>
+<area shape="rect" id="node5" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="705,13,754,40"/>
+<area shape="rect" id="node7" href="$d3/d7b/class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="644,64,815,91"/>
+<area shape="rect" id="node8" href="$d3/d7b/class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="652,115,807,141"/>
+<area shape="rect" id="node6" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="863,13,939,40"/>
+</map>

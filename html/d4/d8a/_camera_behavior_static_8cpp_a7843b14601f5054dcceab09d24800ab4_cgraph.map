@@ -1,0 +1,4 @@
+<map id="intersectsTerrain" name="intersectsTerrain">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="172,5,347,47"/>
+<area shape="rect" id="node3" href="$d9/d44/class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="172,71,347,98"/>
+</map>

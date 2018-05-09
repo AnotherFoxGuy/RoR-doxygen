@@ -1,0 +1,7 @@
+<map id="ImGui::IsHovered" name="ImGui::IsHovered">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a408f9ddac92f8629a7e273ced5f8c3aa" title="ImGui::GetCurrentWindowRead" alt="" coords="411,5,613,32"/>
+<area shape="rect" id="node3" href="$df/d13/namespace_im_gui.html#ae0b8ea0e06c457316d6aed6c5b2a1c25" title="ImGui::IsMouseHoveringRect" alt="" coords="173,56,363,83"/>
+<area shape="rect" id="node6" href="$da/d72/imgui_8cpp.html#add91446ac1b69acacac581005e316eeb" title="IsWindowContentHoverable" alt="" coords="179,107,357,133"/>
+<area shape="rect" id="node4" href="$df/d8d/struct_im_rect.html#aa154c8af625537106570303d35228ad3" title="ImRect::Clip" alt="" coords="465,56,559,83"/>
+<area shape="rect" id="node5" href="$df/d8d/struct_im_rect.html#ac583156fd0e9306181fff5d120b262ea" title="ImRect::Contains" alt="" coords="451,107,573,133"/>
+</map>

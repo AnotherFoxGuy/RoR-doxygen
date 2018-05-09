@@ -1,0 +1,4 @@
+<map id="getTerrainHeight" name="getTerrainHeight">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="169,5,344,47"/>
+<area shape="rect" id="node3" href="$d9/d44/class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="169,71,344,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ExampleAppConsole::TextEditCallback" name="ExampleAppConsole::TextEditCallback">
+<area shape="rect" id="node2" href="$d9/de0/class_im_vector.html#a68387993f2a5f5c3b2a7139d9ab778b8" title="ImVector::push_back" alt="" coords="222,5,367,32"/>
+<area shape="rect" id="node3" href="$df/def/struct_im_gui_text_edit_callback_data.html#aaa702107677f7da0e7ea61311ab69af0" title="ImGuiTextEditCallbackData\l::DeleteChars" alt="" coords="204,57,385,98"/>
+<area shape="rect" id="node4" href="$df/def/struct_im_gui_text_edit_callback_data.html#a78aa927e57bf5fb898ba5a168e9bcf63" title="ImGuiTextEditCallbackData\l::InsertChars" alt="" coords="204,122,385,163"/>
+</map>

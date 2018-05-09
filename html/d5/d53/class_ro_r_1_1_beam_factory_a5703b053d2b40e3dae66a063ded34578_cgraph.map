@@ -1,0 +1,215 @@
+<map id="RoR::BeamFactory::getSimulationSpeed" name="RoR::BeamFactory::getSimulationSpeed">
+<area shape="rect" id="node2" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aea65d1c5ba17ad6a9b78b887cc247b61" title="RoR::BeamFactory::CleanUp\lAllTrucks" alt="" coords="285,1607,476,1649"/>
+<area shape="rect" id="node3" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a19c3b3a03f33efbed7a031aa94d81d73" title="Call this after simulation loop finishes. " alt="" coords="288,1673,473,1714"/>
+<area shape="rect" id="node5" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a64a9083ba7062b82a6f9cf69e472658a" title="RoR::BeamFactory::Unmute\lAllTrucks" alt="" coords="287,1738,474,1779"/>
+<area shape="rect" id="node7" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a297cce523629edad68ff2c05bcaa44ac" title="RoR::BeamFactory::enterRescue\lTruck" alt="" coords="273,1803,488,1845"/>
+<area shape="rect" id="node142" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a508cb7a834236ed7786f780bbe6f84f6" title="RoR::BeamFactory::repair\lTruck" alt="" coords="1630,1751,1803,1793"/>
+<area shape="rect" id="node154" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aa51137347e36bdae6315a62534ddc9f1" title="RoR::BeamFactory::update\lVisual" alt="" coords="1323,2793,1503,2834"/>
+<area shape="rect" id="node158" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a422abac5067d57e32e2a586062d52742" title="TIGHT&#45;LOOP; Logic: display, particles, sound;. " alt="" coords="291,2022,471,2063"/>
+<area shape="rect" id="node163" href="$d5/d53/class_ro_r_1_1_beam_factory.html#ad7cd25bde010030495830d42291de38b" title="TIGHT&#45;LOOP; Logic: flexbodies. " alt="" coords="291,2087,471,2129"/>
+<area shape="rect" id="node165" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aad83a6e4fd6bf213dfa691a2635e58c4" title="TIGHT&#45;LOOP; Logic: flexbodies. " alt="" coords="273,2153,488,2194"/>
+<area shape="rect" id="node167" href="$d5/d53/class_ro_r_1_1_beam_factory.html#ac25b17e65074996433c472da5028fed1" title="RoR::BeamFactory::Update\lPhysicsSimulation" alt="" coords="1322,2383,1505,2425"/>
+<area shape="rect" id="node4" href="$df/df9/class_beam.html#aad55f7c8f894c1946f21a2ddbd5e950a" title="Beam::StopAllSounds" alt="" coords="566,1680,717,1707"/>
+<area shape="rect" id="node6" href="$df/df9/class_beam.html#ae494da5794a11ddf27c897ccdaae956a" title="Beam::UnmuteAllSounds" alt="" coords="557,1737,725,1764"/>
+<area shape="rect" id="node8" href="$d5/d53/class_ro_r_1_1_beam_factory.html#ac70a8aa131a6709ebf05dc3c0f6dab10" title="RoR::BeamFactory::setCurrent\lTruck" alt="" coords="541,1789,742,1830"/>
+<area shape="rect" id="node9" href="$dd/dbe/class_ro_r_frame_listener.html#ad309b37d305d55def42d92f17abed557" title="Unloads all data. " alt="" coords="795,1131,984,1173"/>
+<area shape="rect" id="node135" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a1a0708c3248c3759a0352257a4af458b" title="RoR::BeamFactory::Update\lSleepingState" alt="" coords="798,1607,981,1649"/>
+<area shape="rect" id="node10" href="$d9/d86/class_dash_board_manager.html#a714e4e5bbf29e1854c06af1993fecebc" title="DashBoardManager::setVisible3d" alt="" coords="1306,1135,1521,1161"/>
+<area shape="rect" id="node12" href="$df/d86/namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="1040,1139,1239,1165"/>
+<area shape="rect" id="node13" href="$df/d47/class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="1032,1022,1247,1063"/>
+<area shape="rect" id="node16" href="$df/df9/class_beam.html#ab4dfeb77091b6ce9a344b1e1d4e964e3" title="Beam::GetGfxActor" alt="" coords="1071,1189,1207,1216"/>
+<area shape="rect" id="node17" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#a992bd90eda93991c90e3f37f48975048" title="RoR::GfxActor::GetVideoCam\lState" alt="" coords="1042,1241,1237,1282"/>
+<area shape="rect" id="node21" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#a380125c9102242d296dc6f12b7468412" title="RoR::GfxActor::SetVideoCam\lState" alt="" coords="1042,1306,1237,1347"/>
+<area shape="rect" id="node22" href="$df/df9/class_beam.html#a3304824c3e7285047f007c956318de09" title="Beam::prepareInside" alt="" coords="1069,1372,1210,1399"/>
+<area shape="rect" id="node23" href="$df/df9/class_beam.html#a7d009b83ca5b166efe7c356abfcc3490" title="Beam::getRotation" alt="" coords="1074,1423,1205,1449"/>
+<area shape="rect" id="node24" href="$d7/da7/class_character.html#aa761e344c2aa6df9205bfa6bf1d3ea13" title="Character::setBeamCoupling" alt="" coords="1045,376,1233,403"/>
+<area shape="rect" id="node26" href="$d7/da7/class_character.html#a1884d7f3e305d9b23164fdbf208f1cc6" title="Character::setPosition" alt="" coords="1948,309,2099,336"/>
+<area shape="rect" id="node29" href="$d7/da7/class_character.html#a305f94b58e7e8b61cc6829e4aba7a060" title="Character::setRotation" alt="" coords="1947,107,2099,133"/>
+<area shape="rect" id="node70" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="2525,1859,2574,1885"/>
+<area shape="rect" id="node130" href="$d3/dc1/class_ro_r_1_1_force_feedback.html#a5ad15f0bae3f998c07de438637445f28" title="RoR::ForceFeedback\l::SetEnabled" alt="" coords="1067,891,1212,933"/>
+<area shape="rect" id="node131" href="$d2/d23/class_camera_manager.html#a737fe1d8d82faf6d9a3981eb713ec82c" title="CameraManager::NotifyVehicle\lChanged" alt="" coords="1039,957,1240,998"/>
+<area shape="rect" id="node11" href="$d4/d1e/class_dash_board.html#a650c134fdce0c84a77d84d2c23bdccbe" title="DashBoard::setVisible" alt="" coords="1641,1087,1792,1113"/>
+<area shape="rect" id="node14" href="$d9/d86/class_dash_board_manager.html#aab1c20ed732f3e11ea290a2f90be99e0" title="DashBoardManager::wasLoaded" alt="" coords="1309,1084,1518,1111"/>
+<area shape="rect" id="node15" href="$d9/d86/class_dash_board_manager.html#a21ffd946b6843df16ca7b3ef704b596a" title="DashBoardManager::setVisible" alt="" coords="1313,1033,1514,1060"/>
+<area shape="rect" id="node18" href="$d4/d83/class_ro_r_1_1_gfx_actor.html#a685843a3b391b9d76381a8947d6bfe03" title="RoR::GfxActor::UpdateVideo\lCameras" alt="" coords="1319,1241,1507,1282"/>
+<area shape="rect" id="node19" href="$d3/d16/class_terrain_manager.html#a0bb96107715bd022c13c86ed2b76b7ad" title="TerrainManager::getSkyManager" alt="" coords="1611,1273,1822,1300"/>
+<area shape="rect" id="node20" href="$df/df9/class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="1650,1223,1783,1249"/>
+<area shape="rect" id="node25" href="$d7/da7/class_character.html#ad78f70dcdb7ed4ccd8e97824f62847e1" title="Character::setPhysicsEnabled" alt="" coords="1314,351,1513,377"/>
+<area shape="rect" id="node30" href="$d7/da7/class_character.html#a9431f9de49989e5bbf7e02810aca1f14" title="Character::setVisible" alt="" coords="1645,5,1788,32"/>
+<area shape="rect" id="node116" href="$df/df9/class_beam.html#adfe810237f6498de41657429ad35ee38" title="Beam::hasDriverSeat" alt="" coords="1951,1320,2095,1347"/>
+<area shape="rect" id="node32" href="$d7/da7/class_character.html#abfdde0156bfce655ba833feea23ad4a0" title="Character::move" alt="" coords="1659,427,1775,453"/>
+<area shape="rect" id="node33" href="$d7/da7/class_character.html#a6db76b3ec402b6246cdb55fdeccce543" title="Character::unwindMovement" alt="" coords="1624,275,1809,301"/>
+<area shape="rect" id="node35" href="$dd/de8/namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="2249,2548,2349,2575"/>
+<area shape="rect" id="node47" href="$d7/da7/class_character.html#a4806a9150eb30673bab3d0b47e05d135" title="Character::update" alt="" coords="1654,837,1779,864"/>
+<area shape="rect" id="node76" href="$d7/da7/class_character.html#aec36e78fd1c7f63ad7cb128fe128b4f1" title="Character::updateMapIcon" alt="" coords="1936,208,2111,235"/>
+<area shape="rect" id="node119" href="$d7/da7/class_character.html#abc9b1bee1f0eae2a2391b10c5cb658f5" title="Character::updateCharacter\lNetworkColour" alt="" coords="1933,361,2114,402"/>
+<area shape="rect" id="node120" href="$d7/da7/class_character.html#acfb1f4e5d1cb5da7d438466ff398bf93" title="Character::updateCharacter\lRotation" alt="" coords="1626,107,1807,149"/>
+<area shape="rect" id="node121" href="$d7/da7/class_character.html#a018cfc89bdc499ff1e1025995bfd048c" title="Character::updateLabels" alt="" coords="1635,528,1798,555"/>
+<area shape="rect" id="node27" href="$db/dd2/class_survey_map_manager.html#a17809f36c8b9291270ced418f222faab" title="SurveyMapManager::getMap\lEntityByName" alt="" coords="2205,179,2392,221"/>
+<area shape="rect" id="node28" href="$df/d13/class_survey_map_entity.html#a781ecb998f41521324088cd3ce66d9ce" title="SurveyMapEntity::setPosition" alt="" coords="2453,401,2646,428"/>
+<area shape="rect" id="node31" href="$df/d13/class_survey_map_entity.html#ad3cc1cb8f1e71f876290abb0eb004c05" title="SurveyMapEntity::setVisibility" alt="" coords="2452,128,2647,155"/>
+<area shape="rect" id="node34" href="$d7/da7/class_character.html#a2c056adebe0e35330a3eae862667f1d4" title="Character::getPosition" alt="" coords="3503,184,3654,211"/>
+<area shape="rect" id="node36" href="$dd/de8/namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="2511,2365,2587,2392"/>
+<area shape="rect" id="node37" href="$d0/d96/namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="2713,1556,2889,1583"/>
+<area shape="rect" id="node38" href="$d0/d96/namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="2993,1549,3151,1590"/>
+<area shape="rect" id="node40" href="$d0/d96/namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="3013,1679,3131,1721"/>
+<area shape="rect" id="node41" href="$d0/d96/namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="3013,1745,3131,1786"/>
+<area shape="rect" id="node42" href="$d0/d96/namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="3013,1418,3131,1459"/>
+<area shape="rect" id="node43" href="$d0/d96/namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="3013,1483,3131,1525"/>
+<area shape="rect" id="node44" href="$d0/d96/namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="3010,1250,3134,1291"/>
+<area shape="rect" id="node46" href="$d0/d96/namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="3003,1614,3141,1655"/>
+<area shape="rect" id="node39" href="$d0/d96/namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="3263,1524,3403,1551"/>
+<area shape="rect" id="node45" href="$d0/d96/namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="3277,1250,3388,1291"/>
+<area shape="rect" id="node48" href="$d2/d23/class_camera_manager.html#a8cbcaac61bff564ad37ebfdeef25acab" title="CameraManager::gameControls\lLocked" alt="" coords="3476,1098,3681,1139"/>
+<area shape="rect" id="node49" href="$d0/dbf/_character_8cpp.html#a65346bcca4408024b040c2ebfbab8d31" title="calculate_collision\l_depth" alt="" coords="1959,833,2087,874"/>
+<area shape="rect" id="node50" href="$d9/d39/class_collisions.html#a265e80a2a5e77dd57ce94ae62c2a11ab" title="Collisions::collisionCorrect" alt="" coords="2211,981,2386,1008"/>
+<area shape="rect" id="node62" href="$d2/d23/class_camera_manager.html#a0c27870e9affd6a9098abb4114c14bdf" title="CameraManager::NotifyContext\lChange" alt="" coords="1922,1051,2125,1093"/>
+<area shape="rect" id="node63" href="$d3/d16/class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="2211,1254,2386,1295"/>
+<area shape="rect" id="node64" href="$d9/d44/class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="2462,1555,2637,1581"/>
+<area shape="rect" id="node65" href="$d3/d16/class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="5007,1299,5179,1325"/>
+<area shape="rect" id="node66" href="$d1/dd9/class_i_water.html#a48916b4b4fdcd2e945b391164d0a0083" title="IWater::getHeightWaves" alt="" coords="1942,1117,2105,1144"/>
+<area shape="rect" id="node67" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="3491,1316,3666,1343"/>
+<area shape="rect" id="node68" href="$d3/d7b/class_input_engine.html#a72145988ab99faec6f618c2a4011d236" title="InputEngine::getEventBool\lValue" alt="" coords="1936,1422,2111,1463"/>
+<area shape="rect" id="node69" href="$d3/d7b/class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="2208,1345,2389,1372"/>
+<area shape="rect" id="node74" href="$d3/d7b/class_input_engine.html#a31083a87d361611caf4ded6955565d18" title="InputEngine::isKeyDown" alt="" coords="1942,1168,2105,1195"/>
+<area shape="rect" id="node75" href="$d7/da7/class_character.html#a391e1f5a88ed4185bb3ef1f878a5d7af" title="Character::setAnimationMode" alt="" coords="1926,629,2121,656"/>
+<area shape="rect" id="node117" href="$df/df9/class_beam.html#a58da17fe256483a8367103e0bb05abdb" title="Beam::calculateDriverPos" alt="" coords="1938,680,2109,707"/>
+<area shape="rect" id="node118" href="$d7/da7/class_character.html#acc209b1262a3a8d82d5f9f3c7818d499" title="Character::sendStreamData" alt="" coords="1932,731,2115,757"/>
+<area shape="rect" id="node51" href="$d3/d16/class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="2959,889,3185,916"/>
+<area shape="rect" id="node53" href="$d9/d39/class_collisions.html#a2fdc842e0f848af88b965e66b0296b79" title="Collisions::hash_find" alt="" coords="2479,1453,2620,1480"/>
+<area shape="rect" id="node55" href="$d9/d39/class_collisions.html#a169c711864e32721fb5daab7d7d01df4" title="Collisions::permitEvent" alt="" coords="2472,1352,2627,1379"/>
+<area shape="rect" id="node59" href="$d9/d39/class_collisions.html#afab554d00436aa9157c93a4eaecf8d74" title="Collisions::envokeScript\lCallback" alt="" coords="2469,1235,2629,1277"/>
+<area shape="rect" id="node60" href="$d9/d39/class_collisions.html#accb10540c3aa849f57b7fd3b9da2e1c6" title="Collisions::calcCollidedSide" alt="" coords="2458,931,2641,957"/>
+<area shape="rect" id="node61" href="$d9/d39/class_collisions.html#ad12c4976773ee3a8034b02fe1cd0212d" title="Collisions::clearEventCache" alt="" coords="2458,981,2641,1008"/>
+<area shape="rect" id="node52" href="$d2/d9a/class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="3249,922,3417,963"/>
+<area shape="rect" id="node54" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="2731,1403,2870,1429"/>
+<area shape="rect" id="node56" href="$dd/dbe/class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="2704,1286,2897,1327"/>
+<area shape="rect" id="node57" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="2700,1191,2901,1233"/>
+<area shape="rect" id="node58" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="2977,1199,3167,1225"/>
+<area shape="rect" id="node72" href="$d3/d7b/class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="2464,1301,2635,1328"/>
+<area shape="rect" id="node73" href="$d3/d7b/class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="2472,1184,2627,1211"/>
+<area shape="rect" id="node71" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="2763,2112,2839,2139"/>
+<area shape="rect" id="node77" href="$df/d13/class_survey_map_entity.html#a23640d7a462102b43b62b44204a99a2d" title="SurveyMapEntity::setRotation" alt="" coords="2452,233,2647,260"/>
+<area shape="rect" id="node78" href="$d7/da7/class_character.html#adb69cfa9a30f3b698e97417d1369824a" title="Character::createMapEntity" alt="" coords="2208,296,2389,323"/>
+<area shape="rect" id="node79" href="$db/dd2/class_survey_map_manager.html#a8d4bc71b43014156c7f1d620988ceb8f" title="SurveyMapManager::create\lNamedMapEntity" alt="" coords="2459,285,2639,326"/>
+<area shape="rect" id="node81" href="$df/d13/class_survey_map_entity.html#a24cc0fef7d3f1f296e7e8ccf94413fa5" title="SurveyMapEntity::setState" alt="" coords="2461,351,2638,377"/>
+<area shape="rect" id="node80" href="$db/dd2/class_survey_map_manager.html#a7af7a8d747001ee3749c4c0b97a32375" title="SurveyMapManager::create\lMapEntity" alt="" coords="2711,285,2891,326"/>
+<area shape="rect" id="node82" href="$df/d13/class_survey_map_entity.html#ad83a9d2fd4ab8d3a3841f9e1b0eae729" title="SurveyMapEntity::updateIcon" alt="" coords="2705,351,2896,377"/>
+<area shape="rect" id="node83" href="$df/d13/class_survey_map_entity.html#af393a262b4094ca586036e08943b6d72" title="SurveyMapEntity::update" alt="" coords="2717,667,2884,693"/>
+<area shape="rect" id="node84" href="$db/dd2/class_survey_map_manager.html#a959f28a84f3b54803983c734bcc849e1" title="SurveyMapManager::getMap\lEntitiesVisible" alt="" coords="3239,857,3426,898"/>
+<area shape="rect" id="node86" href="$db/dd2/class_survey_map_manager.html#afdabdbdf87d39f253ecd17af1770a516" title="SurveyMapManager::getWindowSize" alt="" coords="2955,667,3189,693"/>
+<area shape="rect" id="node100" href="$db/dd2/class_survey_map_manager.html#aec8d2ee435b736ae628d3924a6d2b29d" title="SurveyMapManager::getMapSize" alt="" coords="4732,476,4945,503"/>
+<area shape="rect" id="node85" href="$db/dd2/class_survey_map_manager.html#a2a4a152b8fa45aeffcf759a0a0fa5f8c" title="SurveyMapManager::setAlpha" alt="" coords="3736,1027,3931,1053"/>
+<area shape="rect" id="node87" href="$db/dd2/class_survey_map_manager.html#a51d80954d8fac255b9c88a60a120cbc3" title="SurveyMapManager::toggle\lMapView" alt="" coords="3489,879,3668,921"/>
+<area shape="rect" id="node95" href="$db/dd2/class_survey_map_manager.html#a171c5f8b946065add28edeb53aa62842" title="SurveyMapManager::toggle\lMapAlpha" alt="" coords="3489,391,3668,433"/>
+<area shape="rect" id="node112" href="$db/dd2/class_survey_map_manager.html#a49258bae8179a976b3c96b4b8daee682" title="SurveyMapManager::Update" alt="" coords="3240,637,3425,664"/>
+<area shape="rect" id="node115" href="$db/dd2/class_survey_map_manager.html#a8be6c4d34c32d4f65f55f60da29ed1a6" title="SurveyMapManager::getType\lByDriveable" alt="" coords="3237,689,3428,730"/>
+<area shape="rect" id="node88" href="$d2/d23/class_camera_manager.html#ad07471d660e56e45c7c612e7312da666" title="CameraManager::hasActive\lBehavior" alt="" coords="3743,778,3924,819"/>
+<area shape="rect" id="node89" href="$d2/d23/class_camera_manager.html#a213c263271f91e4eca01182f034e8a04" title="CameraManager::getCurrent\lBehavior" alt="" coords="3741,843,3926,885"/>
+<area shape="rect" id="node90" href="$db/dd2/class_survey_map_manager.html#aeebd7d253cbe08237389c73ee4100e21" title="SurveyMapManager::setVisibility" alt="" coords="3985,743,4196,769"/>
+<area shape="rect" id="node91" href="$db/dd2/class_survey_map_manager.html#ae268bea2d7e20939b37a4e0e75b55865" title="SurveyMapManager::setWindow\lPosition" alt="" coords="3729,961,3937,1002"/>
+<area shape="rect" id="node92" href="$db/dd2/class_survey_map_manager.html#a7ed376ba39519e19a1c2f9f1cd324b31" title="SurveyMapManager::update\lRenderMetrics" alt="" coords="3999,961,4182,1002"/>
+<area shape="rect" id="node93" href="$df/d86/namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="4253,960,4454,987"/>
+<area shape="rect" id="node94" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="4279,1011,4428,1053"/>
+<area shape="rect" id="node96" href="$db/dd2/class_survey_map_manager.html#a406a7445a656a72a84f0a63c5f97eb16" title="SurveyMapManager::getAlpha" alt="" coords="3736,575,3931,601"/>
+<area shape="rect" id="node97" href="$db/dd2/class_survey_map_manager.html#a366febef1cda1389030d1d1d8271ab13" title="SurveyMapManager::getVisibility" alt="" coords="3985,575,4196,601"/>
+<area shape="rect" id="node98" href="$db/dd2/class_survey_map_manager.html#ac7fddea7dd7050147998b735d3157718" title="SurveyMapManager::setMapZoom" alt="" coords="4244,629,4463,656"/>
+<area shape="rect" id="node111" href="$db/dd2/class_survey_map_manager.html#ab0273b7367d936f9458d69a89de88e2d" title="SurveyMapManager::setMap\lZoomRelative" alt="" coords="3997,677,4184,718"/>
+<area shape="rect" id="node99" href="$d2/dd0/class_survey_map_texture_creator.html#a889f0dd0655063c8cb78116cee9e6b1d" title="SurveyMapTextureCreator\l::update" alt="" coords="4511,677,4681,718"/>
+<area shape="rect" id="node101" href="$db/dd2/class_survey_map_manager.html#aa11b4ff9fe6e40c5b75e7fcc7a0ea704" title="SurveyMapManager::getMap\lCenter" alt="" coords="4745,793,4932,834"/>
+<area shape="rect" id="node103" href="$db/dd2/class_survey_map_manager.html#a52d4394a3be9430d483e3ae058077019" title="SurveyMapManager::getMapZoom" alt="" coords="4729,859,4948,885"/>
+<area shape="rect" id="node105" href="$d2/dd0/class_survey_map_texture_creator.html#aeeb03c9272b7b29ff6d346a9f4611dc5" title="SurveyMapTextureCreator\l::preRenderTargetUpdate" alt="" coords="4753,662,4924,703"/>
+<area shape="rect" id="node110" href="$d2/dd0/class_survey_map_texture_creator.html#aeee3a35731188515be6a257bab889a84" title="SurveyMapTextureCreator\l::postRenderTargetUpdate" alt="" coords="4752,727,4925,769"/>
+<area shape="rect" id="node102" href="$db/dd2/class_survey_map_manager.html#a780715983d5ad1c19af5ec448f416dee" title="SurveyMapManager::setMap\lTexture" alt="" coords="5000,837,5187,878"/>
+<area shape="rect" id="node104" href="$db/dd2/class_survey_map_manager.html#a61db6a2c4c30c2ed0cd18b50ea02f479" title="SurveyMapManager::setMap\lCenter" alt="" coords="5000,902,5187,943"/>
+<area shape="rect" id="node106" href="$d1/dd9/class_i_water.html#a7d7819f7cf473aa8a99ddca7cbdec0bc" title="IWater::setCamera" alt="" coords="5028,735,5159,761"/>
+<area shape="rect" id="node107" href="$d1/dd9/class_i_water.html#aafd64d3659a952b2667c9124b9c41572" title="IWater::moveTo" alt="" coords="5037,633,5149,660"/>
+<area shape="rect" id="node108" href="$d1/dd9/class_i_water.html#a1c85ea2684f75ada32395e8497b67ead" title="Returns static water level configured in &#39;terrn2&#39;. " alt="" coords="4996,785,5191,812"/>
+<area shape="rect" id="node109" href="$d1/dd9/class_i_water.html#a2fb52c8272f9e090a8a59e5a13f5ef91" title="IWater::update" alt="" coords="5040,684,5147,711"/>
+<area shape="rect" id="node113" href="$df/df9/class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="3514,457,3643,484"/>
+<area shape="rect" id="node114" href="$db/dd2/class_survey_map_manager.html#ab509b07168884c0cc346306fec8a0cd7" title="SurveyMapManager::update\lMapEntityPositions" alt="" coords="3487,509,3670,550"/>
+<area shape="rect" id="node122" href="$d6/dad/_utils_8cpp.html#aef0f4c4a8529a99aa149b9d72aa3a3f4" title="tryConvertUTF" alt="" coords="1971,528,2075,555"/>
+<area shape="rect" id="node127" href="$dc/dc3/class_ogre_1_1_movable_text.html#a9e93f2a29c44474bf8d3408ab6484f6c" title="Ogre::MovableText::\lsetCaption" alt="" coords="2229,514,2368,555"/>
+<area shape="rect" id="node128" href="$d7/da7/class_character.html#a529210827a59717cd3f7ab147a82dd94" title="Character::updateNetLabelSize" alt="" coords="1922,427,2125,453"/>
+<area shape="rect" id="node123" href="$da/d4c/namespace_ro_r_1_1_utils.html#ac62ee4a4a513a67cba1bdc7d9eb9c7a4" title="RoR::Utils::SanitizeUtf8\lString" alt="" coords="2219,795,2378,837"/>
+<area shape="rect" id="node124" href="$dd/de8/namespaceutf8.html#a07dcd36a2185e5c9f0b19dd88859cd6c" title="utf8::replace_invalid" alt="" coords="2482,880,2617,907"/>
+<area shape="rect" id="node125" href="$dd/de8/namespaceutf8.html#a3827e78596fc38cfdebd721e9c45c901" title="The library API &#45; functions intended to be called by the users. " alt="" coords="2754,968,2847,995"/>
+<area shape="rect" id="node126" href="$d0/d96/namespaceutf8_1_1internal.html#ab4820484159ba613b4901476ceb24516" title="utf8::internal::is\l_trail" alt="" coords="3017,1082,3127,1123"/>
+<area shape="rect" id="node129" href="$dc/dc3/class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::\lsetCharacterHeight" alt="" coords="2229,449,2368,490"/>
+<area shape="rect" id="node132" href="$d2/d23/class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="1308,983,1519,1009"/>
+<area shape="rect" id="node133" href="$df/df9/class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="1629,989,1804,1016"/>
+<area shape="rect" id="node134" href="$d2/d23/class_camera_manager.html#a522774afcf439b4e08bc364259d97062" title="CameraManager::SwitchBehavior\lOnVehicleChange" alt="" coords="1307,917,1520,958"/>
+<area shape="rect" id="node136" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a79720bddfd56a8689f7e60f93e1678cd" title="RoR::BeamFactory::Recursive\lActivation" alt="" coords="1041,1607,1238,1649"/>
+<area shape="rect" id="node137" href="$d5/d53/class_ro_r_1_1_beam_factory.html#acab7b0c4b54d1d6c4950882447ed6661" title="Returns whether or not the bounding boxes of truck a and truck b intersect. Based on the truck collis..." alt="" coords="1295,1575,1532,1617"/>
+<area shape="rect" id="node140" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aede50015ffb569b00e4afee1a34fa854" title="Returns whether or not the bounding boxes of truck a and truck b might intersect during the next fram..." alt="" coords="1323,1641,1503,1682"/>
+<area shape="rect" id="node138" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a65a7adae4e12c91a71eedf77d9b739a9" title="Returns whether or not the bounding boxes of truck a and truck b intersect. Based on the default truc..." alt="" coords="1580,1532,1853,1559"/>
+<area shape="rect" id="node139" href="$d5/d53/class_ro_r_1_1_beam_factory.html#abea20f91f941f569f0b95f32ae2638ec" title="Returns whether or not the two (scaled) bounding boxes intersect. " alt="" coords="1901,1589,2145,1616"/>
+<area shape="rect" id="node141" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a6e019b56235074247a1c7e058f219f92" title="Returns whether or not the bounding boxes of truck a and truck b might intersect during the next fram..." alt="" coords="1627,1634,1807,1675"/>
+<area shape="rect" id="node143" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aaff4dc9bb034a75b63059308fb7f8075" title="RoR::BeamFactory::FindTruck\lInsideBox" alt="" coords="1924,1691,2123,1733"/>
+<area shape="rect" id="node145" href="$df/df9/class_beam.html#a078999d6e513dd4830721a9b373d6925" title="Beam::reset" alt="" coords="1977,1757,2070,1784"/>
+<area shape="rect" id="node146" href="$df/df9/class_beam.html#a45e5bfb79be383f661885fadbeddf105" title="Beam::resetPosition" alt="" coords="1953,1640,2093,1667"/>
+<area shape="rect" id="node147" href="$df/df9/class_beam.html#a006ef9ec922c3ba72b4e53288779a548" title="Beam::updateVisual" alt="" coords="1954,2328,2093,2355"/>
+<area shape="rect" id="node144" href="$d9/d39/class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="2233,1605,2364,1632"/>
+<area shape="rect" id="node148" href="$df/d52/_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="2496,2517,2603,2544"/>
+<area shape="rect" id="node150" href="$d3/d16/class_terrain_manager.html#a55891b7908baf6be96220a227596028c" title="TerrainManager::getObject\lManager" alt="" coords="2211,2417,2386,2458"/>
+<area shape="rect" id="node151" href="$d6/d14/class_terrain_object_manager.html#a91b54e4a7a63ccb4c720e9dfe6fa0ec3" title="TerrainObjectManager\l::GetLocalizers" alt="" coords="2224,2482,2373,2523"/>
+<area shape="rect" id="node149" href="$df/d52/_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="2756,2467,2845,2493"/>
+<area shape="rect" id="node152" href="$d6/d14/class_terrain_object_manager.html#abf4f588e7e78f18ff4486aefb6679fb6" title="TerrainObjectManager\l::update" alt="" coords="2475,2569,2624,2610"/>
+<area shape="rect" id="node153" href="$d6/d14/class_terrain_object_manager.html#ad6bc30a80d54c348bd7f7d1f8d905b50" title="TerrainObjectManager\l::updateAnimatedObjects" alt="" coords="2716,2569,2885,2610"/>
+<area shape="rect" id="node155" href="$df/df9/class_beam.html#a4b831f16e858e2df6131f84d8e0b593e" title="Beam::updateLabels" alt="" coords="1646,2825,1787,2852"/>
+<area shape="rect" id="node156" href="$df/df9/class_beam.html#ab7bdf2289e7446a21b74bb4283781cae" title="Beam::updateSkidmarks" alt="" coords="1634,2927,1799,2953"/>
+<area shape="rect" id="node157" href="$df/df9/class_beam.html#a896d4c6db3a6a630353cfef781f04b10" title="Beam::updateFlares" alt="" coords="1647,2775,1786,2801"/>
+<area shape="rect" id="node159" href="$df/df9/class_beam.html#af699a6dc8e304af65ef4b2e6d616ed8a" title="Beam::updateFlexbodiesPrepare" alt="" coords="536,2036,747,2063"/>
+<area shape="rect" id="node160" href="$d9/df5/class_thread_pool.html#ae2b5f048a1a2b457566477b8afae2243" title="Submit new asynchronous task to thread pool and return Task handle to allow for synchronization. " alt="" coords="816,2479,963,2505"/>
+<area shape="rect" id="node161" href="$d7/d6d/class_task.html#a699a13fa7cec6a19c84e2c631a87dc73" title="Task::Task" alt="" coords="1096,2700,1183,2727"/>
+<area shape="rect" id="node162" href="$d7/d6d/class_task.html#a95c7171fb2f939f1e4ae9a82f1c7c32d" title="Task::operator=" alt="" coords="1357,2859,1470,2885"/>
+<area shape="rect" id="node164" href="$df/df9/class_beam.html#a4def418615e75c12a8a95be608bff3d3" title="Beam::updateFlexbodiesFinal" alt="" coords="544,2095,739,2121"/>
+<area shape="rect" id="node166" href="$df/df9/class_beam.html#a036152207b14fed59e2216c2dc16a2a8" title="Beam::joinFlexbodyTasks" alt="" coords="555,2160,727,2187"/>
+<area shape="rect" id="node168" href="$df/df9/class_beam.html#abdf64ff6de71138085e335ccde47aad1" title="physic related functions " alt="" coords="1631,2036,1802,2063"/>
+<area shape="rect" id="node169" href="$df/df9/class_beam.html#a6c440445640a12a8bf52fa0127365708" title="Beam::calcForcesEulerCompute" alt="" coords="2193,2800,2404,2827"/>
+<area shape="rect" id="node173" href="$df/df9/class_beam.html#ac166ea455a7783e0cded49c73864992d" title="Beam::IntraPointCD" alt="" coords="1648,2289,1785,2316"/>
+<area shape="rect" id="node174" href="$d5/d9b/class_point_col_detector.html#a94602f6b021b35e027839ee42529d929" title="PointColDetector::update" alt="" coords="1633,2391,1800,2417"/>
+<area shape="rect" id="node176" href="$d6/d55/_dynamic_collisions_8cpp.html#a99a047f3ac95e36f940d6665816e6087" title="intraTruckCollisions" alt="" coords="1649,2496,1784,2523"/>
+<area shape="rect" id="node186" href="$d9/df5/class_thread_pool.html#af914d6d908301bc5f316c4219caf8a11" title="Run collection of tasks in parallel and wait until all have finished. " alt="" coords="1639,2441,1794,2468"/>
+<area shape="rect" id="node187" href="$df/df9/class_beam.html#a0ec96a72537e15007db1ca57898c4ed5" title="Beam::calcForcesEulerFinal" alt="" coords="1623,2547,1810,2573"/>
+<area shape="rect" id="node188" href="$df/df9/class_beam.html#a859ef85440d3f1a3d9d2b16a0b48d8c1" title="Beam::InterPointCD" alt="" coords="1648,2087,1785,2113"/>
+<area shape="rect" id="node211" href="$d6/d55/_dynamic_collisions_8cpp.html#a2e06e402bcfbf043fcf34f1105bcd5a4" title="interTruckCollisions" alt="" coords="1649,2597,1784,2624"/>
+<area shape="rect" id="node214" href="$df/df9/class_beam.html#ad35805fc1cdd1fc9da3771f4075373ad" title="Beam::postUpdatePhysics" alt="" coords="1628,2340,1805,2367"/>
+<area shape="rect" id="node170" href="$df/d52/_approx_math_8h.html#aa827078e74a2a2b87a97a834d2359e88" title="approx_pow" alt="" coords="2755,2748,2846,2775"/>
+<area shape="rect" id="node171" href="$d7/d8b/class_axle.html#a555d076e3aa3bfe70f91d6d625d51de3" title="more power goes to the faster spining wheel " alt="" coords="2485,2853,2614,2880"/>
+<area shape="rect" id="node172" href="$d7/d8b/class_axle.html#a3053f4ee933712559c5306f6077b2d1b" title="ensures both wheels rotate at the the same speed " alt="" coords="2479,2904,2619,2931"/>
+<area shape="rect" id="node175" href="$d5/d9b/class_point_col_detector.html#af23f5739f1ba2b1015389948358e3282" title="PointColDetector::update\l_structures_for_contacters" alt="" coords="1935,2379,2111,2421"/>
+<area shape="rect" id="node177" href="$d5/d9b/class_point_col_detector.html#a04bcd0ac2d9c492f94f446766fb2a749" title="PointColDetector::query" alt="" coords="1943,2648,2103,2675"/>
+<area shape="rect" id="node181" href="$d6/d55/_dynamic_collisions_8cpp.html#a33342fa9139afaa4ffbe69d08e3e66b1" title="Test if a point given in triangle local coordinates lies within the triangle itself. " alt="" coords="1960,2496,2087,2523"/>
+<area shape="rect" id="node182" href="$d2/d28/class_triangle.html#af90d9120d46267768edfd4ef5133e1fe" title="Triangle::normal" alt="" coords="1966,2547,2081,2573"/>
+<area shape="rect" id="node183" href="$d6/d55/_dynamic_collisions_8cpp.html#a4bdbf1c122bd5a10b8768a44aaf2b698" title="Calculate collision forces and apply them to the collision node and the three vertex nodes of the col..." alt="" coords="1945,2597,2101,2624"/>
+<area shape="rect" id="node178" href="$d5/d9b/class_point_col_detector.html#a527315532789859ce268f76a1002be69" title="PointColDetector::queryrec" alt="" coords="2209,2672,2388,2699"/>
+<area shape="rect" id="node179" href="$d5/d9b/class_point_col_detector.html#afd90680dea847b2ed9fca4f246302389" title="PointColDetector::build\l_kdtree_incr" alt="" coords="2472,2686,2627,2727"/>
+<area shape="rect" id="node180" href="$d5/d9b/class_point_col_detector.html#a4aead4359a31a59472d6eb55109fa578" title="PointColDetector::partintwo" alt="" coords="2711,2693,2891,2720"/>
+<area shape="rect" id="node184" href="$d2/d8c/_collisions_8cpp.html#a9933836f15db1958d035f7d773aefd06" title="primitiveCollision" alt="" coords="2490,2163,2609,2189"/>
+<area shape="rect" id="node185" href="$df/d52/_approx_math_8h.html#a9f32a288dbece202a4eaa1808aad5506" title="approx_exp" alt="" coords="2756,2163,2845,2189"/>
+<area shape="rect" id="node189" href="$df/df9/class_beam.html#af9144e50803e6902e181048bcc791255" title="Beam::UpdatePropAnimations" alt="" coords="1925,1808,2122,1835"/>
+<area shape="rect" id="node190" href="$df/df9/class_beam.html#a6b9fabd652d761c4f6e7f7f068d5b484" title="Beam::calcAnimators" alt="" coords="2225,1757,2372,1784"/>
+<area shape="rect" id="node191" href="$df/df9/class_beam.html#a1b0628bb93f2628ff06db24a38d01684" title="Beam::calcBeams" alt="" coords="2234,2264,2363,2291"/>
+<area shape="rect" id="node195" href="$df/df9/class_beam.html#a9a8156e332b8b365a6e8a71073716bdf" title="Beam::calcBeamsInterTruck" alt="" coords="2205,2315,2392,2341"/>
+<area shape="rect" id="node196" href="$df/df9/class_beam.html#af88caf907f8ac18ea02b135d9ea5cce5" title="Beam::calcNodes" alt="" coords="1961,2163,2086,2189"/>
+<area shape="rect" id="node205" href="$df/df9/class_beam.html#a3b31e471f0bffa4478e8636527bea795" title="Beam::calcHooks" alt="" coords="1961,1859,2086,1885"/>
+<area shape="rect" id="node206" href="$df/df9/class_beam.html#aa7ed0edd3888db29d7d9cfc94f76e42a" title="Beam::calcRopes" alt="" coords="1961,1909,2086,1936"/>
+<area shape="rect" id="node207" href="$df/df9/class_beam.html#a88ed85732bc2dd453b0c9182be5b8764" title="Beam::calcShocks2" alt="" coords="2229,1859,2368,1885"/>
+<area shape="rect" id="node208" href="$df/df9/class_beam.html#a305ac27eb231b889a058575508f3d626" title="Beam::SyncReset" alt="" coords="1959,1960,2087,1987"/>
+<area shape="rect" id="node210" href="$df/df9/class_beam.html#aa1cdafe559d0896d0c27ae28186b9e29" title="Beam::SetPropsCastShadows" alt="" coords="1924,2011,2123,2037"/>
+<area shape="rect" id="node192" href="$d0/d6f/_beam_forces_euler_8cpp.html#a72ff5f9fc507dfa2c55b4bd855f81355" title="LogBeamNodes" alt="" coords="2492,2213,2607,2240"/>
+<area shape="rect" id="node194" href="$d0/d28/class_ro_r_1_1_str.html#a567896d6b0fefa710464861102a6f8f8" title="RoR::Str::ToCStr" alt="" coords="2489,2315,2609,2341"/>
+<area shape="rect" id="node193" href="$d0/d6f/_beam_forces_euler_8cpp.html#a05bb9ca1c4dd270791216f653fb1bae1" title="LogNodeId" alt="" coords="2759,2213,2842,2240"/>
+<area shape="rect" id="node197" href="$d3/d16/class_terrain_manager.html#a02de3af7287847607182da563f4bbf2f" title="TerrainManager::getGravity" alt="" coords="2210,2163,2387,2189"/>
+<area shape="rect" id="node198" href="$d9/d39/class_collisions.html#af1028e2b9de09140265d02b66654f78f" title="Collisions::groundCollision" alt="" coords="2211,2011,2386,2037"/>
+<area shape="rect" id="node201" href="$d9/d39/class_collisions.html#aa2c8d77c6ff7001821d497c689c28e6b" title="Collisions::nodeCollision" alt="" coords="2217,1808,2380,1835"/>
+<area shape="rect" id="node202" href="$df/d52/_approx_math_8h.html#a490412854eb41c73cdb44120e33cb2f4" title="approx_sqrt" alt="" coords="2253,1960,2344,1987"/>
+<area shape="rect" id="node203" href="$df/d52/_approx_math_8h.html#a935ee6fdb8b4bb87c69a20ca0cc6601f" title="frand_11" alt="" coords="2263,2061,2334,2088"/>
+<area shape="rect" id="node204" href="$d1/dd9/class_i_water.html#a0d07fdfe2dadf9e7e7ebc9266c0bd4a0" title="IWater::isUnderWater" alt="" coords="2225,2112,2372,2139"/>
+<area shape="rect" id="node199" href="$da/dea/class_landusemap.html#ae1674c54ecba0ba42db48a919eda4ba1" title="Landusemap::getGroundModelAt" alt="" coords="2695,1453,2907,1480"/>
+<area shape="rect" id="node200" href="$d9/d44/class_i_height_finder.html#a1e72a8b431fcce239ab01e7d77235aab" title="IHeightFinder::getNormalAt" alt="" coords="2460,2011,2639,2037"/>
+<area shape="rect" id="node209" href="$d8/d18/namespace_profiler.html#a1f2fdbd66925222007a1461ecd4d01f9" title="Profiler::reset" alt="" coords="2249,1707,2348,1733"/>
+<area shape="rect" id="node212" href="$d6/d55/_dynamic_collisions_8cpp.html#aaa23b567ab36b402e731e200b43f1fff" title="Determine on which side of a triangle an occuring collision takes place. " alt="" coords="1948,2749,2099,2776"/>
+<area shape="rect" id="node213" href="$df/d52/_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="2275,2749,2322,2776"/>
+</map>

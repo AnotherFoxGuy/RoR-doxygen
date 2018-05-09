@@ -1,0 +1,7 @@
+<map id="SkyX::VClouds::VClouds::setSunDirection" name="SkyX::VClouds::VClouds::setSunDirection">
+<area shape="rect" id="node2" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#ae18e2c8203f4ce46607677c6171e12c2" title="SkyX::VCloudsManager\l::_setLightParameters" alt="" coords="220,71,379,112"/>
+<area shape="rect" id="node3" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6931df17a25e8691796aa4d9c68467cb" title="SkyX::VCloudsManager\l::create" alt="" coords="427,5,585,47"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a7c25472c85244e6889b371384b5aff70" title="SkyX::VCloudsManager\l::update" alt="" coords="427,71,585,112"/>
+<area shape="rect" id="node6" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#afd62d929ffeb8de654a30af55ddf490c" title="SkyX::VCloudsManager\l::isCreated" alt="" coords="427,136,585,177"/>
+<area shape="rect" id="node4" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="633,71,784,112"/>
+</map>

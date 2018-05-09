@@ -1,0 +1,9 @@
+<map id="RoR::GUIManager::SetupImGui" name="RoR::GUIManager::SetupImGui">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a3179e560812f878f3961ce803a5d9302" title="ImGui::GetIO" alt="" coords="707,5,806,32"/>
+<area shape="rect" id="node3" href="$d5/d56/class_ogre_im_gui.html#abd3a0ed753e5987d88b249f3ff8ff7a3" title="OgreImGui::Init" alt="" coords="259,35,368,61"/>
+<area shape="rect" id="node8" href="$df/d13/namespace_im_gui.html#abafef4bb3e3654efd96a47b2e22870a7" title="ImGui::GetStyle" alt="" coords="256,85,371,112"/>
+<area shape="rect" id="node4" href="$d5/d56/class_ogre_im_gui.html#a9b4b9c3befcbb6525fada527427426fb" title="OgreImGui::createFontTexture" alt="" coords="419,60,616,87"/>
+<area shape="rect" id="node7" href="$d5/d56/class_ogre_im_gui.html#a134e7a4974763bf927768729d902f5b2" title="OgreImGui::createMaterial" alt="" coords="430,111,605,137"/>
+<area shape="rect" id="node5" href="$d5/d9e/struct_im_font_atlas.html#a8abb0c4e67ebb38249d4df71218c4eec" title="ImFontAtlas::GetTexDataAs\lRGBA32" alt="" coords="664,57,849,98"/>
+<area shape="rect" id="node6" href="$df/d13/namespace_im_gui.html#a15efb2cac4a54b35489c5984ba1b661a" title="ImGui::MemAlloc" alt="" coords="897,64,1020,91"/>
+</map>

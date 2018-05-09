@@ -1,0 +1,13 @@
+<map id="Beam::resetPosition" name="Beam::resetPosition">
+<area shape="rect" id="node2" href="$dd/dbe/class_ro_r_frame_listener.html#abc123f9d1e56e13a72e5f80fdaa5a17e" title="RoRFrameListener::Finalize\lTruckSpawning" alt="" coords="459,5,641,47"/>
+<area shape="rect" id="node5" href="$d0/d9f/class_ro_r_1_1_console.html#a39381023fb19b10edfad9592ce2e1554" title="RoR::Console::eventCommand\lAccept" alt="" coords="193,64,392,105"/>
+<area shape="rect" id="node7" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="231,130,355,157"/>
+<area shape="rect" id="node9" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="485,181,615,207"/>
+<area shape="rect" id="node10" href="$df/df9/class_beam.html#aa2f4785d060499243482e165b6bcdd5f" title="Beam::Beam" alt="" coords="243,231,342,258"/>
+<area shape="rect" id="node11" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a508cb7a834236ed7786f780bbe6f84f6" title="RoR::BeamFactory::repair\lTruck" alt="" coords="206,283,379,324"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="708,199,887,240"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="935,235,1147,262"/>
+<area shape="rect" id="node6" href="$d0/d9f/class_ro_r_1_1_console.html#aba16cfd9f0894eb1312b1bc1155b6646" title="RoR::Console::Console" alt="" coords="471,71,629,98"/>
+<area shape="rect" id="node8" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="501,130,599,157"/>
+<area shape="rect" id="node12" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5703b053d2b40e3dae66a063ded34578" title="RoR::BeamFactory::getSimulation\lSpeed" alt="" coords="440,257,660,299"/>
+</map>

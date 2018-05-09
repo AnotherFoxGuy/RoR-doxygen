@@ -1,0 +1,23 @@
+<map id="SkyX::MeshManager" name="SkyX::MeshManager">
+<area shape="rect" id="node2" href="$de/db3/class_sky_x_1_1_sky_x.html" title="SkyX::SkyX" alt="" coords="737,817,827,844"/>
+<area shape="rect" id="node5" href="$dd/d89/class_sky_x_1_1_clouds_manager.html" title="SkyX::CloudsManager" alt="" coords="1113,749,1263,776"/>
+<area shape="rect" id="node6" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html" title="SkyX::GPUManager" alt="" coords="1119,931,1257,957"/>
+<area shape="rect" id="node7" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html" title="SkyX::AtmosphereManager" alt="" coords="1098,485,1278,512"/>
+<area shape="rect" id="node9" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html" title="SkyX::VCloudsManager" alt="" coords="1109,613,1267,640"/>
+<area shape="rect" id="node21" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html" title="SkyX::CfgFileManager" alt="" coords="1113,1044,1263,1071"/>
+<area shape="rect" id="node23" href="$dd/dab/class_sky_x_1_1_moon_manager.html" title="SkyX::MoonManager" alt="" coords="1117,840,1259,867"/>
+<area shape="rect" id="node8" href="$df/d7c/struct_sky_x_1_1_atmosphere_manager_1_1_options.html" title="SkyX::AtmosphereManager\l::Options" alt="" coords="692,433,872,474"/>
+<area shape="rect" id="node10" href="$db/d2c/class_sky_x_1_1_color_gradient.html" title="SkyX::ColorGradient" alt="" coords="713,591,851,617"/>
+<area shape="rect" id="node11" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html" title="SkyX::VClouds::VClouds" alt="" coords="699,133,865,160"/>
+<area shape="rect" id="node12" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html" title="SkyX::VClouds::DataManager" alt="" coords="1091,269,1285,296"/>
+<area shape="rect" id="node17" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html" title="SkyX::VClouds::Lightning\lManager" alt="" coords="1103,13,1273,54"/>
+<area shape="rect" id="node18" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html" title="SkyX::VClouds::GeometryManager" alt="" coords="1076,111,1300,137"/>
+<area shape="rect" id="node13" href="$d9/dcd/class_sky_x_1_1_v_clouds_1_1_fast_fake_random.html" title="SkyX::VClouds::FastFakeRandom" alt="" coords="672,315,892,341"/>
+<area shape="rect" id="node14" href="$dc/d27/struct_sky_x_1_1_v_clouds_1_1_data_manager_1_1_cell.html" title="SkyX::VClouds::DataManager\l::Cell" alt="" coords="685,367,879,409"/>
+<area shape="rect" id="node15" href="$d0/df2/struct_sky_x_1_1_v_clouds_1_1_v_clouds_1_1_render_queue_groups.html" title="SkyX::VClouds::VClouds\l::RenderQueueGroups" alt="" coords="294,159,461,201"/>
+<area shape="rect" id="node16" href="$da/d3c/struct_sky_x_1_1_v_clouds_1_1_v_clouds_1_1_geometry_settings.html" title="SkyX::VClouds::VClouds\l::GeometrySettings" alt="" coords="294,94,461,135"/>
+<area shape="rect" id="node19" href="$d1/da5/struct_sky_x_1_1_sky_x_1_1_render_queue_groups.html" title="SkyX::SkyX::RenderQueueGroups" alt="" coords="268,909,487,936"/>
+<area shape="rect" id="node20" href="$d8/d1d/class_sky_x_1_1_controller.html" title="SkyX::Controller" alt="" coords="320,1053,435,1080"/>
+<area shape="rect" id="node22" href="$d3/d8e/class_sky_x_1_1_basic_controller.html" title="SkyX::BasicController" alt="" coords="708,1081,856,1108"/>
+<area shape="rect" id="node24" href="$dc/d51/struct_sky_x_1_1_mesh_manager_1_1_v_e_r_t_e_x.html" title="SkyX::MeshManager::\lVERTEX" alt="" coords="5,739,156,781"/>
+</map>

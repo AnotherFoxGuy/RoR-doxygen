@@ -1,0 +1,10 @@
+<map id="RoR::OgreSubsystem::StartOgre" name="RoR::OgreSubsystem::StartOgre">
+<area shape="rect" id="node2" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#aec1ce242a94215d9500cf4d73776596c" title="RoR::OgreSubsystem\l::LoadOgrePlugins" alt="" coords="203,7,352,49"/>
+<area shape="rect" id="node5" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#adac15fe2de5856cb1a1befa681eec2e6" title="RoR::OgreSubsystem\l::Configure" alt="" coords="203,90,352,131"/>
+<area shape="rect" id="node3" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="449,5,498,32"/>
+<area shape="rect" id="node4" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="639,5,715,32"/>
+<area shape="rect" id="node6" href="$d6/dad/_utils_8cpp.html#a6219796a02effcab384e7c356aa6bc3d" title="fixRenderWindowIcon" alt="" coords="400,56,547,83"/>
+<area shape="rect" id="node7" href="$d9/de9/struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="401,107,545,133"/>
+<area shape="rect" id="node9" href="$d8/d18/namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="428,157,519,184"/>
+<area shape="rect" id="node8" href="$d9/de9/struct_error_utils.html#a3250a36825c8b55b26d1565addb7e922" title="ErrorUtils::ShowMsgBox" alt="" coords="595,107,759,133"/>
+</map>

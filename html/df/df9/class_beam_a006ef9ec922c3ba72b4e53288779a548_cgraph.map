@@ -1,0 +1,8 @@
+<map id="Beam::updateVisual" name="Beam::updateVisual">
+<area shape="rect" id="node2" href="$df/d52/_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="226,5,333,32"/>
+<area shape="rect" id="node4" href="$d3/d16/class_terrain_manager.html#a55891b7908baf6be96220a227596028c" title="TerrainManager::getObject\lManager" alt="" coords="192,57,367,98"/>
+<area shape="rect" id="node5" href="$d6/d14/class_terrain_object_manager.html#a91b54e4a7a63ccb4c720e9dfe6fa0ec3" title="TerrainObjectManager\l::GetLocalizers" alt="" coords="205,122,354,163"/>
+<area shape="rect" id="node3" href="$df/d52/_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="445,5,534,32"/>
+<area shape="rect" id="node6" href="$d6/d14/class_terrain_object_manager.html#abf4f588e7e78f18ff4486aefb6679fb6" title="TerrainObjectManager\l::update" alt="" coords="415,122,564,163"/>
+<area shape="rect" id="node7" href="$d6/d14/class_terrain_object_manager.html#ad6bc30a80d54c348bd7f7d1f8d905b50" title="TerrainObjectManager\l::updateAnimatedObjects" alt="" coords="612,122,781,163"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="source/main/physics/BeamFactory.h" name="source/main/physics/BeamFactory.h">
+<area shape="rect" id="node2" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="915,393,1049,420"/>
+<area shape="rect" id="node20" href="$db/df2/_beam_8h.html" title="Beam.h" alt="" coords="1246,95,1313,121"/>
+<area shape="rect" id="node44" href="$d1/d9d/_dust_manager_8h.html" title="DustManager.h" alt="" coords="841,95,952,121"/>
+<area shape="rect" id="node45" href="$de/dec/_singleton_8h.html" title="Singleton.h" alt="" coords="105,169,192,196"/>
+<area shape="rect" id="node46" href="$db/d9e/_network_8h.html" title="Network.h" alt="" coords="1686,95,1766,121"/>
+<area shape="rect" id="node14" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="2019,543,2169,569"/>
+<area shape="rect" id="node15" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1743,468,1885,495"/>
+<area shape="rect" id="node16" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="746,468,917,495"/>
+<area shape="rect" id="node17" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="167,468,248,495"/>
+<area shape="rect" id="node21" href="$dd/d50/_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="764,169,859,196"/>
+<area shape="rect" id="node37" href="$d5/d00/_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="2547,393,2631,420"/>
+<area shape="rect" id="node40" href="$d5/d7a/_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="934,169,1121,196"/>
+<area shape="rect" id="node41" href="$d5/d1c/_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="1145,169,1299,196"/>
+<area shape="rect" id="node22" href="$dc/d74/_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="777,244,853,271"/>
+<area shape="rect" id="node24" href="$de/dec/_slide_node_8h.html" title="SlideNode.h" alt="" coords="937,244,1029,271"/>
+<area shape="rect" id="node26" href="$d9/d1e/_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="463,244,589,271"/>
+<area shape="rect" id="node27" href="$de/d00/node__t_8h.html" title="datatypes/node_t.h" alt="" coords="467,319,601,345"/>
+<area shape="rect" id="node28" href="$d4/d78/shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="613,244,753,271"/>
+<area shape="rect" id="node29" href="$da/d84/beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="143,319,280,345"/>
+<area shape="rect" id="node30" href="$d0/d7b/wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="305,319,443,345"/>
+<area shape="rect" id="node31" href="$d7/ddc/rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="1125,319,1244,345"/>
+<area shape="rect" id="node25" href="$df/d52/_approx_math_8h.html" title="ApproxMath.h" alt="" coords="947,319,1049,345"/>
+<area shape="rect" id="node32" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="2260,393,2357,420"/>
+</map>

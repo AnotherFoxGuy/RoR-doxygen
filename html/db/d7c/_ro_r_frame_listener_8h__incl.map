@@ -1,0 +1,31 @@
+<map id="source/main/gameplay/RoRFrameListener.h" name="source/main/gameplay/RoRFrameListener.h">
+<area shape="rect" id="node2" href="$da/d19/_beam_factory_8h.html" title="BeamFactory.h" alt="" coords="1684,95,1794,121"/>
+<area shape="rect" id="node3" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1541,468,1676,495"/>
+<area shape="rect" id="node48" href="$d8/d70/_character_factory_8h.html" title="CharacterFactory.h" alt="" coords="1926,169,2059,196"/>
+<area shape="rect" id="node53" href="$d0/d65/_environment_map_8h.html" title="EnvironmentMap.h" alt="" coords="29,468,158,495"/>
+<area shape="rect" id="node54" href="$de/d05/_force_feedback_8h.html" title="ForceFeedback.h" alt="" coords="2338,95,2460,121"/>
+<area shape="rect" id="node21" href="$db/df2/_beam_8h.html" title="Beam.h" alt="" coords="740,169,807,196"/>
+<area shape="rect" id="node45" href="$d1/d9d/_dust_manager_8h.html" title="DustManager.h" alt="" coords="1637,169,1748,196"/>
+<area shape="rect" id="node46" href="$de/dec/_singleton_8h.html" title="Singleton.h" alt="" coords="1688,244,1774,271"/>
+<area shape="rect" id="node47" href="$db/d9e/_network_8h.html" title="Network.h" alt="" coords="1892,244,1972,271"/>
+<area shape="rect" id="node15" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="648,617,798,644"/>
+<area shape="rect" id="node16" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1307,543,1448,569"/>
+<area shape="rect" id="node17" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1523,543,1694,569"/>
+<area shape="rect" id="node18" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2945,543,3026,569"/>
+<area shape="rect" id="node22" href="$dd/d50/_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="950,244,1045,271"/>
+<area shape="rect" id="node38" href="$d5/d00/_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="457,468,541,495"/>
+<area shape="rect" id="node41" href="$d5/d7a/_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="680,244,867,271"/>
+<area shape="rect" id="node42" href="$d5/d1c/_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="182,244,336,271"/>
+<area shape="rect" id="node23" href="$dc/d74/_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="1688,319,1764,345"/>
+<area shape="rect" id="node25" href="$de/dec/_slide_node_8h.html" title="SlideNode.h" alt="" coords="1282,319,1374,345"/>
+<area shape="rect" id="node27" href="$d9/d1e/_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="708,319,834,345"/>
+<area shape="rect" id="node28" href="$de/d00/node__t_8h.html" title="datatypes/node_t.h" alt="" coords="987,393,1120,420"/>
+<area shape="rect" id="node29" href="$d4/d78/shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="1036,319,1176,345"/>
+<area shape="rect" id="node30" href="$da/d84/beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="1145,393,1282,420"/>
+<area shape="rect" id="node31" href="$d0/d7b/wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="824,393,963,420"/>
+<area shape="rect" id="node32" href="$d7/ddc/rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="681,393,800,420"/>
+<area shape="rect" id="node26" href="$df/d52/_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1306,393,1409,420"/>
+<area shape="rect" id="node33" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="674,468,772,495"/>
+<area shape="rect" id="node49" href="$d9/de5/_character_8h.html" title="Character.h" alt="" coords="2048,244,2137,271"/>
+<area shape="rect" id="node50" href="$d6/d84/_movable_text_8h.html" title="MovableText.h" alt="" coords="2049,319,2154,345"/>
+</map>

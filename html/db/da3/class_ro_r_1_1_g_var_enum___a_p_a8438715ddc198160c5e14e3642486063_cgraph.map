@@ -1,0 +1,6 @@
+<map id="RoR::GVarEnum_AP::ApplyPending" name="RoR::GVarEnum_AP::ApplyPending">
+<area shape="rect" id="node2" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#ae1e0c1530163447b0d6f9e5aa8390042" title="RoR::GVarBase::LogApplyPending" alt="" coords="285,5,509,32"/>
+<area shape="rect" id="node5" href="$dd/dd2/namespace_ro_r.html#a2154b9c92c1d98fadcacbd593e633048" title="RoR::EnumToStr" alt="" coords="337,56,457,83"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#a6523130e147fb219ca2b3a07479e0392" title="Improved logging utility. Uses fixed 2Kb buffer. " alt="" coords="557,5,675,32"/>
+<area shape="rect" id="node4" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="723,5,799,32"/>
+</map>

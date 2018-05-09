@@ -1,0 +1,10 @@
+<map id="RoR::GUIManager::SetVisible_MpClientList" name="RoR::GUIManager::SetVisible_MpClientList">
+<area shape="rect" id="node2" href="$dd/dbe/class_ro_r_frame_listener.html#a519eb1268f9cc62d177d723bdb8190e1" title="RoRFrameListener::HideGUI" alt="" coords="264,17,451,43"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="902,73,953,99"/>
+<area shape="rect" id="node7" href="$d4/d14/class_ro_r_1_1_main_menu.html#ab571dc971207c47c7bf6a0782c5d5eea" title="RoR::MainMenu::LeaveMultiplayer\lServer" alt="" coords="248,123,467,164"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="555,5,733,47"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="821,13,1033,39"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1081,73,1155,99"/>
+<area shape="rect" id="node8" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="515,126,773,153"/>
+<area shape="rect" id="node9" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="835,126,1019,153"/>
+</map>

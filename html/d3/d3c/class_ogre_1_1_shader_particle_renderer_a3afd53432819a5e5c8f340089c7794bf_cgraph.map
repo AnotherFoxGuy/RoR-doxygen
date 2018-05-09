@@ -1,0 +1,4 @@
+<map id="Ogre::ShaderParticleRenderer::_updateRenderQueue" name="Ogre::ShaderParticleRenderer::_updateRenderQueue">
+<area shape="rect" id="node2" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#adbea948d1574d55d80be8367b1fbda72" title="allocate hardware buffers and prepare them for filling particles " alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node3" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#aa437373623a7215717748ec4fe489c42" title="add particle to vertex buffer " alt="" coords="248,71,443,112"/>
+</map>

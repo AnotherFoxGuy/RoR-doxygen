@@ -1,0 +1,7 @@
+<map id="Hydrax::MaterialManager::setCompositorEnable" name="Hydrax::MaterialManager::setCompositorEnable">
+<area shape="rect" id="node2" href="$da/d12/class_hydrax_1_1_material_manager.html#a160d27bd9ff0fac665ce5ce7c4e013e9" title="Hydrax::MaterialManager\l::removeCompositor" alt="" coords="220,39,387,80"/>
+<area shape="rect" id="node6" href="$da/d12/class_hydrax_1_1_material_manager.html#a1838db86dd5917ca78111bbd5236823f" title="Hydrax::MaterialManager\l::isCompositorEnable" alt="" coords="220,104,387,145"/>
+<area shape="rect" id="node3" href="$da/d12/class_hydrax_1_1_material_manager.html#a93baa6272c91d1be5ec9bef054a9bb0d" title="Hydrax::MaterialManager\l::removeMaterials" alt="" coords="435,39,601,80"/>
+<area shape="rect" id="node4" href="$da/d12/class_hydrax_1_1_material_manager.html#a071d2479a52e9d36ff25bbab8c09e728" title="Hydrax::MaterialManager\l::~MaterialManager" alt="" coords="649,5,816,47"/>
+<area shape="rect" id="node5" href="$da/d12/class_hydrax_1_1_material_manager.html#a6aa7b0a92b824348577d506f7bcf581b" title="Hydrax::MaterialManager\l::createMaterials" alt="" coords="649,71,816,112"/>
+</map>

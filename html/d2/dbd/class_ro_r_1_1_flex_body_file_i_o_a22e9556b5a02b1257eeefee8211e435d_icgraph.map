@@ -1,0 +1,10 @@
+<map id="RoR::FlexBodyFileIO::ReadFromFile" name="RoR::FlexBodyFileIO::ReadFromFile">
+<area shape="rect" id="node2" href="$d2/dbd/class_ro_r_1_1_flex_body_file_i_o.html#ad7596537ce96708d989b0ca0d26cd717" title="RoR::FlexBodyFileIO\l::ReadAndCheckSignature" alt="" coords="210,5,385,47"/>
+<area shape="rect" id="node4" href="$d2/dbd/class_ro_r_1_1_flex_body_file_i_o.html#aa99439ff3beb0e8d11ff91b6d0fb2d04" title="RoR::FlexBodyFileIO\l::ReadMetadata" alt="" coords="225,71,369,112"/>
+<area shape="rect" id="node5" href="$d2/dbd/class_ro_r_1_1_flex_body_file_i_o.html#a62dcc5c05db5f72fb2c20b86224768d3" title="RoR::FlexBodyFileIO\l::ReadFlexbodyHeader" alt="" coords="220,136,375,177"/>
+<area shape="rect" id="node6" href="$d2/dbd/class_ro_r_1_1_flex_body_file_i_o.html#a8873314513c65589a2cdb494a8c6d4c2" title="RoR::FlexBodyFileIO\l::ReadFlexbodyLocatorList" alt="" coords="209,201,386,243"/>
+<area shape="rect" id="node7" href="$d2/dbd/class_ro_r_1_1_flex_body_file_i_o.html#a5bc76a9247fd45cddff0531ea6785ffb" title="RoR::FlexBodyFileIO\l::ReadFlexbodyNormalsBuffer" alt="" coords="200,267,395,308"/>
+<area shape="rect" id="node8" href="$d2/dbd/class_ro_r_1_1_flex_body_file_i_o.html#a091647217070067ab169435c8cdc93ae" title="RoR::FlexBodyFileIO\l::ReadFlexbodyPositionsBuffer" alt="" coords="197,332,397,373"/>
+<area shape="rect" id="node9" href="$d2/dbd/class_ro_r_1_1_flex_body_file_i_o.html#a033e763b2abf97b328c5ab6541b62895" title="RoR::FlexBodyFileIO\l::ReadFlexbodyColorsBuffer" alt="" coords="206,397,389,439"/>
+<area shape="rect" id="node3" href="$d2/dbd/class_ro_r_1_1_flex_body_file_i_o.html#a15b2a2c4b29760c79423048ddad75d15" title="RoR::FlexBodyFileIO\l::LoadFile" alt="" coords="445,201,589,243"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RigSpawner::ProcessTrigger" name="RigSpawner::ProcessTrigger">
+<area shape="rect" id="node2" href="$df/db2/struct_rig_def_1_1_trigger.html#a9289882a3ad6be2221eb10a9a5f7e638" title="RigDef::Trigger::IsTrigger\lBlockerAnyType" alt="" coords="255,5,419,47"/>
+<area shape="rect" id="node3" href="$df/db2/struct_rig_def_1_1_trigger.html#a781493c1eee518042e4503faa8f8697b" title="RigDef::Trigger::IsHookToggle\lTrigger" alt="" coords="240,71,433,112"/>
+<area shape="rect" id="node4" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="312,137,361,163"/>
+<area shape="rect" id="node5" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="481,137,557,163"/>
+</map>

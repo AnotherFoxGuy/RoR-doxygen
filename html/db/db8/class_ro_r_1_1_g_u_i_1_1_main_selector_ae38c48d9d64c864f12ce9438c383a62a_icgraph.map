@@ -1,0 +1,5 @@
+<map id="RoR::GUI::MainSelector::ResizePreviewImage" name="RoR::GUI::MainSelector::ResizePreviewImage">
+<area shape="rect" id="node2" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a13e9e8d4d6c8b325ba9976ba17dc9fa1" title="RoR::GUI::MainSelector\l::GetVehicleConfigs" alt="" coords="215,5,376,47"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="424,5,603,47"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="651,13,863,39"/>
+</map>

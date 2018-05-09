@@ -1,0 +1,20 @@
+<map id="SkyX::VClouds::LightningManager::addLightning" name="SkyX::VClouds::LightningManager::addLightning">
+<area shape="rect" id="node2" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#aee8b0ecfb2bdd63cb589833f1894cc7d" title="SkyX::VClouds::VClouds\l::getSceneManager" alt="" coords="251,5,418,47"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ae1472e69d998264d45c477e97fbd8910" title="SkyX::VClouds::VClouds\l::getGeometrySettings" alt="" coords="251,71,418,112"/>
+<area shape="rect" id="node4" href="$dc/d8e/class_sky_x_1_1_v_clouds_1_1_lightning.html#a1bafb77e99b038207684667468594e5b" title="SkyX::VClouds::Lightning\l::create" alt="" coords="250,160,419,201"/>
+<area shape="rect" id="node6" href="$dc/d8e/class_sky_x_1_1_v_clouds_1_1_lightning.html#a472015b38878d6d8f08ee0d5b57fa7c8" title="SkyX::VClouds::Lightning\l::_updateRenderQueueGroup" alt="" coords="239,225,430,267"/>
+<area shape="rect" id="node7" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a2eb8770370ced63145348fc25c42f5cf" title="SkyX::VClouds::VClouds\l::getGeometryManager" alt="" coords="251,291,418,332"/>
+<area shape="rect" id="node8" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a5370543c6b2632ad3070a6e31f25e0da" title="SkyX::VClouds::GeometryManager\l::_getCurrentDistance" alt="" coords="223,356,447,397"/>
+<area shape="rect" id="node14" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a2a3b4d7c5a532d985d4633d3840c7cca" title="SkyX::VClouds::GeometryManager\l::getHeight" alt="" coords="223,421,447,463"/>
+<area shape="rect" id="node17" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ae1cddb2cf60de38412849532efa22da9" title="SkyX::VClouds::VClouds\l::getRenderQueueGroups" alt="" coords="250,487,419,528"/>
+<area shape="rect" id="node18" href="$dc/d8e/class_sky_x_1_1_v_clouds_1_1_lightning.html#a5751aac35d54296963e663816b9283ca" title="SkyX::VClouds::Lightning\l::getBillboardSet" alt="" coords="250,552,419,593"/>
+<area shape="rect" id="node19" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a98f5a1fbb5acc02a8e4efbbe2d1d417f" title="SkyX::VClouds::VClouds\l::isVisible" alt="" coords="251,617,418,659"/>
+<area shape="rect" id="node5" href="$dc/d8e/class_sky_x_1_1_v_clouds_1_1_lightning.html#af36b98d206277c40e463315fcb82182b" title="SkyX::VClouds::Lightning\l::Lightning" alt="" coords="522,160,691,201"/>
+<area shape="rect" id="node9" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#ae3f173af9fbb49e0742f696bc1b5f94b" title="SkyX::VClouds::GeometryManager\l::_createGeometry" alt="" coords="495,291,719,332"/>
+<area shape="rect" id="node10" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a940aa0556854175161ad8c4a4dd47183" title="SkyX::VClouds::GeometryManager\l::_updateGeometry" alt="" coords="495,356,719,397"/>
+<area shape="rect" id="node11" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ab37400c79e0baa606b7b73ef4c73702a" title="SkyX::VClouds::VClouds\l::_getCamerasData" alt="" coords="767,291,933,332"/>
+<area shape="rect" id="node12" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a64178d2540f4062656851270870b94d3" title="SkyX::VClouds::VClouds\l::getWindDirectionV2" alt="" coords="767,356,933,397"/>
+<area shape="rect" id="node13" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#aa90ceeb56d26b526aed353187195a483" title="SkyX::VClouds::VClouds\l::getWindSpeed" alt="" coords="767,421,933,463"/>
+<area shape="rect" id="node15" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a7b449e8730a64aedefd735a1fa07f862" title="SkyX::VClouds::GeometryManager\l::_setMaterialName" alt="" coords="495,421,719,463"/>
+<area shape="rect" id="node16" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#aae6a88597f3c7a1a17429b6b72cd9c3f" title="SkyX::VClouds::GeometryManager\l::_updateRenderQueueGroup" alt="" coords="495,487,719,528"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="IHeightFinder::getNormalAt" name="IHeightFinder::getNormalAt">
+<area shape="rect" id="node2" href="$d9/d39/class_collisions.html#af1028e2b9de09140265d02b66654f78f" title="Collisions::groundCollision" alt="" coords="240,35,415,61"/>
+<area shape="rect" id="node10" href="$d9/d44/class_i_height_finder.html#aa0c49f1666cb231a24d92a6ee07ffc69" title="IHeightFinder::~IHeightFinder" alt="" coords="232,85,423,112"/>
+<area shape="rect" id="node3" href="$df/df9/class_beam.html#af88caf907f8ac18ea02b135d9ea5cce5" title="Beam::calcNodes" alt="" coords="471,35,596,61"/>
+<area shape="rect" id="node4" href="$df/df9/class_beam.html#a859ef85440d3f1a3d9d2b16a0b48d8c1" title="Beam::InterPointCD" alt="" coords="644,35,781,61"/>
+<area shape="rect" id="node5" href="$d5/d53/class_ro_r_1_1_beam_factory.html#ac25b17e65074996433c472da5028fed1" title="RoR::BeamFactory::Update\lPhysicsSimulation" alt="" coords="829,27,1012,69"/>
+<area shape="rect" id="node6" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="1328,5,1508,32"/>
+<area shape="rect" id="node8" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5703b053d2b40e3dae66a063ded34578" title="RoR::BeamFactory::getSimulation\lSpeed" alt="" coords="1060,57,1280,98"/>
+<area shape="rect" id="node7" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="1556,56,1768,83"/>
+<area shape="rect" id="node9" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="1329,107,1507,149"/>
+</map>

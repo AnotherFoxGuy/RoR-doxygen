@@ -1,0 +1,10 @@
+<map id="source/main/gui/OverlayWrapper.h" name="source/main/gui/OverlayWrapper.h">
+<area shape="rect" id="node2" href="$d0/d42/_application_8cpp.html" title="source/main/Application.cpp" alt="" coords="5,87,192,114"/>
+<area shape="rect" id="node3" href="$de/dbe/_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="217,80,375,121"/>
+<area shape="rect" id="node4" href="$d9/d66/_camera_behavior_vehicle_cine_cam_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleCineCam.cpp" alt="" coords="399,80,641,121"/>
+<area shape="rect" id="node5" href="$dc/d7e/_g_u_i_input_manager_8cpp.html" title="source/main/gui/GUIInput\lManager.cpp" alt="" coords="665,80,833,121"/>
+<area shape="rect" id="node6" href="$d3/dfd/_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="857,87,1092,114"/>
+<area shape="rect" id="node7" href="$db/db8/_g_u_i___game_console_8cpp.html" title="source/main/gui/panels\l/GUI_GameConsole.cpp" alt="" coords="1116,80,1279,121"/>
+<area shape="rect" id="node8" href="$df/d0a/main_8cpp.html" title="source/main/main.cpp" alt="" coords="1303,87,1454,114"/>
+<area shape="rect" id="node9" href="$dc/df0/_main_menu_8cpp.html" title="source/main/MainMenu.cpp" alt="" coords="1478,87,1661,114"/>
+</map>

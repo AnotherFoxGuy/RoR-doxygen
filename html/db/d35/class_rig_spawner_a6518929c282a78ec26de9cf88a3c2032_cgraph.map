@@ -1,0 +1,8 @@
+<map id="RigSpawner::ProcessNode" name="RigSpawner::ProcessNode">
+<area shape="rect" id="node2" href="$de/db5/class_rig_def_1_1_node_1_1_id.html#aa25736a01a4ca045abbd01c08c825e31" title="RigDef::Node::Id::Num" alt="" coords="231,56,381,83"/>
+<area shape="rect" id="node6" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="281,107,331,133"/>
+<area shape="rect" id="node3" href="$de/db5/class_rig_def_1_1_node_1_1_id.html#aa44f90fa58c88412b19a3500a8c8866c" title="RigDef::Node::Id::Invalidate" alt="" coords="429,5,607,32"/>
+<area shape="rect" id="node4" href="$de/db5/class_rig_def_1_1_node_1_1_id.html#ad1f6fc5f5438b596e3296582154341fc" title="RigDef::Node::Id::ToString" alt="" coords="432,56,604,83"/>
+<area shape="rect" id="node5" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a1d96ed1deceb63351be15c250a67ea08" title="RigDef::Node::Ref::Str" alt="" coords="655,56,805,83"/>
+<area shape="rect" id="node7" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="480,107,556,133"/>
+</map>

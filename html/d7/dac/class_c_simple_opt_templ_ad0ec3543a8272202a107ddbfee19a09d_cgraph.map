@@ -1,0 +1,13 @@
+<map id="CSimpleOptTempl::MultiArg" name="CSimpleOptTempl::MultiArg">
+<area shape="rect" id="node2" href="$d7/dac/class_c_simple_opt_templ.html#af2b5536c778b99478a2660ac29eeaeca" title="Query if a particular flag is set. " alt="" coords="236,162,419,188"/>
+<area shape="rect" id="node8" href="$d7/dac/class_c_simple_opt_templ.html#a0c5c2c54fed926f494165c8a4d9f90cd" title="CSimpleOptTempl::PrepareArg" alt="" coords="684,212,884,239"/>
+<area shape="rect" id="node3" href="$d7/dac/class_c_simple_opt_templ.html#ac0eef4bbcc3097ff36af89be3c0b820f" title="Advance to the next option if available. " alt="" coords="467,111,629,138"/>
+<area shape="rect" id="node12" href="$d7/dac/class_c_simple_opt_templ.html#ae76dab24d97804c34c2f91a63a8ab288" title="CSimpleOptTempl::Stop" alt="" coords="467,162,629,188"/>
+<area shape="rect" id="node4" href="$d7/dac/class_c_simple_opt_templ.html#aed9c4aad06a9a50e41fe91c0102044e3" title="CSimpleOptTempl::NextClumped" alt="" coords="677,60,891,87"/>
+<area shape="rect" id="node5" href="$d7/dac/class_c_simple_opt_templ.html#a9460ac3071a73d39be1f03a91cb445fc" title="CSimpleOptTempl::LookupOption" alt="" coords="939,16,1153,43"/>
+<area shape="rect" id="node9" href="$d7/dac/class_c_simple_opt_templ.html#abad746a8d35e3fe673407ff266ff7b3c" title="CSimpleOptTempl::FindEquals" alt="" coords="1201,104,1401,131"/>
+<area shape="rect" id="node10" href="$d7/dac/class_c_simple_opt_templ.html#ae839959a25abd98b1757d56991536418" title="CSimpleOptTempl::ShuffleArg" alt="" coords="687,162,881,188"/>
+<area shape="rect" id="node6" href="$d7/dac/class_c_simple_opt_templ.html#a524fb9b8413aca06c420681f963f7b5a" title="CSimpleOptTempl::CalcMatch" alt="" coords="1203,42,1400,68"/>
+<area shape="rect" id="node7" href="$d7/dac/class_c_simple_opt_templ.html#a9976327d712873772f4e74534ec17d0c" title="CSimpleOptTempl::IsEqual" alt="" coords="1449,74,1628,100"/>
+<area shape="rect" id="node11" href="$d7/dac/class_c_simple_opt_templ.html#a93e093f0998ea1e0cf514a3b306c9136" title="CSimpleOptTempl::Copy" alt="" coords="963,162,1129,188"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SkyX::Controller::update" name="SkyX::Controller::update">
+<area shape="rect" id="node2" href="$d8/d1d/class_sky_x_1_1_controller.html#abf428f96335598656d118e15bea54489" title="SkyX::Controller::getSun\lDirection" alt="" coords="221,5,385,47"/>
+<area shape="rect" id="node3" href="$d8/d1d/class_sky_x_1_1_controller.html#a3468b8eab40dff92b42ad3b152083a5f" title="SkyX::Controller::getMoon\lDirection" alt="" coords="216,71,389,112"/>
+<area shape="rect" id="node4" href="$d8/d1d/class_sky_x_1_1_controller.html#afe4f887ae8cd7d0737a13f826fc50237" title="SkyX::Controller::getMoon\lPhase" alt="" coords="216,136,389,177"/>
+</map>

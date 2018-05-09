@@ -1,0 +1,5 @@
+<map id="SkyX::VCloudsManager::setAutoupdate" name="SkyX::VCloudsManager::setAutoupdate">
+<area shape="rect" id="node2" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6b0405294790f77baac3af152245e7f4" title="SkyX::VCloudsManager\l::_updateWindSpeedConfig" alt="" coords="212,35,391,76"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a819dcd1312841ecc904c90b3eddf33be" title="SkyX::VClouds::VClouds\l::setWindSpeed" alt="" coords="453,5,620,47"/>
+<area shape="rect" id="node4" href="$de/db3/class_sky_x_1_1_sky_x.html#a31d2605982be31d7a30f82b7155bdb2b" title="SkyX::SkyX::getTimeMultiplier" alt="" coords="439,71,635,98"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="source/main/datatypes/rig_t.h" name="source/main/datatypes/rig_t.h">
+<area shape="rect" id="node2" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="2345,95,2443,121"/>
+<area shape="rect" id="node7" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1392,319,1527,345"/>
+<area shape="rect" id="node24" href="$dd/d50/_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="1741,95,1836,121"/>
+<area shape="rect" id="node3" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="2015,468,2165,495"/>
+<area shape="rect" id="node19" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2019,393,2161,420"/>
+<area shape="rect" id="node20" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="373,393,543,420"/>
+<area shape="rect" id="node21" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="5,393,87,420"/>
+<area shape="rect" id="node25" href="$dc/d74/_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="1251,169,1327,196"/>
+<area shape="rect" id="node27" href="$de/dec/_slide_node_8h.html" title="SlideNode.h" alt="" coords="1425,169,1517,196"/>
+<area shape="rect" id="node29" href="$d9/d1e/_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="1776,169,1903,196"/>
+<area shape="rect" id="node30" href="$de/d00/node__t_8h.html" title="datatypes/node_t.h" alt="" coords="1621,244,1754,271"/>
+<area shape="rect" id="node31" href="$d4/d78/shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="1927,169,2067,196"/>
+<area shape="rect" id="node32" href="$da/d84/beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="2036,244,2173,271"/>
+<area shape="rect" id="node33" href="$d0/d7b/wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="1778,244,1917,271"/>
+<area shape="rect" id="node28" href="$df/d52/_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1392,244,1495,271"/>
+</map>

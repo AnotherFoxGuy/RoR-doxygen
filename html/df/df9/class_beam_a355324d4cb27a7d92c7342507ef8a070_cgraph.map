@@ -1,0 +1,4 @@
+<map id="Beam::getWheelSpeed" name="Beam::getWheelSpeed">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#a0ccc5249a629e3c377c234fd67da9655" title="Beam::getGForces" alt="" coords="209,5,341,32"/>
+<area shape="rect" id="node3" href="$d3/d16/class_terrain_manager.html#a02de3af7287847607182da563f4bbf2f" title="TerrainManager::getGravity" alt="" coords="389,5,567,32"/>
+</map>

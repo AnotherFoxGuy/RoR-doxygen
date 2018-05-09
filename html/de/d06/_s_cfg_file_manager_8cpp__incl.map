@@ -1,0 +1,24 @@
+<map id="source/main/gfx/skyx/SCfgFileManager.cpp" name="source/main/gfx/skyx/SCfgFileManager.cpp">
+<area shape="rect" id="node2" href="$dc/d93/_s_cfg_file_manager_8h.html" title="SCfgFileManager.h" alt="" coords="5,169,137,196"/>
+<area shape="rect" id="node7" href="$d3/d6c/_sky_x_8h.html" title="SkyX.h" alt="" coords="815,95,877,121"/>
+<area shape="rect" id="node3" href="$d4/d87/skyx_2_prerequisites_8h.html" title="Prerequisites.h" alt="" coords="505,319,614,345"/>
+<area shape="rect" id="node5" href="$d7/d8e/_help_8h.html" title="Help.h" alt="" coords="42,244,101,271"/>
+<area shape="rect" id="node6" href="$dc/d89/hydrax_2_prerequisites_8h.html" title="Prerequisites.h" alt="" coords="194,319,303,345"/>
+<area shape="rect" id="node8" href="$da/d8e/_mesh_manager_8h.html" title="MeshManager.h" alt="" coords="926,244,1041,271"/>
+<area shape="rect" id="node9" href="$d0/d5d/_atmosphere_manager_8h.html" title="AtmosphereManager.h" alt="" coords="187,244,340,271"/>
+<area shape="rect" id="node10" href="$d7/d25/_g_p_u_manager_8h.html" title="GPUManager.h" alt="" coords="213,169,324,196"/>
+<area shape="rect" id="node11" href="$dc/d64/_moon_manager_8h.html" title="MoonManager.h" alt="" coords="349,169,463,196"/>
+<area shape="rect" id="node12" href="$d6/d06/_clouds_manager_8h.html" title="CloudsManager.h" alt="" coords="735,169,858,196"/>
+<area shape="rect" id="node13" href="$de/d81/_color_gradient_8h.html" title="ColorGradient.h" alt="" coords="739,244,851,271"/>
+<area shape="rect" id="node14" href="$d2/d94/_controller_8h.html" title="Controller.h" alt="" coords="474,244,562,271"/>
+<area shape="rect" id="node15" href="$de/d28/_basic_controller_8h.html" title="BasicController.h" alt="" coords="539,169,660,196"/>
+<area shape="rect" id="node16" href="$d8/d20/_v_clouds_manager_8h.html" title="VCloudsManager.h" alt="" coords="933,169,1065,196"/>
+<area shape="rect" id="node17" href="$d8/d7f/_v_clouds_8h.html" title="VClouds/VClouds.h" alt="" coords="1065,244,1200,271"/>
+<area shape="rect" id="node19" href="$d2/d33/_data_manager_8h.html" title="DataManager.h" alt="" coords="1192,319,1303,345"/>
+<area shape="rect" id="node20" href="$db/d2b/_fast_fake_random_8h.html" title="FastFakeRandom.h" alt="" coords="1227,393,1363,420"/>
+<area shape="rect" id="node21" href="$d1/dd0/_geometry_manager_8h.html" title="GeometryManager.h" alt="" coords="1487,319,1627,345"/>
+<area shape="rect" id="node22" href="$df/d04/_geometry_block_8h.html" title="GeometryBlock.h" alt="" coords="1495,393,1618,420"/>
+<area shape="rect" id="node25" href="$d3/d9b/_ellipsoid_8h.html" title="VClouds/Ellipsoid.h" alt="" coords="1276,244,1411,271"/>
+<area shape="rect" id="node23" href="$d4/db8/_lightning_manager_8h.html" title="LightningManager.h" alt="" coords="1033,319,1168,345"/>
+<area shape="rect" id="node24" href="$d5/d20/_lightning_8h.html" title="Lightning.h" alt="" coords="1067,393,1153,420"/>
+</map>

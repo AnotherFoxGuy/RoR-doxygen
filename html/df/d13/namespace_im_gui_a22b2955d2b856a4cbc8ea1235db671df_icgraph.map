@@ -1,0 +1,26 @@
+<map id="ImGui::SetNextWindowSize" name="ImGui::SetNextWindowSize">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#ab3f1fc018f903b7ad79fd10663375774" title="ImGui::NewFrame" alt="" coords="271,74,397,101"/>
+<area shape="rect" id="node10" href="$df/d13/namespace_im_gui.html#ae80520312b19a7039b77d2bafcbda8e5" title="ImGui::Combo" alt="" coords="281,193,387,219"/>
+<area shape="rect" id="node11" href="$df/d13/namespace_im_gui.html#a55cb9cfb9865204ac6fb21c965784f78" title="ImGui::BeginMainMenuBar" alt="" coords="245,345,423,371"/>
+<area shape="rect" id="node13" href="$df/d13/namespace_im_gui.html#a52880ae1ecdd704a083558d31c9bfa50" title="ImGui::ShowTestWindow" alt="" coords="773,421,939,447"/>
+<area shape="rect" id="node14" href="$d5/d0a/imgui__demo_8cpp.html#a4dadf5e7b393795666d19af9694037cf" title="ShowExampleAppLongText" alt="" coords="1017,421,1198,447"/>
+<area shape="rect" id="node15" href="$d5/d0a/imgui__demo_8cpp.html#a0729207a285af6ef57ce5a31d1a60348" title="ShowExampleAppCustomRendering" alt="" coords="480,395,711,422"/>
+<area shape="rect" id="node16" href="$de/d1c/struct_example_app_console.html#a0518a09c7e8648dd52c7c06df19ac17a" title="ExampleAppConsole::Draw" alt="" coords="244,446,424,473"/>
+<area shape="rect" id="node18" href="$d1/db8/struct_example_app_log.html#a5ad3a4bdb89171b84aeaff96948a1f77" title="ExampleAppLog::Draw" alt="" coords="257,497,411,523"/>
+<area shape="rect" id="node20" href="$d5/d0a/imgui__demo_8cpp.html#adfe8516f13b623adbf78b024efd5bb6e" title="ShowExampleAppLayout" alt="" coords="512,547,679,574"/>
+<area shape="rect" id="node21" href="$d5/d0a/imgui__demo_8cpp.html#a4d8ba8c6a1febc3053bd843c150305da" title="ShowExampleAppPropertyEditor" alt="" coords="490,598,701,625"/>
+<area shape="rect" id="node22" href="$d8/d2c/class_ro_r_1_1_g_u_i_1_1_game_settings.html#a97a07e0573bf956e386722ef6b776ff3" title="RoR::GUI::GameSettings\l::Draw" alt="" coords="250,127,418,168"/>
+<area shape="rect" id="node25" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a8c98e9ba03c8afb1d1a26ec06192862e" title="RoR::GUI::MultiplayerSelector\l::~MultiplayerSelector" alt="" coords="236,649,432,691"/>
+<area shape="rect" id="node3" href="$d5/d56/class_ogre_im_gui.html#a6c64d0f1f8c3b156e8a5cbe02ccb93eb" title="OgreImGui::NewFrame" alt="" coords="518,71,673,98"/>
+<area shape="rect" id="node4" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a19dfcebef9a9cbb45429c6cc218a8759" title="RoR::GUIManager::NewImGui\lFrame" alt="" coords="759,5,953,47"/>
+<area shape="rect" id="node9" href="$d5/d56/class_ogre_im_gui.html#ad19fd285bb4aaa44039201a20c39a75f" title="OgreImGui::OgreImGui" alt="" coords="779,71,933,98"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="1001,13,1213,39"/>
+<area shape="rect" id="node6" href="$d4/d14/class_ro_r_1_1_main_menu.html#a582e508f1bb1578d1124260de49e438b" title="RoR::MainMenu::EnterMain\lMenuLoop" alt="" coords="1016,93,1199,135"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1261,101,1312,127"/>
+<area shape="rect" id="node8" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1360,101,1433,127"/>
+<area shape="rect" id="node12" href="$d5/d0a/imgui__demo_8cpp.html#a41fc5e36f317b1e9f66bdd2d7bca7764" title="ShowExampleAppMainMenuBar" alt="" coords="491,345,699,371"/>
+<area shape="rect" id="node17" href="$d5/d0a/imgui__demo_8cpp.html#a8e5624314ae6402dd0ddf2a62aa91473" title="ShowExampleAppConsole" alt="" coords="508,446,683,473"/>
+<area shape="rect" id="node19" href="$d5/d0a/imgui__demo_8cpp.html#ad0303cf1f675002eb4e68c17a47b3f88" title="ShowExampleAppLog" alt="" coords="521,497,670,523"/>
+<area shape="rect" id="node23" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#af75908cee15c6ce99cce1752387fca4f" title="RoR::GUIManager::DrawMain\lMenuGui" alt="" coords="760,123,952,164"/>
+<area shape="rect" id="node24" href="$d8/d2c/class_ro_r_1_1_g_u_i_1_1_game_settings.html#aeb21469250c1f403cfc4e281271b339f" title="RoR::GUI::GameSettings\l::GameSettings" alt="" coords="511,177,679,219"/>
+</map>

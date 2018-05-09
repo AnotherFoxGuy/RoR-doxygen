@@ -1,0 +1,17 @@
+<map id="CSimpleOptTempl::Files" name="CSimpleOptTempl::Files">
+<area shape="rect" id="node2" href="$d7/dac/class_c_simple_opt_templ.html#a901dd8e44e4b1662dea6991478574517" title="Initialize the class. Init() must be called later. " alt="" coords="224,5,408,47"/>
+<area shape="rect" id="node4" href="$d7/dac/class_c_simple_opt_templ.html#a094b55471ea89f87457bcd328c3374cc" title="CSimpleOptTempl::operator=" alt="" coords="221,71,411,98"/>
+<area shape="rect" id="node5" href="$d7/dac/class_c_simple_opt_templ.html#a0c5c2c54fed926f494165c8a4d9f90cd" title="CSimpleOptTempl::PrepareArg" alt="" coords="216,325,416,351"/>
+<area shape="rect" id="node8" href="$d7/dac/class_c_simple_opt_templ.html#aed9c4aad06a9a50e41fe91c0102044e3" title="CSimpleOptTempl::NextClumped" alt="" coords="905,325,1119,351"/>
+<area shape="rect" id="node9" href="$d7/dac/class_c_simple_opt_templ.html#a9460ac3071a73d39be1f03a91cb445fc" title="CSimpleOptTempl::LookupOption" alt="" coords="1167,299,1381,326"/>
+<area shape="rect" id="node10" href="$d7/dac/class_c_simple_opt_templ.html#a524fb9b8413aca06c420681f963f7b5a" title="CSimpleOptTempl::CalcMatch" alt="" coords="1431,299,1628,326"/>
+<area shape="rect" id="node13" href="$d7/dac/class_c_simple_opt_templ.html#ae839959a25abd98b1757d56991536418" title="CSimpleOptTempl::ShuffleArg" alt="" coords="915,527,1109,554"/>
+<area shape="rect" id="node3" href="$d7/dac/class_c_simple_opt_templ.html#a295504063bf4b5cb259541581ee46bfc" title="Initialize the class in preparation for calling Next. " alt="" coords="479,13,631,39"/>
+<area shape="rect" id="node6" href="$d7/dac/class_c_simple_opt_templ.html#af2b5536c778b99478a2660ac29eeaeca" title="Query if a particular flag is set. " alt="" coords="464,375,647,402"/>
+<area shape="rect" id="node7" href="$d7/dac/class_c_simple_opt_templ.html#ac0eef4bbcc3097ff36af89be3c0b820f" title="Advance to the next option if available. " alt="" coords="695,426,857,453"/>
+<area shape="rect" id="node16" href="$d7/dac/class_c_simple_opt_templ.html#ae76dab24d97804c34c2f91a63a8ab288" title="CSimpleOptTempl::Stop" alt="" coords="695,477,857,503"/>
+<area shape="rect" id="node12" href="$d7/dac/class_c_simple_opt_templ.html#abad746a8d35e3fe673407ff266ff7b3c" title="CSimpleOptTempl::FindEquals" alt="" coords="1429,433,1629,459"/>
+<area shape="rect" id="node15" href="$d7/dac/class_c_simple_opt_templ.html#ad0ec3543a8272202a107ddbfee19a09d" title="Validate and return the desired number of arguments. " alt="" coords="921,375,1103,402"/>
+<area shape="rect" id="node11" href="$d7/dac/class_c_simple_opt_templ.html#a9976327d712873772f4e74534ec17d0c" title="CSimpleOptTempl::IsEqual" alt="" coords="1677,345,1856,371"/>
+<area shape="rect" id="node14" href="$d7/dac/class_c_simple_opt_templ.html#a93e093f0998ea1e0cf514a3b306c9136" title="CSimpleOptTempl::Copy" alt="" coords="1191,527,1357,554"/>
+</map>

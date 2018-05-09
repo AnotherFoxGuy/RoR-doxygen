@@ -1,0 +1,7 @@
+<map id="OgreImGui::Init" name="OgreImGui::Init">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a3179e560812f878f3961ce803a5d9302" title="ImGui::GetIO" alt="" coords="451,5,550,32"/>
+<area shape="rect" id="node3" href="$d5/d56/class_ogre_im_gui.html#a9b4b9c3befcbb6525fada527427426fb" title="OgreImGui::createFontTexture" alt="" coords="163,56,360,83"/>
+<area shape="rect" id="node6" href="$d5/d56/class_ogre_im_gui.html#a134e7a4974763bf927768729d902f5b2" title="OgreImGui::createMaterial" alt="" coords="174,107,349,133"/>
+<area shape="rect" id="node4" href="$d5/d9e/struct_im_font_atlas.html#a8abb0c4e67ebb38249d4df71218c4eec" title="ImFontAtlas::GetTexDataAs\lRGBA32" alt="" coords="408,57,593,98"/>
+<area shape="rect" id="node5" href="$df/d13/namespace_im_gui.html#a15efb2cac4a54b35489c5984ba1b661a" title="ImGui::MemAlloc" alt="" coords="641,64,764,91"/>
+</map>

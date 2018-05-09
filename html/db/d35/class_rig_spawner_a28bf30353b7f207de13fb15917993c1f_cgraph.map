@@ -1,0 +1,5 @@
+<map id="RigSpawner::SetupDefaultSoundSources" name="RigSpawner::SetupDefaultSoundSources">
+<area shape="rect" id="node2" href="$d6/de4/class_beam_engine.html#a962b102fa1e48c7d541f19922053cadf" title="BeamEngine::hasTurbo" alt="" coords="227,5,385,32"/>
+<area shape="rect" id="node3" href="$db/db4/class_aero_engine.html#afa51837c14b0a0580ed447717ff49c5b" title="AeroEngine::getNoderef" alt="" coords="227,56,385,83"/>
+<area shape="rect" id="node4" href="$db/db4/class_aero_engine.html#a6d67284b994e8fa6b6d2896feee03951" title="AeroEngine::getType" alt="" coords="235,107,377,133"/>
+</map>

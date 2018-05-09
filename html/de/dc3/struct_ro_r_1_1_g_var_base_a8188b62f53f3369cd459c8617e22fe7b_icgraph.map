@@ -1,0 +1,13 @@
+<map id="RoR::GVarBase::LogSetStored" name="RoR::GVarBase::LogSetStored">
+<area shape="rect" id="node2" href="$de/d72/class_ro_r_1_1_g_var_pod___a_p_s.html#aad105b1ae768d99e1044f36bda0d5fe0" title="RoR::GVarPod_APS::SetStored" alt="" coords="256,157,464,184"/>
+<area shape="rect" id="node10" href="$d9/ddb/class_ro_r_1_1_g_var_enum___a_p_s.html#af840af7dd3da1eaed8b690c78c83054a" title="RoR::GVarEnum_APS::\lSetStored" alt="" coords="279,217,441,258"/>
+<area shape="rect" id="node11" href="$d5/ddc/class_ro_r_1_1_g_var_str___a_p_s.html#ad11616217b52f54a286704a49b3b2eaa" title="RoR::GVarStr_APS::SetStored" alt="" coords="259,300,461,327"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#a93df72fd5fc6f793a1a0056f2f2d50ad" title="RoR::DrawGCheckbox" alt="" coords="512,5,664,32"/>
+<area shape="rect" id="node4" href="$dd/dd2/namespace_ro_r.html#af924ed9f8f580f7e60f93bb3eeba0934" title="RoR::DrawGFloatBox" alt="" coords="515,56,661,83"/>
+<area shape="rect" id="node5" href="$d6/dcd/_settings_8cpp.html#af12399e15ec1f1221173807302a50419" title="CheckInt" alt="" coords="551,107,625,133"/>
+<area shape="rect" id="node6" href="$d6/dcd/_settings_8cpp.html#aaf745f425df999d0348717d89880e34b" title="CheckBool" alt="" coords="545,157,631,184"/>
+<area shape="rect" id="node7" href="$d6/dcd/_settings_8cpp.html#a5d9d4d2c9e7ef9aba0f8c6a36224afda" title="CheckFloat" alt="" coords="544,208,632,235"/>
+<area shape="rect" id="node8" href="$d6/dcd/_settings_8cpp.html#ab33c58266f0c1dfac053bfdfc4ae2b84" title="CheckFOV" alt="" coords="545,259,631,285"/>
+<area shape="rect" id="node9" href="$db/d2b/class_settings.html#aa27b8db941ea9fa77ffff67c80b1d5be" title="Settings::ParseGlobalVar\lSetting" alt="" coords="712,251,881,293"/>
+<area shape="rect" id="node12" href="$dd/dd2/namespace_ro_r.html#a3744239ddd3f2d6a8e0126c44571732e" title="RoR::DrawGTextEdit" alt="" coords="517,309,659,336"/>
+</map>

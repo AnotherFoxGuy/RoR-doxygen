@@ -1,0 +1,8 @@
+<map id="Beam::engineTriggerHelper" name="Beam::engineTriggerHelper">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#aabe018af621de69910d145fe2967ad11" title="Beam::IsNodeIdValid" alt="" coords="232,42,375,69"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#a46c793a3229156a678a3829a6fe59be6" title="RoRFrameListener::Update\lForceFeedback" alt="" coords="423,5,601,47"/>
+<area shape="rect" id="node5" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="450,71,574,98"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="649,13,861,39"/>
+<area shape="rect" id="node6" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="706,67,805,94"/>
+<area shape="rect" id="node7" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="691,118,820,145"/>
+</map>

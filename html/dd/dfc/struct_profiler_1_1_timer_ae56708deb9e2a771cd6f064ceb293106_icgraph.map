@@ -1,0 +1,10 @@
+<map id="Profiler::Timer::getticks" name="Profiler::Timer::getticks">
+<area shape="rect" id="node2" href="$dd/dfc/struct_profiler_1_1_timer.html#affb6a30050381cf2bb8a43a95bbf6ea9" title="Profiler::Timer::Unpause" alt="" coords="234,29,395,56"/>
+<area shape="rect" id="node3" href="$dd/dfc/struct_profiler_1_1_timer.html#addb3ceecd236b8ee5166dc47c076ce99" title="Profiler::Timer::Pause" alt="" coords="241,104,388,131"/>
+<area shape="rect" id="node4" href="$dd/dfc/struct_profiler_1_1_timer.html#ad729d7ded76b8830b3e497c5692cab93" title="Profiler::Timer::Start" alt="" coords="245,155,384,181"/>
+<area shape="rect" id="node5" href="$dd/dfc/struct_profiler_1_1_timer.html#a4ffe88f7a214d22ef43b6d9daae6503f" title="Profiler::Timer::Stop" alt="" coords="246,205,383,232"/>
+<area shape="rect" id="node6" href="$dd/dfc/struct_profiler_1_1_timer.html#aba9a45fcfa1f4c784da991265d0f0d64" title="Profiler::Timer::SoftStop" alt="" coords="235,256,395,283"/>
+<area shape="rect" id="node7" href="$dd/dfc/struct_profiler_1_1_timer.html#acd8f11b75660a1ecce36789f1039170f" title="Profiler::Timer::SoftReset" alt="" coords="231,307,398,333"/>
+<area shape="rect" id="node8" href="$dd/dfc/struct_profiler_1_1_timer.html#a39a7ba4e831714879393c79c0a18c993" title="Profiler::Timer::currentmillicycles" alt="" coords="209,357,420,384"/>
+<area shape="rect" id="node9" href="$dd/dfc/struct_profiler_1_1_timer.html#a3f7cd36bcea592892782fdb1f7e18870" title="Profiler::Timer::getticks\l_serial" alt="" coords="237,409,393,450"/>
+</map>

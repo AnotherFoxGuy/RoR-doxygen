@@ -1,0 +1,11 @@
+<map id="RoR::GVarBase" name="RoR::GVarBase">
+<area shape="rect" id="node2" href="$d8/d8c/class_ro_r_1_1_g_var_enum___a.html" title="_A = Has only &#39;Active&#39; field " alt="" coords="24,80,192,107"/>
+<area shape="rect" id="node5" href="$d3/d93/class_ro_r_1_1_g_var_pod___a.html" title="POD = Plain old data (C++ concept); _A = Has only &#39;Active&#39; field. " alt="" coords="225,80,380,107"/>
+<area shape="rect" id="node8" href="$d9/d52/class_ro_r_1_1_g_var_str___a.html" title="RoR::GVarStr_A\&lt; L \&gt;" alt="" coords="411,80,560,107"/>
+<area shape="rect" id="node3" href="$db/da3/class_ro_r_1_1_g_var_enum___a_p.html" title="_AP = Has &#39;Active&#39; and &#39;Pending&#39; fields " alt="" coords="14,155,191,181"/>
+<area shape="rect" id="node4" href="$d9/ddb/class_ro_r_1_1_g_var_enum___a_p_s.html" title="_APS = Has &#39;Active, Pending, Stored&#39; fields " alt="" coords="5,229,192,256"/>
+<area shape="rect" id="node6" href="$dd/d2c/class_ro_r_1_1_g_var_pod___a_p.html" title="POD = Plain old data (C++ concept); _AP = Has &#39;Active&#39; and &#39;Pending&#39; fields. " alt="" coords="221,155,385,181"/>
+<area shape="rect" id="node7" href="$de/d72/class_ro_r_1_1_g_var_pod___a_p_s.html" title="POD = Plain old data (C++ concept); _APS = Has &#39;Active, Pending, Stored&#39; fields. " alt="" coords="216,229,389,256"/>
+<area shape="rect" id="node9" href="$d0/d80/class_ro_r_1_1_g_var_str___a_p.html" title="_AP = Has &#39;Active&#39; and &#39;Pending&#39; fields " alt="" coords="413,155,571,181"/>
+<area shape="rect" id="node10" href="$d5/ddc/class_ro_r_1_1_g_var_str___a_p_s.html" title="_APS = Has &#39;Active, Pending, Stored&#39; fields " alt="" coords="414,229,581,256"/>
+</map>

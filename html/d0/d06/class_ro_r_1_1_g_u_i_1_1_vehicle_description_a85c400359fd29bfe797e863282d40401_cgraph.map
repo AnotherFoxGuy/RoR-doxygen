@@ -1,0 +1,5 @@
+<map id="RoR::GUI::VehicleDescription::SetSimController" name="RoR::GUI::VehicleDescription::SetSimController">
+<area shape="rect" id="node2" href="$d0/d06/class_ro_r_1_1_g_u_i_1_1_vehicle_description.html#aee5f542840fd54d63ddd5baf005f0510" title="RoR::GUI::VehicleDescription\l::notifyWindowButtonPressed" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node3" href="$d0/d06/class_ro_r_1_1_g_u_i_1_1_vehicle_description.html#a791ce0f5ec6c48b393b4ba3bdd6fe19e" title="RoR::GUI::VehicleDescription\l::CenterToScreen" alt="" coords="247,71,440,112"/>
+<area shape="rect" id="node4" href="$d0/d06/class_ro_r_1_1_g_u_i_1_1_vehicle_description.html#a3468096534ded28d296a47eb53dd6913" title="RoR::GUI::VehicleDescription\l::LoadText" alt="" coords="247,136,440,177"/>
+</map>

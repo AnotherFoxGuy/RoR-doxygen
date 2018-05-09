@@ -1,0 +1,5 @@
+<map id="RoR::SceneMouse::mouseReleased" name="RoR::SceneMouse::mouseReleased">
+<area shape="rect" id="node2" href="$d7/d9d/class_ro_r_1_1_scene_mouse.html#a7a0d8c6d6ebe7f330e27f7bab0eb18d9" title="RoR::SceneMouse::release\lMousePick" alt="" coords="304,5,485,47"/>
+<area shape="rect" id="node4" href="$d2/d23/class_camera_manager.html#a1936c437722105d077fc0c7cfb9b0072" title="CameraManager::mouseReleased" alt="" coords="285,71,504,98"/>
+<area shape="rect" id="node3" href="$df/df9/class_beam.html#a465164195a8158babeaa9506f91d52de" title="Beam::mouseMove" alt="" coords="552,13,685,39"/>
+</map>

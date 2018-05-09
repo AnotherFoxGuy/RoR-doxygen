@@ -1,0 +1,6 @@
+<map id="RoR::ContentManager::AddResourcePack" name="RoR::ContentManager::AddResourcePack">
+<area shape="rect" id="node2" href="$db/dab/struct_ro_r_1_1_platform_utils.html#a4cce0acacfc7fcb262da2e7abcc38355" title="RoR::PlatformUtils\l::FileExists" alt="" coords="204,5,333,47"/>
+<area shape="rect" id="node3" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="244,71,293,98"/>
+<area shape="rect" id="node5" href="$db/dab/struct_ro_r_1_1_platform_utils.html#a1bf4d0b15332a9d583e75b25d5b16cab" title="RoR::PlatformUtils\l::FolderExists" alt="" coords="204,123,333,164"/>
+<area shape="rect" id="node4" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="381,71,457,98"/>
+</map>

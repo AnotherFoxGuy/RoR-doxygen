@@ -1,0 +1,13 @@
+<map id="Hydrax::RttManager::setNumberOfChannels" name="Hydrax::RttManager::setNumberOfChannels">
+<area shape="rect" id="node2" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#a4e672cd4cf5361c48e75b559f841602c" title="Hydrax::RttManager\l::getTexture" alt="" coords="213,39,352,80"/>
+<area shape="rect" id="node3" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#a774efa00a79ade65e726ed0774d2ac2e" title="Hydrax::RttManager\l::initialize" alt="" coords="213,104,352,145"/>
+<area shape="rect" id="node4" href="$dd/d65/class_hydrax_1_1_hydrax.html#a4f6dfef270938f04d0430eaf8e1fa88f" title="Hydrax::Hydrax::getScene\lManager" alt="" coords="402,5,577,47"/>
+<area shape="rect" id="node5" href="$dd/d65/class_hydrax_1_1_hydrax.html#aaee3aba332eb7e78086aff658acae305" title="Hydrax::Hydrax::getWater\lColor" alt="" coords="403,71,576,112"/>
+<area shape="rect" id="node6" href="$dd/d65/class_hydrax_1_1_hydrax.html#aa2e090a9b1b0847b6017c8893e86dc3a" title="Hydrax::Hydrax::_isCurrent\lFrameUnderwater" alt="" coords="400,136,579,177"/>
+<area shape="rect" id="node7" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#aab5e7c56ec35030e7410e9ca01f737a1" title="Hydrax::RttManager\l::_initializeRtt" alt="" coords="420,201,559,243"/>
+<area shape="rect" id="node8" href="$dd/d65/class_hydrax_1_1_hydrax.html#a1940a144c486915885ed19026839d381" title="Hydrax::Hydrax::getMesh" alt="" coords="635,107,806,134"/>
+<area shape="rect" id="node9" href="$d1/dc4/class_hydrax_1_1_mesh.html#a3f179b94d94337d1158db3a7e535cf30" title="Hydrax::Mesh::getSize" alt="" coords="643,158,798,185"/>
+<area shape="rect" id="node10" href="$dd/d65/class_hydrax_1_1_hydrax.html#a969555d8f856a43c4ca6c92bb0958bf1" title="Hydrax::Hydrax::getViewport" alt="" coords="627,209,815,235"/>
+<area shape="rect" id="node11" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#a3605c212789e17ddf27b78ecb99c30a2" title="Hydrax::RttManager\l::getPixelFormat" alt="" coords="651,260,790,301"/>
+<area shape="rect" id="node12" href="$dd/d65/class_hydrax_1_1_hydrax.html#aef185c906434b6dfb7c67a425d678287" title="Hydrax::Hydrax::getCamera" alt="" coords="629,326,812,353"/>
+</map>

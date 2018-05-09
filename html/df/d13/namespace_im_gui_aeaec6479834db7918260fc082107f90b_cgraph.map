@@ -1,0 +1,11 @@
+<map id="ImGui::CloseCurrentPopup" name="ImGui::CloseCurrentPopup">
+<area shape="rect" id="node2" href="$da/d72/imgui_8cpp.html#aabe5c31b1e6d1f8ff5e42644a005f56a" title="ClosePopupToLevel" alt="" coords="229,132,364,159"/>
+<area shape="rect" id="node3" href="$df/d13/namespace_im_gui.html#ade4c08e7e7ad7bbfa4835248f5f3a7c6" title="ImGui::FocusWindow" alt="" coords="412,107,559,133"/>
+<area shape="rect" id="node10" href="$d9/de0/class_im_vector.html#ac371dd62e56ae486b1a5038cf07eee56" title="ImVector::resize" alt="" coords="427,157,544,184"/>
+<area shape="rect" id="node4" href="$df/d13/namespace_im_gui.html#a17ff60ad1e2669130ac38a04d16eb354" title="ImGui::ClearActiveID" alt="" coords="609,5,750,32"/>
+<area shape="rect" id="node6" href="$d9/de0/class_im_vector.html#a3e4424d3fca190894598a6575f9d2401" title="ImVector::back" alt="" coords="624,56,735,83"/>
+<area shape="rect" id="node7" href="$d9/de0/class_im_vector.html#a1e1fd9b678be9d4b4432fbefde976045" title="ImVector::erase" alt="" coords="622,107,737,133"/>
+<area shape="rect" id="node8" href="$d9/de0/class_im_vector.html#a300a8b559cd87a78063046ef81151bce" title="ImVector::begin" alt="" coords="623,157,736,184"/>
+<area shape="rect" id="node9" href="$d9/de0/class_im_vector.html#a68387993f2a5f5c3b2a7139d9ab778b8" title="ImVector::push_back" alt="" coords="607,208,752,235"/>
+<area shape="rect" id="node5" href="$df/d13/namespace_im_gui.html#a27b8ace13a8c421ee8405f0cbebe4ead" title="ImGui::SetActiveID" alt="" coords="800,5,931,32"/>
+</map>

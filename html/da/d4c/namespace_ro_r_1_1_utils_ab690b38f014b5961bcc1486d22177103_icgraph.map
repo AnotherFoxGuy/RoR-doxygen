@@ -1,0 +1,10 @@
+<map id="RoR::Utils::TrimStr" name="RoR::Utils::TrimStr">
+<area shape="rect" id="node2" href="$d8/d18/class_ro_r_1_1_o_t_c_parser.html#affccc4ffa36d49b5553305b71ace5e88" title="RoR::OTCParser::LoadPage\lConfig" alt="" coords="184,23,369,65"/>
+<area shape="rect" id="node3" href="$d2/d9a/class_terrain_geometry_manager.html#a1be850a57cfa62aca477b22c8aee0607" title="TerrainGeometryManager\l::InitTerrain" alt="" coords="417,23,585,65"/>
+<area shape="rect" id="node4" href="$d3/d16/class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="633,31,816,57"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="864,31,1069,57"/>
+<area shape="rect" id="node6" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1117,56,1376,83"/>
+<area shape="rect" id="node7" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1424,5,1608,32"/>
+<area shape="rect" id="node8" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1491,56,1541,83"/>
+<area shape="rect" id="node9" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1656,56,1729,83"/>
+</map>

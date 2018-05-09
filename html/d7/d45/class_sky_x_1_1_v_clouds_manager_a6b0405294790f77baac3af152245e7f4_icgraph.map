@@ -1,0 +1,7 @@
+<map id="SkyX::VCloudsManager::_updateWindSpeedConfig" name="SkyX::VCloudsManager::_updateWindSpeedConfig">
+<area shape="rect" id="node2" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6931df17a25e8691796aa4d9c68467cb" title="SkyX::VCloudsManager\l::create" alt="" coords="232,5,391,47"/>
+<area shape="rect" id="node4" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a181b3f6d69a24b48799ddcc5e0a89908" title="SkyX::VCloudsManager\l::setAutoupdate" alt="" coords="232,71,391,112"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#aa8ad0dff2b3d32b04f1827ac04f56a28" title="SkyX::VCloudsManager\l::setWindSpeed" alt="" coords="232,136,391,177"/>
+<area shape="rect" id="node6" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#afd62d929ffeb8de654a30af55ddf490c" title="SkyX::VCloudsManager\l::isCreated" alt="" coords="232,201,391,243"/>
+<area shape="rect" id="node3" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="439,104,589,145"/>
+</map>

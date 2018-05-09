@@ -1,0 +1,9 @@
+<map id="Settings::ProcessCommandLine" name="Settings::ProcessCommandLine">
+<area shape="rect" id="node2" href="$df/d8c/scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="321,5,389,32"/>
+<area shape="rect" id="node4" href="$db/d2b/class_settings.html#afef162affad3ac1aa39796d2b85d6ef2" title="Settings::getSetting" alt="" coords="286,56,423,83"/>
+<area shape="rect" id="node5" href="$db/d2b/class_settings.html#a9dffc00783d6a83727a9d4731cf0438b" title="Settings::getUTFSetting" alt="" coords="274,107,435,133"/>
+<area shape="rect" id="node6" href="$db/d2b/class_settings.html#ac24db7016cb796fcbf70b20d08b2fdc9" title="Settings::getIntegerSetting" alt="" coords="267,157,443,184"/>
+<area shape="rect" id="node7" href="$db/d2b/class_settings.html#aadc91dbf08aef79a6dd08a97eced9f8a" title="Settings::getFloatSetting" alt="" coords="271,208,438,235"/>
+<area shape="rect" id="node8" href="$db/d2b/class_settings.html#adb4ad87d4461ccc6329037d16327209e" title="Settings::getBooleanSetting" alt="" coords="263,259,447,285"/>
+<area shape="rect" id="node3" href="$df/d52/_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="495,5,541,32"/>
+</map>

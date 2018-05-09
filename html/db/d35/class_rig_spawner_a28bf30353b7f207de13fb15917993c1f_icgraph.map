@@ -1,0 +1,8 @@
+<map id="RigSpawner::SetupDefaultSoundSources" name="RigSpawner::SetupDefaultSoundSources">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="234,56,358,83"/>
+<area shape="rect" id="node5" href="$db/d35/class_rig_spawner.html#a2e5c6d067c56ba916d1dd943b482810c" title="RigSpawner::GetRig" alt="" coords="227,115,365,141"/>
+<area shape="rect" id="node3" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="449,5,548,32"/>
+<area shape="rect" id="node4" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="434,56,563,83"/>
+<area shape="rect" id="node6" href="$d5/d54/class_ro_r_1_1_flex_factory.html#a41b5f9177e83f8769b3b52d75f9fa741" title="RoR::FlexFactory::Create\lFlexBody" alt="" coords="413,107,584,149"/>
+<area shape="rect" id="node7" href="$d5/d54/class_ro_r_1_1_flex_factory.html#af11df4b94b6c1815aaecc6e634416df9" title="RoR::FlexFactory::Create\lFlexMeshWheel" alt="" coords="413,173,584,214"/>
+</map>

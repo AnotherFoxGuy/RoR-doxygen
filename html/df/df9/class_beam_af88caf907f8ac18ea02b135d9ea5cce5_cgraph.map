@@ -1,0 +1,26 @@
+<map id="Beam::calcNodes" name="Beam::calcNodes">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="190,38,362,65"/>
+<area shape="rect" id="node3" href="$d3/d16/class_terrain_manager.html#a02de3af7287847607182da563f4bbf2f" title="TerrainManager::getGravity" alt="" coords="187,89,365,115"/>
+<area shape="rect" id="node4" href="$d9/d39/class_collisions.html#af1028e2b9de09140265d02b66654f78f" title="Collisions::groundCollision" alt="" coords="189,139,363,166"/>
+<area shape="rect" id="node14" href="$d9/d39/class_collisions.html#aa2c8d77c6ff7001821d497c689c28e6b" title="Collisions::nodeCollision" alt="" coords="195,190,357,217"/>
+<area shape="rect" id="node22" href="$df/d52/_approx_math_8h.html#a490412854eb41c73cdb44120e33cb2f4" title="approx_sqrt" alt="" coords="231,241,321,267"/>
+<area shape="rect" id="node23" href="$df/d52/_approx_math_8h.html#a935ee6fdb8b4bb87c69a20ca0cc6601f" title="frand_11" alt="" coords="241,291,311,318"/>
+<area shape="rect" id="node24" href="$d1/dd9/class_i_water.html#a0d07fdfe2dadf9e7e7ebc9266c0bd4a0" title="IWater::isUnderWater" alt="" coords="203,342,349,369"/>
+<area shape="rect" id="node25" href="$d1/dd9/class_i_water.html#a1c85ea2684f75ada32395e8497b67ead" title="Returns static water level configured in &#39;terrn2&#39;. " alt="" coords="179,393,373,419"/>
+<area shape="rect" id="node5" href="$da/dea/class_landusemap.html#ae1674c54ecba0ba42db48a919eda4ba1" title="Landusemap::getGroundModelAt" alt="" coords="421,13,633,39"/>
+<area shape="rect" id="node8" href="$d9/d44/class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="440,63,615,90"/>
+<area shape="rect" id="node9" href="$d9/d44/class_i_height_finder.html#a1e72a8b431fcce239ab01e7d77235aab" title="IHeightFinder::getNormalAt" alt="" coords="438,114,617,141"/>
+<area shape="rect" id="node10" href="$d2/d8c/_collisions_8cpp.html#a9933836f15db1958d035f7d773aefd06" title="primitiveCollision" alt="" coords="468,165,587,191"/>
+<area shape="rect" id="node6" href="$d3/d16/class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="681,13,908,39"/>
+<area shape="rect" id="node7" href="$d2/d9a/class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="967,5,1135,47"/>
+<area shape="rect" id="node11" href="$df/d52/_approx_math_8h.html#aa827078e74a2a2b87a97a834d2359e88" title="approx_pow" alt="" coords="749,63,840,90"/>
+<area shape="rect" id="node12" href="$df/d52/_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="750,114,839,141"/>
+<area shape="rect" id="node13" href="$df/d52/_approx_math_8h.html#a9f32a288dbece202a4eaa1808aad5506" title="approx_exp" alt="" coords="750,165,839,191"/>
+<area shape="rect" id="node15" href="$d9/d39/class_collisions.html#a2fdc842e0f848af88b965e66b0296b79" title="Collisions::hash_find" alt="" coords="457,215,598,242"/>
+<area shape="rect" id="node17" href="$d9/d39/class_collisions.html#a169c711864e32721fb5daab7d7d01df4" title="Collisions::permitEvent" alt="" coords="450,270,605,297"/>
+<area shape="rect" id="node21" href="$d9/d39/class_collisions.html#afab554d00436aa9157c93a4eaecf8d74" title="Collisions::envokeScript\lCallback" alt="" coords="447,321,607,363"/>
+<area shape="rect" id="node16" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="725,215,864,242"/>
+<area shape="rect" id="node18" href="$dd/dbe/class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="698,267,891,308"/>
+<area shape="rect" id="node19" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="694,332,895,373"/>
+<area shape="rect" id="node20" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="956,339,1147,366"/>
+</map>

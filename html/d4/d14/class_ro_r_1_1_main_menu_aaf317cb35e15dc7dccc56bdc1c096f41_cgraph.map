@@ -1,0 +1,18 @@
+<map id="RoR::MainMenu::MainMenuLoopUpdateEvents" name="RoR::MainMenu::MainMenuLoopUpdateEvents">
+<area shape="rect" id="node2" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="282,5,457,32"/>
+<area shape="rect" id="node3" href="$d3/d7b/class_input_engine.html#a930f4e5ec74b788a6eb5f6eecc38198d" title="InputEngine::updateKeyBounces" alt="" coords="264,56,475,83"/>
+<area shape="rect" id="node4" href="$df/d86/namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="270,107,469,133"/>
+<area shape="rect" id="node5" href="$df/d47/class_overlay_wrapper.html#a92785274e3dea2492c613a66e1f56672" title="OverlayWrapper::update" alt="" coords="289,157,450,184"/>
+<area shape="rect" id="node6" href="$df/d86/namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="281,208,458,235"/>
+<area shape="rect" id="node7" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a384374df801e682d7ab02057b0b59501" title="RoR::GUIManager::SetVisible\l_GameAbout" alt="" coords="272,259,467,301"/>
+<area shape="rect" id="node9" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a702c9b586147c653d69f35a9641a900e" title="RoR::GUIManager::SetVisible\l_GameMainMenu" alt="" coords="272,325,467,366"/>
+<area shape="rect" id="node11" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#ac4f70c8a1b401b07e1632ad3e6eb5fe3" title="RoR::GUIManager::GetMain\lSelector" alt="" coords="277,390,461,431"/>
+<area shape="rect" id="node12" href="$db/db8/class_ro_r_1_1_g_u_i_1_1_main_selector.html#a746f2f57cd26f795e9e147c9566f103a" title="RoR::GUI::MainSelector\l::Cancel" alt="" coords="289,455,450,497"/>
+<area shape="rect" id="node13" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a927de50f6fa0946694cdda4cf7caf28b" title="RoR::GUIManager::SetVisible\l_GameSettings" alt="" coords="272,521,467,562"/>
+<area shape="rect" id="node15" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a0d98bb18dab0c3e024843bd43b618341" title="RoR::GUIManager::SetVisible\l_MultiplayerSelector" alt="" coords="272,586,467,627"/>
+<area shape="rect" id="node8" href="$d5/da6/class_ro_r_1_1_g_u_i_1_1_game_about.html#a1d09c6a7c3c5b1be89862804f4484562" title="RoR::GUI::GameAbout\l::SetVisible" alt="" coords="543,259,698,301"/>
+<area shape="rect" id="node10" href="$d3/d05/class_ro_r_1_1_g_u_i_1_1_game_main_menu.html#aa306b35660aca5693981f053a209289a" title="RoR::GUI::GameMainMenu\l::SetVisible" alt="" coords="531,325,711,366"/>
+<area shape="rect" id="node14" href="$d8/d2c/class_ro_r_1_1_g_u_i_1_1_game_settings.html#a3c33d20d9b18681b361810d36cdf00aa" title="RoR::GUI::GameSettings\l::SetVisible" alt="" coords="537,521,705,562"/>
+<area shape="rect" id="node16" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#ae54b95687d2e93a2c73edbc20948ebfd" title="RoR::GUI::MultiplayerSelector\l::SetVisible" alt="" coords="523,586,719,627"/>
+<area shape="rect" id="node17" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a2c826b868f4dd1ce69948e5420edb1f6" title="RoR::GUI::MultiplayerSelector\l::RefreshServerlist" alt="" coords="767,586,963,627"/>
+</map>

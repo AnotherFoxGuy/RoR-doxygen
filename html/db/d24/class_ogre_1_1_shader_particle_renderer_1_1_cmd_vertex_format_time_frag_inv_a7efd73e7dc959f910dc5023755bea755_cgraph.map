@@ -1,0 +1,25 @@
+<map id="Ogre::ShaderParticleRenderer::CmdVertexFormatTimeFragInv::doGet" name="Ogre::ShaderParticleRenderer::CmdVertexFormatTimeFragInv::doGet">
+<area shape="rect" id="node2" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#ac4fb4582ab3b1b4a769037107e231648" title="Ogre::ShaderParticleRenderer\l::getVertexFormatTimeFragmentInv" alt="" coords="301,627,527,668"/>
+<area shape="rect" id="node3" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a518e67b3aab6bab3913cc1fd21ef67cc" title="Ogre::ShaderParticleRenderer\l::getType" alt="" coords="581,5,775,47"/>
+<area shape="rect" id="node4" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a3afd53432819a5e5c8f340089c7794bf" title="Ogre::ShaderParticleRenderer\l::_updateRenderQueue" alt="" coords="581,71,775,112"/>
+<area shape="rect" id="node7" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#abd696f41ae94315aef31e127f5e04b4d" title="Ogre::ShaderParticleRenderer\l::visitRenderables" alt="" coords="581,136,775,177"/>
+<area shape="rect" id="node8" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a0d884217388febc4dfe523a50a28ad8e" title="Ogre::ShaderParticleRenderer\l::_setMaterial" alt="" coords="581,201,775,243"/>
+<area shape="rect" id="node9" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a46be7fa0ff5d94ec90dbfc91a2392b37" title="Ogre::ShaderParticleRenderer\l::_notifyCurrentCamera" alt="" coords="581,267,775,308"/>
+<area shape="rect" id="node10" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a475c6012c8480a717152aa63a20ac874" title="Ogre::ShaderParticleRenderer\l::_notifyParticleRotated" alt="" coords="581,332,775,373"/>
+<area shape="rect" id="node11" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a368d82f35b9925a3ba7cb78b91b5754c" title="Ogre::ShaderParticleRenderer\l::_notifyParticleResized" alt="" coords="581,397,775,439"/>
+<area shape="rect" id="node12" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a0aee66cd315ef24da113dc9398af8f85" title="Ogre::ShaderParticleRenderer\l::_notifyParticleQuota" alt="" coords="581,463,775,504"/>
+<area shape="rect" id="node13" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a16342c7d78c3a99cbc31f75c167979ff" title="Ogre::ShaderParticleRenderer\l::_notifyAttached" alt="" coords="581,528,775,569"/>
+<area shape="rect" id="node14" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a741973e66d242bb586768557bf04e9f1" title="Ogre::ShaderParticleRenderer\l::_notifyDefaultDimensions" alt="" coords="581,593,775,635"/>
+<area shape="rect" id="node15" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a41d84abe763aee346829402c241cecee" title="Ogre::ShaderParticleRenderer\l::_createVisualData" alt="" coords="581,659,775,700"/>
+<area shape="rect" id="node16" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a71b654680d58c6ca26e8ae22c83c80b4" title="Ogre::ShaderParticleRenderer\l::_destroyVisualData" alt="" coords="581,724,775,765"/>
+<area shape="rect" id="node17" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a29bada94a6733b1b25db831ac93eccab" title="Ogre::ShaderParticleRenderer\l::setRenderQueueGroup" alt="" coords="581,789,775,831"/>
+<area shape="rect" id="node18" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a50e622a4dda6ad07009bd9e85dc1279e" title="Ogre::ShaderParticleRenderer\l::setKeepParticlesInLocalSpace" alt="" coords="575,855,781,896"/>
+<area shape="rect" id="node19" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#abb428d8c48ec434c663e6f0d320136ae" title="Ogre::ShaderParticleRenderer\l::_getSortMode" alt="" coords="581,920,775,961"/>
+<area shape="rect" id="node20" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a2379d2e56d35c8283a932de9fbddfffb" title="Ogre::ShaderParticleRenderer\l::getMaterial" alt="" coords="581,985,775,1027"/>
+<area shape="rect" id="node21" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#ac77825b8f4b677771c502019eb93912e" title="Ogre::ShaderParticleRenderer\l::getRenderOperation" alt="" coords="581,1051,775,1092"/>
+<area shape="rect" id="node22" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a9742cde4b2577ca97274e4e850656e8e" title="Ogre::ShaderParticleRenderer\l::getWorldTransforms" alt="" coords="581,1116,775,1157"/>
+<area shape="rect" id="node23" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a984bbe439777ba0b7afdb094fd625c4b" title="Ogre::ShaderParticleRenderer\l::getSquaredViewDepth" alt="" coords="581,1181,775,1223"/>
+<area shape="rect" id="node24" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#a56b7d0e43aa00dc32c8592360aab8b11" title="Ogre::ShaderParticleRenderer\l::getLights" alt="" coords="581,1247,775,1288"/>
+<area shape="rect" id="node5" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#adbea948d1574d55d80be8367b1fbda72" title="allocate hardware buffers and prepare them for filling particles " alt="" coords="829,39,1024,80"/>
+<area shape="rect" id="node6" href="$d3/d3c/class_ogre_1_1_shader_particle_renderer.html#aa437373623a7215717748ec4fe489c42" title="add particle to vertex buffer " alt="" coords="829,104,1024,145"/>
+</map>

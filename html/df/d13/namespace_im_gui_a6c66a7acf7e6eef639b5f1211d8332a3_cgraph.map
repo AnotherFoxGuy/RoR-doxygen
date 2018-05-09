@@ -1,0 +1,5 @@
+<map id="ImGui::CalcItemRectClosestPoint" name="ImGui::CalcItemRectClosestPoint">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a408f9ddac92f8629a7e273ced5f8c3aa" title="ImGui::GetCurrentWindowRead" alt="" coords="240,5,443,32"/>
+<area shape="rect" id="node3" href="$df/d8d/struct_im_rect.html#af33a7424c3341d08acd69da30c27c753" title="ImRect::Expand" alt="" coords="284,56,399,83"/>
+<area shape="rect" id="node4" href="$df/d8d/struct_im_rect.html#a223c67d4c93e5c87a33a68ebb527bbb8" title="ImRect::GetClosestPoint" alt="" coords="258,107,425,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RigDef::BaseWheel2" name="RigDef::BaseWheel2">
+<area shape="rect" id="node3" href="$d7/ded/struct_rig_def_1_1_flex_body_wheel.html" title="RigDef::FlexBodyWheel" alt="" coords="5,155,165,181"/>
+<area shape="rect" id="node4" href="$d3/d0b/struct_rig_def_1_1_wheel2.html" title="RigDef::Wheel2" alt="" coords="189,155,301,181"/>
+<area shape="rect" id="node2" href="$db/d99/struct_rig_def_1_1_base_wheel.html" title="RigDef::BaseWheel" alt="" coords="98,5,233,32"/>
+</map>

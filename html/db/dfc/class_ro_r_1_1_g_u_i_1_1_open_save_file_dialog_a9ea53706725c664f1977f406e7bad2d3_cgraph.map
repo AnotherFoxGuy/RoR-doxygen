@@ -1,0 +1,9 @@
+<map id="RoR::GUI::OpenSaveFileDialog::setCurrentFolder" name="RoR::GUI::OpenSaveFileDialog::setCurrentFolder">
+<area shape="rect" id="node2" href="$d3/d64/namespace_ro_r_1_1_file_system.html#a3661a8bb720171f041d3470a4537f54f" title="RoR::FileSystem::getSystem\lCurrentFolder" alt="" coords="259,5,451,47"/>
+<area shape="rect" id="node3" href="$db/dfc/class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a8c1b024be96a42a6be82b75bad012e1e" title="RoR::GUI::OpenSaveFileDialog\l::update" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node4" href="$d3/d64/namespace_ro_r_1_1_file_system.html#ae33ccfefa159afb285835c8fa5498a8b" title="RoR::FileSystem::getSystem\lFileList" alt="" coords="504,71,696,112"/>
+<area shape="rect" id="node5" href="$d3/d64/namespace_ro_r_1_1_file_system.html#a78a496cdd3796294fcd6c3c452a23f10" title="RoR::FileSystem::concatenatePath" alt="" coords="744,27,971,54"/>
+<area shape="rect" id="node7" href="$d3/d64/namespace_ro_r_1_1_file_system.html#aefc2f14edd3f91d6c92ac4d9cfac865f" title="RoR::FileSystem::isReservedDir" alt="" coords="753,78,961,105"/>
+<area shape="rect" id="node8" href="$dd/d88/struct_ro_r_1_1_file_system_1_1_file_info.html#afd2999a0b840b11c7285761729067fc0" title="RoR::FileSystem::FileInfo\l::FileInfo" alt="" coords="772,129,943,171"/>
+<area shape="rect" id="node6" href="$d3/d64/namespace_ro_r_1_1_file_system.html#af8e0cce7d301d79f48f0367827a18ba2" title="RoR::FileSystem::isAbsolutePath" alt="" coords="1019,27,1236,54"/>
+</map>

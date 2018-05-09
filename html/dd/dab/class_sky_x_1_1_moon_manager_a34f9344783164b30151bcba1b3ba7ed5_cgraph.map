@@ -1,0 +1,11 @@
+<map id="SkyX::MoonManager::create" name="SkyX::MoonManager::create">
+<area shape="rect" id="node2" href="$de/db3/class_sky_x_1_1_sky_x.html#ac0cff17e4fac3749f9a36e1b76ebe189" title="SkyX::SkyX::getSceneManager" alt="" coords="204,5,407,32"/>
+<area shape="rect" id="node3" href="$de/db3/class_sky_x_1_1_sky_x.html#a1624a12caa49011e0b96ac15e0c8f524" title="SkyX::SkyX::getGPUManager" alt="" coords="208,56,403,83"/>
+<area shape="rect" id="node4" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#aa6e51c4d5104ed7c1d6d1c0a65048c8a" title="SkyX::GPUManager::getMoon\lMaterialName" alt="" coords="207,107,403,149"/>
+<area shape="rect" id="node10" href="$de/db3/class_sky_x_1_1_sky_x.html#a628b7c569b922b64d0964f43d611f1e3" title="SkyX::SkyX::getRenderQueue\lGroups" alt="" coords="208,173,403,214"/>
+<area shape="rect" id="node5" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ae8b52a74e1c8d447ed7528949bdd1887" title="SkyX::GPUManager::\l_updateFP" alt="" coords="455,107,601,149"/>
+<area shape="rect" id="node6" href="$de/db3/class_sky_x_1_1_sky_x.html#a3f20af6ba71e7a5a177d10533944179a" title="SkyX::SkyX::getLightingMode" alt="" coords="921,60,1114,87"/>
+<area shape="rect" id="node7" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ac6327911c4478d527fdf264f0a28ea34" title="SkyX::GPUManager::getSkydome\lMaterialName" alt="" coords="649,107,868,149"/>
+<area shape="rect" id="node9" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a9b93fed5c4b58a30cfba0fde4032c6be" title="SkyX::GPUManager::\l_setTextureHWGammaCorrection" alt="" coords="650,173,867,214"/>
+<area shape="rect" id="node8" href="$de/db3/class_sky_x_1_1_sky_x.html#a6d16561c0c0c4d6ebbf9ae3ca4abd963" title="SkyX::SkyX::isStarfieldEnabled" alt="" coords="916,115,1119,141"/>
+</map>

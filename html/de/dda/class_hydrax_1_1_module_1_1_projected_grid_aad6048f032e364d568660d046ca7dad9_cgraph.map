@@ -1,0 +1,12 @@
+<map id="Hydrax::Module::ProjectedGrid::getOptions" name="Hydrax::Module::ProjectedGrid::getOptions">
+<area shape="rect" id="node2" href="$de/dda/class_hydrax_1_1_module_1_1_projected_grid.html#a669e8104c6ca9f93bf8bfb1a10165e29" title="Hydrax::Module::Projected\lGrid::_calculeNormals" alt="" coords="473,5,649,47"/>
+<area shape="rect" id="node4" href="$de/dda/class_hydrax_1_1_module_1_1_projected_grid.html#a38bbbb56e20cbbc4346b42b2e6a62126" title="Hydrax::Module::Projected\lGrid::_performChoppyWaves" alt="" coords="468,188,655,229"/>
+<area shape="rect" id="node6" href="$de/dda/class_hydrax_1_1_module_1_1_projected_grid.html#af39d939aed099aa3b91010a4ed824dbf" title="Hydrax::Module::Projected\lGrid::_renderGeometry" alt="" coords="229,127,405,168"/>
+<area shape="rect" id="node7" href="$de/dda/class_hydrax_1_1_module_1_1_projected_grid.html#aef24e4054bbfa3f70b474c4c35708412" title="Hydrax::Module::Projected\lGrid::_calculeWorldPosition" alt="" coords="470,253,653,295"/>
+<area shape="rect" id="node9" href="$de/dda/class_hydrax_1_1_module_1_1_projected_grid.html#a985d7ed255ac6d289f12b07a50f12eac" title="Hydrax::Module::Projected\lGrid::_getMinMax" alt="" coords="229,348,405,389"/>
+<area shape="rect" id="node10" href="$de/dda/class_hydrax_1_1_module_1_1_projected_grid.html#a98bb5ea45049daaae40ce013255b8b41" title="Hydrax::Module::Projected\lGrid::_setDisplacementAmplitude" alt="" coords="453,319,669,360"/>
+<area shape="rect" id="node3" href="$d9/d88/class_hydrax_1_1_module_1_1_module.html#a522cdc115b168a9d73d9ae27d0ff997a" title="Hydrax::Module::Module\l::getNormalMode" alt="" coords="725,64,888,105"/>
+<area shape="rect" id="node5" href="$dd/d65/class_hydrax_1_1_hydrax.html#aa2e090a9b1b0847b6017c8893e86dc3a" title="Hydrax::Hydrax::_isCurrent\lFrameUnderwater" alt="" coords="717,188,896,229"/>
+<area shape="rect" id="node8" href="$da/d26/class_hydrax_1_1_noise_1_1_noise.html#a5b18138d5c2c5ea3c3659cef80dd3a3e" title="Hydrax::Noise::Noise\l::getValue" alt="" coords="489,123,634,164"/>
+<area shape="rect" id="node11" href="$dd/d65/class_hydrax_1_1_hydrax.html#ac4f36e2a40b663997b83b2730843757b" title="Hydrax::Hydrax::getPosition" alt="" coords="469,385,654,411"/>
+</map>

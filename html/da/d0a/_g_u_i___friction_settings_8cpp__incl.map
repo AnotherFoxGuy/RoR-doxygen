@@ -1,0 +1,32 @@
+<map id="source/main/gui/panels/GUI_FrictionSettings.cpp" name="source/main/gui/panels/GUI_FrictionSettings.cpp">
+<area shape="rect" id="node2" href="$d7/d63/_g_u_i___friction_settings_8h.html" title="GUI_FrictionSettings.h" alt="" coords="1638,244,1791,271"/>
+<area shape="rect" id="node23" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="182,319,279,345"/>
+<area shape="rect" id="node27" href="$dd/d50/_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="920,169,1015,196"/>
+<area shape="rect" id="node39" href="$d4/d4a/_settings_8h.html" title="Settings.h" alt="" coords="1532,244,1614,271"/>
+<area shape="rect" id="node40" href="$db/da3/_collisions_8h.html" title="Collisions.h" alt="" coords="1496,95,1586,121"/>
+<area shape="rect" id="node44" href="$d2/de5/_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="2332,244,2438,271"/>
+<area shape="rect" id="node66" href="$dc/d4b/_language_8h.html" title="Language.h" alt="" coords="1906,244,1995,271"/>
+<area shape="rect" id="node69" href="$d9/dc1/_utils_8h.html" title="Utils.h" alt="" coords="3322,244,3381,271"/>
+<area shape="rect" id="node3" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1451,393,1586,420"/>
+<area shape="rect" id="node21" href="$de/dec/_singleton_8h.html" title="Singleton.h" alt="" coords="1607,319,1694,345"/>
+<area shape="rect" id="node15" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1864,543,2015,569"/>
+<area shape="rect" id="node16" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1977,468,2118,495"/>
+<area shape="rect" id="node17" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2142,468,2313,495"/>
+<area shape="rect" id="node18" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="54,468,135,495"/>
+<area shape="rect" id="node28" href="$dc/d74/_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="828,244,904,271"/>
+<area shape="rect" id="node30" href="$de/dec/_slide_node_8h.html" title="SlideNode.h" alt="" coords="1203,244,1295,271"/>
+<area shape="rect" id="node32" href="$d9/d1e/_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="514,244,640,271"/>
+<area shape="rect" id="node33" href="$de/d00/node__t_8h.html" title="datatypes/node_t.h" alt="" coords="966,319,1100,345"/>
+<area shape="rect" id="node34" href="$d4/d78/shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="664,244,804,271"/>
+<area shape="rect" id="node35" href="$da/d84/beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="642,319,779,345"/>
+<area shape="rect" id="node36" href="$d0/d7b/wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="804,319,942,345"/>
+<area shape="rect" id="node37" href="$d7/ddc/rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="371,244,490,271"/>
+<area shape="rect" id="node31" href="$df/d52/_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1226,319,1328,345"/>
+<area shape="rect" id="node45" href="$d2/df0/_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="2720,319,2853,345"/>
+<area shape="rect" id="node48" href="$d3/d6b/_ogre_im_gui_8h.html" title="OgreImGui.h" alt="" coords="3275,319,3370,345"/>
+<area shape="rect" id="node49" href="$db/d19/imgui_8h.html" title="imgui.h" alt="" coords="3989,393,4053,420"/>
+<area shape="rect" id="node50" href="$dc/dad/imconfig_8h.html" title="imconfig.h" alt="" coords="3706,468,3787,495"/>
+<area shape="rect" id="node71" href="$d0/d03/checked_8h.html" title="utf8/checked.h" alt="" coords="3577,319,3684,345"/>
+<area shape="rect" id="node75" href="$d8/d61/unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="4054,319,4175,345"/>
+<area shape="rect" id="node72" href="$d5/dc4/core_8h.html" title="core.h" alt="" coords="4181,393,4240,420"/>
+</map>

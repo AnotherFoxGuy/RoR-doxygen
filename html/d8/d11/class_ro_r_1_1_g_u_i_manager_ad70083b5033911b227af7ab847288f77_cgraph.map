@@ -1,0 +1,7 @@
+<map id="RoR::GUIManager::CenterSpawnerReportWindow" name="RoR::GUIManager::CenterSpawnerReportWindow">
+<area shape="rect" id="node2" href="$d4/d74/class_ro_r_1_1_gui_panel_base.html#affcdec6ec2970670cb411cd793d3393b" title="RoR::GuiPanelBase::\lCenterToScreen" alt="" coords="276,71,423,112"/>
+<area shape="rect" id="node3" href="$d4/d74/class_ro_r_1_1_gui_panel_base.html#a7e4cd733a76df97224472bdb5fb09842" title="RoR::GuiPanelBase::\lSetPosition" alt="" coords="471,5,617,47"/>
+<area shape="rect" id="node4" href="$d4/d74/class_ro_r_1_1_gui_panel_base.html#a1e7d3a6418755713355fae6042d08f98" title="RoR::GuiPanelBase::\lGetWidthPixels" alt="" coords="471,71,617,112"/>
+<area shape="rect" id="node6" href="$d4/d74/class_ro_r_1_1_gui_panel_base.html#a1caed4967ba0afef7fb0bb9cab397582" title="RoR::GuiPanelBase::\lGetHeightPixels" alt="" coords="471,136,617,177"/>
+<area shape="rect" id="node5" href="$d4/d74/class_ro_r_1_1_gui_panel_base.html#a9f25ad59832e646bb631cf5aa973a8c8" title="RoR::GuiPanelBase::\lGetSizePixels" alt="" coords="665,104,812,145"/>
+</map>

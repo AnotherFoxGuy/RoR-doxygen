@@ -1,0 +1,21 @@
+<map id="ProceduralManager::updateAllObjects" name="ProceduralManager::updateAllObjects">
+<area shape="rect" id="node2" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="243,20,292,47"/>
+<area shape="rect" id="node4" href="$d8/d78/class_procedural_manager.html#a63f800c4fe54872d67b0a3e3b1361927" title="ProceduralManager::\lupdateObject" alt="" coords="196,101,339,142"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="420,5,496,32"/>
+<area shape="rect" id="node5" href="$d8/d78/class_procedural_manager.html#a4789de044c9c0ecf55a0b8d8270137da" title="ProceduralManager::\ldeleteObject" alt="" coords="387,57,529,98"/>
+<area shape="rect" id="node6" href="$d0/d42/class_road2.html#af1ed3f3e7283f49faad7101f0908ad19" title="Road2::addBlock" alt="" coords="397,123,519,149"/>
+<area shape="rect" id="node19" href="$d0/d42/class_road2.html#a9a8d8af3d830d58c09b2cea742e42832" title="Road2::finish" alt="" coords="409,173,507,200"/>
+<area shape="rect" id="node7" href="$d3/d16/class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="1009,25,1184,66"/>
+<area shape="rect" id="node8" href="$d9/d44/class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="1009,112,1184,139"/>
+<area shape="rect" id="node9" href="$d0/d42/class_road2.html#a9d8724ad4d80b364282df601d120e32d" title="Road2::computePoints" alt="" coords="577,123,732,149"/>
+<area shape="rect" id="node11" href="$d0/d42/class_road2.html#a27a9cf5803361dbd84862a241ac2b9bb" title="Road2::addQuad" alt="" coords="595,173,714,200"/>
+<area shape="rect" id="node10" href="$d0/d42/class_road2.html#aef616e475fae2504b50ad65a1ba3b3cb" title="Road2::baseOf" alt="" coords="817,123,925,149"/>
+<area shape="rect" id="node12" href="$d0/d42/class_road2.html#aa511f1f1ee168547950f505271f10f3b" title="Road2::textureFit" alt="" coords="809,173,932,200"/>
+<area shape="rect" id="node13" href="$d9/d39/class_collisions.html#a7840c7d5b2b56b4cc8f41778c0edb7a7" title="Collisions::getGroundModel\lByString" alt="" coords="780,225,961,266"/>
+<area shape="rect" id="node14" href="$d0/d42/class_road2.html#ade752b3c6e9e9251bbea2833eb6e4731" title="Road2::addCollisionQuad" alt="" coords="787,291,955,317"/>
+<area shape="rect" id="node15" href="$d9/d39/class_collisions.html#a44e7f403a680e597a54209b2873b6e28" title="Collisions::addCollisionTri" alt="" coords="1011,291,1182,317"/>
+<area shape="rect" id="node16" href="$d9/d39/class_collisions.html#a0f6b7005dc87f64650ced8786bba0a08" title="Collisions::GetNumCollisionTris" alt="" coords="1232,265,1436,292"/>
+<area shape="rect" id="node17" href="$d9/d39/class_collisions.html#ab8dc3b86fee4e2aa47927bfeabe2ddfe" title="Collisions::hash_add" alt="" coords="1263,316,1405,343"/>
+<area shape="rect" id="node18" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="1484,316,1623,343"/>
+<area shape="rect" id="node20" href="$d0/d42/class_road2.html#a19a04c18574f9543104b7a874b68fe90" title="Road2::createMesh" alt="" coords="587,224,722,251"/>
+</map>

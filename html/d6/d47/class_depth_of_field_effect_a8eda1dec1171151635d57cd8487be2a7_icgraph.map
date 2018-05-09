@@ -1,0 +1,12 @@
+<map id="DepthOfFieldEffect::getEnabled" name="DepthOfFieldEffect::getEnabled">
+<area shape="rect" id="node2" href="$d0/d6c/class_d_o_f_manager.html#a165e04f5ec744566a8c26d91265d081d" title="DOFManager::setEnabled" alt="" coords="184,45,356,71"/>
+<area shape="rect" id="node10" href="$d0/d6c/class_d_o_f_manager.html#a22850b1399112204743ad4f9bd720d6c" title="DOFManager::getEnabled" alt="" coords="184,95,356,122"/>
+<area shape="rect" id="node11" href="$d6/d47/class_depth_of_field_effect.html#a25c28521be265ccb6ad11d702de334bd" title="DepthOfFieldEffect\l::getFarBlurCutoff" alt="" coords="205,147,335,188"/>
+<area shape="rect" id="node3" href="$d2/d23/class_camera_manager.html#af5c45fcf594dd3a0567b8ca3a0b97350" title="CameraManager::ActivateDepth\lOfFieldEffect" alt="" coords="404,5,609,47"/>
+<area shape="rect" id="node8" href="$d2/d23/class_camera_manager.html#a3af91ff14a17940bb20b98009c75fe5d" title="CameraManager::DisableDepth\lOfFieldEffect" alt="" coords="405,71,608,112"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="657,21,916,47"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="964,21,1148,47"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1031,71,1081,98"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1196,71,1269,98"/>
+<area shape="rect" id="node9" href="$dd/dbe/class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="659,71,915,98"/>
+</map>

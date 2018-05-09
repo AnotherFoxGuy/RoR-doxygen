@@ -1,0 +1,9 @@
+<map id="RigSpawner::ProcessAxle" name="RigSpawner::ProcessAxle">
+<area shape="rect" id="node2" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a84b62d4c0f12249e81d684e880432cf3" title="RigDef::Node::Ref::\lToString" alt="" coords="227,15,360,57"/>
+<area shape="rect" id="node3" href="$d7/d8b/class_axle.html#a586be91663e139cca504c12a4f98f104" title="Axle::addDiffType" alt="" coords="232,81,355,108"/>
+<area shape="rect" id="node4" href="$d7/d8b/class_axle.html#a7ee763611feb62996e46ccf5e96f63d0" title="Axle::getDiffEquation" alt="" coords="408,81,551,108"/>
+<area shape="rect" id="node5" href="$d7/d8b/class_axle.html#a11508356c463452848fda048dbb6d350" title="a differential that always splits the torque evenly, this is the original method " alt="" coords="599,5,756,32"/>
+<area shape="rect" id="node6" href="$d7/d8b/class_axle.html#a3aa3e493320a279e3bd1828655e6966f" title="viscous coupler, the greater the difference in speed the more torque is transfered ..." alt="" coords="605,56,750,83"/>
+<area shape="rect" id="node7" href="$d7/d8b/class_axle.html#a555d076e3aa3bfe70f91d6d625d51de3" title="more power goes to the faster spining wheel " alt="" coords="613,107,742,133"/>
+<area shape="rect" id="node8" href="$d7/d8b/class_axle.html#a3053f4ee933712559c5306f6077b2d1b" title="ensures both wheels rotate at the the same speed " alt="" coords="607,157,747,184"/>
+</map>

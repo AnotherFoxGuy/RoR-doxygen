@@ -1,0 +1,8 @@
+<map id="RoR::GUI::VehicleDescription::notifyWindowButtonPressed" name="RoR::GUI::VehicleDescription::notifyWindowButtonPressed">
+<area shape="rect" id="node2" href="$d0/d06/class_ro_r_1_1_g_u_i_1_1_vehicle_description.html#a85c400359fd29bfe797e863282d40401" title="RoR::GUI::VehicleDescription\l::SetSimController" alt="" coords="247,23,440,65"/>
+<area shape="rect" id="node3" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a875185e93587aeb2ab73220c1d2d4fc8" title="RoR::GUIManager::SetSimController" alt="" coords="488,31,721,57"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="769,31,1025,57"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1073,5,1257,32"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1140,56,1191,83"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1305,56,1379,83"/>
+</map>

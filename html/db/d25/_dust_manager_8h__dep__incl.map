@@ -1,0 +1,38 @@
+<map id="source/main/gfx/DustManager.h" name="source/main/gfx/DustManager.h">
+<area shape="rect" id="node2" href="$de/dbe/_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="5,259,164,300"/>
+<area shape="rect" id="node3" href="$d2/d00/_dust_manager_8cpp.html" title="source/main/gfx/DustManager.cpp" alt="" coords="2021,87,2241,114"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html" title="source/main/main.cpp" alt="" coords="395,266,545,293"/>
+<area shape="rect" id="node5" href="$dc/df0/_main_menu_8cpp.html" title="source/main/MainMenu.cpp" alt="" coords="188,266,371,293"/>
+<area shape="rect" id="node6" href="$da/d19/_beam_factory_8h.html" title="source/main/physics\l/BeamFactory.h" alt="" coords="1803,80,1945,121"/>
+<area shape="rect" id="node34" href="$de/df9/_buoyance_8cpp.html" title="source/main/physics\l/water/Buoyance.cpp" alt="" coords="3401,169,3545,211"/>
+<area shape="rect" id="node7" href="$dd/d91/_beam_engine_8cpp.html" title="source/main/gameplay\l/BeamEngine.cpp" alt="" coords="707,169,860,211"/>
+<area shape="rect" id="node8" href="$d0/dbf/_character_8cpp.html" title="source/main/gameplay\l/Character.cpp" alt="" coords="3576,259,3729,300"/>
+<area shape="rect" id="node9" href="$d3/d88/_ro_r_frame_listener_8h.html" title="source/main/gameplay\l/RoRFrameListener.h" alt="" coords="2665,169,2819,211"/>
+<area shape="rect" id="node10" href="$d5/d11/_scene_mouse_8cpp.html" title="source/main/gameplay\l/SceneMouse.cpp" alt="" coords="3753,259,3907,300"/>
+<area shape="rect" id="node11" href="$d2/d73/_depth_of_field_effect_8cpp.html" title="source/main/gfx/dof\l/DepthOfFieldEffect.cpp" alt="" coords="3931,259,4089,300"/>
+<area shape="rect" id="node12" href="$d3/dfd/_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="570,266,805,293"/>
+<area shape="rect" id="node13" href="$db/db8/_g_u_i___game_console_8cpp.html" title="source/main/gui/panels\l/GUI_GameConsole.cpp" alt="" coords="829,259,991,300"/>
+<area shape="rect" id="node15" href="$d9/d9d/_g_u_i___multiplayer_client_list_8cpp.html" title="source/main/gui/panels\l/GUI_MultiplayerClientList.cpp" alt="" coords="1015,259,1213,300"/>
+<area shape="rect" id="node17" href="$db/d56/_g_u_i___top_menubar_8cpp.html" title="source/main/gui/panels\l/GUI_TopMenubar.cpp" alt="" coords="1237,259,1393,300"/>
+<area shape="rect" id="node18" href="$d9/df9/_g_u_i___vehicle_description_8cpp.html" title="source/main/gui/panels\l/GUI_VehicleDescription.cpp" alt="" coords="1417,259,1605,300"/>
+<area shape="rect" id="node19" href="$d2/d74/_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="1629,259,1772,300"/>
+<area shape="rect" id="node20" href="$d1/dc9/_beam_factory_8cpp.html" title="source/main/physics\l/BeamFactory.cpp" alt="" coords="2172,259,2315,300"/>
+<area shape="rect" id="node21" href="$d0/d6f/_beam_forces_euler_8cpp.html" title="source/main/physics\l/BeamForcesEuler.cpp" alt="" coords="2339,259,2494,300"/>
+<area shape="rect" id="node22" href="$de/d27/_beam_slide_node_8cpp.html" title="source/main/physics\l/BeamSlideNode.cpp" alt="" coords="2518,259,2662,300"/>
+<area shape="rect" id="node23" href="$d2/d8c/_collisions_8cpp.html" title="source/main/physics\l/collision/Collisions.cpp" alt="" coords="2687,259,2845,300"/>
+<area shape="rect" id="node24" href="$df/df5/_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="2869,259,3012,300"/>
+<area shape="rect" id="node25" href="$d5/da6/_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="3037,259,3183,300"/>
+<area shape="rect" id="node26" href="$d8/d4d/_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="3208,259,3348,300"/>
+<area shape="rect" id="node27" href="$d2/d0a/_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="3373,259,3551,300"/>
+<area shape="rect" id="node28" href="$db/d51/_out_protocol_8cpp.html" title="source/main/gameplay\l/OutProtocol.cpp" alt="" coords="884,169,1037,211"/>
+<area shape="rect" id="node29" href="$d4/d8a/_camera_behavior_static_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorStatic.cpp" alt="" coords="1062,169,1241,211"/>
+<area shape="rect" id="node30" href="$d2/d8f/_camera_manager_8cpp.html" title="source/main/gfx/camera\l/CameraManager.cpp" alt="" coords="1265,169,1427,211"/>
+<area shape="rect" id="node31" href="$d7/dca/_water_8cpp.html" title="source/main/gfx/Water.cpp" alt="" coords="1451,177,1630,203"/>
+<area shape="rect" id="node32" href="$d4/d90/_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="1655,177,1869,203"/>
+<area shape="rect" id="node33" href="$df/db0/_g_u_i___game_pause_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GamePauseMenu.cpp" alt="" coords="1894,169,2078,211"/>
+<area shape="rect" id="node35" href="$d8/d11/_screw_prop_8cpp.html" title="source/main/physics\l/water/ScrewProp.cpp" alt="" coords="2102,169,2251,211"/>
+<area shape="rect" id="node36" href="$d4/d5f/_script_engine_8cpp.html" title="source/main/scripting\l/ScriptEngine.cpp" alt="" coords="2275,169,2422,211"/>
+<area shape="rect" id="node37" href="$d7/d5a/_survey_map_manager_8cpp.html" title="source/main/terrain\l/map/SurveyMapManager.cpp" alt="" coords="2446,169,2641,211"/>
+<area shape="rect" id="node14" href="$dd/d68/_g_u_i___main_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MainSelector.cpp" alt="" coords="1796,259,1952,300"/>
+<area shape="rect" id="node16" href="$d5/d21/_g_u_i___teleport_window_8cpp.html" title="source/main/gui/panels\l/GUI_TeleportWindow.cpp" alt="" coords="1976,259,2148,300"/>
+</map>

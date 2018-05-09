@@ -1,0 +1,8 @@
+<map id="OgreImGui::InjectMousePressed" name="OgreImGui::InjectMousePressed">
+<area shape="rect" id="node2" href="$db/df1/class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="264,13,481,39"/>
+<area shape="rect" id="node7" href="$d5/d56/class_ogre_im_gui.html#ad19fd285bb4aaa44039201a20c39a75f" title="OgreImGui::OgreImGui" alt="" coords="295,63,450,90"/>
+<area shape="rect" id="node3" href="$db/df1/class_g_u_i_input_manager.html#ab59361b8e1a9e31e53b5e5523f2b4801" title="GUIInputManager::getLast\lMouseMoveTime" alt="" coords="529,5,703,47"/>
+<area shape="rect" id="node4" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#aae1570a62049085aa74ce274ac9a70ad" title="RoR::GUIManager::frameStarted" alt="" coords="751,13,960,39"/>
+<area shape="rect" id="node5" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a4ab273bd0538649818c84b38e8a06100" title="RoR::GUIManager::GetTheme" alt="" coords="1008,13,1203,39"/>
+<area shape="rect" id="node6" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a8c98e9ba03c8afb1d1a26ec06192862e" title="RoR::GUI::MultiplayerSelector\l::~MultiplayerSelector" alt="" coords="1251,5,1447,47"/>
+</map>

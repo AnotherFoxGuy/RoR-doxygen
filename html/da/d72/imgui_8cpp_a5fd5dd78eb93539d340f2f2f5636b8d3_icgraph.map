@@ -1,0 +1,9 @@
+<map id="SetWindowSize" name="SetWindowSize">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a030e4ac6eed5b4b960a3fef538fcbad0" title="ImGui::Begin" alt="" coords="197,78,295,105"/>
+<area shape="rect" id="node5" href="$df/d13/namespace_im_gui.html#a1bd219dfb8ff3f8a40a9794ac50b897a" title="ImGui::SetWindowSize" alt="" coords="168,135,324,162"/>
+<area shape="rect" id="node3" href="$df/d0a/struct_im_gui_list_clipper.html#a0dc870fa31a56d3ace7625450f42937a" title="ImGuiListClipper::ImGuiList\lClipper" alt="" coords="381,5,561,47"/>
+<area shape="rect" id="node4" href="$df/d0a/struct_im_gui_list_clipper.html#ada915f0ae4446df73c1a2372bde65293" title="ImGuiListClipper::\l~ImGuiListClipper" alt="" coords="408,71,533,112"/>
+<area shape="rect" id="node6" href="$d5/d0a/imgui__demo_8cpp.html#a4f7b0b016c2ffd33836c3bdcf78ed97b" title="ShowExampleAppConstrained\lResize" alt="" coords="372,136,569,177"/>
+<area shape="rect" id="node7" href="$df/d13/namespace_im_gui.html#a52880ae1ecdd704a083558d31c9bfa50" title="ImGui::ShowTestWindow" alt="" coords="617,143,784,170"/>
+<area shape="rect" id="node8" href="$d5/d0a/imgui__demo_8cpp.html#a4dadf5e7b393795666d19af9694037cf" title="ShowExampleAppLongText" alt="" coords="832,143,1013,170"/>
+</map>

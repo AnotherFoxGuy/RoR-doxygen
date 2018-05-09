@@ -1,0 +1,12 @@
+<map id="SkyX::VClouds::VClouds::_getCamerasData" name="SkyX::VClouds::VClouds::_getCamerasData">
+<area shape="rect" id="node2" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a940aa0556854175161ad8c4a4dd47183" title="SkyX::VClouds::GeometryManager\l::_updateGeometry" alt="" coords="220,71,444,112"/>
+<area shape="rect" id="node8" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#ac2ab6237304f920fce09c292dea77c03" title="SkyX::VClouds::Lightning\lManager::update" alt="" coords="981,129,1151,171"/>
+<area shape="rect" id="node3" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#aa3f64cb1d5c283d2abdb007c28582917" title="SkyX::VClouds::GeometryManager\l::updateGeometry" alt="" coords="492,5,716,47"/>
+<area shape="rect" id="node6" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a5370543c6b2632ad3070a6e31f25e0da" title="SkyX::VClouds::GeometryManager\l::_getCurrentDistance" alt="" coords="492,71,716,112"/>
+<area shape="rect" id="node4" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a897f7d8b8357b460a9b1fbd559772c29" title="SkyX::VClouds::VClouds\l::notifyCameraRender" alt="" coords="765,5,932,47"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#aa333a7f4c33035ace1076046d4a5d24e" title="SkyX::VCloudsManager\l::notifyCameraRender" alt="" coords="987,5,1145,47"/>
+<area shape="rect" id="node7" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#ac5f0512aa494c97ee477c9e41492a360" title="SkyX::VClouds::Lightning\lManager::addLightning" alt="" coords="764,71,933,112"/>
+<area shape="rect" id="node9" href="$dc/dc9/class_sky_x_1_1_v_clouds_1_1_lightning_manager_1_1_listener.html#af265ea73234d9b7dfdb64fc017e7da88" title="SkyX::VClouds::Lightning\lManager::Listener::lightningAdded" alt="" coords="1199,71,1417,112"/>
+<area shape="rect" id="node10" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#acf68c63f12d3688b6adc295ca887a438" title="SkyX::VClouds::VClouds\l::update" alt="" coords="1225,136,1391,177"/>
+<area shape="rect" id="node11" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a7c25472c85244e6889b371384b5aff70" title="SkyX::VCloudsManager\l::update" alt="" coords="1465,136,1624,177"/>
+</map>

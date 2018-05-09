@@ -1,0 +1,12 @@
+<map id="CSimpleOptTempl::IsEqual" name="CSimpleOptTempl::IsEqual">
+<area shape="rect" id="node2" href="$d7/dac/class_c_simple_opt_templ.html#abad746a8d35e3fe673407ff266ff7b3c" title="CSimpleOptTempl::FindEquals" alt="" coords="232,120,432,147"/>
+<area shape="rect" id="node11" href="$d7/dac/class_c_simple_opt_templ.html#a524fb9b8413aca06c420681f963f7b5a" title="CSimpleOptTempl::CalcMatch" alt="" coords="691,247,888,273"/>
+<area shape="rect" id="node3" href="$d7/dac/class_c_simple_opt_templ.html#ac0eef4bbcc3097ff36af89be3c0b820f" title="Advance to the next option if available. " alt="" coords="480,95,643,121"/>
+<area shape="rect" id="node4" href="$d7/dac/class_c_simple_opt_templ.html#af2b5536c778b99478a2660ac29eeaeca" title="Query if a particular flag is set. " alt="" coords="698,44,881,71"/>
+<area shape="rect" id="node5" href="$d7/dac/class_c_simple_opt_templ.html#a0c5c2c54fed926f494165c8a4d9f90cd" title="CSimpleOptTempl::PrepareArg" alt="" coords="943,95,1143,121"/>
+<area shape="rect" id="node7" href="$d7/dac/class_c_simple_opt_templ.html#ad0ec3543a8272202a107ddbfee19a09d" title="Validate and return the desired number of arguments. " alt="" coords="1214,44,1397,71"/>
+<area shape="rect" id="node9" href="$d7/dac/class_c_simple_opt_templ.html#a9460ac3071a73d39be1f03a91cb445fc" title="CSimpleOptTempl::LookupOption" alt="" coords="936,145,1151,172"/>
+<area shape="rect" id="node6" href="$d7/dac/class_c_simple_opt_templ.html#a98e1e5ce28e5fc0ce8d72080549b11c8" title="Return the array of files. " alt="" coords="1475,171,1638,197"/>
+<area shape="rect" id="node8" href="$d7/dac/class_c_simple_opt_templ.html#a639f9bd8c610fede77853b978a29411d" title="Return the argument for the current option where one exists. " alt="" coords="1460,44,1653,71"/>
+<area shape="rect" id="node10" href="$d7/dac/class_c_simple_opt_templ.html#aed9c4aad06a9a50e41fe91c0102044e3" title="CSimpleOptTempl::NextClumped" alt="" coords="1199,196,1412,223"/>
+</map>

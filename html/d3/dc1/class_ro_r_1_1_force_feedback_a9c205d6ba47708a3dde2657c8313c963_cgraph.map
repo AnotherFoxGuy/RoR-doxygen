@@ -1,0 +1,6 @@
+<map id="RoR::ForceFeedback::Setup" name="RoR::ForceFeedback::Setup">
+<area shape="rect" id="node2" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="215,5,389,32"/>
+<area shape="rect" id="node3" href="$d3/d7b/class_input_engine.html#aed2314bed0c69f2d4db14f008741bc89" title="InputEngine::getForceFeedback\lDevice" alt="" coords="199,57,405,98"/>
+<area shape="rect" id="node4" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="277,123,327,149"/>
+<area shape="rect" id="node5" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="453,123,529,149"/>
+</map>

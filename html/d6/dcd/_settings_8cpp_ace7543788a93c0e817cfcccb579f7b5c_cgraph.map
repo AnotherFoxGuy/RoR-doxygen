@@ -1,0 +1,7 @@
+<map id="CheckSpeedoImperial" name="CheckSpeedoImperial">
+<area shape="rect" id="node2" href="$d6/dcd/_settings_8cpp.html#ac007ba2d8f00b7118c0f22de7f58ff0b" title="CheckBool" alt="" coords="201,5,287,32"/>
+<area shape="rect" id="node3" href="$d3/d93/class_ro_r_1_1_g_var_pod___a.html#a0ee26767138d80c4b9f19a9b9a000935" title="RoR::GVarPod_A::SetActive" alt="" coords="335,5,521,32"/>
+<area shape="rect" id="node4" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#ad62f8ee63f31124d7c51534341128496" title="RoR::GVarBase::LogSetActive" alt="" coords="569,5,768,32"/>
+<area shape="rect" id="node5" href="$dd/dd2/namespace_ro_r.html#a6523130e147fb219ca2b3a07479e0392" title="Improved logging utility. Uses fixed 2Kb buffer. " alt="" coords="816,5,933,32"/>
+<area shape="rect" id="node6" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="981,5,1057,32"/>
+</map>

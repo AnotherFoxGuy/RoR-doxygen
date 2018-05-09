@@ -1,0 +1,10 @@
+<map id="Hydrax::Module::Module::setNoise" name="Hydrax::Module::Module::setNoise">
+<area shape="rect" id="node2" href="$da/d26/class_hydrax_1_1_noise_1_1_noise.html#a68f6b9566fb7f62653dd6ed9702e286e" title="Hydrax::Noise::Noise\l::isCreated" alt="" coords="255,5,400,47"/>
+<area shape="rect" id="node3" href="$da/d26/class_hydrax_1_1_noise_1_1_noise.html#abe9cf8765feed765e6a35b0779125f6a" title="Hydrax::Noise::Noise\l::create" alt="" coords="255,71,400,112"/>
+<area shape="rect" id="node4" href="$d9/d88/class_hydrax_1_1_module_1_1_module.html#a522cdc115b168a9d73d9ae27d0ff997a" title="Hydrax::Module::Module\l::getNormalMode" alt="" coords="246,136,409,177"/>
+<area shape="rect" id="node5" href="$da/d26/class_hydrax_1_1_noise_1_1_noise.html#a59f0e03e88a5de69065838adc35ff2d8" title="Hydrax::Noise::Noise\l::createGPUNormalMapResources" alt="" coords="216,253,439,295"/>
+<area shape="rect" id="node6" href="$da/d26/class_hydrax_1_1_noise_1_1_noise.html#a9d3ca345d3f5b629e43ab276236d93b7" title="Hydrax::Noise::Noise\l::removeGPUNormalMapResources" alt="" coords="487,195,713,236"/>
+<area shape="rect" id="node9" href="$da/d26/class_hydrax_1_1_noise_1_1_noise.html#a74046c3585e881a2fd204f2d79155d14" title="Hydrax::Noise::Noise\l::getName" alt="" coords="255,319,400,360"/>
+<area shape="rect" id="node7" href="$da/d5f/class_hydrax_1_1_g_p_u_normal_map_manager.html#a3a9a24e5832aaa24f78025d1ba04f8a3" title="Hydrax::GPUNormalMapManager\l::remove" alt="" coords="761,224,976,265"/>
+<area shape="rect" id="node8" href="$d6/d76/class_hydrax_1_1_rtt_manager.html#a360139ed63706da8ca9ec04716d65574" title="Hydrax::RttManager\l::remove" alt="" coords="1024,224,1163,265"/>
+</map>

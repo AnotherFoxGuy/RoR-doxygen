@@ -1,0 +1,7 @@
+<map id="ImGui::TreeNodeBehaviorIsOpen" name="ImGui::TreeNodeBehaviorIsOpen">
+<area shape="rect" id="node2" href="$df/d15/struct_im_gui_storage.html#af83975ca841a9bd0e06a6ea0a41bf159" title="ImGuiStorage::SetInt" alt="" coords="263,56,406,83"/>
+<area shape="rect" id="node6" href="$df/d15/struct_im_gui_storage.html#ac86b64f5c69a15de6c6c326963eca64a" title="ImGuiStorage::GetInt" alt="" coords="263,5,407,32"/>
+<area shape="rect" id="node3" href="$da/d72/imgui_8cpp.html#aec0a4d5efcb537aa992092ebfaac8b68" title="LowerBound" alt="" coords="455,31,548,57"/>
+<area shape="rect" id="node5" href="$d9/de0/class_im_vector.html#a947fbc3b1d8c1997e51ae6caab440379" title="ImVector::end" alt="" coords="601,5,704,32"/>
+<area shape="rect" id="node4" href="$d9/de0/class_im_vector.html#a300a8b559cd87a78063046ef81151bce" title="ImVector::begin" alt="" coords="596,56,709,83"/>
+</map>

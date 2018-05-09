@@ -1,0 +1,9 @@
+<map id="SkyX::VClouds::GeometryManager" name="SkyX::VClouds::GeometryManager">
+<area shape="rect" id="node2" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html" title="SkyX::VClouds::VClouds" alt="" coords="441,58,608,85"/>
+<area shape="rect" id="node3" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html" title="SkyX::VClouds::DataManager" alt="" coords="800,149,995,175"/>
+<area shape="rect" id="node8" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html" title="SkyX::VClouds::Lightning\lManager" alt="" coords="813,5,982,47"/>
+<area shape="rect" id="node4" href="$d9/dcd/class_sky_x_1_1_v_clouds_1_1_fast_fake_random.html" title="SkyX::VClouds::FastFakeRandom" alt="" coords="415,171,635,198"/>
+<area shape="rect" id="node5" href="$dc/d27/struct_sky_x_1_1_v_clouds_1_1_data_manager_1_1_cell.html" title="SkyX::VClouds::DataManager\l::Cell" alt="" coords="427,224,622,265"/>
+<area shape="rect" id="node6" href="$d0/df2/struct_sky_x_1_1_v_clouds_1_1_v_clouds_1_1_render_queue_groups.html" title="SkyX::VClouds::VClouds\l::RenderQueueGroups" alt="" coords="34,73,201,115"/>
+<area shape="rect" id="node7" href="$da/d3c/struct_sky_x_1_1_v_clouds_1_1_v_clouds_1_1_geometry_settings.html" title="SkyX::VClouds::VClouds\l::GeometrySettings" alt="" coords="34,139,201,180"/>
+</map>

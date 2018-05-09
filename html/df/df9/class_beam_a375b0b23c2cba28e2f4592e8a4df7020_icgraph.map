@@ -1,0 +1,5 @@
+<map id="Beam::getBeamCount" name="Beam::getBeamCount">
+<area shape="rect" id="node2" href="$dd/def/class_replay.html#ad79bd7af263799cc790bbd5ea637af2f" title="Replay::Replay" alt="" coords="238,5,349,32"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="204,57,383,98"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="431,64,643,91"/>
+</map>

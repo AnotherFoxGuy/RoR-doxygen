@@ -1,0 +1,11 @@
+<map id="OverlayWrapper::UpdateAerialHUD" name="OverlayWrapper::UpdateAerialHUD">
+<area shape="rect" id="node2" href="$db/db4/class_aero_engine.html#a3455377c40761670b0b8d1b2b60098b5" title="AeroEngine::getThrottle" alt="" coords="297,5,456,32"/>
+<area shape="rect" id="node3" href="$db/db4/class_aero_engine.html#a92371208b22f9c2f28c6850a92bbec3d" title="AeroEngine::isFailed" alt="" coords="305,56,448,83"/>
+<area shape="rect" id="node4" href="$df/df9/class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="310,107,443,133"/>
+<area shape="rect" id="node5" href="$d3/ddd/class_autopilot.html#a1247754721954a0e32868907e7e51e1d" title="Autopilot::IsIlsAvailable" alt="" coords="299,157,454,184"/>
+<area shape="rect" id="node6" href="$d3/ddd/class_autopilot.html#af61097b686fc78799691293bf9223335" title="Autopilot::GetVerticalApproach\lDeviation" alt="" coords="276,209,477,250"/>
+<area shape="rect" id="node7" href="$d3/ddd/class_autopilot.html#aaad3c4a6461a43f5d8aa863bdfc891cc" title="Autopilot::GetHorizontal\lApproachDeviation" alt="" coords="297,274,457,315"/>
+<area shape="rect" id="node8" href="$db/db4/class_aero_engine.html#a427f0ecccc7b71c9188f0443448981c8" title="AeroEngine::getRPMpc" alt="" coords="297,340,456,367"/>
+<area shape="rect" id="node9" href="$db/db4/class_aero_engine.html#a6d67284b994e8fa6b6d2896feee03951" title="AeroEngine::getType" alt="" coords="305,391,448,417"/>
+<area shape="rect" id="node10" href="$db/db4/class_aero_engine.html#acee24708de2de2dd8491e6d404fa637b" title="AeroEngine::getIgnition" alt="" coords="299,441,455,468"/>
+</map>

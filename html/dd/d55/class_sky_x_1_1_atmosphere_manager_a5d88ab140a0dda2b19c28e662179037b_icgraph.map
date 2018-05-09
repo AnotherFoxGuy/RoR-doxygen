@@ -1,0 +1,10 @@
+<map id="SkyX::AtmosphereManager::_scale" name="SkyX::AtmosphereManager::_scale">
+<area shape="rect" id="node2" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#a88e37230ed8317e61149c7c95ce3a8ac" title="SkyX::AtmosphereManager\l::getColorAt" alt="" coords="233,35,413,76"/>
+<area shape="rect" id="node3" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#abcdfead934afa273afdeb542ab2633b2" title="SkyX::AtmosphereManager\l::getOptions" alt="" coords="461,64,641,105"/>
+<area shape="rect" id="node4" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#ac21bd19a89d1a9631ede722756a0ffb2" title="SkyX::CloudLayer::\l_updateInternalPassParameters" alt="" coords="705,35,912,76"/>
+<area shape="rect" id="node9" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#af949460a2e4caace1847cb0b251516a1" title="SkyX::GPUManager::addGroundPass" alt="" coords="689,101,928,127"/>
+<area shape="rect" id="node5" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#add18a961fbd1e2a0f2c700694d4c1069" title="SkyX::CloudLayer::\l_registerCloudLayer" alt="" coords="976,5,1113,47"/>
+<area shape="rect" id="node8" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#ab0033e0fd011bd90fde4bed4e0966ea2" title="SkyX::CloudLayer::getSun\lGradient" alt="" coords="1163,64,1338,105"/>
+<area shape="rect" id="node6" href="$dd/d89/class_sky_x_1_1_clouds_manager.html#a49f0f35194ca5363129f38e4958f26de" title="SkyX::CloudsManager::add" alt="" coords="1161,13,1340,39"/>
+<area shape="rect" id="node7" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="1388,5,1539,47"/>
+</map>

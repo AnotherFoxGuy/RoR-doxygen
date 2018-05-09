@@ -1,0 +1,6 @@
+<map id="Water::Water" name="Water::Water">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="153,15,380,42"/>
+<area shape="rect" id="node4" href="$dd/dd6/class_water.html#a98d7cc8713ec87e65c7fa85775d13fc2" title="Water::processWater" alt="" coords="193,67,340,94"/>
+<area shape="rect" id="node3" href="$d2/d9a/class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="445,5,613,47"/>
+<area shape="rect" id="node5" href="$df/d86/namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="428,71,629,98"/>
+</map>

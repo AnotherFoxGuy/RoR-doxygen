@@ -1,0 +1,8 @@
+<map id="SkyX::VClouds::DataManager::_performCalculations" name="SkyX::VClouds::DataManager::_performCalculations">
+<area shape="rect" id="node2" href="$d9/dcd/class_sky_x_1_1_v_clouds_1_1_fast_fake_random.html#aa452b0f2d0511e0913c3e367279ac630" title="SkyX::VClouds::FastFakeRandom::get" alt="" coords="248,5,495,32"/>
+<area shape="rect" id="node3" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#abd110de3d9abb1bb8d1c0f4ee1d6656a" title="SkyX::VClouds::DataManager\l::_fact" alt="" coords="274,57,469,98"/>
+<area shape="rect" id="node4" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a924caf7fd74797ed47dd910dbc736baf" title="SkyX::VClouds::DataManager\l::_getDensityAt" alt="" coords="274,122,469,163"/>
+<area shape="rect" id="node5" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a1fdbb73c54070573ef6a1044bfe74d4e" title="SkyX::VClouds::VClouds\l::getSunDirection" alt="" coords="288,187,455,229"/>
+<area shape="rect" id="node7" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html#a4ca9d6b3c01834b3e0a2cc36b932d3d4" title="SkyX::VClouds::DataManager\l::_getLightAbsorcionAt" alt="" coords="274,253,469,294"/>
+<area shape="rect" id="node6" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ad61914b822477e7a2f9502d68ffed256" title="SkyX::VClouds::VClouds\l::setSunColor" alt="" coords="543,187,709,229"/>
+</map>

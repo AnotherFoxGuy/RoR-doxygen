@@ -1,0 +1,108 @@
+<map id="RigSpawner::SpawnRig" name="RigSpawner::SpawnRig">
+<area shape="rect" id="node2" href="$db/d35/class_rig_spawner.html#ab809acb388f153ec16f847a4c9147150" title="RigSpawner::InitializeRig" alt="" coords="239,5,405,32"/>
+<area shape="rect" id="node5" href="$db/d35/class_rig_spawner.html#ab6d255de6e33ccbf52e6a1a56559228b" title="RigSpawner::ProcessAuthors" alt="" coords="226,224,418,251"/>
+<area shape="rect" id="node6" href="$db/d35/class_rig_spawner.html#a1907068b56557a26ee1aa7278791510a" title="RigSpawner::ProcessFileInfo" alt="" coords="228,275,416,301"/>
+<area shape="rect" id="node7" href="$db/d35/class_rig_spawner.html#a6bfcada82322e490117f4f5441665830" title="RigSpawner::AddMessage" alt="" coords="235,325,409,352"/>
+<area shape="rect" id="node9" href="$db/d35/class_rig_spawner.html#a696ca2325d4e8c656f5aca09088ec057" title="RigSpawner::ProcessManaged\lMaterial" alt="" coords="222,158,422,199"/>
+<area shape="rect" id="node12" href="$db/d35/class_rig_spawner.html#aa7118fc14a29ece0a25b88d4ab200637" title="RigSpawner::ProcessGlobals" alt="" coords="227,107,417,133"/>
+<area shape="rect" id="node13" href="$db/d35/class_rig_spawner.html#a1248b17ea206957ff076511d1e5d05cb" title="RigSpawner::ProcessHelp" alt="" coords="235,376,409,403"/>
+<area shape="rect" id="node14" href="$db/d35/class_rig_spawner.html#a8202cecbd7d7d1f2eb7746d64a3268e4" title="RigSpawner::ProcessEngine" alt="" coords="229,427,415,453"/>
+<area shape="rect" id="node15" href="$db/d35/class_rig_spawner.html#a92c3f1643c7895354422b2626da1e068" title="RigSpawner::ProcessEngoption" alt="" coords="219,477,425,504"/>
+<area shape="rect" id="node16" href="$db/d35/class_rig_spawner.html#af93be1acad4eeedcfd08089422127016" title="RigSpawner::ProcessEngturbo" alt="" coords="223,528,421,555"/>
+<area shape="rect" id="node17" href="$db/d35/class_rig_spawner.html#a8b8a48940590458417c9ceb088590f92" title="RigSpawner::ProcessTorque\lCurve" alt="" coords="229,630,415,671"/>
+<area shape="rect" id="node23" href="$db/d35/class_rig_spawner.html#aeb069709d933c8bbf189a97ce5ab9ddd" title="RigSpawner::ProcessBrakes" alt="" coords="228,797,416,824"/>
+<area shape="rect" id="node24" href="$db/d35/class_rig_spawner.html#a34e4dc9a27bce1c49b72ce5feb4ebaae" title="RigSpawner::ProcessGuiSettings" alt="" coords="215,848,429,875"/>
+<area shape="rect" id="node25" href="$db/d35/class_rig_spawner.html#a6518929c282a78ec26de9cf88a3c2032" title="RigSpawner::ProcessNode" alt="" coords="233,579,411,605"/>
+<area shape="rect" id="node30" href="$db/d35/class_rig_spawner.html#ab5cc550460b6d5c4d080ad24fe2eaa70" title="RigSpawner::AddExhaust" alt="" coords="237,899,407,925"/>
+<area shape="rect" id="node31" href="$db/d35/class_rig_spawner.html#ab2cc93fdfa0364ff987f1ae89713ca05" title="RigSpawner::ProcessCinecam" alt="" coords="223,949,421,976"/>
+<area shape="rect" id="node32" href="$db/d35/class_rig_spawner.html#a3cc8237ac98ac9453a265fd4c1b90b1d" title="RigSpawner::ProcessWheel" alt="" coords="230,1000,414,1027"/>
+<area shape="rect" id="node33" href="$db/d35/class_rig_spawner.html#ad597832deb63331a7fa460a4182103fd" title="RigSpawner::ProcessWheel2" alt="" coords="227,1051,417,1077"/>
+<area shape="rect" id="node34" href="$db/d35/class_rig_spawner.html#ad72c148d1e31707da1c46f6db608a4fa" title="RigSpawner::ProcessMeshWheel" alt="" coords="214,1101,430,1128"/>
+<area shape="rect" id="node35" href="$db/d35/class_rig_spawner.html#a43eb5f3c5ba8560b2565280460fc2ebe" title="RigSpawner::ProcessMeshWheel2" alt="" coords="211,1152,433,1179"/>
+<area shape="rect" id="node36" href="$db/d35/class_rig_spawner.html#a74b318d0efa34034129ae112311faa4c" title="RigSpawner::ProcessFlexBody\lWheel" alt="" coords="221,1305,423,1346"/>
+<area shape="rect" id="node38" href="$db/d35/class_rig_spawner.html#a333ca2cddb25ae4e44ae2f03d7ba557f" title="RigSpawner::ProcessWheel\lDetacher" alt="" coords="230,1473,414,1514"/>
+<area shape="rect" id="node39" href="$db/d35/class_rig_spawner.html#ae2e38a24de01d01f94de5755b3111f8e" title="RigSpawner::ProcessBeam" alt="" coords="231,1589,413,1616"/>
+<area shape="rect" id="node41" href="$db/d35/class_rig_spawner.html#a05206213c0eaec3c3bf0571cbe48d1d5" title="RigSpawner::ProcessShock" alt="" coords="230,1691,414,1717"/>
+<area shape="rect" id="node42" href="$db/d35/class_rig_spawner.html#a0b341e8598fdf987065bf608b768cbbe" title="RigSpawner::ProcessShock2" alt="" coords="227,1741,417,1768"/>
+<area shape="rect" id="node43" href="$db/d35/class_rig_spawner.html#aed4c991796b214da85294fe6d4964c42" title="RigSpawner::ProcessCommand" alt="" coords="219,1792,425,1819"/>
+<area shape="rect" id="node44" href="$db/d35/class_rig_spawner.html#aecb79e73c17cd72c117c6d945be89ad1" title="RigSpawner::ProcessHydro" alt="" coords="231,1843,413,1869"/>
+<area shape="rect" id="node45" href="$db/d35/class_rig_spawner.html#a647a78efc082c2d22d7fd6de5fbfad2d" title="RigSpawner::ProcessTrigger" alt="" coords="229,696,415,723"/>
+<area shape="rect" id="node48" href="$db/d35/class_rig_spawner.html#af7cb339584c08658261d9c83374575e8" title="RigSpawner::ProcessRope" alt="" coords="233,1893,411,1920"/>
+<area shape="rect" id="node49" href="$db/d35/class_rig_spawner.html#aed4b3201cb9833f45b8b516ba0e0ac08" title="RigSpawner::ProcessAntiLock\lBrakes" alt="" coords="223,1945,421,1986"/>
+<area shape="rect" id="node50" href="$db/d35/class_rig_spawner.html#ac542d3289a8cd0239057791143a6ecec" title="RigSpawner::ProcessSlope\lBrake" alt="" coords="232,2010,412,2051"/>
+<area shape="rect" id="node51" href="$db/d35/class_rig_spawner.html#a54a1ce38af4b4965580dd13afcd85166" title="RigSpawner::ProcessFlare2" alt="" coords="231,2076,413,2103"/>
+<area shape="rect" id="node52" href="$db/d35/class_rig_spawner.html#a629bef5e7c13c56fde46472b3adaa8fa" title="RigSpawner::ProcessAxle" alt="" coords="235,1640,409,1667"/>
+<area shape="rect" id="node59" href="$db/d35/class_rig_spawner.html#a8fd7b6233073533d73e8f0f35d9869b6" title="RigSpawner::ProcessSubmesh" alt="" coords="221,2127,423,2153"/>
+<area shape="rect" id="node60" href="$db/d35/class_rig_spawner.html#a4d89ec70342e6ad29e69169e2e15e9d9" title="RigSpawner::ProcessSubmesh\lGroundmodel" alt="" coords="221,2178,423,2219"/>
+<area shape="rect" id="node61" href="$db/d35/class_rig_spawner.html#af10179cd62d0fe5e448991f08bb834a8" title="RigSpawner::ProcessContacter" alt="" coords="221,2244,423,2271"/>
+<area shape="rect" id="node62" href="$db/d35/class_rig_spawner.html#a3d955c75682e99343116ea14a162cf23" title="RigSpawner::ProcessCamera" alt="" coords="226,1371,418,1397"/>
+<area shape="rect" id="node63" href="$db/d35/class_rig_spawner.html#a8e4ea854f11dd22badc2ff123ea60209" title="RigSpawner::ProcessHook" alt="" coords="233,1539,411,1565"/>
+<area shape="rect" id="node64" href="$db/d35/class_rig_spawner.html#aa370ffcbca4b2189d90b70f470cea251" title="RigSpawner::ProcessTie" alt="" coords="240,2295,404,2321"/>
+<area shape="rect" id="node65" href="$db/d35/class_rig_spawner.html#acd9a714252d4a928392f19a17e7dc63d" title="RigSpawner::ProcessRopable" alt="" coords="225,2345,419,2372"/>
+<area shape="rect" id="node66" href="$db/d35/class_rig_spawner.html#a7f344c61c37b326481901ce0035e5e2d" title="RigSpawner::ProcessWing" alt="" coords="233,2396,411,2423"/>
+<area shape="rect" id="node68" href="$db/d35/class_rig_spawner.html#afcd325c22640d901cd34de93f0484740" title="RigSpawner::ProcessAnimator" alt="" coords="223,2447,421,2473"/>
+<area shape="rect" id="node69" href="$db/d35/class_rig_spawner.html#ae6d53587a8a4657eaa515bcc014a5a0d" title="RigSpawner::ProcessAirbrake" alt="" coords="225,2497,419,2524"/>
+<area shape="rect" id="node70" href="$db/d35/class_rig_spawner.html#af624d28fa414e43d4c1c11013cc3cb2c" title="RigSpawner::ProcessFusedrag" alt="" coords="221,2548,423,2575"/>
+<area shape="rect" id="node71" href="$db/d35/class_rig_spawner.html#acacd7c6417f8125aea2cc9b32a757c3a" title="RigSpawner::ProcessTurbojet" alt="" coords="225,2599,419,2625"/>
+<area shape="rect" id="node73" href="$db/d35/class_rig_spawner.html#a3111af9b13e45b26f7942a7707e6a57e" title="RigSpawner::ProcessProp" alt="" coords="235,747,409,773"/>
+<area shape="rect" id="node80" href="$db/d35/class_rig_spawner.html#a1955c4ecd511a27e696ba7ec68ed44ce" title="RigSpawner::ProcessTraction\lControl" alt="" coords="225,2650,419,2691"/>
+<area shape="rect" id="node81" href="$db/d35/class_rig_spawner.html#a2dfd3b213f6dec9acb16f98c2bc22e8f" title="RigSpawner::ProcessRotator" alt="" coords="227,2716,417,2743"/>
+<area shape="rect" id="node82" href="$db/d35/class_rig_spawner.html#ae8abbbcd92ac624d224f4cb026df76c5" title="RigSpawner::ProcessRotator2" alt="" coords="224,2767,420,2793"/>
+<area shape="rect" id="node83" href="$db/d35/class_rig_spawner.html#aef77411c75ecb73eeeb5272b086d0d0a" title="RigSpawner::ProcessLockgroup" alt="" coords="219,2817,425,2844"/>
+<area shape="rect" id="node84" href="$db/d35/class_rig_spawner.html#a2a63b83576a68f2a2b924a6c86c2831d" title="RigSpawner::ProcessRailGroup" alt="" coords="220,2868,424,2895"/>
+<area shape="rect" id="node85" href="$db/d35/class_rig_spawner.html#aeb9cc73a5856b289f91e6a46115a01ad" title="RigSpawner::ProcessSlidenode" alt="" coords="220,2919,424,2945"/>
+<area shape="rect" id="node93" href="$db/d35/class_rig_spawner.html#a938a03dda6953c2f8fd9dfe12294ee41" title="RigSpawner::ProcessParticle" alt="" coords="227,2969,417,2996"/>
+<area shape="rect" id="node94" href="$db/d35/class_rig_spawner.html#af240339d0174a8f4681f165958a2d9b7" title="RigSpawner::ProcessCruise\lControl" alt="" coords="230,3021,414,3062"/>
+<area shape="rect" id="node95" href="$db/d35/class_rig_spawner.html#a04b41c52378956d8019f61074113c19f" title="RigSpawner::ProcessSpeed\lLimiter" alt="" coords="230,3086,414,3127"/>
+<area shape="rect" id="node96" href="$db/d35/class_rig_spawner.html#abc4647a96c0e44974ff864b08fe0a91d" title="RigSpawner::ProcessCollisionBox" alt="" coords="213,3152,431,3179"/>
+<area shape="rect" id="node97" href="$db/d35/class_rig_spawner.html#a31feba4779a64c68fb6de0be028187dc" title="RigSpawner::ProcessExhaust" alt="" coords="225,3203,419,3229"/>
+<area shape="rect" id="node98" href="$db/d35/class_rig_spawner.html#abddfa26ec5b9f17139da7b7bf20f56c1" title="RigSpawner::ProcessExtCamera" alt="" coords="216,1421,428,1448"/>
+<area shape="rect" id="node99" href="$db/d35/class_rig_spawner.html#a017de832430caece45a8879de76cad11" title="RigSpawner::ProcessCameraRail" alt="" coords="215,3253,429,3280"/>
+<area shape="rect" id="node100" href="$db/d35/class_rig_spawner.html#a643088a29570e0b12f957bdade550158" title="RigSpawner::ProcessPistonprop" alt="" coords="217,1203,427,1229"/>
+<area shape="rect" id="node101" href="$db/d35/class_rig_spawner.html#ac9e3aae25c447cd74119da20c8dffeb4" title="RigSpawner::ProcessTurboprop2" alt="" coords="217,1253,427,1280"/>
+<area shape="rect" id="node102" href="$db/d35/class_rig_spawner.html#a9e6dcd099a17b39397c8cc63ede72ab2" title="RigSpawner::ProcessScrewprop" alt="" coords="218,3304,426,3331"/>
+<area shape="rect" id="node103" href="$db/d35/class_rig_spawner.html#a0334633998229eb32eff7a420c0a59c9" title="RigSpawner::ProcessFlexbody" alt="" coords="222,3355,422,3381"/>
+<area shape="rect" id="node104" href="$db/d35/class_rig_spawner.html#a9cf2655ecc490b4c5bd63a5ac69062e5" title="RigSpawner::ProcessFixedNode" alt="" coords="217,3405,427,3432"/>
+<area shape="rect" id="node105" href="$db/d35/class_rig_spawner.html#a2123d95b64fb832999c7e6a0e01e4fa5" title="RigSpawner::ProcessSound\lSource" alt="" coords="230,3457,414,3498"/>
+<area shape="rect" id="node106" href="$db/d35/class_rig_spawner.html#aa1d24676d205cc7c313258b914187a64" title="RigSpawner::ProcessSound\lSource2" alt="" coords="230,3522,414,3563"/>
+<area shape="rect" id="node107" href="$db/d35/class_rig_spawner.html#a5396849b5b3d28cdd02a408803e14851" title="RigSpawner::FinalizeRig" alt="" coords="241,56,403,83"/>
+<area shape="rect" id="node3" href="$d7/d85/class_dust_manager.html#a01145e464e1e5fb0fd2d90b115504640" title="DustManager::getDustPool" alt="" coords="493,5,671,32"/>
+<area shape="rect" id="node4" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#ae2fa22407ec624ee62a348021de98ea4" title="RoR::OgreSubsystem\l::GetMaterialByName" alt="" coords="507,74,657,115"/>
+<area shape="rect" id="node8" href="$d3/dc5/struct_rig_def_1_1_file.html#aecfdfd70221c860aebb6edf3f40d78d2" title="RigDef::File::KeywordToString" alt="" coords="485,325,679,352"/>
+<area shape="rect" id="node10" href="$dc/d34/struct_rig_def_1_1_managed_material.html#ac103fdc5fb34c014b05e4edbaa31e3e6" title="RigDef::ManagedMaterial\l::HasDamagedDiffuseMap" alt="" coords="496,214,668,255"/>
+<area shape="rect" id="node11" href="$dc/d34/struct_rig_def_1_1_managed_material.html#a0a78525bf6a3ed403ad367f851d26a34" title="RigDef::ManagedMaterial\l::HasSpecularMap" alt="" coords="499,149,665,190"/>
+<area shape="rect" id="node18" href="$d8/d12/class_torque_curve.html#a9e4decb6a9bd46ea604995d15b20007f" title="TorqueCurve::setTorqueModel" alt="" coords="736,583,929,609"/>
+<area shape="rect" id="node21" href="$d8/d12/class_torque_curve.html#aee98faa6b93b58a0ba7b4a76a32e2700" title="TorqueCurve::CreateNewCurve" alt="" coords="484,583,680,609"/>
+<area shape="rect" id="node22" href="$d8/d12/class_torque_curve.html#a16cb0f36ed41f96e4f2d67f9e57643d7" title="TorqueCurve::AddCurveSample" alt="" coords="482,481,682,508"/>
+<area shape="rect" id="node19" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="1037,608,1086,635"/>
+<area shape="rect" id="node20" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="1188,608,1264,635"/>
+<area shape="rect" id="node26" href="$de/db5/class_rig_def_1_1_node_1_1_id.html#aa25736a01a4ca045abbd01c08c825e31" title="RigDef::Node::Id::Num" alt="" coords="507,380,657,407"/>
+<area shape="rect" id="node27" href="$de/db5/class_rig_def_1_1_node_1_1_id.html#aa44f90fa58c88412b19a3500a8c8866c" title="RigDef::Node::Id::Invalidate" alt="" coords="744,380,921,407"/>
+<area shape="rect" id="node28" href="$de/db5/class_rig_def_1_1_node_1_1_id.html#ad1f6fc5f5438b596e3296582154341fc" title="RigDef::Node::Id::ToString" alt="" coords="747,329,919,356"/>
+<area shape="rect" id="node29" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a1d96ed1deceb63351be15c250a67ea08" title="RigDef::Node::Ref::Str" alt="" coords="986,329,1137,356"/>
+<area shape="rect" id="node37" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a38923aee8dad0a3146012009fb2e109d" title="RigDef::Node::Ref::\lIsValidAnyState" alt="" coords="515,1305,649,1346"/>
+<area shape="rect" id="node40" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a84b62d4c0f12249e81d684e880432cf3" title="RigDef::Node::Ref::\lToString" alt="" coords="515,1578,649,1619"/>
+<area shape="rect" id="node46" href="$df/db2/struct_rig_def_1_1_trigger.html#a9289882a3ad6be2221eb10a9a5f7e638" title="RigDef::Trigger::IsTrigger\lBlockerAnyType" alt="" coords="500,750,664,791"/>
+<area shape="rect" id="node47" href="$df/db2/struct_rig_def_1_1_trigger.html#a781493c1eee518042e4503faa8f8697b" title="RigDef::Trigger::IsHookToggle\lTrigger" alt="" coords="485,685,679,726"/>
+<area shape="rect" id="node53" href="$d7/d8b/class_axle.html#a586be91663e139cca504c12a4f98f104" title="Axle::addDiffType" alt="" coords="521,1644,643,1671"/>
+<area shape="rect" id="node54" href="$d7/d8b/class_axle.html#a7ee763611feb62996e46ccf5e96f63d0" title="Axle::getDiffEquation" alt="" coords="761,1644,904,1671"/>
+<area shape="rect" id="node55" href="$d7/d8b/class_axle.html#a11508356c463452848fda048dbb6d350" title="a differential that always splits the torque evenly, this is the original method " alt="" coords="983,1669,1140,1696"/>
+<area shape="rect" id="node56" href="$d7/d8b/class_axle.html#a3aa3e493320a279e3bd1828655e6966f" title="viscous coupler, the greater the difference in speed the more torque is transfered ..." alt="" coords="989,1720,1134,1747"/>
+<area shape="rect" id="node57" href="$d7/d8b/class_axle.html#a555d076e3aa3bfe70f91d6d625d51de3" title="more power goes to the faster spining wheel " alt="" coords="997,1568,1126,1595"/>
+<area shape="rect" id="node58" href="$d7/d8b/class_axle.html#a3053f4ee933712559c5306f6077b2d1b" title="ensures both wheels rotate at the the same speed " alt="" coords="991,1619,1131,1645"/>
+<area shape="rect" id="node67" href="$d2/d3b/class_flex_airfoil.html#a5de78c556113cc59c793837dba1c8afd" title="FlexAirfoil::enableInducedDrag" alt="" coords="483,2396,681,2423"/>
+<area shape="rect" id="node72" href="$d1/dea/class_turbojet.html#a039655378c71ad28ad72143c3f894ca8" title="Turbojet::SetupVisuals" alt="" coords="505,2599,659,2625"/>
+<area shape="rect" id="node74" href="$dc/d69/class_mesh_object.html#ab5d7575b61e5751d3e6dd6bb476c3d89" title="MeshObject::getEntity" alt="" coords="506,917,658,944"/>
+<area shape="rect" id="node75" href="$dc/d69/class_mesh_object.html#a263f9814d946dc49c8f5d4003e945f24" title="MeshObject::setCastShadows" alt="" coords="483,968,681,995"/>
+<area shape="rect" id="node76" href="$dc/d69/class_mesh_object.html#aa1f80776138c7c5e2d2570c3e8646c16" title="MeshObject::setMaterialName" alt="" coords="483,1069,681,1096"/>
+<area shape="rect" id="node77" href="$dc/d69/class_mesh_object.html#ad468117b79b93494a9a193f56970b5df" title="MeshObject::GetSceneNode" alt="" coords="488,816,676,843"/>
+<area shape="rect" id="node78" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="495,867,669,893"/>
+<area shape="rect" id="node79" href="$d3/d7b/class_input_engine.html#a31686978ff9fe35d93d467ef33149b10" title="InputEngine::resolveEventName" alt="" coords="731,851,935,877"/>
+<area shape="rect" id="node86" href="$d5/def/class_slide_node.html#adcee5a4e21607e9f5a6ff1fb00603141" title="distance from a beam before corrective forces take effect " alt="" coords="501,2919,663,2945"/>
+<area shape="rect" id="node87" href="$d5/def/class_slide_node.html#a858bcffba2de9eb8f79a424f852093b6" title="spring force used to calculate corrective forces " alt="" coords="497,2969,667,2996"/>
+<area shape="rect" id="node88" href="$d5/def/class_slide_node.html#adafe888657c615c57d9a2639a1450136" title="how long it will take for springs to fully attach to the Rail " alt="" coords="481,3020,683,3047"/>
+<area shape="rect" id="node89" href="$d5/def/class_slide_node.html#aa24c32635f4321d6b2c705e9f68390b3" title="Force required to break the Node from the Rail. " alt="" coords="495,3071,669,3097"/>
+<area shape="rect" id="node90" href="$d5/def/class_slide_node.html#a7a772c740bf9fe5cb348cf9d7e3bb946" title="maximum distance this spring node is allowed to reach out for a Rail " alt="" coords="495,2751,669,2793"/>
+<area shape="rect" id="node91" href="$d5/def/class_slide_node.html#a5db88b8bdb7a128da91a18514ceac2d3" title="SlideNode::setAttachRule" alt="" coords="497,2817,667,2844"/>
+<area shape="rect" id="node92" href="$d5/def/class_slide_node.html#a1e7f3cdbbe2d0ae1085caa1207882355" title="SlideNode::setDefaultRail" alt="" coords="497,2868,667,2895"/>
+</map>

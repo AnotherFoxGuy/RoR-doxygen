@@ -1,0 +1,6 @@
+<map id="SkyX::CloudsManager::registerAll" name="SkyX::CloudsManager::registerAll">
+<area shape="rect" id="node2" href="$de/db3/class_sky_x_1_1_sky_x.html#a1624a12caa49011e0b96ac15e0c8f524" title="SkyX::SkyX::getGPUManager" alt="" coords="216,5,411,32"/>
+<area shape="rect" id="node3" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ac6327911c4478d527fdf264f0a28ea34" title="SkyX::GPUManager::getSkydome\lMaterialName" alt="" coords="204,57,423,98"/>
+<area shape="rect" id="node4" href="$de/db3/class_sky_x_1_1_sky_x.html#a6d16561c0c0c4d6ebbf9ae3ca4abd963" title="SkyX::SkyX::isStarfieldEnabled" alt="" coords="471,39,673,65"/>
+<area shape="rect" id="node5" href="$de/db3/class_sky_x_1_1_sky_x.html#a3f20af6ba71e7a5a177d10533944179a" title="SkyX::SkyX::getLightingMode" alt="" coords="475,89,669,116"/>
+</map>

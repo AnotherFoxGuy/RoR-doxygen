@@ -1,0 +1,12 @@
+<map id="RigDef::Parser::ParseCollisionBox" name="RigDef::Parser::ParseCollisionBox">
+<area shape="rect" id="node2" href="$d1/da8/class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="273,166,477,193"/>
+<area shape="rect" id="node3" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#ada562d6df02ffd616a611f8bac249f05" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="533,129,709,171"/>
+<area shape="rect" id="node11" href="$d1/da8/class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="525,195,716,222"/>
+<area shape="rect" id="node4" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#ad9fb7d3deecbb9f94ac85ff061459795" title="RigDef::SequentialImporter\l::AddNumberedNode" alt="" coords="764,5,940,47"/>
+<area shape="rect" id="node6" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a0d1350e2b0c44cff66a9c73c17baf9dd" title="RigDef::SequentialImporter\l::AddNamedNode" alt="" coords="764,71,940,112"/>
+<area shape="rect" id="node7" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a5f5e30fbc3b2f58adb15a8f64bbecd15" title="RigDef::SequentialImporter\l::AddGeneratedNode" alt="" coords="988,163,1164,204"/>
+<area shape="rect" id="node8" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a639c4f71bc37fc08f02a5b603ee14033" title="RigDef::SequentialImporter\l::GenerateNodesForWheel" alt="" coords="764,188,940,229"/>
+<area shape="rect" id="node9" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a69601c62b1bf9030cd2e2b03a926bc04" title="Traverse whole rig definition and resolve all node references. " alt="" coords="764,253,940,295"/>
+<area shape="rect" id="node5" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#abbbd9a34cae153cb481b6c61a7927a97" title="RigDef::SequentialImporter\l::AddMessage" alt="" coords="988,39,1164,80"/>
+<area shape="rect" id="node10" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#aaabc36a84be7e26a7d0790f04fa882c1" title="RigDef::SequentialImporter\l::ProcessModule" alt="" coords="988,253,1164,295"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RigSpawner::ProcessManagedMaterial" name="RigSpawner::ProcessManagedMaterial">
+<area shape="rect" id="node2" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#ae2fa22407ec624ee62a348021de98ea4" title="RoR::OgreSubsystem\l::GetMaterialByName" alt="" coords="265,5,414,47"/>
+<area shape="rect" id="node3" href="$dc/d34/struct_rig_def_1_1_managed_material.html#ac103fdc5fb34c014b05e4edbaa31e3e6" title="RigDef::ManagedMaterial\l::HasDamagedDiffuseMap" alt="" coords="253,71,425,112"/>
+<area shape="rect" id="node4" href="$dc/d34/struct_rig_def_1_1_managed_material.html#a0a78525bf6a3ed403ad367f851d26a34" title="RigDef::ManagedMaterial\l::HasSpecularMap" alt="" coords="256,136,423,177"/>
+</map>

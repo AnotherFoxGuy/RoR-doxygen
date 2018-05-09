@@ -1,0 +1,22 @@
+<map id="source/main/gui/panels/GUI_DebugOptions.cpp" name="source/main/gui/panels/GUI_DebugOptions.cpp">
+<area shape="rect" id="node2" href="$da/d7c/_g_u_i___debug_options_8h.html" title="GUI_DebugOptions.h" alt="" coords="387,95,531,121"/>
+<area shape="rect" id="node6" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1197,468,1331,495"/>
+<area shape="rect" id="node26" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="1749,169,1846,196"/>
+<area shape="rect" id="node30" href="$d9/dc1/_utils_8h.html" title="Utils.h" alt="" coords="824,319,883,345"/>
+<area shape="rect" id="node37" href="$dc/d49/_ro_r_version_8h.html" title="RoRVersion.h" alt="" coords="1699,95,1802,121"/>
+<area shape="rect" id="node38" href="$dc/d74/_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="2454,95,2530,121"/>
+<area shape="rect" id="node40" href="$dc/d4b/_language_8h.html" title="Language.h" alt="" coords="1451,319,1541,345"/>
+<area shape="rect" id="node44" href="$db/db6/_main_menu_8h.html" title="MainMenu.h" alt="" coords="1443,95,1536,121"/>
+<area shape="rect" id="node3" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1337,617,1487,644"/>
+<area shape="rect" id="node4" href="$dc/db8/_g_u_i___debug_options_layout_8h.html" title="GUI_DebugOptionsLayout.h" alt="" coords="367,169,550,196"/>
+<area shape="rect" id="node5" href="$d8/d63/_base_layout_8h.html" title="BaseLayout.h" alt="" coords="1002,244,1105,271"/>
+<area shape="rect" id="node24" href="$d9/dfd/_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="955,319,1075,345"/>
+<area shape="rect" id="node18" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1341,543,1483,569"/>
+<area shape="rect" id="node19" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1507,543,1677,569"/>
+<area shape="rect" id="node20" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2466,543,2547,569"/>
+<area shape="rect" id="node25" href="$d8/d8c/_attribute_8h.html" title="Attribute.h" alt="" coords="944,393,1027,420"/>
+<area shape="rect" id="node32" href="$d0/d03/checked_8h.html" title="utf8/checked.h" alt="" coords="461,393,568,420"/>
+<area shape="rect" id="node36" href="$d8/d61/unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="593,393,714,420"/>
+<area shape="rect" id="node33" href="$d5/dc4/core_8h.html" title="core.h" alt="" coords="532,468,591,495"/>
+<area shape="rect" id="node41" href="$de/dec/_singleton_8h.html" title="Singleton.h" alt="" coords="1302,393,1389,420"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SkyX::VClouds::LightningManager::updateMaterial" name="SkyX::VClouds::LightningManager::updateMaterial">
+<area shape="rect" id="node2" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#ac2ab6237304f920fce09c292dea77c03" title="SkyX::VClouds::Lightning\lManager::update" alt="" coords="223,67,392,108"/>
+<area shape="rect" id="node3" href="$dc/dc9/class_sky_x_1_1_v_clouds_1_1_lightning_manager_1_1_listener.html#af265ea73234d9b7dfdb64fc017e7da88" title="SkyX::VClouds::Lightning\lManager::Listener::lightningAdded" alt="" coords="440,5,659,47"/>
+<area shape="rect" id="node6" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a897f7d8b8357b460a9b1fbd559772c29" title="SkyX::VClouds::VClouds\l::notifyCameraRender" alt="" coords="224,133,391,175"/>
+<area shape="rect" id="node4" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#acf68c63f12d3688b6adc295ca887a438" title="SkyX::VClouds::VClouds\l::update" alt="" coords="466,71,633,112"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a7c25472c85244e6889b371384b5aff70" title="SkyX::VCloudsManager\l::update" alt="" coords="707,71,865,112"/>
+<area shape="rect" id="node7" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#aa333a7f4c33035ace1076046d4a5d24e" title="SkyX::VCloudsManager\l::notifyCameraRender" alt="" coords="470,136,629,177"/>
+</map>

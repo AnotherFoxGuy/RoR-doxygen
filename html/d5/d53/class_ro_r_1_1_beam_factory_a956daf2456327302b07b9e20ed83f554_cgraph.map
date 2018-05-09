@@ -1,0 +1,7 @@
+<map id="RoR::BeamFactory::AreTrucksForcedActive" name="RoR::BeamFactory::AreTrucksForcedActive">
+<area shape="rect" id="node2" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a9333deda4962b746b4ee376c0ea15c88" title="RoR::BeamFactory::recalc\lGravityMasses" alt="" coords="258,5,434,47"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a36cdabb2cae397b3ecb2a8cf2b19373f" title="RoR::BeamFactory::activate\lAllTrucks" alt="" coords="253,71,439,112"/>
+<area shape="rect" id="node6" href="$d5/d53/class_ro_r_1_1_beam_factory.html#af95451ca8a2d16439a0f68a49f26c5fb" title="RoR::BeamFactory::sendAll\lTrucksSleeping" alt="" coords="254,136,438,177"/>
+<area shape="rect" id="node3" href="$df/df9/class_beam.html#ad33c15d83cbf749972d737f046ce80c1" title="Beam::recalc_masses" alt="" coords="506,13,658,39"/>
+<area shape="rect" id="node5" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="487,78,677,105"/>
+</map>

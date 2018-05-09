@@ -1,0 +1,18 @@
+<map id="Hydrax::MaterialManager::_createUnderwaterCompositor" name="Hydrax::MaterialManager::_createUnderwaterCompositor">
+<area shape="rect" id="node2" href="$da/d12/class_hydrax_1_1_material_manager.html#a078a5df20ad9d72c0f341c41fb4b9119" title="Hydrax::MaterialManager\l::_isComponent" alt="" coords="278,5,445,47"/>
+<area shape="rect" id="node3" href="$da/d12/class_hydrax_1_1_material_manager.html#a648e7cd626194ea34c31a4bf422cdf4d" title="Hydrax::MaterialManager\l::getMaterial" alt="" coords="278,71,445,112"/>
+<area shape="rect" id="node4" href="$da/d12/class_hydrax_1_1_material_manager.html#a9374e09a2d918becab5db16240d2b8e1" title="Hydrax::MaterialManager\l::fillGpuProgramsToPass" alt="" coords="278,136,445,177"/>
+<area shape="rect" id="node6" href="$dd/d65/class_hydrax_1_1_hydrax.html#aaee3aba332eb7e78086aff658acae305" title="Hydrax::Hydrax::getWater\lColor" alt="" coords="275,201,448,243"/>
+<area shape="rect" id="node7" href="$dd/d65/class_hydrax_1_1_hydrax.html#a1925e17762ef3f877273bce23a42acab" title="Hydrax::Hydrax::getCaustics\lPower" alt="" coords="267,267,456,308"/>
+<area shape="rect" id="node8" href="$dd/d65/class_hydrax_1_1_hydrax.html#acf7a138c6149083431bcaa1500c29f4a" title="Hydrax::Hydrax::getSunColor" alt="" coords="266,333,457,359"/>
+<area shape="rect" id="node9" href="$dd/d65/class_hydrax_1_1_hydrax.html#a1940a144c486915885ed19026839d381" title="Hydrax::Hydrax::getMesh" alt="" coords="276,383,447,410"/>
+<area shape="rect" id="node10" href="$d1/dc4/class_hydrax_1_1_mesh.html#a246262a36f4a6f871b0a5f347aa10ccf" title="Hydrax::Mesh::getObjectSpace\lPosition" alt="" coords="259,435,463,476"/>
+<area shape="rect" id="node12" href="$dd/d65/class_hydrax_1_1_hydrax.html#aef185c906434b6dfb7c67a425d678287" title="Hydrax::Hydrax::getCamera" alt="" coords="270,501,453,527"/>
+<area shape="rect" id="node13" href="$dd/d65/class_hydrax_1_1_hydrax.html#a987d33873d0d9a1a7ef2dea72c9cf4a3" title="Hydrax::Hydrax::getSunPosition" alt="" coords="257,551,465,578"/>
+<area shape="rect" id="node14" href="$dd/d65/class_hydrax_1_1_hydrax.html#af7004333bbefabcdf683515813cd9d94" title="Hydrax::Hydrax::getGodRays\lIntensity" alt="" coords="265,603,457,644"/>
+<area shape="rect" id="node15" href="$dd/d65/class_hydrax_1_1_hydrax.html#a69272a08df84f181790b34acdf6bca54" title="Hydrax::Hydrax::getGodRays\lExposure" alt="" coords="265,668,457,709"/>
+<area shape="rect" id="node16" href="$da/d12/class_hydrax_1_1_material_manager.html#ae72ebb13cf760e473c8fdad10410fcc7" title="Hydrax::MaterialManager\l::getCompositor" alt="" coords="278,733,445,775"/>
+<area shape="rect" id="node17" href="$dd/d65/class_hydrax_1_1_hydrax.html#a969555d8f856a43c4ca6c92bb0958bf1" title="Hydrax::Hydrax::getViewport" alt="" coords="267,799,455,826"/>
+<area shape="rect" id="node5" href="$da/d12/class_hydrax_1_1_material_manager.html#ac0f7c351a7df142a04023c3409d6d871" title="Hydrax::MaterialManager\l::createGpuProgram" alt="" coords="523,136,689,177"/>
+<area shape="rect" id="node11" href="$dd/d65/class_hydrax_1_1_hydrax.html#ac4f36e2a40b663997b83b2730843757b" title="Hydrax::Hydrax::getPosition" alt="" coords="513,442,699,469"/>
+</map>

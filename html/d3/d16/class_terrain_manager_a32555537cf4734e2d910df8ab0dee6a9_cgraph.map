@@ -1,0 +1,5 @@
+<map id="TerrainManager::getPagedDetailFactor" name="TerrainManager::getPagedDetailFactor">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#adea47279469bd537112ac0913c3a4bdf" title="TerrainManager::GetAuthors" alt="" coords="249,5,434,32"/>
+<area shape="rect" id="node3" href="$d3/d16/class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="228,56,455,83"/>
+<area shape="rect" id="node4" href="$d2/d9a/class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="503,49,671,90"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="RoR::GUI::TopMenubar::SetVisible" name="RoR::GUI::TopMenubar::SetVisible">
+<area shape="rect" id="node2" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#ae032ae0ac0445e1b4bd8db096ab4802c" title="RoR::GUIManager::SetVisible\l_TopMenubar" alt="" coords="209,67,404,109"/>
+<area shape="rect" id="node13" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="219,133,394,174"/>
+<area shape="rect" id="node3" href="$db/df1/class_g_u_i_input_manager.html#af743c86f4405a5d1d500411986acc9a8" title="GUIInputManager::WakeUpGUI" alt="" coords="452,65,655,92"/>
+<area shape="rect" id="node11" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="528,140,579,167"/>
+<area shape="rect" id="node4" href="$db/df1/class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="711,5,917,32"/>
+<area shape="rect" id="node9" href="$db/df1/class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="705,56,923,83"/>
+<area shape="rect" id="node10" href="$db/df1/class_g_u_i_input_manager.html#a5f096906671c8b2fc404353cb0cc3cf4" title="GUIInputManager::mouseReleased" alt="" coords="703,107,925,133"/>
+<area shape="rect" id="node5" href="$db/df1/class_g_u_i_input_manager.html#ab59361b8e1a9e31e53b5e5523f2b4801" title="GUIInputManager::getLast\lMouseMoveTime" alt="" coords="973,49,1147,90"/>
+<area shape="rect" id="node6" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#aae1570a62049085aa74ce274ac9a70ad" title="RoR::GUIManager::frameStarted" alt="" coords="1195,56,1404,83"/>
+<area shape="rect" id="node7" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a4ab273bd0538649818c84b38e8a06100" title="RoR::GUIManager::GetTheme" alt="" coords="1452,56,1647,83"/>
+<area shape="rect" id="node8" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a8c98e9ba03c8afb1d1a26ec06192862e" title="RoR::GUI::MultiplayerSelector\l::~MultiplayerSelector" alt="" coords="1695,49,1891,90"/>
+<area shape="rect" id="node12" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="777,157,851,184"/>
+</map>

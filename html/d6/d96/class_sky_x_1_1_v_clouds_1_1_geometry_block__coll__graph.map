@@ -1,0 +1,11 @@
+<map id="SkyX::VClouds::GeometryBlock" name="SkyX::VClouds::GeometryBlock">
+<area shape="rect" id="node2" href="$d6/d26/struct_sky_x_1_1_v_clouds_1_1_geometry_block_1_1_v_e_r_t_e_x.html" title="SkyX::VClouds::GeometryBlock\l::VERTEX" alt="" coords="364,5,571,47"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html" title="SkyX::VClouds::VClouds" alt="" coords="384,313,551,339"/>
+<area shape="rect" id="node4" href="$dd/d4b/class_sky_x_1_1_v_clouds_1_1_data_manager.html" title="SkyX::VClouds::DataManager" alt="" coords="763,199,957,226"/>
+<area shape="rect" id="node9" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html" title="SkyX::VClouds::Lightning\lManager" alt="" coords="775,411,945,452"/>
+<area shape="rect" id="node10" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html" title="SkyX::VClouds::GeometryManager" alt="" coords="748,343,972,370"/>
+<area shape="rect" id="node5" href="$d9/dcd/class_sky_x_1_1_v_clouds_1_1_fast_fake_random.html" title="SkyX::VClouds::FastFakeRandom" alt="" coords="357,71,577,98"/>
+<area shape="rect" id="node6" href="$dc/d27/struct_sky_x_1_1_v_clouds_1_1_data_manager_1_1_cell.html" title="SkyX::VClouds::DataManager\l::Cell" alt="" coords="370,169,565,211"/>
+<area shape="rect" id="node7" href="$d0/df2/struct_sky_x_1_1_v_clouds_1_1_v_clouds_1_1_render_queue_groups.html" title="SkyX::VClouds::VClouds\l::RenderQueueGroups" alt="" coords="5,272,172,313"/>
+<area shape="rect" id="node8" href="$da/d3c/struct_sky_x_1_1_v_clouds_1_1_v_clouds_1_1_geometry_settings.html" title="SkyX::VClouds::VClouds\l::GeometrySettings" alt="" coords="5,337,172,379"/>
+</map>

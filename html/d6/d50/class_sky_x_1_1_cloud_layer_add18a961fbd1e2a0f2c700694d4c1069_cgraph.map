@@ -1,0 +1,26 @@
+<map id="SkyX::CloudLayer::_registerCloudLayer" name="SkyX::CloudLayer::_registerCloudLayer">
+<area shape="rect" id="node2" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#a1580130f1c1eba3a72f72efb1083da43" title="SkyX::CloudLayer::\l_unregister" alt="" coords="227,5,361,47"/>
+<area shape="rect" id="node3" href="$de/db3/class_sky_x_1_1_sky_x.html#a3f20af6ba71e7a5a177d10533944179a" title="SkyX::SkyX::getLightingMode" alt="" coords="915,97,1108,123"/>
+<area shape="rect" id="node4" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#ae2201b57f5ed542715fa2d9756825f52" title="SkyX::CloudLayer::\l_updatePassParameters" alt="" coords="211,260,377,301"/>
+<area shape="rect" id="node5" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#ac21bd19a89d1a9631ede722756a0ffb2" title="SkyX::CloudLayer::\l_updateInternalPassParameters" alt="" coords="191,195,397,236"/>
+<area shape="rect" id="node6" href="$de/db3/class_sky_x_1_1_sky_x.html#aafcac9fffbbbfcf968abe8cb1de54019" title="SkyX::SkyX::getAtmosphere\lManager" alt="" coords="445,407,632,448"/>
+<area shape="rect" id="node7" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#abcdfead934afa273afdeb542ab2633b2" title="SkyX::AtmosphereManager\l::getOptions" alt="" coords="449,341,629,383"/>
+<area shape="rect" id="node9" href="$de/db3/class_sky_x_1_1_sky_x.html#aa964a6849d5e2b76b0a595c8712f3761" title="SkyX::SkyX::getController" alt="" coords="926,290,1097,317"/>
+<area shape="rect" id="node10" href="$d8/d1d/class_sky_x_1_1_controller.html#abf428f96335598656d118e15bea54489" title="SkyX::Controller::getSun\lDirection" alt="" coords="929,173,1093,215"/>
+<area shape="rect" id="node24" href="$de/db3/class_sky_x_1_1_sky_x.html#a7938d51392b6d17e9101e429726ca931" title="SkyX::SkyX::_getTimeOffset" alt="" coords="446,173,631,199"/>
+<area shape="rect" id="node25" href="$db/d2c/class_sky_x_1_1_color_gradient.html#a2043d66aa55a3fb7d566fdef3a46fdc8" title="SkyX::ColorGradient\l::getColor" alt="" coords="469,224,608,265"/>
+<area shape="rect" id="node8" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#a88e37230ed8317e61149c7c95ce3a8ac" title="SkyX::AtmosphereManager\l::getColorAt" alt="" coords="680,341,860,383"/>
+<area shape="rect" id="node11" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#a5d88ab140a0dda2b19c28e662179037b" title="SkyX::AtmosphereManager\l::_scale" alt="" coords="921,341,1101,383"/>
+<area shape="rect" id="node12" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#a806c5314af7ee02de3d25bfd4300866e" title="SkyX::AtmosphereManager\l::_update" alt="" coords="680,459,860,500"/>
+<area shape="rect" id="node13" href="$de/db3/class_sky_x_1_1_sky_x.html#a1624a12caa49011e0b96ac15e0c8f524" title="SkyX::SkyX::getGPUManager" alt="" coords="914,525,1109,551"/>
+<area shape="rect" id="node14" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a5cdf4a1ea705ca36dc0df320c7495fd5" title="SkyX::GPUManager::setGpu\lProgramParameter" alt="" coords="917,576,1105,617"/>
+<area shape="rect" id="node22" href="$de/db3/class_sky_x_1_1_sky_x.html#a598378553635b91ffb0d2f92ca8e3172" title="SkyX::SkyX::getCloudsManager" alt="" coords="908,407,1115,434"/>
+<area shape="rect" id="node23" href="$dd/d89/class_sky_x_1_1_clouds_manager.html#a45fe63b8af06ccdab13e53b0caa04ec8" title="SkyX::CloudsManager\l::update" alt="" coords="936,459,1087,500"/>
+<area shape="rect" id="node15" href="$de/db3/class_sky_x_1_1_sky_x.html#a66c1cbd869fdbeaf4bb8950f4d295ea0" title="SkyX::SkyX::getMeshManager" alt="" coords="1163,554,1361,581"/>
+<area shape="rect" id="node16" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a1c0fd1d7b6d3ad0810d095ea41b664b9" title="SkyX::MeshManager::\lisCreated" alt="" coords="1187,605,1337,647"/>
+<area shape="rect" id="node17" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a9f3b755b92a6fcec4f7d274bf4530769" title="SkyX::MeshManager::\lsetGeometryParameters" alt="" coords="1409,605,1573,647"/>
+<area shape="rect" id="node18" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a6f83e79605385575af31185a92a2db7d" title="SkyX::MeshManager::\lcreate" alt="" coords="1621,605,1772,647"/>
+<area shape="rect" id="node19" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a4d9a39e8f56eed532f777e6b9c5a7046" title="SkyX::MeshManager::\l_createGeometry" alt="" coords="1846,547,1997,588"/>
+<area shape="rect" id="node20" href="$de/db3/class_sky_x_1_1_sky_x.html#ac0cff17e4fac3749f9a36e1b76ebe189" title="SkyX::SkyX::getSceneManager" alt="" coords="1820,613,2023,639"/>
+<area shape="rect" id="node21" href="$de/db3/class_sky_x_1_1_sky_x.html#a628b7c569b922b64d0964f43d611f1e3" title="SkyX::SkyX::getRenderQueue\lGroups" alt="" coords="1824,664,2019,705"/>
+</map>

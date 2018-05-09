@@ -1,0 +1,5 @@
+<map id="MyDialog::tryLoadOpenCL" name="MyDialog::tryLoadOpenCL">
+<area shape="rect" id="node2" href="$db/dcf/class_my_dialog.html#a1b20c7a54617318d74124edba0623ec4" title="MyDialog::OnButUpdateRoR" alt="" coords="248,5,435,32"/>
+<area shape="rect" id="node3" href="$db/dcf/class_my_dialog.html#a262bb11643750f6964648851da7ee30b" title="MyDialog::OnButCheckOpenCLBW" alt="" coords="228,56,455,83"/>
+<area shape="rect" id="node4" href="$db/dcf/class_my_dialog.html#ac5cfe844e21a1ab402e1e9ce01ad0a06" title="MyDialog::OnButCheckOpenCL" alt="" coords="239,107,444,133"/>
+</map>

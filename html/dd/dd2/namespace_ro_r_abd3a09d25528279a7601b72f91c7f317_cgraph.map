@@ -1,0 +1,10 @@
+<map id="RoR::DrawGCombo" name="RoR::DrawGCombo">
+<area shape="rect" id="node2" href="$d8/d8c/class_ro_r_1_1_g_var_enum___a.html#ab20ae2be485dbd62c85a08cd6e77d845" title="RoR::GVarEnum_A::GetActive" alt="" coords="188,5,387,32"/>
+<area shape="rect" id="node3" href="$df/d13/namespace_im_gui.html#ae801624ec02dac3b2b03321fffd91f1a" title="ImGui::Combo" alt="" coords="235,56,340,83"/>
+<area shape="rect" id="node5" href="$d8/d8c/class_ro_r_1_1_g_var_enum___a.html#a7a8a33c27c8d3601bab387c27b78f29e" title="RoR::GVarEnum_A::SetActive" alt="" coords="188,107,387,133"/>
+<area shape="rect" id="node4" href="$da/d72/imgui_8cpp.html#aae8cddf994f916d52739ed5a2ecc708d" title="Items_ArrayGetter" alt="" coords="470,56,598,83"/>
+<area shape="rect" id="node6" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#ad62f8ee63f31124d7c51534341128496" title="RoR::GVarBase::LogSetActive" alt="" coords="435,107,633,133"/>
+<area shape="rect" id="node9" href="$dd/dd2/namespace_ro_r.html#a2154b9c92c1d98fadcacbd593e633048" title="RoR::EnumToStr" alt="" coords="474,157,594,184"/>
+<area shape="rect" id="node7" href="$dd/dd2/namespace_ro_r.html#a6523130e147fb219ca2b3a07479e0392" title="Improved logging utility. Uses fixed 2Kb buffer. " alt="" coords="681,107,799,133"/>
+<area shape="rect" id="node8" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="847,107,923,133"/>
+</map>

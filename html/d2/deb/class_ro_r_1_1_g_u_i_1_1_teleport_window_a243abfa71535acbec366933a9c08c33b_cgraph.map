@@ -1,0 +1,8 @@
+<map id="RoR::GUI::TeleportWindow::EnableAltMode" name="RoR::GUI::TeleportWindow::EnableAltMode">
+<area shape="rect" id="node2" href="$d2/deb/class_ro_r_1_1_g_u_i_1_1_teleport_window.html#abbaeda3e7eb3f9f57145cbff0827f8a2" title="RoR::GUI::TeleportWindow\l::ShowAltmodeCursor" alt="" coords="231,64,408,105"/>
+<area shape="rect" id="node3" href="$d2/deb/class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a2f2e457c6c3a10d6c4ac9f2f8121d39f" title="RoR::GUI::TeleportWindow\l::SetAltmodeCursorPos" alt="" coords="465,5,642,47"/>
+<area shape="rect" id="node4" href="$df/d86/namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="465,71,642,98"/>
+<area shape="rect" id="node5" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a02cfc7275f30a09ee27ccda53b48cf13" title="RoR::GUIManager::SetMouse\lCursorVisibility" alt="" coords="456,123,651,164"/>
+<area shape="rect" id="node6" href="$df/d13/namespace_im_gui.html#a3179e560812f878f3961ce803a5d9302" title="ImGui::GetIO" alt="" coords="739,101,837,127"/>
+<area shape="rect" id="node7" href="$db/df1/class_g_u_i_input_manager.html#a9ca9e7863ca969e2b40c1e4a05e6e501" title="GUIInputManager::Supress\lCursor" alt="" coords="699,152,877,193"/>
+</map>

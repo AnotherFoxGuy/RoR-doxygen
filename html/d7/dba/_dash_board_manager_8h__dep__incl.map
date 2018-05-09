@@ -1,0 +1,10 @@
+<map id="source/main/gui/DashBoardManager.h" name="source/main/gui/DashBoardManager.h">
+<area shape="rect" id="node2" href="$de/dbe/_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node3" href="$d8/df7/_dash_board_manager_8cpp.html" title="source/main/gui/DashBoard\lManager.cpp" alt="" coords="188,95,371,136"/>
+<area shape="rect" id="node4" href="$d3/dfd/_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="395,102,630,129"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html" title="source/main/main.cpp" alt="" coords="655,102,805,129"/>
+<area shape="rect" id="node6" href="$dc/df0/_main_menu_8cpp.html" title="source/main/MainMenu.cpp" alt="" coords="829,102,1012,129"/>
+<area shape="rect" id="node7" href="$d2/d74/_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="1036,95,1179,136"/>
+<area shape="rect" id="node8" href="$d1/dc9/_beam_factory_8cpp.html" title="source/main/physics\l/BeamFactory.cpp" alt="" coords="1203,95,1345,136"/>
+<area shape="rect" id="node9" href="$df/df5/_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="1369,95,1512,136"/>
+</map>

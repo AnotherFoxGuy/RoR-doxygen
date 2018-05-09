@@ -1,0 +1,5 @@
+<map id="SliderBehaviorCalcRatioFromValue" name="SliderBehaviorCalcRatioFromValue">
+<area shape="rect" id="node2" href="$d1/da2/imgui__internal_8h.html#a0025e40e8a0c14fa07c9081cc70b857a" title="ImClamp" alt="" coords="244,5,317,32"/>
+<area shape="rect" id="node3" href="$d1/da2/imgui__internal_8h.html#ac3ad7e7626cd6b46456b3f4c35025d74" title="ImMin" alt="" coords="252,56,309,83"/>
+<area shape="rect" id="node4" href="$d1/da2/imgui__internal_8h.html#a6fb8dd1bd2fa0e1c6065dc7123cb7f3e" title="ImMax" alt="" coords="250,107,311,133"/>
+</map>

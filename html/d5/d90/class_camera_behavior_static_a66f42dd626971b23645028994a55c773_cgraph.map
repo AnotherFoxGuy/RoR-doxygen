@@ -1,0 +1,29 @@
+<map id="CameraBehaviorStatic::update" name="CameraBehaviorStatic::update">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="227,5,356,32"/>
+<area shape="rect" id="node3" href="$df/df9/class_beam.html#a7d009b83ca5b166efe7c356abfcc3490" title="Beam::getRotation" alt="" coords="226,56,357,83"/>
+<area shape="rect" id="node4" href="$d7/da7/class_character.html#a2c056adebe0e35330a3eae862667f1d4" title="Character::getPosition" alt="" coords="439,132,589,159"/>
+<area shape="rect" id="node5" href="$d7/da7/class_character.html#a7e18e6ea7965b2e32946a06256ec8984" title="Character::getRotation" alt="" coords="215,157,367,184"/>
+<area shape="rect" id="node6" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="204,208,379,235"/>
+<area shape="rect" id="node7" href="$d3/d7b/class_input_engine.html#af2b4c31bf4b64b4b78815142511ab343" title="InputEngine::getEventBool\lValueBounce" alt="" coords="204,259,379,301"/>
+<area shape="rect" id="node14" href="$dd/de8/namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="241,325,341,352"/>
+<area shape="rect" id="node26" href="$d4/d8a/_camera_behavior_static_8cpp.html#a7843b14601f5054dcceab09d24800ab4" title="intersectsTerrain" alt="" coords="232,427,351,453"/>
+<area shape="rect" id="node27" href="$d3/d16/class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="427,390,601,431"/>
+<area shape="rect" id="node28" href="$d9/d44/class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="427,473,601,500"/>
+<area shape="rect" id="node8" href="$d3/d7b/class_input_engine.html#a72145988ab99faec6f618c2a4011d236" title="InputEngine::getEventBool\lValue" alt="" coords="427,234,601,275"/>
+<area shape="rect" id="node9" href="$d3/d7b/class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="649,159,831,185"/>
+<area shape="rect" id="node10" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="939,83,989,109"/>
+<area shape="rect" id="node12" href="$d3/d7b/class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="879,133,1049,160"/>
+<area shape="rect" id="node13" href="$d3/d7b/class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="887,184,1041,211"/>
+<area shape="rect" id="node11" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="1129,83,1205,109"/>
+<area shape="rect" id="node15" href="$dd/de8/namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="476,331,552,357"/>
+<area shape="rect" id="node16" href="$d0/d96/namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="652,407,828,433"/>
+<area shape="rect" id="node17" href="$d0/d96/namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="885,235,1043,277"/>
+<area shape="rect" id="node19" href="$d0/d96/namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="905,301,1023,342"/>
+<area shape="rect" id="node20" href="$d0/d96/namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="905,366,1023,407"/>
+<area shape="rect" id="node21" href="$d0/d96/namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="905,431,1023,473"/>
+<area shape="rect" id="node22" href="$d0/d96/namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="905,497,1023,538"/>
+<area shape="rect" id="node23" href="$d0/d96/namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="902,562,1026,603"/>
+<area shape="rect" id="node25" href="$d0/d96/namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="895,627,1033,669"/>
+<area shape="rect" id="node18" href="$d0/d96/namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1097,373,1237,400"/>
+<area shape="rect" id="node24" href="$d0/d96/namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="1112,562,1223,603"/>
+</map>

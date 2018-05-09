@@ -1,0 +1,7 @@
+<map id="RoR::DrawImGuiSpinner" name="RoR::DrawImGuiSpinner">
+<area shape="rect" id="node2" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a455383d79778348ac189f1aea17b0cb8" title="RoR::GUIManager::DrawMpConnecting\lStatusBox" alt="" coords="216,5,463,47"/>
+<area shape="rect" id="node3" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#af75908cee15c6ce99cce1752387fca4f" title="RoR::GUIManager::DrawMain\lMenuGui" alt="" coords="511,5,703,47"/>
+<area shape="rect" id="node4" href="$d4/d14/class_ro_r_1_1_main_menu.html#a582e508f1bb1578d1124260de49e438b" title="RoR::MainMenu::EnterMain\lMenuLoop" alt="" coords="751,5,933,47"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="981,13,1032,39"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1080,13,1153,39"/>
+</map>

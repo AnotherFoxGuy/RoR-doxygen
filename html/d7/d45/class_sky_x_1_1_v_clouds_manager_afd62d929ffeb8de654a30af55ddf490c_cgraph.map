@@ -1,0 +1,13 @@
+<map id="SkyX::VCloudsManager::isCreated" name="SkyX::VCloudsManager::isCreated">
+<area shape="rect" id="node2" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6b0405294790f77baac3af152245e7f4" title="SkyX::VCloudsManager\l::_updateWindSpeedConfig" alt="" coords="212,64,391,105"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#ae18e2c8203f4ce46607677c6171e12c2" title="SkyX::VCloudsManager\l::_setLightParameters" alt="" coords="222,272,381,313"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a819dcd1312841ecc904c90b3eddf33be" title="SkyX::VClouds::VClouds\l::setWindSpeed" alt="" coords="453,5,620,47"/>
+<area shape="rect" id="node4" href="$de/db3/class_sky_x_1_1_sky_x.html#a31d2605982be31d7a30f82b7155bdb2b" title="SkyX::SkyX::getTimeMultiplier" alt="" coords="439,71,635,98"/>
+<area shape="rect" id="node6" href="$de/db3/class_sky_x_1_1_sky_x.html#aa964a6849d5e2b76b0a595c8712f3761" title="SkyX::SkyX::getController" alt="" coords="451,122,622,149"/>
+<area shape="rect" id="node7" href="$d8/d1d/class_sky_x_1_1_controller.html#abf428f96335598656d118e15bea54489" title="SkyX::Controller::getSun\lDirection" alt="" coords="455,173,619,215"/>
+<area shape="rect" id="node8" href="$d8/d1d/class_sky_x_1_1_controller.html#a3468b8eab40dff92b42ad3b152083a5f" title="SkyX::Controller::getMoon\lDirection" alt="" coords="450,239,623,280"/>
+<area shape="rect" id="node9" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#aaf39507d496c03b4b4c84664ffefd258" title="SkyX::VClouds::VClouds\l::setSunDirection" alt="" coords="453,304,620,345"/>
+<area shape="rect" id="node10" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a1342194716d65b75d2d7728bd749c9d1" title="SkyX::VClouds::VClouds\l::setAmbientColor" alt="" coords="453,369,620,411"/>
+<area shape="rect" id="node11" href="$db/d2c/class_sky_x_1_1_color_gradient.html#a2043d66aa55a3fb7d566fdef3a46fdc8" title="SkyX::ColorGradient\l::getColor" alt="" coords="467,435,606,476"/>
+<area shape="rect" id="node12" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ad61914b822477e7a2f9502d68ffed256" title="SkyX::VClouds::VClouds\l::setSunColor" alt="" coords="453,500,620,541"/>
+</map>

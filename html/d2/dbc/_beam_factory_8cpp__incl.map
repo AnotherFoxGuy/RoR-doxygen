@@ -1,0 +1,59 @@
+<map id="source/main/physics/BeamFactory.cpp" name="source/main/physics/BeamFactory.cpp">
+<area shape="rect" id="node2" href="$da/d19/_beam_factory_8h.html" title="BeamFactory.h" alt="" coords="3724,169,3835,196"/>
+<area shape="rect" id="node33" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="1768,468,1865,495"/>
+<area shape="rect" id="node47" href="$db/d9e/_network_8h.html" title="Network.h" alt="" coords="3667,319,3747,345"/>
+<area shape="rect" id="node48" href="$d6/d7d/_beam_engine_8h.html" title="BeamEngine.h" alt="" coords="2237,393,2343,420"/>
+<area shape="rect" id="node49" href="$de/dbc/_beam_stats_8h.html" title="BeamStats.h" alt="" coords="4257,393,4355,420"/>
+<area shape="rect" id="node51" href="$d0/db5/_cache_system_8h.html" title="Caches information about installed mods (vehicles, terrains...) " alt="" coords="4379,393,4494,420"/>
+<area shape="rect" id="node52" href="$d4/dab/_chat_system_8h.html" title="ChatSystem.h" alt="" coords="3541,244,3647,271"/>
+<area shape="rect" id="node53" href="$db/da3/_collisions_8h.html" title="Collisions.h" alt="" coords="1971,244,2060,271"/>
+<area shape="rect" id="node57" href="$de/d2f/_dynamic_collisions_8h.html" title="DynamicCollisions.h" alt="" coords="3821,95,3961,121"/>
+<area shape="rect" id="node58" href="$d2/de5/_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="1421,393,1527,420"/>
+<area shape="rect" id="node78" href="$d3/d47/_g_u_i___top_menubar_8h.html" title="GUI_TopMenubar.h" alt="" coords="5049,244,5182,271"/>
+<area shape="rect" id="node81" href="$dc/d4b/_language_8h.html" title="Language.h" alt="" coords="4449,244,4539,271"/>
+<area shape="rect" id="node84" href="$db/db6/_main_menu_8h.html" title="MainMenu.h" alt="" coords="1551,393,1645,420"/>
+<area shape="rect" id="node86" href="$df/da2/_point_col_detector_8h.html" title="PointColDetector.h" alt="" coords="4385,169,4515,196"/>
+<area shape="rect" id="node87" href="$d3/d34/_rig_loading_profiler_8h.html" title="RigLoadingProfiler.h" alt="" coords="4740,95,4877,121"/>
+<area shape="rect" id="node90" href="$de/d8f/_rig_loading_profiler_control_8h.html" title="Allows configuration of various profiling mechanisms. " alt="" coords="4537,95,4715,121"/>
+<area shape="rect" id="node91" href="$d3/d88/_ro_r_frame_listener_8h.html" title="RoRFrameListener.h" alt="" coords="3986,95,4127,121"/>
+<area shape="rect" id="node98" href="$d4/d4a/_settings_8h.html" title="Settings.h" alt="" coords="4615,244,4696,271"/>
+<area shape="rect" id="node99" href="$df/d8b/_sound_script_manager_8h.html" title="SoundScriptManager.h" alt="" coords="4953,95,5107,121"/>
+<area shape="rect" id="node100" href="$dc/d0b/_thread_pool_8h.html" title="ThreadPool.h" alt="" coords="5206,244,5305,271"/>
+<area shape="rect" id="node106" href="$d9/dc1/_utils_8h.html" title="Utils.h" alt="" coords="5685,244,5743,271"/>
+<area shape="rect" id="node112" href="$d9/d00/_vehicle_a_i_8h.html" title="Simple waypoint AI. " alt="" coords="5233,95,5321,121"/>
+<area shape="rect" id="node113" href="$d0/d0d/_dash_board_manager_8h.html" title="DashBoardManager.h" alt="" coords="4878,244,5025,271"/>
+<area shape="rect" id="node3" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="3695,543,3829,569"/>
+<area shape="rect" id="node21" href="$db/df2/_beam_8h.html" title="Beam.h" alt="" coords="3221,244,3287,271"/>
+<area shape="rect" id="node45" href="$d1/d9d/_dust_manager_8h.html" title="DustManager.h" alt="" coords="4049,244,4160,271"/>
+<area shape="rect" id="node46" href="$de/dec/_singleton_8h.html" title="Singleton.h" alt="" coords="4665,319,4752,345"/>
+<area shape="rect" id="node15" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="3235,692,3385,719"/>
+<area shape="rect" id="node16" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="4162,617,4303,644"/>
+<area shape="rect" id="node17" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="4327,617,4498,644"/>
+<area shape="rect" id="node18" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="1784,617,1865,644"/>
+<area shape="rect" id="node22" href="$dd/d50/_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="2553,319,2648,345"/>
+<area shape="rect" id="node38" href="$d5/d00/_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="2925,468,3009,495"/>
+<area shape="rect" id="node41" href="$d5/d7a/_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="3355,319,3542,345"/>
+<area shape="rect" id="node42" href="$d5/d1c/_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="3177,319,3331,345"/>
+<area shape="rect" id="node23" href="$dc/d74/_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="2136,393,2212,420"/>
+<area shape="rect" id="node25" href="$de/dec/_slide_node_8h.html" title="SlideNode.h" alt="" coords="3132,393,3224,420"/>
+<area shape="rect" id="node27" href="$d9/d1e/_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="2664,393,2791,420"/>
+<area shape="rect" id="node28" href="$de/d00/node__t_8h.html" title="datatypes/node_t.h" alt="" coords="2503,468,2637,495"/>
+<area shape="rect" id="node29" href="$d4/d78/shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="2815,393,2955,420"/>
+<area shape="rect" id="node30" href="$da/d84/beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="2661,468,2799,495"/>
+<area shape="rect" id="node31" href="$d0/d7b/wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="2341,468,2479,495"/>
+<area shape="rect" id="node32" href="$d7/ddc/rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="2419,393,2537,420"/>
+<area shape="rect" id="node26" href="$df/d52/_approx_math_8h.html" title="ApproxMath.h" alt="" coords="3441,468,3544,495"/>
+<area shape="rect" id="node59" href="$d2/df0/_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="1991,468,2125,495"/>
+<area shape="rect" id="node61" href="$d3/d6b/_ogre_im_gui_8h.html" title="OgreImGui.h" alt="" coords="675,468,769,495"/>
+<area shape="rect" id="node62" href="$db/d19/imgui_8h.html" title="imgui.h" alt="" coords="622,543,686,569"/>
+<area shape="rect" id="node63" href="$dc/dad/imconfig_8h.html" title="imconfig.h" alt="" coords="385,617,467,644"/>
+<area shape="rect" id="node88" href="$d5/d29/_timer_8h.html" title="Timer.h" alt="" coords="4776,169,4841,196"/>
+<area shape="rect" id="node92" href="$d8/d70/_character_factory_8h.html" title="CharacterFactory.h" alt="" coords="3891,244,4025,271"/>
+<area shape="rect" id="node96" href="$d0/d65/_environment_map_8h.html" title="EnvironmentMap.h" alt="" coords="3033,468,3163,495"/>
+<area shape="rect" id="node97" href="$de/d05/_force_feedback_8h.html" title="ForceFeedback.h" alt="" coords="3995,169,4118,196"/>
+<area shape="rect" id="node93" href="$d9/de5/_character_8h.html" title="Character.h" alt="" coords="4068,319,4157,345"/>
+<area shape="rect" id="node94" href="$d6/d84/_movable_text_8h.html" title="MovableText.h" alt="" coords="4076,393,4181,420"/>
+<area shape="rect" id="node108" href="$d0/d03/checked_8h.html" title="utf8/checked.h" alt="" coords="5731,319,5838,345"/>
+<area shape="rect" id="node111" href="$d8/d61/unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="6017,319,6139,345"/>
+<area shape="rect" id="node109" href="$d5/dc4/core_8h.html" title="core.h" alt="" coords="5945,393,6003,420"/>
+</map>

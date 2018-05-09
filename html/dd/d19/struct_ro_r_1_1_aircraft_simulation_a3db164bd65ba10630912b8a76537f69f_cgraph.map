@@ -1,0 +1,20 @@
+<map id="RoR::AircraftSimulation::UpdateVehicle" name="RoR::AircraftSimulation::UpdateVehicle">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#ad80aec26a23cb2b46dd78091ea47be2f" title="Beam::disconnectAutopilot" alt="" coords="221,5,399,32"/>
+<area shape="rect" id="node3" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="223,56,397,83"/>
+<area shape="rect" id="node4" href="$d3/d7b/class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="685,208,867,235"/>
+<area shape="rect" id="node9" href="$d3/d7b/class_input_engine.html#aca8aa123d2d954807460d2512f457a60" title="InputEngine::smoothValue" alt="" coords="223,157,397,184"/>
+<area shape="rect" id="node10" href="$d3/d7b/class_input_engine.html#af8ebe9d9cb2cc8dd70b73cd3dc20e168" title="InputEngine::isEventAnalog" alt="" coords="457,208,637,235"/>
+<area shape="rect" id="node11" href="$df/df9/class_beam.html#a6ed36647ce357654c04703737db3463f" title="diff lock on or off " alt="" coords="222,259,398,285"/>
+<area shape="rect" id="node12" href="$df/d86/namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="211,309,409,336"/>
+<area shape="rect" id="node13" href="$db/db4/class_aero_engine.html#a82e901d85595cf65e4924d0708a45e89" title="AeroEngine::toggleReverse" alt="" coords="221,360,399,387"/>
+<area shape="rect" id="node14" href="$db/db4/class_aero_engine.html#a2b3797238e5475e8f7d97c0fb69929ac" title="AeroEngine::flipStart" alt="" coords="239,411,381,437"/>
+<area shape="rect" id="node15" href="$d3/d7b/class_input_engine.html#af2b4c31bf4b64b4b78815142511ab343" title="InputEngine::getEventBool\lValueBounce" alt="" coords="223,462,397,503"/>
+<area shape="rect" id="node16" href="$d3/d7b/class_input_engine.html#a72145988ab99faec6f618c2a4011d236" title="InputEngine::getEventBool\lValue" alt="" coords="460,462,635,503"/>
+<area shape="rect" id="node17" href="$db/db4/class_aero_engine.html#a90099d51230d1a393a298eb13699b536" title="AeroEngine::setThrottle" alt="" coords="231,579,389,605"/>
+<area shape="rect" id="node18" href="$db/db4/class_aero_engine.html#a3455377c40761670b0b8d1b2b60098b5" title="AeroEngine::getThrottle" alt="" coords="231,629,389,656"/>
+<area shape="rect" id="node19" href="$d3/ddd/class_autopilot.html#aeec6ae31658772acf373047c0a7e50fd" title="Autopilot::getThrottle" alt="" coords="239,680,381,707"/>
+<area shape="rect" id="node5" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="975,157,1025,184"/>
+<area shape="rect" id="node7" href="$d3/d7b/class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="915,208,1085,235"/>
+<area shape="rect" id="node8" href="$d3/d7b/class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="923,259,1077,285"/>
+<area shape="rect" id="node6" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="1133,157,1209,184"/>
+</map>

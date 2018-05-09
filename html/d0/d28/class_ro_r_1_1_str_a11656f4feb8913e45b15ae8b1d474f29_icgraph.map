@@ -1,0 +1,20 @@
+<map id="RoR::Str::GetBuffer" name="RoR::Str::GetBuffer">
+<area shape="rect" id="node2" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a35dc350dea57ef0356030eb1b47485b5" title="RoR::GUIManager::GUIManager" alt="" coords="188,5,395,32"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#afa3bed83fccd42a159911d7c99271139" title="RoR::DrawGTextEdit" alt="" coords="220,173,363,200"/>
+<area shape="rect" id="node10" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a8c98e9ba03c8afb1d1a26ec06192862e" title="RoR::GUI::MultiplayerSelector\l::~MultiplayerSelector" alt="" coords="443,101,639,142"/>
+<area shape="rect" id="node11" href="$d6/d14/class_terrain_object_manager.html#a45ccbf51f9c0ecac68927fed5e52eaa4" title="TerrainObjectManager\l::loadObjectConfigFile" alt="" coords="217,57,366,98"/>
+<area shape="rect" id="node17" href="$d7/dd8/class_language_engine.html#a76cb37a44a39216fd83ab38285eacf94" title="LanguageEngine::setup" alt="" coords="953,333,1111,360"/>
+<area shape="rect" id="node18" href="$d5/d0d/namespace_ro_r_1_1_system.html#a49888453ad63100a98a0714a91d96a60" title="RoR::System::DetectBasePaths" alt="" coords="927,232,1137,259"/>
+<area shape="rect" id="node19" href="$db/d2b/class_settings.html#ad1c21542e41500c873f654325aad486d" title="Settings::SetupAllPaths" alt="" coords="1234,283,1395,309"/>
+<area shape="rect" id="node4" href="$d8/d2c/class_ro_r_1_1_g_u_i_1_1_game_settings.html#a97a07e0573bf956e386722ef6b776ff3" title="RoR::GUI::GameSettings\l::Draw" alt="" coords="457,166,625,207"/>
+<area shape="rect" id="node5" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#af75908cee15c6ce99cce1752387fca4f" title="RoR::GUIManager::DrawMain\lMenuGui" alt="" coords="687,166,879,207"/>
+<area shape="rect" id="node9" href="$d8/d2c/class_ro_r_1_1_g_u_i_1_1_game_settings.html#aeb21469250c1f403cfc4e281271b339f" title="RoR::GUI::GameSettings\l::GameSettings" alt="" coords="699,101,867,142"/>
+<area shape="rect" id="node6" href="$d4/d14/class_ro_r_1_1_main_menu.html#a582e508f1bb1578d1124260de49e438b" title="RoR::MainMenu::EnterMain\lMenuLoop" alt="" coords="1223,166,1406,207"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1559,232,1609,259"/>
+<area shape="rect" id="node8" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1724,232,1797,259"/>
+<area shape="rect" id="node12" href="$d3/d16/class_terrain_manager.html#a4ad87b973cb6af52daaf530a5feff167" title="TerrainManager::loadTerrain\lObjects" alt="" coords="449,35,632,77"/>
+<area shape="rect" id="node13" href="$d3/d16/class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="691,47,874,73"/>
+<area shape="rect" id="node14" href="$dd/dbe/class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="929,56,1135,83"/>
+<area shape="rect" id="node15" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1185,107,1444,133"/>
+<area shape="rect" id="node16" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1492,81,1676,108"/>
+</map>

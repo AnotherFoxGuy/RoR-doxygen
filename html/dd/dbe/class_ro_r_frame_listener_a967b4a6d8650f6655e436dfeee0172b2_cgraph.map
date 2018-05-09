@@ -1,0 +1,22 @@
+<map id="RoRFrameListener::windowResized" name="RoRFrameListener::windowResized">
+<area shape="rect" id="node2" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="314,5,363,32"/>
+<area shape="rect" id="node4" href="$df/d86/namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="239,56,438,83"/>
+<area shape="rect" id="node5" href="$df/d47/class_overlay_wrapper.html#a235afb5d43eba7709b16557f81cd1610" title="OverlayWrapper::windowResized" alt="" coords="233,107,444,133"/>
+<area shape="rect" id="node7" href="$db/dd2/class_survey_map_manager.html#abc690cb53ec05a8092f8b0e0a3a2ea81" title="SurveyMapManager::window\lResized" alt="" coords="245,158,432,199"/>
+<area shape="rect" id="node8" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="251,224,426,251"/>
+<area shape="rect" id="node9" href="$d3/d7b/class_input_engine.html#aa85ec07499919e7de34d3de44c869875" title="InputEngine::windowResized" alt="" coords="245,275,432,301"/>
+<area shape="rect" id="node19" href="$d5/d53/class_ro_r_1_1_beam_factory.html#af0ad39b32251a4fb8a6faf26317799fc" title="RoR::BeamFactory::window\lResized" alt="" coords="247,326,430,367"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="566,5,642,32"/>
+<area shape="rect" id="node6" href="$df/d47/class_overlay_wrapper.html#a10e6c145bc3e376b6cc2159929898b1d" title="OverlayWrapper::resizeOverlay" alt="" coords="504,107,704,133"/>
+<area shape="rect" id="node10" href="$df/d86/namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="515,224,693,251"/>
+<area shape="rect" id="node11" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a383e4098572ae987a16b794ae3f504bd" title="RoR::GUIManager::windowResized" alt="" coords="492,275,716,301"/>
+<area shape="rect" id="node12" href="$db/df1/class_g_u_i_input_manager.html#a5fde1d31061185a8cea4911ff2d56b61" title="GUIInputManager::setInput\lViewSize" alt="" coords="776,181,952,222"/>
+<area shape="rect" id="node14" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#aa6522e664233ae16430b5ded2f4c25b0" title="RoR::GUIManager::AdjustMain\lMenuPosition" alt="" coords="764,267,964,309"/>
+<area shape="rect" id="node13" href="$db/df1/class_g_u_i_input_manager.html#af367cbabbd2130a3cb260f93da0bb914" title="GUIInputManager::checkPosition" alt="" coords="1012,165,1224,192"/>
+<area shape="rect" id="node15" href="$df/d86/namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="1017,216,1219,243"/>
+<area shape="rect" id="node16" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="1043,267,1193,309"/>
+<area shape="rect" id="node17" href="$d3/d05/class_ro_r_1_1_g_u_i_1_1_game_main_menu.html#a166e66f4c854383407a2633e019a9681" title="RoR::GUI::GameMainMenu\l::GetHeight" alt="" coords="1028,333,1208,374"/>
+<area shape="rect" id="node18" href="$d3/d05/class_ro_r_1_1_g_u_i_1_1_game_main_menu.html#a1653b19df9892e3ee1c23d08c3b1041b" title="RoR::GUI::GameMainMenu\l::SetPosition" alt="" coords="1028,398,1208,439"/>
+<area shape="rect" id="node20" href="$d9/d86/class_dash_board_manager.html#a95b7258d2dda7b85719af98ff001c928" title="DashBoardManager::window\lResized" alt="" coords="511,326,697,367"/>
+<area shape="rect" id="node21" href="$d4/d1e/class_dash_board.html#a69868007bdcc8aac2c1f2f02d9a0f383" title="DashBoard::windowResized" alt="" coords="773,333,955,360"/>
+</map>

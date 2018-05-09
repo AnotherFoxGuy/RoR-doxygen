@@ -1,0 +1,5 @@
+<map id="Collisions::getBox" name="Collisions::getBox">
+<area shape="rect" id="node2" href="$dd/dbe/class_ro_r_frame_listener.html#a57679664f6f2299add5b6ba7fcbb1b11" title="RoRFrameListener::ShowLoaderGUI" alt="" coords="180,5,411,32"/>
+<area shape="rect" id="node4" href="$d9/d39/class_collisions.html#a1d36e847666bf0e04f58b0c0ec0453c5" title="Collisions::isTruckInEventBox" alt="" coords="199,56,392,83"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="459,5,643,32"/>
+</map>

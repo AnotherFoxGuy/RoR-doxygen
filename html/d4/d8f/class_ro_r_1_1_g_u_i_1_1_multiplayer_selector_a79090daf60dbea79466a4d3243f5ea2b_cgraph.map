@@ -1,0 +1,6 @@
+<map id="RoR::GUI::MultiplayerSelector::IsVisible" name="RoR::GUI::MultiplayerSelector::IsVisible">
+<area shape="rect" id="node2" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a2c826b868f4dd1ce69948e5420edb1f6" title="RoR::GUI::MultiplayerSelector\l::RefreshServerlist" alt="" coords="261,5,457,47"/>
+<area shape="rect" id="node3" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a2d2bb899610862298e95175ade615d34" title="Launch refresh from main thread. " alt="" coords="261,71,457,112"/>
+<area shape="rect" id="node4" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a7b54edd645e7c4b349fc0e4b742992ea" title="Check status from main thread. " alt="" coords="249,136,468,177"/>
+<area shape="rect" id="node5" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a57734195c3ec0bd24ecdeaa5be234a64" title="To be invoked periodically from main thread if refresh is in progress. " alt="" coords="261,201,457,243"/>
+</map>

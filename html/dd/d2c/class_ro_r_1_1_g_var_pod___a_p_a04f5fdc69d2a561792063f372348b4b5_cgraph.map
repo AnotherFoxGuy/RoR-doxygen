@@ -1,0 +1,5 @@
+<map id="RoR::GVarPod_AP::ApplyPending" name="RoR::GVarPod_AP::ApplyPending">
+<area shape="rect" id="node2" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#ae1e0c1530163447b0d6f9e5aa8390042" title="RoR::GVarBase::LogApplyPending" alt="" coords="275,5,499,32"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#a6523130e147fb219ca2b3a07479e0392" title="Improved logging utility. Uses fixed 2Kb buffer. " alt="" coords="547,5,664,32"/>
+<area shape="rect" id="node4" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="712,5,788,32"/>
+</map>

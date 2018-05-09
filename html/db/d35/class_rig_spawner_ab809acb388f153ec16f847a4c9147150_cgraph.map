@@ -1,0 +1,4 @@
+<map id="RigSpawner::InitializeRig" name="RigSpawner::InitializeRig">
+<area shape="rect" id="node2" href="$d7/d85/class_dust_manager.html#a01145e464e1e5fb0fd2d90b115504640" title="DustManager::getDustPool" alt="" coords="219,5,397,32"/>
+<area shape="rect" id="node3" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#ae2fa22407ec624ee62a348021de98ea4" title="RoR::OgreSubsystem\l::GetMaterialByName" alt="" coords="233,57,383,98"/>
+</map>

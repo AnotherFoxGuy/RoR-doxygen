@@ -1,0 +1,7 @@
+<map id="LogRenderedText" name="LogRenderedText">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a408f9ddac92f8629a7e273ced5f8c3aa" title="ImGui::GetCurrentWindowRead" alt="" coords="176,5,379,32"/>
+<area shape="rect" id="node3" href="$df/d13/namespace_im_gui.html#a7671e1dbc803a31b06081b52a771d83f" title="ImGui::FindRenderedTextEnd" alt="" coords="181,56,373,83"/>
+<area shape="rect" id="node4" href="$df/d13/namespace_im_gui.html#a64ed35f1ee0903215f91073cf7acfc70" title="ImGui::LogText" alt="" coords="222,107,333,133"/>
+<area shape="rect" id="node5" href="$da/d7d/struct_im_gui_text_buffer.html#aeb9702dcb536ffc5919954e0f45a4c30" title="ImGuiTextBuffer::appendv" alt="" coords="427,107,596,133"/>
+<area shape="rect" id="node6" href="$da/d72/imgui_8cpp.html#a1c61ee979ec8d777ba415296e12950a3" title="ImFormatStringV" alt="" coords="644,107,764,133"/>
+</map>

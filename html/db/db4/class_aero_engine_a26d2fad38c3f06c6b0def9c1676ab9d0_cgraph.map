@@ -1,0 +1,20 @@
+<map id="AeroEngine::~AeroEngine" name="AeroEngine::~AeroEngine">
+<area shape="rect" id="node2" href="$db/db4/class_aero_engine.html#a4956c884cbb8750a036ef46823acdbd5" title="AeroEngine::updateVisuals" alt="" coords="225,5,404,32"/>
+<area shape="rect" id="node3" href="$db/db4/class_aero_engine.html#a36bfc5f44b9529c5364af7ec34ce495c" title="AeroEngine::updateForces" alt="" coords="227,56,403,83"/>
+<area shape="rect" id="node4" href="$db/db4/class_aero_engine.html#a90099d51230d1a393a298eb13699b536" title="AeroEngine::setThrottle" alt="" coords="235,107,394,133"/>
+<area shape="rect" id="node5" href="$db/db4/class_aero_engine.html#a3455377c40761670b0b8d1b2b60098b5" title="AeroEngine::getThrottle" alt="" coords="235,157,394,184"/>
+<area shape="rect" id="node6" href="$db/db4/class_aero_engine.html#a25b3ab9202f74ae8194b6eede926f2a2" title="AeroEngine::reset" alt="" coords="251,208,378,235"/>
+<area shape="rect" id="node7" href="$db/db4/class_aero_engine.html#a82e901d85595cf65e4924d0708a45e89" title="AeroEngine::toggleReverse" alt="" coords="225,259,404,285"/>
+<area shape="rect" id="node8" href="$db/db4/class_aero_engine.html#a2b3797238e5475e8f7d97c0fb69929ac" title="AeroEngine::flipStart" alt="" coords="244,309,385,336"/>
+<area shape="rect" id="node9" href="$db/db4/class_aero_engine.html#a427f0ecccc7b71c9188f0443448981c8" title="AeroEngine::getRPMpc" alt="" coords="235,360,394,387"/>
+<area shape="rect" id="node10" href="$db/db4/class_aero_engine.html#ada821d754a674b4b675e7de8688259e3" title="AeroEngine::getRPM" alt="" coords="243,411,387,437"/>
+<area shape="rect" id="node11" href="$db/db4/class_aero_engine.html#aaafd58c4ba2babc0d4ca976926a50948" title="AeroEngine::setRPM" alt="" coords="243,461,387,488"/>
+<area shape="rect" id="node12" href="$db/db4/class_aero_engine.html#af051c1aee8ea0a7b44c50695b9fddb2b" title="AeroEngine::getpropwash" alt="" coords="229,512,400,539"/>
+<area shape="rect" id="node13" href="$db/db4/class_aero_engine.html#a946285594c8e85cb777c288eb77ae780" title="AeroEngine::getAxis" alt="" coords="244,563,385,589"/>
+<area shape="rect" id="node14" href="$db/db4/class_aero_engine.html#a92371208b22f9c2f28c6850a92bbec3d" title="AeroEngine::isFailed" alt="" coords="243,613,386,640"/>
+<area shape="rect" id="node15" href="$db/db4/class_aero_engine.html#a6d67284b994e8fa6b6d2896feee03951" title="AeroEngine::getType" alt="" coords="243,664,386,691"/>
+<area shape="rect" id="node16" href="$db/db4/class_aero_engine.html#acee24708de2de2dd8491e6d404fa637b" title="AeroEngine::getIgnition" alt="" coords="237,715,393,741"/>
+<area shape="rect" id="node17" href="$db/db4/class_aero_engine.html#afa51837c14b0a0580ed447717ff49c5b" title="AeroEngine::getNoderef" alt="" coords="235,765,394,792"/>
+<area shape="rect" id="node18" href="$db/db4/class_aero_engine.html#abf977e76bad08b3f2a0bccc50f0b1e26" title="AeroEngine::getWarmup" alt="" coords="233,816,397,843"/>
+<area shape="rect" id="node19" href="$db/db4/class_aero_engine.html#a9325df6ed519697ba05b162afb6c469c" title="AeroEngine::getRadius" alt="" coords="237,867,392,893"/>
+</map>

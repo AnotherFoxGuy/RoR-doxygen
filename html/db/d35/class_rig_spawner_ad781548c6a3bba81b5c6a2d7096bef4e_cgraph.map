@@ -1,0 +1,63 @@
+<map id="RigSpawner::SetCurrentKeyword" name="RigSpawner::SetCurrentKeyword">
+<area shape="rect" id="node2" href="$db/d35/class_rig_spawner.html#a431f4a77a0bc40a4f02532bc5b48fb9c" title="RigSpawner::GetBeam" alt="" coords="313,5,467,32"/>
+<area shape="rect" id="node3" href="$db/d35/class_rig_spawner.html#a6c13c01e641d8c82b599ed03f4281446" title="RigSpawner::CollectNodes\lFromRanges" alt="" coords="302,57,478,98"/>
+<area shape="rect" id="node4" href="$db/d35/class_rig_spawner.html#a2f37322027613bfa6b2a6624d1d221fa" title="RigSpawner::GetFreeNode" alt="" coords="302,123,478,149"/>
+<area shape="rect" id="node5" href="$db/d35/class_rig_spawner.html#adbb16c9e66981806ee62740dd9e8c9a3" title="RigSpawner::GetFreeBeam" alt="" coords="300,173,480,200"/>
+<area shape="rect" id="node6" href="$db/d35/class_rig_spawner.html#a7e2c222807d39b211f85ceabc6bb7970" title="RigSpawner::GetAndInitFreeNode" alt="" coords="282,224,498,251"/>
+<area shape="rect" id="node7" href="$db/d35/class_rig_spawner.html#a60f04fbe9bdbe9abc97233690dd28d8c" title="RigSpawner::GetAndInitFreeBeam" alt="" coords="280,275,500,301"/>
+<area shape="rect" id="node8" href="$db/d35/class_rig_spawner.html#acd048ece2df5e6b674b14ba513547ba1" title="RigSpawner::GetFreeShock" alt="" coords="299,325,481,352"/>
+<area shape="rect" id="node9" href="$db/d35/class_rig_spawner.html#a9eef494b9c79ad9a39f9c24b1faeccb0" title="RigSpawner::InitBeam" alt="" coords="315,376,465,403"/>
+<area shape="rect" id="node10" href="$db/d35/class_rig_spawner.html#a03a29cbb75d3e8cbe1ef319676ffb4df" title="RigSpawner::CalculateBeam\lLength" alt="" coords="297,427,483,469"/>
+<area shape="rect" id="node11" href="$db/d35/class_rig_spawner.html#a3f465e0ae8c34f8814f4b4e38d4e60ab" title="RigSpawner::SetBeamStrength" alt="" coords="289,493,491,520"/>
+<area shape="rect" id="node12" href="$db/d35/class_rig_spawner.html#a7218547ed657af73f971af554662dfa8" title="RigSpawner::SetBeamSpring" alt="" coords="295,544,485,571"/>
+<area shape="rect" id="node13" href="$db/d35/class_rig_spawner.html#a2010f63948fb6123c7970de9ed0f5296" title="RigSpawner::SetBeamDamping" alt="" coords="288,595,492,621"/>
+<area shape="rect" id="node14" href="$db/d35/class_rig_spawner.html#a65076064eab3053ee05efbb068a17ca5" title="RigSpawner::FindBeamInRig" alt="" coords="297,645,483,672"/>
+<area shape="rect" id="node15" href="$db/d35/class_rig_spawner.html#a28732b78f03c91b36a1259761114d5e0" title="RigSpawner::SetBeamDeformation\lThreshold" alt="" coords="279,697,501,738"/>
+<area shape="rect" id="node16" href="$db/d35/class_rig_spawner.html#a4898bf31296ea21c03713fd4b6bff252" title="RigSpawner::UpdateCollcab\lContacterNodes" alt="" coords="299,762,481,803"/>
+<area shape="rect" id="node17" href="$db/d35/class_rig_spawner.html#a543e1548ecf1c4ae4de8174e951d8832" title="RigSpawner::FindLowestNode\lInRig" alt="" coords="293,827,487,869"/>
+<area shape="rect" id="node18" href="$db/d35/class_rig_spawner.html#a346ead621cee734b2556694e89b0d4e3" title="RigSpawner::FindLowestContacting\lNodeInRig" alt="" coords="277,893,503,934"/>
+<area shape="rect" id="node19" href="$db/d35/class_rig_spawner.html#a83897309015d41d5486e516d84223fbe" title="RigSpawner::CheckSection\lSingleModule" alt="" coords="300,958,480,999"/>
+<area shape="rect" id="node20" href="$db/d35/class_rig_spawner.html#a3dcc0d63f53e00a9d1810f1565ef358c" title="RigSpawner::AddWheelRimBeam" alt="" coords="282,1024,498,1051"/>
+<area shape="rect" id="node21" href="$db/d35/class_rig_spawner.html#a51a389f943b17205cd5de0578e9ad6b7" title="RigSpawner::AddTyreBeam" alt="" coords="299,1075,481,1101"/>
+<area shape="rect" id="node22" href="$db/d35/class_rig_spawner.html#a38fb102d54e3398e7038aaa4ffdf5207" title="RigSpawner::_SectionWheels2\lAddBeam" alt="" coords="289,1126,491,1167"/>
+<area shape="rect" id="node23" href="$db/d35/class_rig_spawner.html#af5a8a5d3631eed15418b3891882cf2a2" title="RigSpawner::CreateWheelVisuals" alt="" coords="281,1192,499,1219"/>
+<area shape="rect" id="node24" href="$db/d35/class_rig_spawner.html#a519c749f1a4b5dee1f9361e54118c536" title="RigSpawner::CreateWheelSkidmarks" alt="" coords="272,1243,508,1269"/>
+<area shape="rect" id="node27" href="$db/d35/class_rig_spawner.html#afa700697e4f6a1d7714e2e7381ea9178" title="RigSpawner::SetupNewEntity" alt="" coords="294,1293,486,1320"/>
+<area shape="rect" id="node28" href="$db/d35/class_rig_spawner.html#a413ce7fe0bcf665849fee5260b11167f" title="RigSpawner::FinalizeGfxSetup" alt="" coords="291,1344,489,1371"/>
+<area shape="rect" id="node29" href="$db/d35/class_rig_spawner.html#ae8c0ff60e0f0fbf75332a37de030b0dd" title="RigSpawner::FindOrCreate\lCustomizedMaterial" alt="" coords="302,2267,478,2309"/>
+<area shape="rect" id="node32" href="$db/d35/class_rig_spawner.html#ab3d076495da2790b335c57ce6fae548e" title="RigSpawner::CreateSimple\lMaterial" alt="" coords="301,1446,479,1487"/>
+<area shape="rect" id="node33" href="$db/d35/class_rig_spawner.html#a43ba70b6ef178246ac4bada5cb4d7c88" title="Returns NULL if none found. " alt="" coords="292,1511,488,1553"/>
+<area shape="rect" id="node34" href="$db/d35/class_rig_spawner.html#a8d3708b4cc7e94aeb2416359673ab229" title="Returns NULL if none found. " alt="" coords="289,1577,491,1618"/>
+<area shape="rect" id="node35" href="$db/d35/class_rig_spawner.html#a0603655ff588700123e915c1ff3c10d7" title="RigSpawner::CreateVideoCamera" alt="" coords="283,1811,497,1837"/>
+<area shape="rect" id="node39" href="$db/d35/class_rig_spawner.html#a5df50a9a780c1acb3ccf3fa0daabe32e" title="RigSpawner::CreateMirror\lPropVideoCam" alt="" coords="305,1694,475,1735"/>
+<area shape="rect" id="node40" href="$db/d35/class_rig_spawner.html#a6c012fcf4b4e82f149a7e2faf2d849da" title="RigSpawner::ComposeName" alt="" coords="296,1760,484,1787"/>
+<area shape="rect" id="node41" href="$db/d35/class_rig_spawner.html#a536466d32b44a0d11ad59fd79ac24fe4" title="RigSpawner::BuildWheelObject\lAndNodes" alt="" coords="565,1635,768,1677"/>
+<area shape="rect" id="node44" href="$db/d35/class_rig_spawner.html#a662ec26380652cc6514afd49409e45ef" title="RigSpawner::BuildWheelBeams" alt="" coords="287,1963,493,1989"/>
+<area shape="rect" id="node45" href="$db/d35/class_rig_spawner.html#a67f4e6c6d9f314bf4d924ea5565cc915" title="RigSpawner::AddWheelBeam" alt="" coords="293,1912,487,1939"/>
+<area shape="rect" id="node46" href="$db/d35/class_rig_spawner.html#a5967e3e6fae63a547d6b51c07d80e4da" title="RigSpawner::BuildMeshWheel\lVisuals" alt="" coords="291,2354,489,2395"/>
+<area shape="rect" id="node54" href="$db/d35/class_rig_spawner.html#a50ca023187948e7697b1ecb281565e74" title="RigSpawner::WashCalculator" alt="" coords="295,2013,485,2040"/>
+<area shape="rect" id="node55" href="$db/d35/class_rig_spawner.html#ac1666ca45b7e9429ec6c075155e6391e" title="RigSpawner::FetchAxisNodes" alt="" coords="293,2064,487,2091"/>
+<area shape="rect" id="node56" href="$db/d35/class_rig_spawner.html#a8a74fc21fd43d47305eda69efebb841b" title="RigSpawner::_ProcessKeyInertia" alt="" coords="284,1395,496,1421"/>
+<area shape="rect" id="node58" href="$db/d35/class_rig_spawner.html#a9555e851735ff42ead63fa2e9c1c09a3" title="RigSpawner::AdjustNodeBuoyancy" alt="" coords="278,2165,502,2192"/>
+<area shape="rect" id="node59" href="$db/d35/class_rig_spawner.html#a5396849b5b3d28cdd02a408803e14851" title="RigSpawner::FinalizeRig" alt="" coords="585,2115,748,2141"/>
+<area shape="rect" id="node60" href="$db/d35/class_rig_spawner.html#ab809acb388f153ec16f847a4c9147150" title="RigSpawner::InitializeRig" alt="" coords="307,2216,473,2243"/>
+<area shape="rect" id="node62" href="$db/d35/class_rig_spawner.html#a75a83ea5b7b28edcafe6017417f20c8e" title="RigSpawner::CalcMemoryRequirements" alt="" coords="264,1861,516,1888"/>
+<area shape="rect" id="node25" href="$db/d35/class_rig_spawner.html#a868ac33e51a8dc7d35bddc6f6a5f186a" title="RigSpawner::AddWheel" alt="" coords="587,1243,746,1269"/>
+<area shape="rect" id="node26" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a84b62d4c0f12249e81d684e880432cf3" title="RigDef::Node::Ref::\lToString" alt="" coords="860,1235,993,1277"/>
+<area shape="rect" id="node30" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#ae2fa22407ec624ee62a348021de98ea4" title="RoR::OgreSubsystem\l::GetMaterialByName" alt="" coords="852,2162,1001,2203"/>
+<area shape="rect" id="node31" href="$df/da1/class_ro_r_1_1_skin_manager.html#ac2351e0a7b403311eb6e283a72071b94" title="RoR::SkinManager::Replace\lMaterialTextures" alt="" coords="573,2267,760,2309"/>
+<area shape="rect" id="node36" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a38923aee8dad0a3146012009fb2e109d" title="RigDef::Node::Ref::\lIsValidAnyState" alt="" coords="600,1862,733,1903"/>
+<area shape="rect" id="node37" href="$d6/dad/_utils_8cpp.html#a6219796a02effcab384e7c356aa6bc3d" title="fixRenderWindowIcon" alt="" coords="593,1811,740,1837"/>
+<area shape="rect" id="node38" href="$df/df5/_rig_spawner_8cpp.html#aa302bedd058792000e7d273c8d3ce466" title="CreateVideocameraDebugMesh" alt="" coords="564,1760,769,1787"/>
+<area shape="rect" id="node42" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="902,1643,951,1669"/>
+<area shape="rect" id="node43" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="1151,1643,1227,1669"/>
+<area shape="rect" id="node47" href="$d1/d05/class_flex_mesh_wheel.html#a04a9b4dda08d851cb1854ec9257d4ed0" title="FlexMeshWheel::GetTireEntity" alt="" coords="567,2384,767,2411"/>
+<area shape="rect" id="node48" href="$d1/d05/class_flex_mesh_wheel.html#aee56948b7fd93ef9119c441b19334d06" title="FlexMeshWheel::updateVertices" alt="" coords="1084,2409,1295,2436"/>
+<area shape="rect" id="node49" href="$d1/d05/class_flex_mesh_wheel.html#a9d1b24c8d080182019359e66aa72a6f8" title="FlexMeshWheel::flexitPrepare" alt="" coords="829,2460,1025,2487"/>
+<area shape="rect" id="node50" href="$d1/d05/class_flex_mesh_wheel.html#a1b52fb141d9dbda7902667953e5f7c39" title="FlexMeshWheel::flexitCompute" alt="" coords="825,2511,1028,2537"/>
+<area shape="rect" id="node51" href="$d1/d05/class_flex_mesh_wheel.html#a0506dd2575de3d683aec17b972d85a5a" title="FlexMeshWheel::flexitFinal" alt="" coords="837,2257,1016,2284"/>
+<area shape="rect" id="node52" href="$d1/d05/class_flex_mesh_wheel.html#ab78ad1ba63dbe57ae62a05f8c70ee625" title="FlexMeshWheel::setVisible" alt="" coords="836,2308,1017,2335"/>
+<area shape="rect" id="node53" href="$d1/d05/class_flex_mesh_wheel.html#a52291c89c52fc8ebe6b43baad80e08c8" title="FlexMeshWheel::FlexMeshWheel" alt="" coords="817,2359,1036,2385"/>
+<area shape="rect" id="node57" href="$db/d81/class_cmd_key_inertia.html#a3fbb85bc93bb80c287f462e4878f14c2" title="CmdKeyInertia::setCmdKey\lDelay" alt="" coords="575,1478,758,1519"/>
+<area shape="rect" id="node61" href="$d7/d85/class_dust_manager.html#a01145e464e1e5fb0fd2d90b115504640" title="DustManager::getDustPool" alt="" coords="577,2216,756,2243"/>
+</map>

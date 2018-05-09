@@ -1,0 +1,17 @@
+<map id="source/main/gui/GUIInputManager.cpp" name="source/main/gui/GUIInputManager.cpp">
+<area shape="rect" id="node2" href="$d2/df0/_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="1503,169,1637,196"/>
+<area shape="rect" id="node23" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="131,95,228,121"/>
+<area shape="rect" id="node27" href="$d2/de5/_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="1304,95,1409,121"/>
+<area shape="rect" id="node46" href="$d3/d47/_g_u_i___top_menubar_8h.html" title="GUI_TopMenubar.h" alt="" coords="1726,95,1859,121"/>
+<area shape="rect" id="node50" href="$d1/d3b/_overlay_wrapper_8h.html" title="OverlayWrapper.h" alt="" coords="2107,169,2233,196"/>
+<area shape="rect" id="node52" href="$d8/dec/_scene_mouse_8h.html" title="Mouse interaction with 3D scene. " alt="" coords="1883,95,1993,121"/>
+<area shape="rect" id="node3" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1875,244,2009,271"/>
+<area shape="rect" id="node15" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1388,393,1539,420"/>
+<area shape="rect" id="node16" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1695,319,1837,345"/>
+<area shape="rect" id="node17" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1501,319,1671,345"/>
+<area shape="rect" id="node18" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2205,319,2287,345"/>
+<area shape="rect" id="node28" href="$d3/d6b/_ogre_im_gui_8h.html" title="OgreImGui.h" alt="" coords="959,169,1053,196"/>
+<area shape="rect" id="node29" href="$db/d19/imgui_8h.html" title="imgui.h" alt="" coords="843,244,907,271"/>
+<area shape="rect" id="node30" href="$dc/dad/imconfig_8h.html" title="imconfig.h" alt="" coords="564,319,645,345"/>
+<area shape="rect" id="node47" href="$de/dec/_singleton_8h.html" title="Singleton.h" alt="" coords="1895,169,1981,196"/>
+</map>

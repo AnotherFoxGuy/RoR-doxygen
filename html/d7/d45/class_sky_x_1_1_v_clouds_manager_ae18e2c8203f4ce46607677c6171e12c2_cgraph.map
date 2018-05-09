@@ -1,0 +1,9 @@
+<map id="SkyX::VCloudsManager::_setLightParameters" name="SkyX::VCloudsManager::_setLightParameters">
+<area shape="rect" id="node2" href="$de/db3/class_sky_x_1_1_sky_x.html#aa964a6849d5e2b76b0a595c8712f3761" title="SkyX::SkyX::getController" alt="" coords="213,5,384,32"/>
+<area shape="rect" id="node3" href="$d8/d1d/class_sky_x_1_1_controller.html#abf428f96335598656d118e15bea54489" title="SkyX::Controller::getSun\lDirection" alt="" coords="217,57,381,98"/>
+<area shape="rect" id="node4" href="$d8/d1d/class_sky_x_1_1_controller.html#a3468b8eab40dff92b42ad3b152083a5f" title="SkyX::Controller::getMoon\lDirection" alt="" coords="212,122,385,163"/>
+<area shape="rect" id="node5" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#aaf39507d496c03b4b4c84664ffefd258" title="SkyX::VClouds::VClouds\l::setSunDirection" alt="" coords="215,187,382,229"/>
+<area shape="rect" id="node6" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a1342194716d65b75d2d7728bd749c9d1" title="SkyX::VClouds::VClouds\l::setAmbientColor" alt="" coords="215,253,382,294"/>
+<area shape="rect" id="node7" href="$db/d2c/class_sky_x_1_1_color_gradient.html#a2043d66aa55a3fb7d566fdef3a46fdc8" title="SkyX::ColorGradient\l::getColor" alt="" coords="229,318,368,359"/>
+<area shape="rect" id="node8" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ad61914b822477e7a2f9502d68ffed256" title="SkyX::VClouds::VClouds\l::setSunColor" alt="" coords="215,383,382,425"/>
+</map>

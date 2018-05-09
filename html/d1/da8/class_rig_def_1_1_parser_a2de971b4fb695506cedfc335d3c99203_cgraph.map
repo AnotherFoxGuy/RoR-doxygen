@@ -1,0 +1,22 @@
+<map id="RigDef::Parser::ParseWheel2" name="RigDef::Parser::ParseWheel2">
+<area shape="rect" id="node2" href="$d1/da8/class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="534,5,713,47"/>
+<area shape="rect" id="node4" href="$d1/da8/class_rig_def_1_1_parser.html#ae77a4970494c116e98a92be7a0160a16" title="RigDef::Parser::GetArgFloat" alt="" coords="531,93,715,119"/>
+<area shape="rect" id="node5" href="$d1/da8/class_rig_def_1_1_parser.html#a635bdc3c7493275fc05f91d51c11945b" title="RigDef::Parser::GetArgInt" alt="" coords="539,159,708,186"/>
+<area shape="rect" id="node7" href="$d1/da8/class_rig_def_1_1_parser.html#a57b7efa0a566ae343d6148a05d420eae" title="RigDef::Parser::GetArgNodeRef" alt="" coords="521,261,725,287"/>
+<area shape="rect" id="node9" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#ada562d6df02ffd616a611f8bac249f05" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="1033,339,1209,380"/>
+<area shape="rect" id="node14" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a639c4f71bc37fc08f02a5b603ee14033" title="RigDef::SequentialImporter\l::GenerateNodesForWheel" alt="" coords="1264,456,1440,497"/>
+<area shape="rect" id="node17" href="$d1/da8/class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="789,311,961,338"/>
+<area shape="rect" id="node18" href="$d1/da8/class_rig_def_1_1_parser.html#a2f105a1d96e4d6380a2c4e3232c2dec5" title="RigDef::Parser::GetArgRigidityNode" alt="" coords="245,311,473,338"/>
+<area shape="rect" id="node19" href="$d1/da8/class_rig_def_1_1_parser.html#a330ebe1e63aad0b46e8fa0b041274071" title="RigDef::Parser::GetArgBraking" alt="" coords="260,109,459,135"/>
+<area shape="rect" id="node20" href="$d1/da8/class_rig_def_1_1_parser.html#a8dd3a6b0c3903d1091ef17537fd00a16" title="RigDef::Parser::GetArgPropulsion" alt="" coords="251,210,467,237"/>
+<area shape="rect" id="node21" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a38923aee8dad0a3146012009fb2e109d" title="RigDef::Node::Ref::\lIsValidAnyState" alt="" coords="293,515,426,556"/>
+<area shape="rect" id="node3" href="$d1/da8/class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="1025,159,1216,186"/>
+<area shape="rect" id="node6" href="$d1/da8/class_rig_def_1_1_parser.html#a81784a06397ed377c39759981d6c700b" title="RigDef::Parser::GetArgLong" alt="" coords="784,159,967,186"/>
+<area shape="rect" id="node8" href="$d1/da8/class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="773,261,977,287"/>
+<area shape="rect" id="node10" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#ad9fb7d3deecbb9f94ac85ff061459795" title="RigDef::SequentialImporter\l::AddNumberedNode" alt="" coords="1264,339,1440,380"/>
+<area shape="rect" id="node12" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a0d1350e2b0c44cff66a9c73c17baf9dd" title="RigDef::SequentialImporter\l::AddNamedNode" alt="" coords="1264,273,1440,315"/>
+<area shape="rect" id="node13" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a5f5e30fbc3b2f58adb15a8f64bbecd15" title="RigDef::SequentialImporter\l::AddGeneratedNode" alt="" coords="1488,413,1664,455"/>
+<area shape="rect" id="node15" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a69601c62b1bf9030cd2e2b03a926bc04" title="Traverse whole rig definition and resolve all node references. " alt="" coords="1264,208,1440,249"/>
+<area shape="rect" id="node11" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#abbbd9a34cae153cb481b6c61a7927a97" title="RigDef::SequentialImporter\l::AddMessage" alt="" coords="1488,323,1664,364"/>
+<area shape="rect" id="node16" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#aaabc36a84be7e26a7d0790f04fa882c1" title="RigDef::SequentialImporter\l::ProcessModule" alt="" coords="1488,208,1664,249"/>
+</map>

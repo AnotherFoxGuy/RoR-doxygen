@@ -1,0 +1,6 @@
+<map id="BeamEngine::updateAudio" name="BeamEngine::updateAudio">
+<area shape="rect" id="node2" href="$d6/de4/class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="229,56,372,83"/>
+<area shape="rect" id="node3" href="$d6/de4/class_beam_engine.html#aeb6647883d8e1f5d10be1e07a2054f41" title="BeamEngine::getTorqueCurve" alt="" coords="420,5,613,32"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="427,56,607,83"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="661,56,873,83"/>
+</map>

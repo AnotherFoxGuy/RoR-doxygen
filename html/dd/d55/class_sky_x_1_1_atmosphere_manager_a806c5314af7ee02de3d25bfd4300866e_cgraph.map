@@ -1,0 +1,13 @@
+<map id="SkyX::AtmosphereManager::_update" name="SkyX::AtmosphereManager::_update">
+<area shape="rect" id="node2" href="$de/db3/class_sky_x_1_1_sky_x.html#a1624a12caa49011e0b96ac15e0c8f524" title="SkyX::SkyX::getGPUManager" alt="" coords="239,5,434,32"/>
+<area shape="rect" id="node3" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a5cdf4a1ea705ca36dc0df320c7495fd5" title="SkyX::GPUManager::setGpu\lProgramParameter" alt="" coords="243,57,431,98"/>
+<area shape="rect" id="node11" href="$de/db3/class_sky_x_1_1_sky_x.html#a598378553635b91ffb0d2f92ca8e3172" title="SkyX::SkyX::getCloudsManager" alt="" coords="233,123,440,149"/>
+<area shape="rect" id="node12" href="$dd/d89/class_sky_x_1_1_clouds_manager.html#a45fe63b8af06ccdab13e53b0caa04ec8" title="SkyX::CloudsManager\l::update" alt="" coords="261,174,412,215"/>
+<area shape="rect" id="node4" href="$de/db3/class_sky_x_1_1_sky_x.html#a66c1cbd869fdbeaf4bb8950f4d295ea0" title="SkyX::SkyX::getMeshManager" alt="" coords="488,35,687,61"/>
+<area shape="rect" id="node5" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a1c0fd1d7b6d3ad0810d095ea41b664b9" title="SkyX::MeshManager::\lisCreated" alt="" coords="512,86,663,127"/>
+<area shape="rect" id="node6" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a9f3b755b92a6fcec4f7d274bf4530769" title="SkyX::MeshManager::\lsetGeometryParameters" alt="" coords="735,86,899,127"/>
+<area shape="rect" id="node7" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a6f83e79605385575af31185a92a2db7d" title="SkyX::MeshManager::\lcreate" alt="" coords="947,86,1097,127"/>
+<area shape="rect" id="node8" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a4d9a39e8f56eed532f777e6b9c5a7046" title="SkyX::MeshManager::\l_createGeometry" alt="" coords="1171,27,1322,69"/>
+<area shape="rect" id="node9" href="$de/db3/class_sky_x_1_1_sky_x.html#ac0cff17e4fac3749f9a36e1b76ebe189" title="SkyX::SkyX::getSceneManager" alt="" coords="1145,93,1348,120"/>
+<area shape="rect" id="node10" href="$de/db3/class_sky_x_1_1_sky_x.html#a628b7c569b922b64d0964f43d611f1e3" title="SkyX::SkyX::getRenderQueue\lGroups" alt="" coords="1149,145,1344,186"/>
+</map>

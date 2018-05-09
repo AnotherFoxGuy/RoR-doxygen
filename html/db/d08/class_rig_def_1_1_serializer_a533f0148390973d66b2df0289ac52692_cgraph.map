@@ -1,0 +1,5 @@
+<map id="RigDef::Serializer::ProcessShocks2" name="RigDef::Serializer::ProcessShocks2">
+<area shape="rect" id="node2" href="$db/d08/class_rig_def_1_1_serializer.html#a519f37109858367465b34df585a91ed1" title="RigDef::Serializer\l::ProcessBeamDefaults" alt="" coords="183,5,341,47"/>
+<area shape="rect" id="node3" href="$db/d08/class_rig_def_1_1_serializer.html#a124c560d795229029e367124d3e4b7e0" title="RigDef::Serializer\l::ProcessShock2" alt="" coords="201,71,323,112"/>
+<area shape="rect" id="node4" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html#a84b62d4c0f12249e81d684e880432cf3" title="RigDef::Node::Ref::\lToString" alt="" coords="389,71,523,112"/>
+</map>

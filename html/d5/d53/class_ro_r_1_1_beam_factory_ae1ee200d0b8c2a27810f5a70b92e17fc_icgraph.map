@@ -1,0 +1,6 @@
+<map id="RoR::BeamFactory::getBeam" name="RoR::BeamFactory::getBeam">
+<area shape="rect" id="node2" href="$d7/da7/class_character.html#a56efcb1702c8ea823659e5106cc03333" title="Character::receiveStreamData" alt="" coords="247,5,441,32"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aa61f694b6230afbdc91bc33ef6acd73f" title="RoR::BeamFactory::Remove\lStreamSource" alt="" coords="251,57,437,98"/>
+<area shape="rect" id="node5" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a04ba7756fa2de70a344d4243912d61e7" title="RoR::BeamFactory::getNum\lCpuCores" alt="" coords="251,122,437,163"/>
+<area shape="rect" id="node3" href="$d7/da7/class_character.html#a77c815f3768a4f871826cd833cd26669" title="Character::getPhysicsEnabled" alt="" coords="489,5,688,32"/>
+</map>

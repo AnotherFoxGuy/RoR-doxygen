@@ -1,0 +1,5 @@
+<map id="CameraBehaviorOrbit::mouseMoved" name="CameraBehaviorOrbit::mouseMoved">
+<area shape="rect" id="node2" href="$dc/de3/class_camera_behavior_character.html#a3da8cbc0998e56cb30434bba70fa8f7b" title="CameraBehaviorCharacter\l::mouseMoved" alt="" coords="209,5,381,47"/>
+<area shape="rect" id="node3" href="$db/d5e/class_camera_behavior_orbit.html#a0fbed63ddf7b2931a3c0abac03d6dff4" title="CameraBehaviorOrbit\l::deactivate" alt="" coords="223,71,367,112"/>
+<area shape="rect" id="node4" href="$da/d42/class_camera_behavior_vehicle_spline.html#ac84c557678d0f4ccfd8d092235922ddf" title="CameraBehaviorVehicleSpline\l::mouseMoved" alt="" coords="197,136,392,177"/>
+</map>

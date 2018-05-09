@@ -1,0 +1,13 @@
+<map id="source/main/gui/GUIUtils.h" name="source/main/gui/GUIUtils.h">
+<area shape="rect" id="node2" href="$d9/da3/_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="636,80,733,107"/>
+<area shape="rect" id="node7" href="$d2/de5/_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="2619,80,2724,107"/>
+<area shape="rect" id="node3" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="5,379,156,405"/>
+<area shape="rect" id="node8" href="$d2/df0/_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="1789,155,1922,181"/>
+<area shape="rect" id="node9" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1268,229,1403,256"/>
+<area shape="rect" id="node28" href="$d3/d6b/_ogre_im_gui_8h.html" title="OgreImGui.h" alt="" coords="2624,155,2719,181"/>
+<area shape="rect" id="node21" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1613,304,1754,331"/>
+<area shape="rect" id="node22" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1778,304,1949,331"/>
+<area shape="rect" id="node23" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="1973,304,2055,331"/>
+<area shape="rect" id="node29" href="$db/d19/imgui_8h.html" title="imgui.h" alt="" coords="2462,229,2526,256"/>
+<area shape="rect" id="node30" href="$dc/dad/imconfig_8h.html" title="imconfig.h" alt="" coords="2407,304,2488,331"/>
+</map>

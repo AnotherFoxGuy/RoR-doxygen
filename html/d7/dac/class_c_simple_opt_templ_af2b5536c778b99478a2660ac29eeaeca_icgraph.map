@@ -1,0 +1,9 @@
+<map id="CSimpleOptTempl::HasFlag" name="CSimpleOptTempl::HasFlag">
+<area shape="rect" id="node2" href="$d7/dac/class_c_simple_opt_templ.html#ac0eef4bbcc3097ff36af89be3c0b820f" title="Advance to the next option if available. " alt="" coords="775,100,938,127"/>
+<area shape="rect" id="node3" href="$d7/dac/class_c_simple_opt_templ.html#a0c5c2c54fed926f494165c8a4d9f90cd" title="CSimpleOptTempl::PrepareArg" alt="" coords="243,131,443,157"/>
+<area shape="rect" id="node5" href="$d7/dac/class_c_simple_opt_templ.html#ad0ec3543a8272202a107ddbfee19a09d" title="Validate and return the desired number of arguments. " alt="" coords="514,5,697,32"/>
+<area shape="rect" id="node7" href="$d7/dac/class_c_simple_opt_templ.html#a9460ac3071a73d39be1f03a91cb445fc" title="CSimpleOptTempl::LookupOption" alt="" coords="236,257,451,284"/>
+<area shape="rect" id="node4" href="$d7/dac/class_c_simple_opt_templ.html#a98e1e5ce28e5fc0ce8d72080549b11c8" title="Return the array of files. " alt="" coords="775,283,938,309"/>
+<area shape="rect" id="node6" href="$d7/dac/class_c_simple_opt_templ.html#a639f9bd8c610fede77853b978a29411d" title="Return the argument for the current option where one exists. " alt="" coords="760,5,953,32"/>
+<area shape="rect" id="node8" href="$d7/dac/class_c_simple_opt_templ.html#aed9c4aad06a9a50e41fe91c0102044e3" title="CSimpleOptTempl::NextClumped" alt="" coords="499,283,712,309"/>
+</map>

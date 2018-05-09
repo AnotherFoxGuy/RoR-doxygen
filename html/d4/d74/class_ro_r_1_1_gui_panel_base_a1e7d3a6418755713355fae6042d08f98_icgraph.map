@@ -1,0 +1,5 @@
+<map id="RoR::GuiPanelBase::GetWidthPixels" name="RoR::GuiPanelBase::GetWidthPixels">
+<area shape="rect" id="node2" href="$d4/d74/class_ro_r_1_1_gui_panel_base.html#a92f0be73cb302640d8eb291fd2d785df" title="RoR::GuiPanelBase::\lSetHeight" alt="" coords="200,5,347,47"/>
+<area shape="rect" id="node3" href="$d4/d74/class_ro_r_1_1_gui_panel_base.html#affcdec6ec2970670cb411cd793d3393b" title="RoR::GuiPanelBase::\lCenterToScreen" alt="" coords="200,71,347,112"/>
+<area shape="rect" id="node4" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#ad70083b5033911b227af7ab847288f77" title="RoR::GUIManager::CenterSpawner\lReportWindow" alt="" coords="395,71,617,112"/>
+</map>

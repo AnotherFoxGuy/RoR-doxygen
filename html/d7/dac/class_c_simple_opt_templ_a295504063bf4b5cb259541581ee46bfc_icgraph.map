@@ -1,0 +1,5 @@
+<map id="CSimpleOptTempl::Init" name="CSimpleOptTempl::Init">
+<area shape="rect" id="node2" href="$d7/dac/class_c_simple_opt_templ.html#a901dd8e44e4b1662dea6991478574517" title="Initialize the class. Init() must be called later. " alt="" coords="209,5,393,47"/>
+<area shape="rect" id="node4" href="$d7/dac/class_c_simple_opt_templ.html#afa524c030e4024db99eafb2b4e42f93b" title="Deallocate any allocated memory. " alt="" coords="205,71,397,112"/>
+<area shape="rect" id="node3" href="$d7/dac/class_c_simple_opt_templ.html#a98e1e5ce28e5fc0ce8d72080549b11c8" title="Return the array of files. " alt="" coords="445,13,608,39"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RoR::GUI::FrictionSettings::setActiveCol" name="RoR::GUI::FrictionSettings::setActiveCol">
+<area shape="rect" id="node2" href="$df/d32/class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a1fece1fbdff4db9fda4c531c895dbbcf" title="RoR::GUI::FrictionSettings\l::setCollisions" alt="" coords="229,23,405,65"/>
+<area shape="rect" id="node3" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#af3a183d98bd761538aa6301c485805fb" title="RoR::GUIManager::Friction\lSettingsUpdateCollisions" alt="" coords="453,23,632,65"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="680,31,885,57"/>
+<area shape="rect" id="node5" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="933,56,1192,83"/>
+<area shape="rect" id="node6" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="1240,5,1424,32"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1307,56,1357,83"/>
+<area shape="rect" id="node8" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1472,56,1545,83"/>
+</map>

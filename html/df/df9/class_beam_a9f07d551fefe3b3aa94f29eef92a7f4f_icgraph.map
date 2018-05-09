@@ -1,0 +1,8 @@
+<map id="Beam::setBlinkType" name="Beam::setBlinkType">
+<area shape="rect" id="node2" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="192,5,371,47"/>
+<area shape="rect" id="node4" href="$df/df9/class_beam.html#a93991998d4398e5502eeb4f314e0bc50" title="Beam::getAllLinkedBeams" alt="" coords="193,71,369,98"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="419,13,631,39"/>
+<area shape="rect" id="node5" href="$da/d42/class_camera_behavior_vehicle_spline.html#ae30aef518419478d4c3ad73879eae6cd" title="CameraBehaviorVehicleSpline\l::update" alt="" coords="679,60,873,101"/>
+<area shape="rect" id="node6" href="$da/d42/class_camera_behavior_vehicle_spline.html#a4c1bbdd426bd74cd545ec8314ed66c71" title="CameraBehaviorVehicleSpline\l::createSpline" alt="" coords="427,119,622,160"/>
+<area shape="rect" id="node7" href="$da/d42/class_camera_behavior_vehicle_spline.html#acde6a5bb0ea7e85846a15ee908e28425" title="CameraBehaviorVehicleSpline\l::activate" alt="" coords="679,125,873,167"/>
+</map>

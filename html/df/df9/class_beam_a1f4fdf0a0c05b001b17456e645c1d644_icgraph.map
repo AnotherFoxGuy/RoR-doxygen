@@ -1,0 +1,5 @@
+<map id="Beam::calcNetwork" name="Beam::calcNetwork">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#aa2f4785d060499243482e165b6bcdd5f" title="Beam::Beam" alt="" coords="229,5,327,32"/>
+<area shape="rect" id="node3" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="188,56,368,83"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="416,56,628,83"/>
+</map>

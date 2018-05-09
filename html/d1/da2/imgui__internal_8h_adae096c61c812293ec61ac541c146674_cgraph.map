@@ -1,0 +1,19 @@
+<map id="ImUpperPowerOfTwo" name="ImUpperPowerOfTwo">
+<area shape="rect" id="node2" href="$d1/da2/imgui__internal_8h.html#ac83ff6f214b1dac86be7da67c3206c0c" title="ImStricmp" alt="" coords="215,5,297,32"/>
+<area shape="rect" id="node3" href="$d1/da2/imgui__internal_8h.html#a96348852b0077eced0d23738a93d262a" title="ImStrnicmp" alt="" coords="212,56,300,83"/>
+<area shape="rect" id="node4" href="$d1/da2/imgui__internal_8h.html#ac2ec50c02d28df9619dc6479c492b094" title="ImStrdup" alt="" coords="219,107,293,133"/>
+<area shape="rect" id="node6" href="$d1/da2/imgui__internal_8h.html#ad4061c0b279f4c5fb44f070fd3704f88" title="ImStrlenW" alt="" coords="215,157,297,184"/>
+<area shape="rect" id="node7" href="$d1/da2/imgui__internal_8h.html#a35333fc1248c81fdd5e459c03e025dc1" title="ImStrbolW" alt="" coords="215,208,297,235"/>
+<area shape="rect" id="node8" href="$d1/da2/imgui__internal_8h.html#a94873aeee1ce89e6205e043e37243bb9" title="ImStristr" alt="" coords="221,259,291,285"/>
+<area shape="rect" id="node9" href="$d1/da2/imgui__internal_8h.html#abee348242624c8e40b033ab40494b0d4" title="ImFormatString" alt="" coords="201,309,311,336"/>
+<area shape="rect" id="node10" href="$d1/da2/imgui__internal_8h.html#a0efe721b366c835f03c4062e958c3708" title="ImFormatStringV" alt="" coords="196,360,316,387"/>
+<area shape="rect" id="node11" href="$d3/d6b/_ogre_im_gui_8h.html#a11a9562053a9a71dc30adc3e6adc7225" title="operator*" alt="" coords="219,411,293,437"/>
+<area shape="rect" id="node12" href="$d3/d6b/_ogre_im_gui_8h.html#a3380b3d5f2cbf9d541b5d5f8024a91fa" title="operator/" alt="" coords="219,461,293,488"/>
+<area shape="rect" id="node13" href="$d3/d6b/_ogre_im_gui_8h.html#a02e02b5a094b8bb7537479b6134a5dcd" title="operator+" alt="" coords="217,512,295,539"/>
+<area shape="rect" id="node14" href="$d3/d6b/_ogre_im_gui_8h.html#a30ec57effaae101bc8ce087d3c70d856" title="operator&#45;" alt="" coords="219,563,293,589"/>
+<area shape="rect" id="node15" href="$d3/d6b/_ogre_im_gui_8h.html#a025441a8e35170294787afe4d13bb6b6" title="operator+=" alt="" coords="213,613,299,640"/>
+<area shape="rect" id="node16" href="$d3/d6b/_ogre_im_gui_8h.html#af85748c7b542985ff8f48fe4c2182956" title="operator&#45;=" alt="" coords="215,664,297,691"/>
+<area shape="rect" id="node17" href="$d3/d6b/_ogre_im_gui_8h.html#a8c5e127138e5a340a99cc8b336e19767" title="operator*=" alt="" coords="215,715,297,741"/>
+<area shape="rect" id="node18" href="$d3/d6b/_ogre_im_gui_8h.html#ad9d61736a39962f17b6922db922cf2a4" title="operator/=" alt="" coords="215,765,297,792"/>
+<area shape="rect" id="node5" href="$df/d13/namespace_im_gui.html#a15efb2cac4a54b35489c5984ba1b661a" title="ImGui::MemAlloc" alt="" coords="364,107,487,133"/>
+</map>

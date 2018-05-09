@@ -1,0 +1,9 @@
+<map id="SkyX::VClouds::VClouds::getGeometrySettings" name="SkyX::VClouds::VClouds::getGeometrySettings">
+<area shape="rect" id="node2" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#ac2ab6237304f920fce09c292dea77c03" title="SkyX::VClouds::Lightning\lManager::update" alt="" coords="437,12,607,53"/>
+<area shape="rect" id="node6" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#ac5f0512aa494c97ee477c9e41492a360" title="SkyX::VClouds::Lightning\lManager::addLightning" alt="" coords="220,71,389,112"/>
+<area shape="rect" id="node7" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6931df17a25e8691796aa4d9c68467cb" title="SkyX::VCloudsManager\l::create" alt="" coords="225,136,384,177"/>
+<area shape="rect" id="node3" href="$dc/dc9/class_sky_x_1_1_v_clouds_1_1_lightning_manager_1_1_listener.html#af265ea73234d9b7dfdb64fc017e7da88" title="SkyX::VClouds::Lightning\lManager::Listener::lightningAdded" alt="" coords="655,71,873,112"/>
+<area shape="rect" id="node4" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#acf68c63f12d3688b6adc295ca887a438" title="SkyX::VClouds::VClouds\l::update" alt="" coords="681,5,847,47"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a7c25472c85244e6889b371384b5aff70" title="SkyX::VCloudsManager\l::update" alt="" coords="921,5,1080,47"/>
+<area shape="rect" id="node8" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="447,136,597,177"/>
+</map>

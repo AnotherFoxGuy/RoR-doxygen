@@ -1,0 +1,4 @@
+<map id="CameraBehaviorCharacter::switchBehavior" name="CameraBehaviorCharacter::switchBehavior">
+<area shape="rect" id="node2" href="$dc/de3/class_camera_behavior_character.html#a28853736d8673066e6b30b03bd6a0973" title="CameraBehaviorCharacter\l::reset" alt="" coords="225,5,397,47"/>
+<area shape="rect" id="node3" href="$db/d5e/class_camera_behavior_orbit.html#ac2c38d7776bb50ffb4a0d267c11acb2c" title="CameraBehaviorOrbit\l::reset" alt="" coords="445,5,589,47"/>
+</map>

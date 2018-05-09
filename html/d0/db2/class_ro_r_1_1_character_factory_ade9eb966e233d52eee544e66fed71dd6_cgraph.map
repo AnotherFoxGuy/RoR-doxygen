@@ -1,0 +1,6 @@
+<map id="RoR::CharacterFactory::DeleteAllRemoteCharacters" name="RoR::CharacterFactory::DeleteAllRemoteCharacters">
+<area shape="rect" id="node2" href="$d0/db2/class_ro_r_1_1_character_factory.html#a21fc74395b420105878efb1ba9c4b32f" title="RoR::CharacterFactory\l::createRemoteInstance" alt="" coords="244,5,404,47"/>
+<area shape="rect" id="node5" href="$d0/db2/class_ro_r_1_1_character_factory.html#a891b2b209ff8f96d2189022ae00d024a" title="RoR::CharacterFactory\l::removeStreamSource" alt="" coords="247,71,401,112"/>
+<area shape="rect" id="node3" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="452,13,501,39"/>
+<area shape="rect" id="node4" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="549,13,625,39"/>
+</map>

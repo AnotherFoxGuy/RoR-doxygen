@@ -1,0 +1,8 @@
+<map id="source/main/gameplay/AutoPilot.h" name="source/main/gameplay/AutoPilot.h">
+<area shape="rect" id="node2" href="$d5/d12/_aircraft_simulation_8cpp.html" title="source/main/gameplay\l/AircraftSimulation.cpp" alt="" coords="5,95,159,136"/>
+<area shape="rect" id="node3" href="$d9/de9/_auto_pilot_8cpp.html" title="source/main/gameplay\l/AutoPilot.cpp" alt="" coords="183,95,336,136"/>
+<area shape="rect" id="node4" href="$d3/dfd/_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="361,102,595,129"/>
+<area shape="rect" id="node5" href="$d2/d74/_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="620,95,763,136"/>
+<area shape="rect" id="node6" href="$df/df5/_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="787,95,929,136"/>
+<area shape="rect" id="node7" href="$d2/d0a/_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="954,95,1133,136"/>
+</map>

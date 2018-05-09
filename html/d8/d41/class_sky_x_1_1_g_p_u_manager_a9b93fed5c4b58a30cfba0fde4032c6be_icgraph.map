@@ -1,0 +1,7 @@
+<map id="SkyX::GPUManager::_setTextureHWGammaCorrection" name="SkyX::GPUManager::_setTextureHWGammaCorrection">
+<area shape="rect" id="node2" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ae8b52a74e1c8d447ed7528949bdd1887" title="SkyX::GPUManager::\l_updateFP" alt="" coords="303,5,450,47"/>
+<area shape="rect" id="node5" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a1453b1fd20472aa40bdc56896fea3f33" title="SkyX::GPUManager::\l_notifySkydomeMaterialChanged" alt="" coords="271,71,483,112"/>
+<area shape="rect" id="node3" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#aa6e51c4d5104ed7c1d6d1c0a65048c8a" title="SkyX::GPUManager::getMoon\lMaterialName" alt="" coords="545,5,741,47"/>
+<area shape="rect" id="node4" href="$dd/dab/class_sky_x_1_1_moon_manager.html#a34f9344783164b30151bcba1b3ba7ed5" title="SkyX::MoonManager::\lcreate" alt="" coords="803,5,953,47"/>
+<area shape="rect" id="node6" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a545927dd8da0642e8bf68770c6907c75" title="SkyX::GPUManager::GPUManager" alt="" coords="531,78,755,105"/>
+</map>

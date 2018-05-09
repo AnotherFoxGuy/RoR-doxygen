@@ -1,0 +1,9 @@
+<map id="SkyX::MoonManager::updateGeometry" name="SkyX::MoonManager::updateGeometry">
+<area shape="rect" id="node2" href="$de/db3/class_sky_x_1_1_sky_x.html#a66c1cbd869fdbeaf4bb8950f4d295ea0" title="SkyX::SkyX::getMeshManager" alt="" coords="425,19,624,46"/>
+<area shape="rect" id="node3" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#acec7f28ad8010e5d898fdcac5e49dc3f" title="SkyX::MeshManager::\lgetSkydomeRadius" alt="" coords="449,154,600,196"/>
+<area shape="rect" id="node5" href="$de/db3/class_sky_x_1_1_sky_x.html#aa964a6849d5e2b76b0a595c8712f3761" title="SkyX::SkyX::getController" alt="" coords="205,107,376,134"/>
+<area shape="rect" id="node6" href="$d8/d1d/class_sky_x_1_1_controller.html#a3468b8eab40dff92b42ad3b152083a5f" title="SkyX::Controller::getMoon\lDirection" alt="" coords="204,158,377,200"/>
+<area shape="rect" id="node7" href="$de/db3/class_sky_x_1_1_sky_x.html#afdf083e6e5ef87c85cf9ebefd2578962" title="SkyX::SkyX::isVisible" alt="" coords="217,224,364,251"/>
+<area shape="rect" id="node8" href="$dd/dab/class_sky_x_1_1_moon_manager.html#aa6ef3ce76c121a04973fe62de56f7f86" title="SkyX::MoonManager::\l_updateMoonBounds" alt="" coords="215,41,366,82"/>
+<area shape="rect" id="node4" href="$de/db3/class_sky_x_1_1_sky_x.html#a3cc6519853c8f6881da9b67d2c963cbb" title="SkyX::SkyX::getInfiniteCamera\lFarClipDistance" alt="" coords="672,154,871,196"/>
+</map>

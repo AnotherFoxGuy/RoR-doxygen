@@ -1,0 +1,7 @@
+<map id="TerrainObjectManager::hasPreloadedTrucks" name="TerrainObjectManager::hasPreloadedTrucks">
+<area shape="rect" id="node2" href="$d6/d14/class_terrain_object_manager.html#aef0d7273c32a7eafd7fb3fbaf4c8c26e" title="TerrainObjectManager\l::postLoad" alt="" coords="213,23,362,65"/>
+<area shape="rect" id="node6" href="$d6/d14/class_terrain_object_manager.html#ad6bc30a80d54c348bd7f7d1f8d905b50" title="TerrainObjectManager\l::updateAnimatedObjects" alt="" coords="203,89,372,130"/>
+<area shape="rect" id="node3" href="$d3/d16/class_terrain_manager.html#afeda2f4a7bc3c99bd77fc6e5c88c5e0e" title="TerrainManager::getFarClip" alt="" coords="420,5,599,32"/>
+<area shape="rect" id="node4" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="485,56,534,83"/>
+<area shape="rect" id="node5" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="647,56,723,83"/>
+</map>

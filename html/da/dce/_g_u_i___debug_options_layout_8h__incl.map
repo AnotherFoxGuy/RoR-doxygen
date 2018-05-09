@@ -1,0 +1,10 @@
+<map id="source/main/gui/panels/GUI_DebugOptionsLayout.h" name="source/main/gui/panels/GUI_DebugOptionsLayout.h">
+<area shape="rect" id="node2" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="5,468,156,495"/>
+<area shape="rect" id="node3" href="$d8/d63/_base_layout_8h.html" title="BaseLayout.h" alt="" coords="909,95,1012,121"/>
+<area shape="rect" id="node4" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1056,319,1191,345"/>
+<area shape="rect" id="node22" href="$d9/dfd/_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1023,169,1143,196"/>
+<area shape="rect" id="node16" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1774,393,1915,420"/>
+<area shape="rect" id="node17" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1939,393,2110,420"/>
+<area shape="rect" id="node18" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2135,393,2216,420"/>
+<area shape="rect" id="node23" href="$d8/d8c/_attribute_8h.html" title="Attribute.h" alt="" coords="1122,244,1205,271"/>
+</map>

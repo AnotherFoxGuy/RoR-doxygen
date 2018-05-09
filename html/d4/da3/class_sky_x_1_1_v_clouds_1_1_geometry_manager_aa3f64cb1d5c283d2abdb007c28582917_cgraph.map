@@ -1,0 +1,7 @@
+<map id="SkyX::VClouds::GeometryManager::updateGeometry" name="SkyX::VClouds::GeometryManager::updateGeometry">
+<area shape="rect" id="node2" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a51a07cedeef79c078e473c807d22de30" title="SkyX::VClouds::VClouds\l::getCamera" alt="" coords="306,5,473,47"/>
+<area shape="rect" id="node3" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a940aa0556854175161ad8c4a4dd47183" title="SkyX::VClouds::GeometryManager\l::_updateGeometry" alt="" coords="277,71,501,112"/>
+<area shape="rect" id="node4" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ab37400c79e0baa606b7b73ef4c73702a" title="SkyX::VClouds::VClouds\l::_getCamerasData" alt="" coords="549,5,716,47"/>
+<area shape="rect" id="node5" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a64178d2540f4062656851270870b94d3" title="SkyX::VClouds::VClouds\l::getWindDirectionV2" alt="" coords="549,71,716,112"/>
+<area shape="rect" id="node6" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#aa90ceeb56d26b526aed353187195a483" title="SkyX::VClouds::VClouds\l::getWindSpeed" alt="" coords="549,136,716,177"/>
+</map>

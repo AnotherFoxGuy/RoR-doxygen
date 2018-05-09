@@ -1,0 +1,5 @@
+<map id="SkyX::VClouds::LightningManager::isEnabled" name="SkyX::VClouds::LightningManager::isEnabled">
+<area shape="rect" id="node2" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="231,5,381,47"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#acf68c63f12d3688b6adc295ca887a438" title="SkyX::VClouds::VClouds\l::update" alt="" coords="223,71,389,112"/>
+<area shape="rect" id="node4" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a7c25472c85244e6889b371384b5aff70" title="SkyX::VCloudsManager\l::update" alt="" coords="437,71,596,112"/>
+</map>

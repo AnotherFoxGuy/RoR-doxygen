@@ -1,0 +1,14 @@
+<map id="SkyX::VClouds::VClouds::setWheater" name="SkyX::VClouds::VClouds::setWheater">
+<area shape="rect" id="node2" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="717,5,868,47"/>
+<area shape="rect" id="node3" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a3c5adca159dc371b8624e055f260009b" title="SkyX::VClouds::VClouds\l::create" alt="" coords="220,79,387,120"/>
+<area shape="rect" id="node6" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a2f21ac89a85582095de6b1a44c8530f7" title="SkyX::VClouds::VClouds\l::getNoiseScale" alt="" coords="220,176,387,217"/>
+<area shape="rect" id="node4" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ab859795b0c4a32358b726c9e1eef35c6" title="SkyX::VClouds::VClouds\l::create" alt="" coords="455,127,621,168"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6931df17a25e8691796aa4d9c68467cb" title="SkyX::VCloudsManager\l::create" alt="" coords="459,61,617,103"/>
+<area shape="rect" id="node7" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#acf52579de6b080f63399b0025279f3e2" title="SkyX::VClouds::GeometryBlock\l::_setVertexData" alt="" coords="435,192,641,233"/>
+<area shape="rect" id="node8" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#afcaf3a79b96aeaca53c27f7180ed4949" title="SkyX::VClouds::GeometryBlock\l::_updateZoneCSlice" alt="" coords="689,224,896,265"/>
+<area shape="rect" id="node11" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#ab28afaa96535fa9c568422be1f44baec" title="SkyX::VClouds::GeometryBlock\l::setWorldOffset" alt="" coords="1199,197,1405,239"/>
+<area shape="rect" id="node12" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#aab5a7e7576713c869d555d31a041717f" title="SkyX::VClouds::GeometryBlock\l::_updateZoneBSlice" alt="" coords="689,159,896,200"/>
+<area shape="rect" id="node13" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#a965f4571b72848d4998abf566daf38fd" title="SkyX::VClouds::GeometryBlock\l::_updateZoneASlice" alt="" coords="689,289,896,331"/>
+<area shape="rect" id="node9" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#af8e402fd695a5cf9e801f2b42c4cdcbb" title="SkyX::VClouds::GeometryBlock\l::_updateGeometry" alt="" coords="944,260,1151,301"/>
+<area shape="rect" id="node10" href="$d9/df9/class_sky_x_1_1_v_clouds_1_1_geometry_block.html#a8a9184545973028914c267dee8412c6b" title="SkyX::VClouds::GeometryBlock\l::updateGeometry" alt="" coords="1199,263,1405,304"/>
+</map>

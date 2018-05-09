@@ -1,0 +1,6 @@
+<map id="TerrainManager::update" name="TerrainManager::update">
+<area shape="rect" id="node2" href="$d6/d14/class_terrain_object_manager.html#abf4f588e7e78f18ff4486aefb6679fb6" title="TerrainObjectManager\l::update" alt="" coords="225,5,374,47"/>
+<area shape="rect" id="node4" href="$d2/d9a/class_terrain_geometry_manager.html#aafe3532a578873538f6841591c547a35" title="TerrainGeometryManager\l::UpdateMainLightPosition" alt="" coords="212,71,387,112"/>
+<area shape="rect" id="node3" href="$d6/d14/class_terrain_object_manager.html#ad6bc30a80d54c348bd7f7d1f8d905b50" title="TerrainObjectManager\l::updateAnimatedObjects" alt="" coords="447,5,616,47"/>
+<area shape="rect" id="node5" href="$d3/d16/class_terrain_manager.html#a967b0ddb6dfc23f993faa3bc2adb84f8" title="TerrainManager::getMainLight" alt="" coords="435,78,628,105"/>
+</map>

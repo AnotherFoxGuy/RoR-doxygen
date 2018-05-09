@@ -1,0 +1,15 @@
+<map id="source/main/utils/ConfigFile.h" name="source/main/utils/ConfigFile.h">
+<area shape="rect" id="node2" href="$df/d0e/_o_t_c_fileformat_8cpp.html" title="source/main/resources\l/otc_fileformat/OTCFileformat.cpp" alt="" coords="5,95,220,136"/>
+<area shape="rect" id="node3" href="$df/d4d/_terrn2_fileformat_8cpp.html" title="source/main/resources\l/terrn2_fileformat/Terrn2Fileformat.cpp" alt="" coords="245,95,485,136"/>
+<area shape="rect" id="node4" href="$d4/d5a/_terrain_geometry_manager_8h.html" title="source/main/terrain\l/TerrainGeometryManager.h" alt="" coords="509,95,692,136"/>
+<area shape="rect" id="node9" href="$dd/d9a/_config_file_8cpp.html" title="source/main/utils/Config\lFile.cpp" alt="" coords="716,95,877,136"/>
+<area shape="rect" id="node10" href="$d0/d1e/_improved_config_file_8h.html" title="source/main/utils/Improved\lConfigFile.h" alt="" coords="902,95,1078,136"/>
+<area shape="rect" id="node5" href="$d2/d32/_sky_x_manager_8cpp.html" title="source/main/gfx/SkyXManager.cpp" alt="" coords="65,191,288,218"/>
+<area shape="rect" id="node6" href="$dd/d14/_terrain_geometry_manager_8cpp.html" title="source/main/terrain\l/TerrainGeometryManager.cpp" alt="" coords="313,184,510,225"/>
+<area shape="rect" id="node7" href="$d8/d4d/_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="535,184,675,225"/>
+<area shape="rect" id="node8" href="$d2/d0a/_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="699,184,878,225"/>
+<area shape="rect" id="node11" href="$d3/d99/_cache_system_8cpp.html" title="source/main/resources\l/CacheSystem.cpp" alt="" coords="909,184,1063,225"/>
+<area shape="rect" id="node12" href="$d6/dac/_local_storage_8h.html" title="source/main/scripting\l/LocalStorage.h" alt="" coords="1087,184,1234,225"/>
+<area shape="rect" id="node13" href="$d7/de1/_local_storage_8cpp.html" title="source/main/scripting\l/LocalStorage.cpp" alt="" coords="1002,273,1149,315"/>
+<area shape="rect" id="node14" href="$d4/d5f/_script_engine_8cpp.html" title="source/main/scripting\l/ScriptEngine.cpp" alt="" coords="1173,273,1319,315"/>
+</map>

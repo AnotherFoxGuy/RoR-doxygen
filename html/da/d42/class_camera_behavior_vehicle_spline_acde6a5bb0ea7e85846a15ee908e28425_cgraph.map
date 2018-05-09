@@ -1,0 +1,22 @@
+<map id="CameraBehaviorVehicleSpline::activate" name="CameraBehaviorVehicleSpline::activate">
+<area shape="rect" id="node2" href="$d2/d23/class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNext\lBehavior" alt="" coords="248,5,451,47"/>
+<area shape="rect" id="node4" href="$df/df9/class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="773,13,947,39"/>
+<area shape="rect" id="node5" href="$da/d42/class_camera_behavior_vehicle_spline.html#a40f9e100be8f69c825f7ade503ba21ed" title="CameraBehaviorVehicleSpline\l::reset" alt="" coords="252,123,447,164"/>
+<area shape="rect" id="node8" href="$da/d42/class_camera_behavior_vehicle_spline.html#a4c1bbdd426bd74cd545ec8314ed66c71" title="CameraBehaviorVehicleSpline\l::createSpline" alt="" coords="252,223,447,264"/>
+<area shape="rect" id="node3" href="$d2/d23/class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="499,13,710,39"/>
+<area shape="rect" id="node6" href="$db/d5e/class_camera_behavior_orbit.html#ac2c38d7776bb50ffb4a0d267c11acb2c" title="CameraBehaviorOrbit\l::reset" alt="" coords="533,123,677,164"/>
+<area shape="rect" id="node7" href="$df/df9/class_beam.html#a304819ff3ad7dafc09f7f64e0c908d2e" title="Beam::getMinimalCameraRadius" alt="" coords="499,189,711,215"/>
+<area shape="rect" id="node9" href="$df/df9/class_beam.html#a93991998d4398e5502eeb4f314e0bc50" title="Beam::getAllLinkedBeams" alt="" coords="517,266,693,293"/>
+<area shape="rect" id="node10" href="$df/df9/class_beam.html#a4d676c7853c5cdcc93ca6b28c03b4575" title="Beam::getBrakeLightVisible" alt="" coords="769,63,951,90"/>
+<area shape="rect" id="node11" href="$df/df9/class_beam.html#ac7f7f85d7486d84bb769263e3bf2c0c7" title="Beam::getReverseLightVisible" alt="" coords="763,114,957,141"/>
+<area shape="rect" id="node12" href="$df/df9/class_beam.html#a040d0110dffa4ca29b33fefe4f3b315f" title="Beam::getCustomLightVisible" alt="" coords="763,165,957,191"/>
+<area shape="rect" id="node15" href="$df/df9/class_beam.html#a8c4384c194313f9dd21b7120b4766c43" title="Beam::setCustomLightVisible" alt="" coords="763,215,957,242"/>
+<area shape="rect" id="node16" href="$df/df9/class_beam.html#a0c62c424bdbe7a6404d036a4673718a1" title="Beam::getBeaconMode" alt="" coords="781,266,939,293"/>
+<area shape="rect" id="node17" href="$df/df9/class_beam.html#a9f07d551fefe3b3aa94f29eef92a7f4f" title="Beam::setBlinkType" alt="" coords="791,317,929,343"/>
+<area shape="rect" id="node18" href="$df/df9/class_beam.html#a5b4fc383c9b4aeda5713f3321fffdd19" title="Beam::getBlinkType" alt="" coords="791,367,929,394"/>
+<area shape="rect" id="node19" href="$df/df9/class_beam.html#ab7cea3a026bb573930b1c6e5bd7774c1" title="Beam::getHeadingDirection\lAngle" alt="" coords="770,419,950,460"/>
+<area shape="rect" id="node20" href="$df/df9/class_beam.html#abe5e8d282f16a2a06f2ce49901cbcbfd" title="Beam::getCustomParticleMode" alt="" coords="759,485,961,511"/>
+<area shape="rect" id="node21" href="$df/df9/class_beam.html#a66ee505c58a0966b5a1b6ec965992bc0" title="Beam::getLowestNode" alt="" coords="783,535,937,562"/>
+<area shape="rect" id="node13" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="1009,190,1059,217"/>
+<area shape="rect" id="node14" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="1107,190,1183,217"/>
+</map>

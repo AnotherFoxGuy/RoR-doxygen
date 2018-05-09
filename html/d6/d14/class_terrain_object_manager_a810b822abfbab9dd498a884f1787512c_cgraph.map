@@ -1,0 +1,12 @@
+<map id="TerrainObjectManager::unloadObject" name="TerrainObjectManager::unloadObject">
+<area shape="rect" id="node2" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="245,5,295,32"/>
+<area shape="rect" id="node4" href="$d2/d0a/_terrain_object_manager_8cpp.html#a10b3ef92e6788c5d406f238715b3de93" title="removeCollisionTri" alt="" coords="207,56,333,83"/>
+<area shape="rect" id="node9" href="$d2/d0a/_terrain_object_manager_8cpp.html#ab40142c48f4c5880d436b03abc7e6f26" title="removeCollisionBox" alt="" coords="203,107,337,133"/>
+<area shape="rect" id="node3" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="447,5,523,32"/>
+<area shape="rect" id="node5" href="$d9/d39/class_collisions.html#ac9796300989b7f75868f6b4707f4dec0" title="Collisions::removeCollisionTri" alt="" coords="389,56,580,83"/>
+<area shape="rect" id="node6" href="$d9/d39/class_collisions.html#a0f6b7005dc87f64650ced8786bba0a08" title="Collisions::GetNumCollisionTris" alt="" coords="632,31,836,57"/>
+<area shape="rect" id="node7" href="$d9/d39/class_collisions.html#a5daaefbf4b30949f1d68ba5ae38d9b9b" title="Collisions::hash_free" alt="" coords="663,81,805,108"/>
+<area shape="rect" id="node8" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="884,81,1023,108"/>
+<area shape="rect" id="node10" href="$d9/d39/class_collisions.html#a2b717349889d16df812225582f8ac943" title="Collisions::removeCollisionBox" alt="" coords="385,107,584,133"/>
+<area shape="rect" id="node11" href="$d9/d39/class_collisions.html#a61d99b847d6d48f94c5332848543172d" title="Collisions::GetNumCollision\lBoxes" alt="" coords="643,133,825,174"/>
+</map>

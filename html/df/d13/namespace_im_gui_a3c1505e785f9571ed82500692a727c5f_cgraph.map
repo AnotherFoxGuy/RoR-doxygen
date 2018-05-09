@@ -1,0 +1,8 @@
+<map id="ImGui::CalcItemSize" name="ImGui::CalcItemSize">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a0a4dbfabbfa45d74319ef541962ce2eb" title="ImGui::GetContentRegionMax" alt="" coords="195,5,389,32"/>
+<area shape="rect" id="node7" href="$d1/da2/imgui__internal_8h.html#a6fb8dd1bd2fa0e1c6065dc7123cb7f3e" title="ImMax" alt="" coords="261,56,323,83"/>
+<area shape="rect" id="node3" href="$df/d13/namespace_im_gui.html#a408f9ddac92f8629a7e273ced5f8c3aa" title="ImGui::GetCurrentWindowRead" alt="" coords="865,19,1068,45"/>
+<area shape="rect" id="node4" href="$df/d13/namespace_im_gui.html#a79c22e9c5c208b6c9534a273be71a9e6" title="ImGui::GetColumnOffset" alt="" coords="437,44,600,71"/>
+<area shape="rect" id="node5" href="$da/d72/imgui_8cpp.html#a824b7c155f6d3630e81e6ae3c9194d94" title="GetDraggedColumnOffset" alt="" coords="648,69,817,96"/>
+<area shape="rect" id="node6" href="$d1/da2/imgui__internal_8h.html#a0025e40e8a0c14fa07c9081cc70b857a" title="ImClamp" alt="" coords="930,69,1003,96"/>
+</map>

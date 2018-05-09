@@ -1,0 +1,11 @@
+<map id="SkyX::SkyX::isStarfieldEnabled" name="SkyX::SkyX::isStarfieldEnabled">
+<area shape="rect" id="node2" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ac6327911c4478d527fdf264f0a28ea34" title="SkyX::GPUManager::getSkydome\lMaterialName" alt="" coords="256,68,475,109"/>
+<area shape="rect" id="node3" href="$dd/d89/class_sky_x_1_1_clouds_manager.html#a49f0f35194ca5363129f38e4958f26de" title="SkyX::CloudsManager::add" alt="" coords="805,13,984,39"/>
+<area shape="rect" id="node5" href="$dd/d89/class_sky_x_1_1_clouds_manager.html#a4cdc55e24d14b87f2da0f6f5f803600c" title="SkyX::CloudsManager\l::registerAll" alt="" coords="553,35,704,76"/>
+<area shape="rect" id="node6" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#ae8b52a74e1c8d447ed7528949bdd1887" title="SkyX::GPUManager::\l_updateFP" alt="" coords="555,100,702,141"/>
+<area shape="rect" id="node9" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a1453b1fd20472aa40bdc56896fea3f33" title="SkyX::GPUManager::\l_notifySkydomeMaterialChanged" alt="" coords="523,165,735,207"/>
+<area shape="rect" id="node4" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="1055,5,1205,47"/>
+<area shape="rect" id="node7" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#aa6e51c4d5104ed7c1d6d1c0a65048c8a" title="SkyX::GPUManager::getMoon\lMaterialName" alt="" coords="797,100,993,141"/>
+<area shape="rect" id="node8" href="$dd/dab/class_sky_x_1_1_moon_manager.html#a34f9344783164b30151bcba1b3ba7ed5" title="SkyX::MoonManager::\lcreate" alt="" coords="1055,100,1205,141"/>
+<area shape="rect" id="node10" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a545927dd8da0642e8bf68770c6907c75" title="SkyX::GPUManager::GPUManager" alt="" coords="783,173,1007,199"/>
+</map>

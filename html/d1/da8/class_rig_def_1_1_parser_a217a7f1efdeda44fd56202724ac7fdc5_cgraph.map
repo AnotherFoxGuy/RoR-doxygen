@@ -1,0 +1,7 @@
+<map id="RigDef::Parser::ParseMaterialFlareBindings" name="RigDef::Parser::ParseMaterialFlareBindings">
+<area shape="rect" id="node2" href="$d1/da8/class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="470,5,649,47"/>
+<area shape="rect" id="node4" href="$d1/da8/class_rig_def_1_1_parser.html#a635bdc3c7493275fc05f91d51c11945b" title="RigDef::Parser::GetArgInt" alt="" coords="249,67,419,94"/>
+<area shape="rect" id="node6" href="$d1/da8/class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="248,118,420,145"/>
+<area shape="rect" id="node3" href="$d1/da8/class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="699,42,889,69"/>
+<area shape="rect" id="node5" href="$d1/da8/class_rig_def_1_1_parser.html#a81784a06397ed377c39759981d6c700b" title="RigDef::Parser::GetArgLong" alt="" coords="468,71,651,98"/>
+</map>

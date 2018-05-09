@@ -1,0 +1,6 @@
+<map id="ImGuiStb::STB_TEXTEDIT_MOVEWORDLEFT_IMPL" name="ImGuiStb::STB_TEXTEDIT_MOVEWORDLEFT_IMPL">
+<area shape="rect" id="node2" href="$dc/d59/namespace_im_gui_stb.html#a4e3d14415639a57b7d77dfedfa91b8f7" title="ImGuiStb::is_word_boundary\l_from_right" alt="" coords="463,25,651,67"/>
+<area shape="rect" id="node3" href="$dc/d59/namespace_im_gui_stb.html#ada7de5d22e36a0bb17592c27dbafc02d" title="ImGuiStb::is_separator" alt="" coords="699,62,853,89"/>
+<area shape="rect" id="node5" href="$dc/d59/namespace_im_gui_stb.html#aadcf517e756dd59dd6da5502f38a836e" title="ImGuiStb::STB_TEXTEDIT\l_MOVEWORDRIGHT_IMPL" alt="" coords="231,25,415,67"/>
+<area shape="rect" id="node4" href="$d1/da2/imgui__internal_8h.html#ac516ac436e58254050198c3e77de1f05" title="ImCharIsSpace" alt="" coords="901,62,1012,89"/>
+</map>

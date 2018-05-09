@@ -1,0 +1,9 @@
+<map id="Beam::UpdatePropAnimations" name="Beam::UpdatePropAnimations">
+<area shape="rect" id="node2" href="$df/df9/class_beam.html#a6b9fabd652d761c4f6e7f7f068d5b484" title="Beam::calcAnimators" alt="" coords="268,5,415,32"/>
+<area shape="rect" id="node3" href="$df/d86/namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="254,56,429,83"/>
+<area shape="rect" id="node4" href="$d3/d7b/class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="251,107,432,133"/>
+<area shape="rect" id="node5" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="541,56,590,83"/>
+<area shape="rect" id="node7" href="$d3/d7b/class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="480,107,651,133"/>
+<area shape="rect" id="node8" href="$d3/d7b/class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="488,157,643,184"/>
+<area shape="rect" id="node6" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="699,56,775,83"/>
+</map>

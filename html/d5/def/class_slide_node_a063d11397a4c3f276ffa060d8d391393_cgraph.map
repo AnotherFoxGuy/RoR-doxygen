@@ -1,0 +1,4 @@
+<map id="SlideNode::getClosestRail" name="SlideNode::getClosestRail">
+<area shape="rect" id="node2" href="$d5/def/class_slide_node.html#ac5fd218cba138435059c5aec3ce59393" title="SlideNode::getLenTo" alt="" coords="227,5,369,32"/>
+<area shape="rect" id="node3" href="$de/d17/class_rail_group.html#a8a73190526b67d47372c697703abf5d5" title="RailGroup::getStartRail" alt="" coords="417,5,572,32"/>
+</map>

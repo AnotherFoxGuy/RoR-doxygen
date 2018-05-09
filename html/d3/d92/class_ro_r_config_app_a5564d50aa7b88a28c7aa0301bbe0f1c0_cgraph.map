@@ -1,0 +1,9 @@
+<map id="RoRConfigApp::GetLogPath" name="RoRConfigApp::GetLogPath">
+<area shape="rect" id="node2" href="$d3/d92/class_ro_r_config_app.html#a1903fee3db8304f9d16da6ed1b35b4d6" title="RoRConfigApp::InitFilesystem" alt="" coords="248,5,443,32"/>
+<area shape="rect" id="node4" href="$d3/d92/class_ro_r_config_app.html#a63d890925eec4ee45f2320a6f95e84b5" title="RoRConfigApp::InitLogging" alt="" coords="257,56,433,83"/>
+<area shape="rect" id="node5" href="$d3/d92/class_ro_r_config_app.html#a2fb88f263761024afcacdb482de7c34a" title="RoRConfigApp::CheckAndPrepare\lUserDirectory" alt="" coords="236,107,455,149"/>
+<area shape="rect" id="node3" href="$df/dd4/wxutils_8h.html#acea10d469893caac689206a073cc165e" title="conv" alt="" coords="533,9,581,36"/>
+<area shape="rect" id="node6" href="$d0/d31/conf__file_8cpp.html#a90c833708cf01165349a2dc66bed99f1" title="FileExists" alt="" coords="517,64,597,91"/>
+<area shape="rect" id="node7" href="$d8/d18/namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="512,115,603,141"/>
+<area shape="rect" id="node8" href="$d2/dde/_ro_r_config_8h.html#a0abe637bc5df2da6033c770764a9c02f" title="ExtractZipFiles" alt="" coords="503,165,612,192"/>
+</map>

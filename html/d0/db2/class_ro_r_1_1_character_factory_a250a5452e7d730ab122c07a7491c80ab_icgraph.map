@@ -1,0 +1,5 @@
+<map id="RoR::CharacterFactory::update" name="RoR::CharacterFactory::update">
+<area shape="rect" id="node2" href="$d0/db2/class_ro_r_1_1_character_factory.html#a74013a41babb84f35bcff5e6c796df48" title="RoR::CharacterFactory\l::CharacterFactory" alt="" coords="220,5,375,47"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="208,71,387,112"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="435,78,647,105"/>
+</map>

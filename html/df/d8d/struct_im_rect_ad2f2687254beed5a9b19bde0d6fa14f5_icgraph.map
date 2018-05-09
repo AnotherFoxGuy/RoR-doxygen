@@ -1,0 +1,11 @@
+<map id="ImRect::GetBR" name="ImRect::GetBR">
+<area shape="rect" id="node2" href="$df/d13/namespace_im_gui.html#a030e4ac6eed5b4b960a3fef538fcbad0" title="ImGui::Begin" alt="" coords="180,78,277,105"/>
+<area shape="rect" id="node5" href="$df/d13/namespace_im_gui.html#a1e55711a21f97d5dff919d697d3a7201" title="ImGui::BeginMenu" alt="" coords="164,187,293,214"/>
+<area shape="rect" id="node3" href="$df/d0a/struct_im_gui_list_clipper.html#a0dc870fa31a56d3ace7625450f42937a" title="ImGuiListClipper::ImGuiList\lClipper" alt="" coords="341,5,521,47"/>
+<area shape="rect" id="node4" href="$df/d0a/struct_im_gui_list_clipper.html#ada915f0ae4446df73c1a2372bde65293" title="ImGuiListClipper::\l~ImGuiListClipper" alt="" coords="369,71,494,112"/>
+<area shape="rect" id="node6" href="$df/d13/namespace_im_gui.html#a52880ae1ecdd704a083558d31c9bfa50" title="ImGui::ShowTestWindow" alt="" coords="825,213,992,239"/>
+<area shape="rect" id="node8" href="$d5/d0a/imgui__demo_8cpp.html#a41fc5e36f317b1e9f66bdd2d7bca7764" title="ShowExampleAppMainMenuBar" alt="" coords="569,187,777,214"/>
+<area shape="rect" id="node9" href="$d5/d0a/imgui__demo_8cpp.html#af6ff107f662e23ad39345a8192d782eb" title="ShowExampleMenuFile" alt="" coords="352,238,511,265"/>
+<area shape="rect" id="node10" href="$d5/d0a/imgui__demo_8cpp.html#adfe8516f13b623adbf78b024efd5bb6e" title="ShowExampleAppLayout" alt="" coords="590,289,757,315"/>
+<area shape="rect" id="node7" href="$d5/d0a/imgui__demo_8cpp.html#a4dadf5e7b393795666d19af9694037cf" title="ShowExampleAppLongText" alt="" coords="1040,213,1221,239"/>
+</map>

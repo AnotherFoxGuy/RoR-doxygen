@@ -1,0 +1,7 @@
+<map id="RoR::GUI::GamePauseMenu::SetVisible" name="RoR::GUI::GamePauseMenu::SetVisible">
+<area shape="rect" id="node2" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a8837f1976f69697cc6c122b698f498ef" title="RoR::GUIManager::SetVisible\l_GamePauseMenu" alt="" coords="243,5,437,47"/>
+<area shape="rect" id="node4" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="253,71,427,112"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="485,13,697,39"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="566,78,617,105"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="745,78,819,105"/>
+</map>

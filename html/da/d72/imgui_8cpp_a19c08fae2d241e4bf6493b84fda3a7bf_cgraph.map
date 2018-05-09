@@ -1,0 +1,6 @@
+<map id="AddDrawListToRenderList" name="AddDrawListToRenderList">
+<area shape="rect" id="node2" href="$d9/de0/class_im_vector.html#aa53e48a5272f4bad1099368769514ff1" title="ImVector::empty" alt="" coords="237,5,356,32"/>
+<area shape="rect" id="node3" href="$d9/de0/class_im_vector.html#a3e4424d3fca190894598a6575f9d2401" title="ImVector::back" alt="" coords="241,56,352,83"/>
+<area shape="rect" id="node4" href="$d9/de0/class_im_vector.html#a3db7ce62d3c429effdb893fbf7148c1c" title="ImVector::pop_back" alt="" coords="227,107,366,133"/>
+<area shape="rect" id="node5" href="$d9/de0/class_im_vector.html#a68387993f2a5f5c3b2a7139d9ab778b8" title="ImVector::push_back" alt="" coords="224,157,369,184"/>
+</map>

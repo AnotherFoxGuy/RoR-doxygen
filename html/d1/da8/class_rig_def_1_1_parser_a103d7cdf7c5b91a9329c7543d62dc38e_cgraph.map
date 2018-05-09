@@ -1,0 +1,15 @@
+<map id="RigDef::Parser::ParseAnimator" name="RigDef::Parser::ParseAnimator">
+<area shape="rect" id="node2" href="$d1/da8/class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="253,229,457,255"/>
+<area shape="rect" id="node12" href="$d1/da8/class_rig_def_1_1_parser.html#a8e429d206d517390a1da6e60f3abcccc" title="RigDef::Parser::ParseArg\lFloat" alt="" coords="517,280,685,321"/>
+<area shape="rect" id="node13" href="$d1/da8/class_rig_def_1_1_parser.html#a03296de9f087b80b7dde491bc2c09c64" title="RigDef::Parser::ParseArgInt" alt="" coords="264,342,447,369"/>
+<area shape="rect" id="node3" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#ada562d6df02ffd616a611f8bac249f05" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="513,160,689,201"/>
+<area shape="rect" id="node11" href="$d1/da8/class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="744,319,935,346"/>
+<area shape="rect" id="node4" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#ad9fb7d3deecbb9f94ac85ff061459795" title="RigDef::SequentialImporter\l::AddNumberedNode" alt="" coords="751,5,927,47"/>
+<area shape="rect" id="node6" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a0d1350e2b0c44cff66a9c73c17baf9dd" title="RigDef::SequentialImporter\l::AddNamedNode" alt="" coords="751,71,927,112"/>
+<area shape="rect" id="node7" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a5f5e30fbc3b2f58adb15a8f64bbecd15" title="RigDef::SequentialImporter\l::AddGeneratedNode" alt="" coords="983,159,1159,200"/>
+<area shape="rect" id="node8" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a639c4f71bc37fc08f02a5b603ee14033" title="RigDef::SequentialImporter\l::GenerateNodesForWheel" alt="" coords="751,188,927,229"/>
+<area shape="rect" id="node9" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#a69601c62b1bf9030cd2e2b03a926bc04" title="Traverse whole rig definition and resolve all node references. " alt="" coords="751,253,927,295"/>
+<area shape="rect" id="node5" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#abbbd9a34cae153cb481b6c61a7927a97" title="RigDef::SequentialImporter\l::AddMessage" alt="" coords="983,39,1159,80"/>
+<area shape="rect" id="node10" href="$d4/d43/class_rig_def_1_1_sequential_importer.html#aaabc36a84be7e26a7d0790f04fa882c1" title="RigDef::SequentialImporter\l::ProcessModule" alt="" coords="983,253,1159,295"/>
+<area shape="rect" id="node14" href="$d1/da8/class_rig_def_1_1_parser.html#add2e88be206625ea10fc006eb2c01159" title="RigDef::Parser::ParseArgUint" alt="" coords="505,346,696,373"/>
+</map>

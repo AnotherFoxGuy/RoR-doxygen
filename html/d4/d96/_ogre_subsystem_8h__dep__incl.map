@@ -1,0 +1,23 @@
+<map id="source/main/gfx/OgreSubsystem.h" name="source/main/gfx/OgreSubsystem.h">
+<area shape="rect" id="node2" href="$d0/d42/_application_8cpp.html" title="source/main/Application.cpp" alt="" coords="5,87,192,114"/>
+<area shape="rect" id="node3" href="$de/dbe/_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="217,80,375,121"/>
+<area shape="rect" id="node4" href="$df/de6/_skin_manager_8cpp.html" title="source/main/gameplay\l/SkinManager.cpp" alt="" coords="399,80,553,121"/>
+<area shape="rect" id="node5" href="$d2/d73/_depth_of_field_effect_8cpp.html" title="source/main/gfx/dof\l/DepthOfFieldEffect.cpp" alt="" coords="577,80,735,121"/>
+<area shape="rect" id="node6" href="$d2/dac/_hydrax_water_8cpp.html" title="source/main/gfx/HydraxWater.cpp" alt="" coords="760,87,979,114"/>
+<area shape="rect" id="node7" href="$da/d60/_ogre_subsystem_8cpp.html" title="source/main/gfx/OgreSubsystem.cpp" alt="" coords="1003,87,1240,114"/>
+<area shape="rect" id="node8" href="$d2/d32/_sky_x_manager_8cpp.html" title="source/main/gfx/SkyXManager.cpp" alt="" coords="1265,87,1487,114"/>
+<area shape="rect" id="node9" href="$d7/dca/_water_8cpp.html" title="source/main/gfx/Water.cpp" alt="" coords="1512,87,1691,114"/>
+<area shape="rect" id="node10" href="$d4/d90/_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="1715,87,1930,114"/>
+<area shape="rect" id="node11" href="$d3/dfd/_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="1955,87,2189,114"/>
+<area shape="rect" id="node12" href="$db/d11/_g_u_i___game_chat_box_8cpp.html" title="source/main/gui/panels\l/GUI_GameChatBox.cpp" alt="" coords="2213,80,2379,121"/>
+<area shape="rect" id="node13" href="$df/db0/_g_u_i___game_pause_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GamePauseMenu.cpp" alt="" coords="2403,80,2587,121"/>
+<area shape="rect" id="node14" href="$d1/d61/_g_u_i___sim_utils_8cpp.html" title="source/main/gui/panels\l/GUI_SimUtils.cpp" alt="" coords="2611,80,2767,121"/>
+<area shape="rect" id="node15" href="$df/d0a/main_8cpp.html" title="source/main/main.cpp" alt="" coords="2791,87,2942,114"/>
+<area shape="rect" id="node16" href="$dc/df0/_main_menu_8cpp.html" title="source/main/MainMenu.cpp" alt="" coords="2966,87,3149,114"/>
+<area shape="rect" id="node17" href="$df/df5/_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="3173,80,3315,121"/>
+<area shape="rect" id="node18" href="$d5/da6/_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="3340,80,3487,121"/>
+<area shape="rect" id="node19" href="$d4/d5f/_script_engine_8cpp.html" title="source/main/scripting\l/ScriptEngine.cpp" alt="" coords="3511,80,3657,121"/>
+<area shape="rect" id="node20" href="$d7/d5a/_survey_map_manager_8cpp.html" title="source/main/terrain\l/map/SurveyMapManager.cpp" alt="" coords="3681,80,3876,121"/>
+<area shape="rect" id="node21" href="$d5/df0/_input_engine_8cpp.html" title="source/main/utils/InputEngine.cpp" alt="" coords="3900,87,4119,114"/>
+<area shape="rect" id="node22" href="$df/d8a/_mesh_object_8cpp.html" title="source/main/utils/MeshObject.cpp" alt="" coords="4143,87,4363,114"/>
+</map>

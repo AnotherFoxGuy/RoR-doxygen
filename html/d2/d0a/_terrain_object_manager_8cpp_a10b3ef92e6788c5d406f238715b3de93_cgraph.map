@@ -1,0 +1,6 @@
+<map id="removeCollisionTri" name="removeCollisionTri">
+<area shape="rect" id="node2" href="$d9/d39/class_collisions.html#ac9796300989b7f75868f6b4707f4dec0" title="Collisions::removeCollisionTri" alt="" coords="180,31,371,57"/>
+<area shape="rect" id="node3" href="$d9/d39/class_collisions.html#a0f6b7005dc87f64650ced8786bba0a08" title="Collisions::GetNumCollisionTris" alt="" coords="419,5,623,32"/>
+<area shape="rect" id="node4" href="$d9/d39/class_collisions.html#a5daaefbf4b30949f1d68ba5ae38d9b9b" title="Collisions::hash_free" alt="" coords="449,56,592,83"/>
+<area shape="rect" id="node5" href="$d9/d39/class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Returns index to &#39;hashtable&#39;. " alt="" coords="671,56,809,83"/>
+</map>

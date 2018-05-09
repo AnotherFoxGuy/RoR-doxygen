@@ -1,0 +1,5 @@
+<map id="CameraBehaviorStatic::mouseReleased" name="CameraBehaviorStatic::mouseReleased">
+<area shape="rect" id="node2" href="$d5/d90/class_camera_behavior_static.html#ab7de9fba48c19309404a2a40ece06f05" title="CameraBehaviorStatic\l::activate" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$d5/d90/class_camera_behavior_static.html#a3717f40a6300ee07343794b7f0d02f2a" title="CameraBehaviorStatic\l::reset" alt="" coords="204,71,355,112"/>
+<area shape="rect" id="node4" href="$d5/d90/class_camera_behavior_static.html#a0b7ed249e9fb39da2dd56aa3b7162cd2" title="CameraBehaviorStatic\l::deactivate" alt="" coords="204,136,355,177"/>
+</map>

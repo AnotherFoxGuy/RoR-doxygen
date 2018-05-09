@@ -1,0 +1,9 @@
+<map id="RoR::GUI::MultiplayerSelector::CheckAndProcessRefreshResult" name="RoR::GUI::MultiplayerSelector::CheckAndProcessRefreshResult">
+<area shape="rect" id="node2" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a79090daf60dbea79466a4d3243f5ea2b" title="RoR::GUI::MultiplayerSelector\l::IsVisible" alt="" coords="279,37,475,79"/>
+<area shape="rect" id="node8" href="$d4/d14/class_ro_r_1_1_main_menu.html#a4c0e4e0344e537643147ae798304ee8e" title="RoR::MainMenu::MainMenuLoop\lUpdate" alt="" coords="272,103,483,144"/>
+<area shape="rect" id="node3" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a74dca32230f1a1cf6560f0fabc7b04bc" title="RoR::GUIManager::IsVisible\l_MultiplayerSelector" alt="" coords="535,5,719,47"/>
+<area shape="rect" id="node4" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#af75908cee15c6ce99cce1752387fca4f" title="RoR::GUIManager::DrawMain\lMenuGui" alt="" coords="531,71,723,112"/>
+<area shape="rect" id="node5" href="$d4/d14/class_ro_r_1_1_main_menu.html#a582e508f1bb1578d1124260de49e438b" title="RoR::MainMenu::EnterMain\lMenuLoop" alt="" coords="771,71,953,112"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1001,78,1052,105"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1100,78,1173,105"/>
+</map>

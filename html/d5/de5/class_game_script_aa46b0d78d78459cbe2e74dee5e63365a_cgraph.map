@@ -1,0 +1,6 @@
+<map id="GameScript::moveObjectVisuals" name="GameScript::moveObjectVisuals">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#a55891b7908baf6be96220a227596028c" title="TerrainManager::getObject\lManager" alt="" coords="264,5,439,47"/>
+<area shape="rect" id="node3" href="$d6/d14/class_terrain_object_manager.html#acbae9e5334183b04cd2df3f02bb4b331" title="TerrainObjectManager\l::moveObjectVisuals" alt="" coords="277,71,426,112"/>
+<area shape="rect" id="node4" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="487,78,536,105"/>
+<area shape="rect" id="node5" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="584,78,660,105"/>
+</map>

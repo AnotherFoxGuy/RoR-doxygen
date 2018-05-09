@@ -1,0 +1,6 @@
+<map id="RoR::GUIManager::SetSimController" name="RoR::GUIManager::SetSimController">
+<area shape="rect" id="node2" href="$dd/dbe/class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="287,31,543,57"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="591,5,775,32"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="657,56,708,83"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="823,56,896,83"/>
+</map>

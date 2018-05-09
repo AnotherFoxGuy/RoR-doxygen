@@ -1,0 +1,6 @@
+<map id="Collisions::removeCollisionBox" name="Collisions::removeCollisionBox">
+<area shape="rect" id="node2" href="$d2/d0a/_terrain_object_manager_8cpp.html#ab40142c48f4c5880d436b03abc7e6f26" title="removeCollisionBox" alt="" coords="252,35,387,61"/>
+<area shape="rect" id="node3" href="$d9/d39/class_collisions.html#a1fa156bf0bab59802a6f1724d8801151" title="Collisions::getEvent" alt="" coords="441,5,577,32"/>
+<area shape="rect" id="node4" href="$d6/d14/class_terrain_object_manager.html#a810b822abfbab9dd498a884f1787512c" title="TerrainObjectManager\l::unloadObject" alt="" coords="435,57,584,98"/>
+<area shape="rect" id="node5" href="$d5/de5/class_game_script.html#ac9ef8b95e5fd759b73ef414e9ae9a6a8" title="GameScript::destroyObject" alt="" coords="632,64,812,91"/>
+</map>

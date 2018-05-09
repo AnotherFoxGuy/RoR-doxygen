@@ -1,0 +1,5 @@
+<map id="RigSpawner::CustomMaterial" name="RigSpawner::CustomMaterial">
+<area shape="rect" id="node2" href="$dd/d82/struct_rig_def_1_1_material_flare_binding.html" title="RigDef::MaterialFlareBinding" alt="" coords="5,153,192,180"/>
+<area shape="rect" id="node3" href="$d9/dd4/struct_rig_def_1_1_video_camera.html" title="RigDef::VideoCamera" alt="" coords="216,153,363,180"/>
+<area shape="rect" id="node4" href="$d2/dad/class_rig_def_1_1_node_1_1_ref.html" title="RigDef::Node::Ref" alt="" coords="227,5,352,32"/>
+</map>

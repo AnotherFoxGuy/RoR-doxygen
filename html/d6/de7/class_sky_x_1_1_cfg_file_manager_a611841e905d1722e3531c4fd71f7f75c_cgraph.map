@@ -1,0 +1,4 @@
+<map id="SkyX::CfgFileManager::save" name="SkyX::CfgFileManager::save">
+<area shape="rect" id="node2" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#aa545eb1b32c0274f9bbbeedffbffec76" title="SkyX::CfgFileManager\l::_getVersionCfgString" alt="" coords="204,5,356,47"/>
+<area shape="rect" id="node3" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a9175ce04a05b08c24e4eb486fd0cc223" title="SkyX::CfgFileManager\l::_saveToFile" alt="" coords="205,71,355,112"/>
+</map>

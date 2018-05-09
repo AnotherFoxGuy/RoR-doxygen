@@ -1,0 +1,9 @@
+<map id="SkyX::Controller::getMoonDirection" name="SkyX::Controller::getMoonDirection">
+<area shape="rect" id="node2" href="$d8/d1d/class_sky_x_1_1_controller.html#afd6fcd0d54705d0e0beaa1585355740c" title="SkyX::Controller::update" alt="" coords="227,5,389,32"/>
+<area shape="rect" id="node3" href="$dd/dab/class_sky_x_1_1_moon_manager.html#a889bc3d2b3cccf3c52d5adee66a82dfb" title="SkyX::MoonManager::\lupdateGeometry" alt="" coords="233,57,383,98"/>
+<area shape="rect" id="node4" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#ae18e2c8203f4ce46607677c6171e12c2" title="SkyX::VCloudsManager\l::_setLightParameters" alt="" coords="229,122,387,163"/>
+<area shape="rect" id="node5" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6931df17a25e8691796aa4d9c68467cb" title="SkyX::VCloudsManager\l::create" alt="" coords="437,57,596,98"/>
+<area shape="rect" id="node7" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a7c25472c85244e6889b371384b5aff70" title="SkyX::VCloudsManager\l::update" alt="" coords="437,122,596,163"/>
+<area shape="rect" id="node8" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#afd62d929ffeb8de654a30af55ddf490c" title="SkyX::VCloudsManager\l::isCreated" alt="" coords="437,187,596,229"/>
+<area shape="rect" id="node6" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="644,122,795,163"/>
+</map>

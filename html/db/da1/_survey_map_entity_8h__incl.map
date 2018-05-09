@@ -1,0 +1,10 @@
+<map id="source/main/terrain/map/SurveyMapEntity.h" name="source/main/terrain/map/SurveyMapEntity.h">
+<area shape="rect" id="node2" href="$d8/d9c/_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1168,319,1303,345"/>
+<area shape="rect" id="node20" href="$d8/d63/_base_layout_8h.html" title="mygui/BaseLayout.h" alt="" coords="1146,95,1287,121"/>
+<area shape="rect" id="node14" href="$d3/d73/_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1653,468,1804,495"/>
+<area shape="rect" id="node15" href="$d7/dfa/_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1711,393,1853,420"/>
+<area shape="rect" id="node16" href="$dc/de5/_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1877,393,2047,420"/>
+<area shape="rect" id="node17" href="$d7/d85/_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2072,393,2153,420"/>
+<area shape="rect" id="node22" href="$d9/dfd/_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1253,169,1373,196"/>
+<area shape="rect" id="node23" href="$d8/d8c/_attribute_8h.html" title="Attribute.h" alt="" coords="1347,244,1430,271"/>
+</map>

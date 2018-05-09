@@ -1,0 +1,77 @@
+<map id="CameraManager::getCurrentBehavior" name="CameraManager::getCurrentBehavior">
+<area shape="rect" id="node2" href="$dd/dbe/class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="4434,1018,4613,1059"/>
+<area shape="rect" id="node4" href="$dd/dbe/class_ro_r_frame_listener.html#a519eb1268f9cc62d177d723bdb8190e1" title="RoRFrameListener::HideGUI" alt="" coords="764,427,951,453"/>
+<area shape="rect" id="node5" href="$d7/d9d/class_ro_r_1_1_scene_mouse.html#aac902676aecccabc972d8a2c4835535b" title="RoR::SceneMouse::mousePressed" alt="" coords="465,185,692,212"/>
+<area shape="rect" id="node11" href="$db/dd2/class_survey_map_manager.html#a49258bae8179a976b3c96b4b8daee682" title="SurveyMapManager::Update" alt="" coords="486,645,671,672"/>
+<area shape="rect" id="node76" href="$db/dd2/class_survey_map_manager.html#a51d80954d8fac255b9c88a60a120cbc3" title="SurveyMapManager::toggle\lMapView" alt="" coords="239,579,417,621"/>
+<area shape="rect" id="node3" href="$dd/dbe/class_ro_r_frame_listener.html#acdda0026f9324c3b7f48568624e07115" title="RoRFrameListener::frameStarted" alt="" coords="4703,1092,4915,1119"/>
+<area shape="rect" id="node6" href="$db/df1/class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="4415,5,4632,32"/>
+<area shape="rect" id="node7" href="$db/df1/class_g_u_i_input_manager.html#ab59361b8e1a9e31e53b5e5523f2b4801" title="GUIInputManager::getLast\lMouseMoveTime" alt="" coords="4723,49,4896,90"/>
+<area shape="rect" id="node8" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#aae1570a62049085aa74ce274ac9a70ad" title="RoR::GUIManager::frameStarted" alt="" coords="4999,56,5208,83"/>
+<area shape="rect" id="node9" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a4ab273bd0538649818c84b38e8a06100" title="RoR::GUIManager::GetTheme" alt="" coords="5299,56,5493,83"/>
+<area shape="rect" id="node10" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a8c98e9ba03c8afb1d1a26ec06192862e" title="RoR::GUI::MultiplayerSelector\l::~MultiplayerSelector" alt="" coords="5572,49,5768,90"/>
+<area shape="rect" id="node12" href="$db/dd2/class_survey_map_manager.html#afdabdbdf87d39f253ecd17af1770a516" title="SurveyMapManager::getWindowSize" alt="" coords="740,644,975,671"/>
+<area shape="rect" id="node13" href="$df/d13/class_survey_map_entity.html#af393a262b4094ca586036e08943b6d72" title="SurveyMapEntity::update" alt="" coords="1023,644,1189,671"/>
+<area shape="rect" id="node14" href="$df/d13/class_survey_map_entity.html#a43d21ef6c5e18306c95e1e113db3b166" title="SurveyMapEntity::init" alt="" coords="1261,592,1407,619"/>
+<area shape="rect" id="node16" href="$df/d13/class_survey_map_entity.html#afe46cedff291194d4d0ef8cec25ad781" title="SurveyMapEntity::setPosition" alt="" coords="1237,644,1431,671"/>
+<area shape="rect" id="node17" href="$df/d13/class_survey_map_entity.html#a24cc0fef7d3f1f296e7e8ccf94413fa5" title="SurveyMapEntity::setState" alt="" coords="1245,695,1423,721"/>
+<area shape="rect" id="node15" href="$df/d13/class_survey_map_entity.html#a8b649c8dd5a60c6ee04cffa7673f7170" title="SurveyMapEntity::SurveyMap\lEntity" alt="" coords="1479,581,1671,622"/>
+<area shape="rect" id="node18" href="$d7/da7/class_character.html#adb69cfa9a30f3b698e97417d1369824a" title="Character::createMapEntity" alt="" coords="1484,697,1665,724"/>
+<area shape="rect" id="node45" href="$d6/d14/class_terrain_object_manager.html#a202d577cb222f42c46e5b6600c9626a4" title="TerrainObjectManager\l::loadPreloadedTrucks" alt="" coords="4175,1590,4326,1631"/>
+<area shape="rect" id="node75" href="$db/dd2/class_survey_map_manager.html#ac22c1e4cefaf5a854517a713dbb7d189" title="SurveyMapManager::Update\lVehicles" alt="" coords="1719,462,1904,503"/>
+<area shape="rect" id="node19" href="$d7/da7/class_character.html#aec36e78fd1c7f63ad7cb128fe128b4f1" title="Character::updateMapIcon" alt="" coords="1724,697,1899,724"/>
+<area shape="rect" id="node20" href="$d7/da7/class_character.html#a4806a9150eb30673bab3d0b47e05d135" title="Character::update" alt="" coords="1952,696,2077,723"/>
+<area shape="rect" id="node21" href="$d7/da7/class_character.html#ad78f70dcdb7ed4ccd8e97824f62847e1" title="Character::setPhysicsEnabled" alt="" coords="2125,747,2324,773"/>
+<area shape="rect" id="node72" href="$d0/db2/class_ro_r_1_1_character_factory.html#a250a5452e7d730ab122c07a7491c80ab" title="RoR::CharacterFactory\l::update" alt="" coords="2147,630,2302,671"/>
+<area shape="rect" id="node74" href="$dd/dbe/class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="4421,157,4626,184"/>
+<area shape="rect" id="node22" href="$d7/da7/class_character.html#aa761e344c2aa6df9205bfa6bf1d3ea13" title="Character::setBeamCoupling" alt="" coords="2372,1265,2560,1292"/>
+<area shape="rect" id="node23" href="$d7/da7/class_character.html#a56efcb1702c8ea823659e5106cc03333" title="Character::receiveStreamData" alt="" coords="2608,1295,2803,1321"/>
+<area shape="rect" id="node25" href="$d7/da7/class_character.html#aa9ac8d643463c5bcd1abaf47ac044ccb" title="Character::getBeamCoupling" alt="" coords="2857,1753,3045,1780"/>
+<area shape="rect" id="node26" href="$dd/dbe/class_ro_r_frame_listener.html#ad309b37d305d55def42d92f17abed557" title="Unloads all data. " alt="" coords="2611,1229,2800,1270"/>
+<area shape="rect" id="node24" href="$d7/da7/class_character.html#a77c815f3768a4f871826cd833cd26669" title="Character::getPhysicsEnabled" alt="" coords="2852,1295,3051,1321"/>
+<area shape="rect" id="node27" href="$d5/d53/class_ro_r_1_1_beam_factory.html#ac70a8aa131a6709ebf05dc3c0f6dab10" title="RoR::BeamFactory::setCurrent\lTruck" alt="" coords="2851,1229,3052,1270"/>
+<area shape="rect" id="node28" href="$dd/dbe/class_ro_r_frame_listener.html#abc123f9d1e56e13a72e5f80fdaa5a17e" title="RoRFrameListener::Finalize\lTruckSpawning" alt="" coords="3373,1051,3555,1093"/>
+<area shape="rect" id="node29" href="$dd/dbe/class_ro_r_frame_listener.html#a65f2dfb4f70e20076cc0dbc041f96bb0" title="RoRFrameListener::Reload\lPlayerActor" alt="" coords="4161,1473,4340,1514"/>
+<area shape="rect" id="node31" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="4445,1305,4601,1346"/>
+<area shape="rect" id="node39" href="$dd/dbe/class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="4680,1289,4939,1316"/>
+<area shape="rect" id="node40" href="$dd/dbe/class_ro_r_frame_listener.html#a267bd881eed3c9ef5160573235435a17" title="RoRFrameListener::SetPlayer\lActorById" alt="" coords="3112,1363,3307,1405"/>
+<area shape="rect" id="node41" href="$dd/dbe/class_ro_r_frame_listener.html#af0bead298fc2f3a12d71c26381db711c" title="RoRFrameListener::SetPlayer\lActor" alt="" coords="3367,1531,3561,1573"/>
+<area shape="rect" id="node43" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5dcf02227633d77e77f39fc43317dc6b" title="RoR::BeamFactory::Delete\lTruck" alt="" coords="3375,1355,3553,1397"/>
+<area shape="rect" id="node53" href="$d5/d53/class_ro_r_1_1_beam_factory.html#abcdedea5c3b7dab93c09ff70d904e038" title="RoR::BeamFactory::enterNext\lTruck" alt="" coords="3111,995,3308,1037"/>
+<area shape="rect" id="node54" href="$d5/d53/class_ro_r_1_1_beam_factory.html#af97e1d1b1238dc08e1bc6ed5b1491e91" title="RoR::BeamFactory::getTruck\lCount" alt="" coords="3369,790,3559,831"/>
+<area shape="rect" id="node69" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a4d3987d8687c75d3eeac5352c86160e0" title="RoR::BeamFactory::enterPrevious\lTruck" alt="" coords="3100,930,3319,971"/>
+<area shape="rect" id="node70" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a297cce523629edad68ff2c05bcaa44ac" title="RoR::BeamFactory::enterRescue\lTruck" alt="" coords="3872,1203,4087,1245"/>
+<area shape="rect" id="node30" href="$dd/dbe/class_ro_r_frame_listener.html#a627bc038df63cfa463e0ad24ab9c0b38" title="RoRFrameListener::GetPlayer\lActor" alt="" coords="4425,1649,4621,1690"/>
+<area shape="rect" id="node32" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="4731,630,4887,671"/>
+<area shape="rect" id="node33" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a1a4c2b4a27eb2a018b6b8ea49528f22a" title="RoR::GUI::TopMenubar\l::SetSimController" alt="" coords="4731,695,4887,737"/>
+<area shape="rect" id="node34" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a875185e93587aeb2ab73220c1d2d4fc8" title="RoR::GUIManager::SetSimController" alt="" coords="4987,703,5220,729"/>
+<area shape="rect" id="node35" href="$dd/dbe/class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="5268,703,5524,729"/>
+<area shape="rect" id="node36" href="$dd/dbe/class_ro_r_frame_listener.html#ad598075b5f183208c0de43b9248bb44b" title="RoRFrameListener::getTime" alt="" coords="5578,668,5762,695"/>
+<area shape="rect" id="node37" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="5645,925,5695,952"/>
+<area shape="rect" id="node38" href="$df/d0a/main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="5816,925,5889,952"/>
+<area shape="rect" id="node42" href="$dd/dbe/class_ro_r_frame_listener.html#a164318bb4349610a6c22fdeb2b87640b" title="RoRFrameListener::Remove\lPlayerActor" alt="" coords="3887,1531,4071,1573"/>
+<area shape="rect" id="node44" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aa770c50decf07b87d7ac747b64b8e3e5" title="RoR::BeamFactory::Create\lLocalRigInstance" alt="" coords="3890,1329,4069,1370"/>
+<area shape="rect" id="node48" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a32e01669e8f438abae20a1a463dcb355" title="RoR::BeamFactory::Create\lRemoteInstance" alt="" coords="3627,1414,3806,1455"/>
+<area shape="rect" id="node49" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aa61f694b6230afbdc91bc33ef6acd73f" title="RoR::BeamFactory::Remove\lStreamSource" alt="" coords="3886,1407,4073,1449"/>
+<area shape="rect" id="node50" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a49a4ee797005fff135d8f88a085986a0" title="Internal+friends use only; see RoRFrameListener::*Actor*() functions. " alt="" coords="3625,1586,3808,1627"/>
+<area shape="rect" id="node46" href="$d3/d16/class_terrain_manager.html#ac666fc0221c16001186b83cd6df66691" title="TerrainManager::loadPreloaded\lTrucks" alt="" coords="4423,1531,4624,1573"/>
+<area shape="rect" id="node47" href="$d3/d16/class_terrain_manager.html#a7c0eff44d224bbca740dc2ab171fd7bf" title="TerrainManager::GetSimController" alt="" coords="4700,1568,4919,1595"/>
+<area shape="rect" id="node51" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a1be7bc1ff7491b12fb410193c0023c8a" title="Only for scripting. " alt="" coords="3886,1687,4073,1729"/>
+<area shape="rect" id="node52" href="$dd/dbe/class_ro_r_frame_listener.html#affe7f80c8d8ec34a1fc831a17950e0e2" title="Scripting utility. TODO: Does anybody use it? ~ only_a_ptr, 08/2017. " alt="" coords="4159,1707,4343,1749"/>
+<area shape="rect" id="node55" href="$dd/dbe/class_ro_r_frame_listener.html#a57679664f6f2299add5b6ba7fcbb1b11" title="RoRFrameListener::ShowLoaderGUI" alt="" coords="4988,615,5219,641"/>
+<area shape="rect" id="node56" href="$dd/dbe/class_ro_r_frame_listener.html#a1487efccac9d66315b8885f07448f83a" title="RoRFrameListener::GetNum\lActors" alt="" coords="3623,731,3810,773"/>
+<area shape="rect" id="node57" href="$d7/d9d/class_ro_r_1_1_scene_mouse.html#a4b6998ce12990478a6a2bf2e59b2eb1d" title="RoR::SceneMouse::mouseMoved" alt="" coords="3609,151,3824,177"/>
+<area shape="rect" id="node59" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#addbf2f7c7b987d76109c9ed95f966437" title="RoR::GUI::TopMenubar\l::addUserToMenu" alt="" coords="3639,361,3795,402"/>
+<area shape="rect" id="node60" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a70583f192ad3c430862d4e17afac2a2f" title="RoR::GUI::TopMenubar\l::vehiclesListUpdate" alt="" coords="3901,306,4057,347"/>
+<area shape="rect" id="node63" href="$df/df9/class_beam.html#a7f17e89ec7dfd80a13382d1df2155bdb" title="Beam::toggleSlideNodeLock" alt="" coords="3623,848,3810,875"/>
+<area shape="rect" id="node58" href="$db/df1/class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="4420,107,4627,133"/>
+<area shape="rect" id="node61" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a85cdceff2c0f1196726097bc04953567" title="RoR::GUI::TopMenubar\l::updatePositionUponMousePosition" alt="" coords="4135,259,4367,301"/>
+<area shape="rect" id="node62" href="$d6/d19/class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a180dd47d14be5a44450e0569c5dd8522" title="RoR::GUI::TopMenubar\l::getMenuHeight" alt="" coords="4445,209,4601,250"/>
+<area shape="rect" id="node64" href="$df/df9/class_beam.html#aabe018af621de69910d145fe2967ad11" title="Beam::IsNodeIdValid" alt="" coords="3908,587,4051,613"/>
+<area shape="rect" id="node65" href="$dd/dbe/class_ro_r_frame_listener.html#a46c793a3229156a678a3829a6fe59be6" title="RoRFrameListener::Update\lForceFeedback" alt="" coords="4161,579,4340,621"/>
+<area shape="rect" id="node66" href="$df/df9/class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="4189,477,4313,504"/>
+<area shape="rect" id="node67" href="$df/df9/class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="4474,528,4573,555"/>
+<area shape="rect" id="node68" href="$df/df9/class_beam.html#a3176be8102041493ae018fd5d66607dd" title="Beam::getVelocity" alt="" coords="4459,477,4588,504"/>
+<area shape="rect" id="node71" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a5703b053d2b40e3dae66a063ded34578" title="RoR::BeamFactory::getSimulation\lSpeed" alt="" coords="4141,1203,4361,1245"/>
+<area shape="rect" id="node73" href="$d0/db2/class_ro_r_1_1_character_factory.html#a74013a41babb84f35bcff5e6c796df48" title="RoR::CharacterFactory\l::CharacterFactory" alt="" coords="2389,630,2543,671"/>
+</map>

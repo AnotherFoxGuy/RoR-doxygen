@@ -1,0 +1,7 @@
+<map id="RoR::BoolToStr" name="RoR::BoolToStr">
+<area shape="rect" id="node2" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#a16f18321bd397a782a2698b8a9949452" title="RoR::GVarBase::LogSetPending" alt="" coords="173,29,383,56"/>
+<area shape="rect" id="node3" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#aecb540a3246a789d6c7f6553d851edda" title="RoR::GVarBase::LogSetActive" alt="" coords="179,104,377,131"/>
+<area shape="rect" id="node4" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#a5c1a31716a8e7e845289f05a21526f67" title="RoR::GVarBase::LogSetStored" alt="" coords="177,179,379,205"/>
+<area shape="rect" id="node5" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#a5a5c91bd2fdcc2ffb8d2bc0e4b0db3bb" title="RoR::GVarBase::LogApplyPending" alt="" coords="166,253,390,280"/>
+<area shape="rect" id="node6" href="$de/dc3/struct_ro_r_1_1_g_var_base.html#a1dfd28f40fae00dac232fe74620d51dc" title="RoR::GVarBase::LogResetPending" alt="" coords="165,328,391,355"/>
+</map>

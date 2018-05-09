@@ -1,0 +1,11 @@
+<map id="RoR::SceneMouse::releaseMousePick" name="RoR::SceneMouse::releaseMousePick">
+<area shape="rect" id="node2" href="$d7/d9d/class_ro_r_1_1_scene_mouse.html#a8577d57989d294eea1054d9c21abe567" title="RoR::SceneMouse::SceneMouse" alt="" coords="243,5,458,32"/>
+<area shape="rect" id="node3" href="$d7/d9d/class_ro_r_1_1_scene_mouse.html#a4b6998ce12990478a6a2bf2e59b2eb1d" title="RoR::SceneMouse::mouseMoved" alt="" coords="243,56,458,83"/>
+<area shape="rect" id="node9" href="$d7/d9d/class_ro_r_1_1_scene_mouse.html#a3acc549dff8747f1a0af196526895dc0" title="RoR::SceneMouse::mouseReleased" alt="" coords="235,107,467,133"/>
+<area shape="rect" id="node4" href="$db/df1/class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="523,56,729,83"/>
+<area shape="rect" id="node5" href="$db/df1/class_g_u_i_input_manager.html#ab59361b8e1a9e31e53b5e5523f2b4801" title="GUIInputManager::getLast\lMouseMoveTime" alt="" coords="785,74,959,115"/>
+<area shape="rect" id="node6" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#aae1570a62049085aa74ce274ac9a70ad" title="RoR::GUIManager::frameStarted" alt="" coords="1007,81,1216,108"/>
+<area shape="rect" id="node7" href="$d8/d11/class_ro_r_1_1_g_u_i_manager.html#a4ab273bd0538649818c84b38e8a06100" title="RoR::GUIManager::GetTheme" alt="" coords="1264,81,1459,108"/>
+<area shape="rect" id="node8" href="$d4/d8f/class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a8c98e9ba03c8afb1d1a26ec06192862e" title="RoR::GUI::MultiplayerSelector\l::~MultiplayerSelector" alt="" coords="1507,74,1703,115"/>
+<area shape="rect" id="node10" href="$db/df1/class_g_u_i_input_manager.html#a5f096906671c8b2fc404353cb0cc3cf4" title="GUIInputManager::mouseReleased" alt="" coords="515,107,737,133"/>
+</map>

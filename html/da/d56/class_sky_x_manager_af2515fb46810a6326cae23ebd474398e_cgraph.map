@@ -1,0 +1,19 @@
+<map id="SkyXManager::UpdateSkyLight" name="SkyXManager::UpdateSkyLight">
+<area shape="rect" id="node2" href="$d3/d16/class_terrain_manager.html#a1b3c4e54d1065229eb1262d88d5a4316" title="TerrainManager::getHydrax\lManager" alt="" coords="256,107,435,149"/>
+<area shape="rect" id="node4" href="$d3/dd9/class_hydrax_water.html#a5b29bf463132a153bd3f330ee2449fa2" title="HydraxWater::GetHydrax" alt="" coords="261,173,429,200"/>
+<area shape="rect" id="node16" href="$dd/d65/class_hydrax_1_1_hydrax.html#ae931996f1e97b983a4e3ea57a30a8d47" title="Hydrax::Hydrax::setWater\lColor" alt="" coords="259,225,432,266"/>
+<area shape="rect" id="node17" href="$d3/d16/class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="259,291,431,317"/>
+<area shape="rect" id="node18" href="$d1/dd9/class_i_water.html#ab21819bbeef1ce2e3419780d570e0fcd" title="IWater::setSunPosition" alt="" coords="267,341,423,368"/>
+<area shape="rect" id="node3" href="$d3/d16/class_terrain_manager.html#a0bb96107715bd022c13c86ed2b76b7ad" title="TerrainManager::getSkyManager" alt="" coords="483,115,693,141"/>
+<area shape="rect" id="node5" href="$d3/dd9/class_hydrax_water.html#aedfd9537f96021b60a195b2bb6a9ee2d" title="HydraxWater::InitHydrax" alt="" coords="506,173,670,200"/>
+<area shape="rect" id="node6" href="$df/d86/namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="746,5,947,32"/>
+<area shape="rect" id="node7" href="$df/db5/class_ro_r_1_1_ogre_subsystem.html#a6620196f431b09d0096516d214563fc7" title="RoR::OgreSubsystem\l::GetViewport" alt="" coords="772,57,921,98"/>
+<area shape="rect" id="node8" href="$dd/d65/class_hydrax_1_1_hydrax.html#a3f678db49fe45320efb237d145ec63e4" title="Hydrax::Hydrax::setModule" alt="" coords="757,123,937,149"/>
+<area shape="rect" id="node12" href="$dd/d65/class_hydrax_1_1_hydrax.html#a0dd34fc119389c5125a031fc325b7638" title="Hydrax::Hydrax::loadCfg" alt="" coords="765,173,928,200"/>
+<area shape="rect" id="node13" href="$dd/d65/class_hydrax_1_1_hydrax.html#a187619a5f2ea2e1fe65ac3cd35103203" title="Hydrax::Hydrax::setShaderMode" alt="" coords="741,224,952,251"/>
+<area shape="rect" id="node14" href="$dd/d65/class_hydrax_1_1_hydrax.html#aaf840e19208614533a6b344e32965ee2" title="Hydrax::Hydrax::create" alt="" coords="769,275,925,301"/>
+<area shape="rect" id="node15" href="$dd/d65/class_hydrax_1_1_hydrax.html#a26f48dec7e37c8f352570192ef38fb90" title="Hydrax::Hydrax::setPosition" alt="" coords="754,325,939,352"/>
+<area shape="rect" id="node9" href="$d9/d88/class_hydrax_1_1_module_1_1_module.html#a522cdc115b168a9d73d9ae27d0ff997a" title="Hydrax::Module::Module\l::getNormalMode" alt="" coords="1000,83,1163,125"/>
+<area shape="rect" id="node10" href="$d9/d88/class_hydrax_1_1_module_1_1_module.html#a4b696328c3fc1496f757e929f44f3258" title="Hydrax::Module::Module\l::create" alt="" coords="1000,149,1163,190"/>
+<area shape="rect" id="node11" href="$da/d26/class_hydrax_1_1_noise_1_1_noise.html#abe9cf8765feed765e6a35b0779125f6a" title="Hydrax::Noise::Noise\l::create" alt="" coords="1211,149,1356,190"/>
+</map>

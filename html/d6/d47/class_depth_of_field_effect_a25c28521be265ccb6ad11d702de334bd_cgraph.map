@@ -1,0 +1,9 @@
+<map id="DepthOfFieldEffect::getFarBlurCutoff" name="DepthOfFieldEffect::getFarBlurCutoff">
+<area shape="rect" id="node2" href="$d6/d47/class_depth_of_field_effect.html#ac336579ca6a56e658a26da1c6acdef6d" title="DepthOfFieldEffect\l::setFarBlurCutoff" alt="" coords="192,5,323,47"/>
+<area shape="rect" id="node3" href="$d6/d47/class_depth_of_field_effect.html#a8eda1dec1171151635d57cd8487be2a7" title="DepthOfFieldEffect\l::getEnabled" alt="" coords="192,71,323,112"/>
+<area shape="rect" id="node4" href="$d6/d47/class_depth_of_field_effect.html#a5a5512cd474f69835e2e77c3818e1ef8" title="DepthOfFieldEffect\l::setEnabled" alt="" coords="192,136,323,177"/>
+<area shape="rect" id="node5" href="$d6/d47/class_depth_of_field_effect.html#ab2b359796f831156f5666d08b39fe5ea" title="DepthOfFieldEffect\l::notifyMaterialSetup" alt="" coords="187,201,328,243"/>
+<area shape="rect" id="node6" href="$d6/d47/class_depth_of_field_effect.html#a68ccd4df18d549ce752ec74fc1e90074" title="DepthOfFieldEffect\l::preViewportUpdate" alt="" coords="188,267,327,308"/>
+<area shape="rect" id="node7" href="$d6/d47/class_depth_of_field_effect.html#aba6177b15409ddbaef46bad386337586" title="DepthOfFieldEffect\l::postViewportUpdate" alt="" coords="184,332,331,373"/>
+<area shape="rect" id="node8" href="$d6/d47/class_depth_of_field_effect.html#a0d6040a2cf3191dc4bf921e47b273011" title="DepthOfFieldEffect\l::renderableQueued" alt="" coords="190,397,325,439"/>
+</map>

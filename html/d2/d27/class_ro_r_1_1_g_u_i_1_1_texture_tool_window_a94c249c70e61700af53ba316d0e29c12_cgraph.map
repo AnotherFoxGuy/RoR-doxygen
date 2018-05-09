@@ -1,0 +1,8 @@
+<map id="RoR::GUI::TextureToolWindow::TextureToolWindow" name="RoR::GUI::TextureToolWindow::TextureToolWindow">
+<area shape="rect" id="node2" href="$d2/d27/class_ro_r_1_1_g_u_i_1_1_texture_tool_window.html#a96fb5c3eba975f160e1311ff85354630" title="RoR::GUI::TextureToolWindow\l::notifyWindowPressed" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$d2/d27/class_ro_r_1_1_g_u_i_1_1_texture_tool_window.html#abc501e07c7d4b9dcd32c201b7d94664c" title="RoR::GUI::TextureToolWindow\l::eventClickSavePNGButton" alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node4" href="$d2/d27/class_ro_r_1_1_g_u_i_1_1_texture_tool_window.html#aad86886abaa035ca117abc356eb6650a" title="RoR::GUI::TextureToolWindow\l::eventClickSaveRAWButton" alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node5" href="$d2/d27/class_ro_r_1_1_g_u_i_1_1_texture_tool_window.html#a6f00b9bd92994ae04b07cd94c6374f96" title="RoR::GUI::TextureToolWindow\l::eventSelectTexture" alt="" coords="252,201,451,243"/>
+<area shape="rect" id="node6" href="$d2/d27/class_ro_r_1_1_g_u_i_1_1_texture_tool_window.html#aac98f76a53045b5df9668950f2cbe61c" title="RoR::GUI::TextureToolWindow\l::eventSelectTexture2" alt="" coords="252,267,451,308"/>
+<area shape="rect" id="node7" href="$d2/d27/class_ro_r_1_1_g_u_i_1_1_texture_tool_window.html#ac86e56f0b3ca34542bb4153c5f7e7618" title="RoR::GUI::TextureToolWindow\l::eventClickDynamicButton" alt="" coords="252,332,451,373"/>
+</map>

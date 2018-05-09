@@ -1,0 +1,8 @@
+<map id="SkyX::CloudLayer::_unregister" name="SkyX::CloudLayer::_unregister">
+<area shape="rect" id="node2" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#a98e743e1a9affc6f08bf0f5ead31e7b5" title="SkyX::CloudLayer::\l~CloudLayer" alt="" coords="189,5,322,47"/>
+<area shape="rect" id="node4" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#add18a961fbd1e2a0f2c700694d4c1069" title="SkyX::CloudLayer::\l_registerCloudLayer" alt="" coords="187,71,324,112"/>
+<area shape="rect" id="node7" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#ab0033e0fd011bd90fde4bed4e0966ea2" title="SkyX::CloudLayer::getSun\lGradient" alt="" coords="374,129,549,171"/>
+<area shape="rect" id="node3" href="$d3/d08/struct_sky_x_1_1_cloud_layer_1_1_options.html#a05be892696fa86b54a64a48c71e6324e" title="SkyX::CloudLayer::Options\l::Options" alt="" coords="372,5,551,47"/>
+<area shape="rect" id="node5" href="$dd/d89/class_sky_x_1_1_clouds_manager.html#a49f0f35194ca5363129f38e4958f26de" title="SkyX::CloudsManager::add" alt="" coords="372,78,551,105"/>
+<area shape="rect" id="node6" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="599,71,749,112"/>
+</map>

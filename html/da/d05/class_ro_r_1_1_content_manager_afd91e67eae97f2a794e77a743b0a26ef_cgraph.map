@@ -1,0 +1,11 @@
+<map id="RoR::ContentManager::OnApplicationStartup" name="RoR::ContentManager::OnApplicationStartup">
+<area shape="rect" id="node2" href="$da/d05/class_ro_r_1_1_content_manager.html#a7cbddcf40c0f515169de4d4e6bb8fd11" title="Loads resources if not already loaded (currently resources never unload until shutdown) ..." alt="" coords="236,71,387,112"/>
+<area shape="rect" id="node4" href="$d9/da3/_application_8h.html#ac91efe9de379ef0fde6e0c6f369dfb35" title="Legacy alias &#45; formerly a macro. " alt="" coords="504,137,553,163"/>
+<area shape="rect" id="node7" href="$da/d05/class_ro_r_1_1_content_manager.html#a967e4cb5d26e2d9a81397b28ae5d3a22" title="RoR::ContentManager\l::exploreFolders" alt="" coords="236,188,387,229"/>
+<area shape="rect" id="node8" href="$da/d05/class_ro_r_1_1_content_manager.html#acc058d32e8c4efec19fdc3473fd32af9" title="RoR::ContentManager\l::exploreZipFolders" alt="" coords="236,253,387,295"/>
+<area shape="rect" id="node9" href="$d1/dc2/class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; LanguageEngine\l \&gt;::getSingleton" alt="" coords="207,319,416,360"/>
+<area shape="rect" id="node10" href="$d7/dd8/class_language_engine.html#ab3a04f5d4e10d2d6153adda7ca14226b" title="LanguageEngine::postSetup" alt="" coords="219,385,404,411"/>
+<area shape="rect" id="node3" href="$db/dab/struct_ro_r_1_1_platform_utils.html#a4cce0acacfc7fcb262da2e7abcc38355" title="RoR::PlatformUtils\l::FileExists" alt="" coords="464,5,593,47"/>
+<area shape="rect" id="node6" href="$db/dab/struct_ro_r_1_1_platform_utils.html#a1bf4d0b15332a9d583e75b25d5b16cab" title="RoR::PlatformUtils\l::FolderExists" alt="" coords="464,71,593,112"/>
+<area shape="rect" id="node5" href="$dd/dd2/namespace_ro_r.html#a15fdb48aba128c41a9c75357c2282694" title="The ultimate, application&#45;wide logging function. Adds a line (any length) in &#39;RoR.log&#39; file. " alt="" coords="641,137,717,163"/>
+</map>

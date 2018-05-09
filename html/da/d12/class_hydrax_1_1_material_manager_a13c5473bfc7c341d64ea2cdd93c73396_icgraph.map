@@ -1,0 +1,6 @@
+<map id="Hydrax::MaterialManager::_createDepthTextureGPUPrograms" name="Hydrax::MaterialManager::_createDepthTextureGPUPrograms">
+<area shape="rect" id="node2" href="$da/d12/class_hydrax_1_1_material_manager.html#a0ee548c5ba041a7e26a1561dbac28ae4" title="Hydrax::MaterialManager\l::addDepthTextureTechnique" alt="" coords="288,37,475,79"/>
+<area shape="rect" id="node5" href="$da/d12/class_hydrax_1_1_material_manager.html#a964a29c17a27037791f2b1c76bdf2aea" title="Hydrax::MaterialManager\l::getDepthTechniques" alt="" coords="298,103,465,144"/>
+<area shape="rect" id="node3" href="$da/d12/class_hydrax_1_1_material_manager.html#a6aa7b0a92b824348577d506f7bcf581b" title="Hydrax::MaterialManager\l::createMaterials" alt="" coords="523,5,689,47"/>
+<area shape="rect" id="node4" href="$da/d12/class_hydrax_1_1_material_manager.html#af2cdac2ad510d1c62d52916dbb95977c" title="Hydrax::MaterialManager\l::getLastOptions" alt="" coords="523,71,689,112"/>
+</map>

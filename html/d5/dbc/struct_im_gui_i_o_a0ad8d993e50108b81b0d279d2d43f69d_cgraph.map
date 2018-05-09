@@ -1,0 +1,7 @@
+<map id="ImGuiIO::ImGuiIO" name="ImGuiIO::ImGuiIO">
+<area shape="rect" id="node2" href="$da/d72/imgui_8cpp.html#abd416e6de6b9a37e5e4476187b315a46" title="GetClipboardTextFn\l_DefaultImpl" alt="" coords="177,5,315,47"/>
+<area shape="rect" id="node3" href="$da/d72/imgui_8cpp.html#a3d6a7cb771e0291bcdd2160c4c91b0ad" title="SetClipboardTextFn\l_DefaultImpl" alt="" coords="178,71,314,112"/>
+<area shape="rect" id="node6" href="$da/d72/imgui_8cpp.html#ae0232e0e9aed2d09fb5d768e3cfc396e" title="ImeSetInputScreenPosFn\l_DefaultImpl" alt="" coords="363,129,533,171"/>
+<area shape="rect" id="node4" href="$df/d13/namespace_im_gui.html#a269ec695c6e722ec3da85dae37f0675d" title="ImGui::MemFree" alt="" coords="389,27,507,54"/>
+<area shape="rect" id="node5" href="$df/d13/namespace_im_gui.html#a15efb2cac4a54b35489c5984ba1b661a" title="ImGui::MemAlloc" alt="" coords="387,78,509,105"/>
+</map>

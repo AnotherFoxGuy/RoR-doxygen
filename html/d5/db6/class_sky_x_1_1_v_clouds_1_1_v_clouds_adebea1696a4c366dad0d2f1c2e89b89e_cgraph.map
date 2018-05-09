@@ -1,0 +1,5 @@
+<map id="SkyX::VClouds::VClouds::getWheater" name="SkyX::VClouds::VClouds::getWheater">
+<area shape="rect" id="node2" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a1894e0d1a382620f1f1318abfff0d6c9" title="SkyX::VClouds::VClouds\l::setVisible" alt="" coords="220,39,387,80"/>
+<area shape="rect" id="node3" href="$d4/da3/class_sky_x_1_1_v_clouds_1_1_geometry_manager.html#a2b6b9f4660a9b4d24bb85a19cca10f9d" title="SkyX::VClouds::GeometryManager\l::getSceneNode" alt="" coords="435,5,659,47"/>
+<area shape="rect" id="node4" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#ac9fb59970388ecfcdb5d7da322cd446b" title="SkyX::VClouds::Lightning\lManager::_setVisible" alt="" coords="462,71,631,112"/>
+</map>

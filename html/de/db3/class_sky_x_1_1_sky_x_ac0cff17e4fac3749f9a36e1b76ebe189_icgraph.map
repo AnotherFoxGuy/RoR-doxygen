@@ -1,0 +1,21 @@
+<map id="SkyX::SkyX::getSceneManager" name="SkyX::SkyX::getSceneManager">
+<area shape="rect" id="node2" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a795b513ced14c517d744f0334b8875b4" title="SkyX::MeshManager::\lremove" alt="" coords="260,37,411,79"/>
+<area shape="rect" id="node3" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a6f83e79605385575af31185a92a2db7d" title="SkyX::MeshManager::\lcreate" alt="" coords="260,103,411,144"/>
+<area shape="rect" id="node18" href="$dd/dab/class_sky_x_1_1_moon_manager.html#a34f9344783164b30151bcba1b3ba7ed5" title="SkyX::MoonManager::\lcreate" alt="" coords="260,168,411,209"/>
+<area shape="rect" id="node19" href="$dd/dab/class_sky_x_1_1_moon_manager.html#a434e3c11d42ec54092c436fe6aa276c5" title="SkyX::MoonManager::\lremove" alt="" coords="260,233,411,275"/>
+<area shape="rect" id="node20" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a61b3e7ae19cbe124620f5753ef6d2d6f" title="SkyX::VCloudsManager\l::VCloudsManager" alt="" coords="256,299,415,340"/>
+<area shape="rect" id="node4" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a9f3b755b92a6fcec4f7d274bf4530769" title="SkyX::MeshManager::\lsetGeometryParameters" alt="" coords="463,71,627,112"/>
+<area shape="rect" id="node16" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#ab84f3b42a0a44d2ded3eccb3cf9dcbc1" title="SkyX::MeshManager::\lsetUnderHorizonParams" alt="" coords="463,136,626,177"/>
+<area shape="rect" id="node5" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a1c0fd1d7b6d3ad0810d095ea41b664b9" title="SkyX::MeshManager::\lisCreated" alt="" coords="675,71,825,112"/>
+<area shape="rect" id="node6" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#a5cdf4a1ea705ca36dc0df320c7495fd5" title="SkyX::GPUManager::setGpu\lProgramParameter" alt="" coords="873,71,1061,112"/>
+<area shape="rect" id="node7" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#a806c5314af7ee02de3d25bfd4300866e" title="SkyX::AtmosphereManager\l::_update" alt="" coords="1109,71,1289,112"/>
+<area shape="rect" id="node8" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#ae5e002b202e13b4af6fe205ca97c7bfc" title="SkyX::AtmosphereManager\l::setOptions" alt="" coords="1852,5,2032,47"/>
+<area shape="rect" id="node10" href="$dd/d55/class_sky_x_1_1_atmosphere_manager.html#abcdfead934afa273afdeb542ab2633b2" title="SkyX::AtmosphereManager\l::getOptions" alt="" coords="1337,71,1517,112"/>
+<area shape="rect" id="node15" href="$d8/d41/class_sky_x_1_1_g_p_u_manager.html#af949460a2e4caace1847cb0b251516a1" title="SkyX::GPUManager::addGroundPass" alt="" coords="1565,137,1804,163"/>
+<area shape="rect" id="node9" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="2307,37,2457,79"/>
+<area shape="rect" id="node11" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#ac21bd19a89d1a9631ede722756a0ffb2" title="SkyX::CloudLayer::\l_updateInternalPassParameters" alt="" coords="1581,71,1788,112"/>
+<area shape="rect" id="node12" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#add18a961fbd1e2a0f2c700694d4c1069" title="SkyX::CloudLayer::\l_registerCloudLayer" alt="" coords="1873,71,2011,112"/>
+<area shape="rect" id="node14" href="$d6/d50/class_sky_x_1_1_cloud_layer.html#ab0033e0fd011bd90fde4bed4e0966ea2" title="SkyX::CloudLayer::getSun\lGradient" alt="" coords="2082,128,2257,169"/>
+<area shape="rect" id="node13" href="$dd/d89/class_sky_x_1_1_clouds_manager.html#a49f0f35194ca5363129f38e4958f26de" title="SkyX::CloudsManager::add" alt="" coords="2080,73,2259,99"/>
+<area shape="rect" id="node17" href="$df/d6a/class_sky_x_1_1_mesh_manager.html#a63a6f77d3b40cc3143c844e230f72f99" title="SkyX::MeshManager::\lgetCircles" alt="" coords="675,136,825,177"/>
+</map>

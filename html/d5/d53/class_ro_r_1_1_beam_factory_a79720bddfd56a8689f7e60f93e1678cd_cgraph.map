@@ -1,0 +1,7 @@
+<map id="RoR::BeamFactory::RecursiveActivation" name="RoR::BeamFactory::RecursiveActivation">
+<area shape="rect" id="node2" href="$d5/d53/class_ro_r_1_1_beam_factory.html#acab7b0c4b54d1d6c4950882447ed6661" title="Returns whether or not the bounding boxes of truck a and truck b intersect. Based on the truck collis..." alt="" coords="251,42,488,83"/>
+<area shape="rect" id="node5" href="$d5/d53/class_ro_r_1_1_beam_factory.html#aede50015ffb569b00e4afee1a34fa854" title="Returns whether or not the bounding boxes of truck a and truck b might intersect during the next fram..." alt="" coords="279,107,459,149"/>
+<area shape="rect" id="node3" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a65a7adae4e12c91a71eedf77d9b739a9" title="Returns whether or not the bounding boxes of truck a and truck b intersect. Based on the default truc..." alt="" coords="536,5,809,32"/>
+<area shape="rect" id="node4" href="$d5/d53/class_ro_r_1_1_beam_factory.html#abea20f91f941f569f0b95f32ae2638ec" title="Returns whether or not the two (scaled) bounding boxes intersect. " alt="" coords="857,81,1101,108"/>
+<area shape="rect" id="node6" href="$d5/d53/class_ro_r_1_1_beam_factory.html#a6e019b56235074247a1c7e058f219f92" title="Returns whether or not the bounding boxes of truck a and truck b might intersect during the next fram..." alt="" coords="583,158,763,199"/>
+</map>

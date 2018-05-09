@@ -1,0 +1,7 @@
+<map id="OgreImGui::ImGUIRenderable::getSquaredViewDepth" name="OgreImGui::ImGUIRenderable::getSquaredViewDepth">
+<area shape="rect" id="node2" href="$dd/db8/class_ogre_im_gui_1_1_im_g_u_i_renderable.html#acb7dea2ce67fa5c53fbb128745405fb7" title="OgreImGui::ImGUIRenderable\l::setMaterial" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node3" href="$dd/db8/class_ogre_im_gui_1_1_im_g_u_i_renderable.html#a0549b11d2d601e9cdd85a44c2d5d5ba2" title="OgreImGui::ImGUIRenderable\l::getMaterial" alt="" coords="247,71,440,112"/>
+<area shape="rect" id="node4" href="$dd/db8/class_ogre_im_gui_1_1_im_g_u_i_renderable.html#a1f9e907d7d092b7bfca7eed200ea6c99" title="OgreImGui::ImGUIRenderable\l::getWorldTransforms" alt="" coords="247,136,440,177"/>
+<area shape="rect" id="node5" href="$dd/db8/class_ogre_im_gui_1_1_im_g_u_i_renderable.html#a0f331dde3cf4760c18c4ba0924fc2c34" title="OgreImGui::ImGUIRenderable\l::getRenderOperation" alt="" coords="247,201,440,243"/>
+<area shape="rect" id="node6" href="$dd/db8/class_ogre_im_gui_1_1_im_g_u_i_renderable.html#a5b865acb4d74aa2aba2b05125ba6764e" title="OgreImGui::ImGUIRenderable\l::getLights" alt="" coords="247,267,440,308"/>
+</map>

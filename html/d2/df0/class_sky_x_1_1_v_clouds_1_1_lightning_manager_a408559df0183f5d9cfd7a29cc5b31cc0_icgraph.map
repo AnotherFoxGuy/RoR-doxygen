@@ -1,0 +1,11 @@
+<map id="SkyX::VClouds::LightningManager::setLightningColor" name="SkyX::VClouds::LightningManager::setLightningColor">
+<area shape="rect" id="node2" href="$d6/de7/class_sky_x_1_1_cfg_file_manager.html#a38d52b744527dc5b536243e8f549eb7d" title="SkyX::CfgFileManager\l::load" alt="" coords="932,122,1083,163"/>
+<area shape="rect" id="node3" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#a5909071373392aff5e1a01cb088d6576" title="SkyX::VClouds::Lightning\lManager::create" alt="" coords="233,86,403,127"/>
+<area shape="rect" id="node8" href="$d2/df0/class_sky_x_1_1_v_clouds_1_1_lightning_manager.html#a266532be2912133169423d8f5095373a" title="SkyX::VClouds::Lightning\lManager::isEnabled" alt="" coords="233,180,403,222"/>
+<area shape="rect" id="node4" href="$dc/dc9/class_sky_x_1_1_v_clouds_1_1_lightning_manager_1_1_listener.html#af265ea73234d9b7dfdb64fc017e7da88" title="SkyX::VClouds::Lightning\lManager::Listener::lightningAdded" alt="" coords="451,56,669,98"/>
+<area shape="rect" id="node5" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#a3c5adca159dc371b8624e055f260009b" title="SkyX::VClouds::VClouds\l::create" alt="" coords="477,122,643,163"/>
+<area shape="rect" id="node6" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#ab859795b0c4a32358b726c9e1eef35c6" title="SkyX::VClouds::VClouds\l::create" alt="" coords="717,56,884,98"/>
+<area shape="rect" id="node7" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a6931df17a25e8691796aa4d9c68467cb" title="SkyX::VCloudsManager\l::create" alt="" coords="721,122,880,163"/>
+<area shape="rect" id="node9" href="$d5/db6/class_sky_x_1_1_v_clouds_1_1_v_clouds.html#acf68c63f12d3688b6adc295ca887a438" title="SkyX::VClouds::VClouds\l::update" alt="" coords="477,239,643,280"/>
+<area shape="rect" id="node10" href="$d7/d45/class_sky_x_1_1_v_clouds_manager.html#a7c25472c85244e6889b371384b5aff70" title="SkyX::VCloudsManager\l::update" alt="" coords="721,239,880,280"/>
+</map>
